@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1049" TEXT="BACKGROUND: Recently, a genome-wide association analysis revealed single-nucleotide polymorphisms (SNPs) in the gene regions of HLA-C and HCP5 to be associated with viral load at set point and SNPs in the RNF39/ZNRD1 gene region to be associated with HIV-1 disease course. METHODS: We studied whether the association of these SNPs with viral load at set point could be replicated and whether these SNPs also associated with other clinical outcomes of HIV-1 infection in 335 HIV-1-infected homosexual participants from the Amsterdam Cohort Studies on HIV infection and AIDS (ACS). RESULTS: Significant associations between the minor allele variants of SNPs HLA-C rs9264942 and HCP5 rs2395029 and a lower viral load at set point could be replicated in the ACS. Moreover, these SNPs were significantly associated with delayed progression to AIDS, AIDS-related death, and a CD4 T-cell count below 400 cells/mul. Both minor allele variants were independent predictors of disease progression, also when a CCR5 Delta32 heterozygousgenotype was included in the analysis. However, predictive value was not independent from viral load and CD4 T-cell count at set point. The SNPs in theRNF39/ZNRD1 gene region were associated with set point CD4 T-cell count but not with disease course in the ACS. CONCLUSIONS: The minor allelevariants of SNPs in the HLA-C and HCP5 gene regions are also in the ACS associated with a lower viral load at set point and additionally with delayed HIV-1 disease progression. The association of these SNPs with the relatively early course of infection may help unravel their mode of action.">
+	<sentence ID="1049_0" START="580" END="758">
+		<snp ID="0" START="662" END="671" TEXT="rs9264942"/>
+		<snp ID="1" START="681" END="690" TEXT="rs2395029"/>
+		<phenotype ID="0" START="754" END="758" text="ACS"/>
+		<modality_marker  START="697" END="702" text="lower"/>
+		<modality_marker  START="727" END="732" text="could"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

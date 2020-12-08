@@ -1,0 +1,6 @@
+T2	Gene_or_protein 4 8	COMT 
+T3	Limited_variation 4 42	COMT gene polymorphism , SNP rs9606186 
+T4	Chemical 64 75	risperidone 
+T5	Pharmacodynamic_phenotype 64 94	risperidone therapy efficiency
+T1	Limited_variation 33 42	rs9606186
+R1	isAssociatedWith Arg1:T3 Arg2:T5	

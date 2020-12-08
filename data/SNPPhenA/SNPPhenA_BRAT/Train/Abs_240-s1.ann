@@ -1,0 +1,19 @@
+T1	SNP 73 82	rs7756992
+T2	SNP 87 96	rs7754840
+T3	SNP 155 165	rs10811661
+T4	SNP 242 251	rs1111875
+T5	SNP 292 301	rs5015480
+T6	SNP 307 316	rs7923837
+T7	SNP 326 335	rs4402960
+T8	SNP 386 396	rs13266634
+T9	SNP 452 461	rs7903146
+T10	Phenotype 49 52	GDM
+R1	strong_confidence_association Arg1:T1 Arg2:T10
+R2	strong_confidence_association Arg1:T2 Arg2:T10
+R3	strong_confidence_association Arg1:T3 Arg2:T10
+R4	moderate_confidence_association Arg1:T4 Arg2:T10
+R5	weak_confidence_association Arg1:T5 Arg2:T10
+R6	weak_confidence_association Arg1:T6 Arg2:T10
+R7	weak_confidence_association Arg1:T7 Arg2:T10
+R8	moderate_confidence_association Arg1:T8 Arg2:T10
+R9	weak_confidence_association Arg1:T9 Arg2:T10

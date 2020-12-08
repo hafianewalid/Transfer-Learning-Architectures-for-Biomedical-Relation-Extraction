@@ -1,0 +1,1 @@
+RESULTS : Higher B-Cd ( natural log-transformed ) with increasing number of MT1A rs11076161 A-alleles was found in the highly polluted group ( p-value trend = 0.033 ; all p-values adjusted for age , sex , and smoking ) .

@@ -1,0 +1,7 @@
+T1	SNP 82 91	rs9264942
+T2	SNP 101 110	rs2395029
+T3	Phenotype 174 177	ACS
+T4	Modality_Marker 117 122	lower
+T5	Modality_Marker 147 152	could
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

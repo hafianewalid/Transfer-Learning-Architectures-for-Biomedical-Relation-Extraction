@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1101" TEXT="BACKGROUND: Down syndrome (DS) is caused by either complete or partial triplication of chromosome 21, affecting approximately 1/1000 live births, and it is widely accepted that individuals with DS are more likely to develop dementia of Alzheimer's disease (DAD) compared with the general population. Many studies have investigated genetic susceptibility to AD in the general population, resulting in a number of potential candidate genes that may influence the development of DAD. The majority of these variants, however, have not been investigated in subjects with DS. OBJECTIVE: The aim of this study was to determine whether genetic variants previously associated with AD in the general population, were also associated with DAD in individuals with DS. METHODS: Genotyping of 43 SNPs within 28 genes was undertaken in 187 individuals with Down syndrome with and without dementia of Alzheimer's disease, using the SNP lex platform. RESULTS: Significant associations of SNPs in five genes with DAD in DS were found, namely APOE,SORL1, BACE1, RUNX1 and ALDH18A1. As expected, the most strongly  associated SNP was the APOE ɛ4 rs429358 variant (HR=2.47 [1.58, 3.87], p=7.52×10(-5)), although variants within the more recently implicated SORL1 and RUNX1 genes were also strongly associated with DAD in DS (HR=0.54 [0.37, 0.80], p=0.002 and HR=1.61 [1.15, 2.26], p=0.006 respectively). CONCLUSIONS: Our study demonstrates that a number of variants previously associated with AD in the general population are also associated with DAD in DS. To enable us to determine whether these variants, as well as other more recently revealed AD susceptibility variants, truly contribute to the development of DAD in DS, further multi-centre collaborative studies comprising large number of individuals with DS are needed.">
+	<sentence ID="1101_0" START="1063" END="1382">
+		<snp ID="0" START="1126" END="1134" TEXT="rs429358"/>
+		<phenotype ID="0" START="1293" END="1382" text="DAD"/>
+		<phenotype ID="1" START="1300" END="1382" text="DS"/>
+		<modality_marker  START="1066" END="1074" text="expected"/>
+		<modality_marker  START="1080" END="1084" text="most"/>
+		<modality_marker  START="1085" END="1093" text="strongly"/>
+		<modality_marker  START="1211" END="1215" text="more"/>
+		<modality_marker  START="1225" END="1235" text="implicated"/>
+		<modality_marker  START="1268" END="1276" text="strongly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,8 @@
+T2	Gene_or_protein 0 5	BRCA1 
+T3	Chemical 55 100	anthracycline -based neoadjuvant chemotherapy 
+T4	Disease 112 125	breast cancer 
+T1	Phenotype 0 24	BRCA1 methylation status
+T5	Chemical 55 68	anthracycline
+R1	influences Arg1:T1 Arg2:T3	
+R2	treats Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

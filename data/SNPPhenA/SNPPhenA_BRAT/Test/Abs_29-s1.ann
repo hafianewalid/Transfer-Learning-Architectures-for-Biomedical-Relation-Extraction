@@ -1,0 +1,4 @@
+T1	SNP 9 23	rs4680 Met/Met
+T2	Phenotype 60 71	impulsivity
+T3	Modality_Marker 53 59	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T2

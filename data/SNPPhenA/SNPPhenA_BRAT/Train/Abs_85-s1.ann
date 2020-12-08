@@ -1,0 +1,3 @@
+T1	SNP 65 70	APOA5
+T2	Phenotype 103 124	hypertriglyceridaemia
+R1	weak_confidence_association Arg1:T1 Arg2:T2

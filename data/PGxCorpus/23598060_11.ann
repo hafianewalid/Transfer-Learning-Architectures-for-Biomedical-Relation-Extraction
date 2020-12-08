@@ -1,0 +1,26 @@
+T1	Phenotype 13 16	P50
+T2	Phenotype 21 24	PPI
+T3	Limited_variation 51 57	rs4680
+T4	Gene_or_protein 46 50	COMT
+T5	Disease 75 88	schizophrenia
+T6	Phenotype 122 125	P50
+T7	Gene_or_protein 149 153	COMT
+T8	Limited_variation 154 162	rs737865
+T9	Phenotype 181 184	PPI
+T10	Limited_variation 211 219	rs165599
+T11	Gene_or_protein 206 210	COMT
+T12	Disease 237 250	schizophrenia
+T13	Phenotype 297 357	reduction of the risk of P50 or PPI defects in schizophrenia
+T14	Disease 344 357	schizophrenia
+T15	Phenotype 322 325	P50
+T16	Phenotype 329 332	PPI
+R1	influences Arg1:T3 Arg2:T1	
+R2	influences Arg1:T3 Arg2:T2	
+R3	influences Arg1:T8 Arg2:T6	
+R4	influences Arg1:T10 Arg2:T9	
+R5	isAssociatedWith Arg1:T10 Arg2:T13	
+R6	isAssociatedWith Arg1:T8 Arg2:T13	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp

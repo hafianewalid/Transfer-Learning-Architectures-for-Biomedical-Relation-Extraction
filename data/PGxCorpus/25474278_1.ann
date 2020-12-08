@@ -1,0 +1,13 @@
+T1	Phenotype 51 65	p53 expression
+T2	Gene_or_protein 51 54	p53
+T3	Disease 69 97	metastatic colorectal cancer
+T4	Chemical 111 122	oxaliplatin
+T5	Chemical 127 143	fluoropyrimidine
+T6	Chemical 111 163	oxaliplatin and fluoropyrimidine -based chemotherapy
+T7	Genomic_factor 20 46	microsatellite instability
+R1	treats Arg1:T6 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T6	
+R3	influences Arg1:T7 Arg2:T6	
+R4	isAssociatedWith Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

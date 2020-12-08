@@ -1,0 +1,9 @@
+T1	SNP 167 176	rs7901695
+T2	SNP 181 190	rs7903146
+T3	Phenotype 195 214	insulin sensitivity
+T4	Phenotype 259 276	disposition index
+T5	Modality_Marker 138 143	found
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

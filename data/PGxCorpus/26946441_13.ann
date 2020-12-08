@@ -1,0 +1,7 @@
+T1	Chemical 92 101	oxycodone 
+T2	Limited_variation 177 187	OPRK1 SNPs 
+T3	Gene_or_protein 177 182	OPRK1 
+T4	Pharmacodynamic_phenotype 70 101	analgesic response of oxycodone
+T5	Phenotype 147 167	muscle cuff pressure
+T6	Limited_variation 21 34	polymorphisms
+R1	influences Arg1:T2 Arg2:T5	

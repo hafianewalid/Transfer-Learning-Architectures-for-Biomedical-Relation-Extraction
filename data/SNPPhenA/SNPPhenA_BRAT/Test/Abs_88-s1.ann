@@ -1,0 +1,9 @@
+T1	SNP 77 87	rs10757274
+T2	SNP 93 102	rs2383207
+T3	SNP 108 118	rs10757278
+T4	SNP 124 133	rs1333049
+T5	Phenotype 146 150	MetS
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

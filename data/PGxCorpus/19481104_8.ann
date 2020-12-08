@@ -1,0 +1,10 @@
+T2	Gene_or_protein 50 55	Gsta2 
+T3	Gene_or_protein 58 65	Sult2a1 
+T4	Gene_or_protein 68 72	Fgl1 
+T5	Chemical 148 154	CCl(4) 
+T1	Gene_or_protein 77 79	C6
+T6	Pharmacodynamic_phenotype 148 171	CCl(4) - hepatotoxicity
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+R2	isAssociatedWith Arg1:T4 Arg2:T6	
+R3	isAssociatedWith Arg1:T3 Arg2:T6	
+R4	isAssociatedWith Arg1:T2 Arg2:T6	

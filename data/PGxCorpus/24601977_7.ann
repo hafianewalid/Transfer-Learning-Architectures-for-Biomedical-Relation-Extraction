@@ -1,0 +1,11 @@
+T1	Limited_variation 6 21	CYP2C9 genotype 
+T2	Gene_or_protein 6 12	CYP2C9 
+T3	Limited_variation 24 39	VKORC1 genotype 
+T4	Gene_or_protein 24 30	VKORC1 
+T5	Phenotype 50 68	VKORC1 interaction 
+T6	Gene_or_protein 50 56	VKORC1 
+T7	Pharmacodynamic_phenotype 91 116	warfarin dose variability 
+T8	Chemical 91 99	warfarin
+T9	Phenotype 0 3	Age
+T10	Phenotype 44 47	age
+R1	influences Arg1:T5 Arg2:T7	

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1243" TEXT="Our cross-sectional study confirmed the essential roles of the polymorphisms of the APOA5, GCK and GCKR in the lipid or glucose metabolism disorders, and suggested the importance of fat intake control in the individualized prevention of dyslipidemia.">
+	<sentence ID="1243_0" START="0" END="250">
+		<snp ID="0" START="84" END="89" TEXT="APOA5"/>
+		<snp ID="1" START="91" END="94" TEXT="GCK"/>
+		<snp ID="2" START="99" END="103" TEXT="GCKR"/>
+		<phenotype ID="0" START="120" END="250" text="glucose metabolism"/>
+		<phenotype ID="1" START="237" END="250" text="dyslipidemia"/>
+		<modality_marker  START="26" END="35" text="confirmed"/>
+		<modality_marker  START="154" END="163" text="suggested"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

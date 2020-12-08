@@ -1,0 +1,9 @@
+T3	Chemical 87 98	allopurinol 
+T4	Chemical 139 149	oxypurinol 
+T1	Pharmacodynamic_phenotype 34 63	Type B adverse drug reactions
+T2	Pharmacodynamic_phenotype 87 115	allopurinol hypersensitivity
+T5	Pharmacodynamic_phenotype 139 175	oxypurinol -specific T cell response
+T6	Haplotype 235 248	HLA-B * 58:01
+T7	Gene_or_protein 235 240	HLA-B
+R1	influences Arg1:T5 Arg2:T2	
+R2	influences Arg1:T6 Arg2:T5	

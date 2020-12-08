@@ -1,0 +1,5 @@
+T1	SNP 36 46	rs12255372
+T2	SNP 52 61	rs7903146
+T3	Phenotype 87 102	type 2 diabetes
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T2 Arg2:T3

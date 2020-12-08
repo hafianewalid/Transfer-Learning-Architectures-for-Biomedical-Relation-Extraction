@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1053" TEXT="BACKGROUND: Although smoking has a known association with hot flashes, the factors distinguishing smokers at greatest risk for menopausalsymptoms have not been well delineated. Recent evidence supports a relationship between menopausal symptoms and variants in several genes encodingenzymes that metabolize substrates such as sex steriods, xenobiotics, and catechols. It is currently not known whether the impact of smoking on hot flashes is modified by the presence of such variants. OBJECTIVE: The objective of the study was to investigate the relationship between smoking and hot flash occurrence as a function of genetic variation in sex steroid-metabolizing enzymes. METHODS: A cross-sectional analysis of data from the Penn Ovarian Aging study, an ongoing population-based cohort of late reproductive-aged women, was performed. Smoking behavior was characterized. Single-nucleotide polymorphisms in five genes were investigated: COMT Val158Met (rs4680), CYP1A2*1F (rs762551), CYP1B1*4 (Asn452Ser, rs1800440),CYP1B1*3 (Leu432Val, rs1056836), and CYP3A4*1B (rs2740574). RESULTS:  Compared with nonsmokers, European-American COMT Val158Met double-variant carriers who smoked had increased odds of hot flashes [adjusted odds ratio (AOR) 6.15, 95% confidence interval (CI) 1.32-28.78)]; European-American COMT Val158Met double-variant carriers who smoked heavily had more frequent moderate or severe hot flashes than nonsmokers (AOR 13.7, 95% CI 1.2-154.9).  European-American CYP 1B1*3  double-variant carriers who smoked described more frequent moderate or severe hot flashes than nonsmoking (AOR 20.6, 95% CI 1.64-257.93) and never-smoking (AOR 20.59, 95% CI 1.39-304.68) carriers, respectively.  African-American single-variantCYP 1A2  carriers who smoked were more likely to report  hot flashes than the nonsmoking carriers (AOR 6.16, 95% CI 1.11-33.91). CONCLUSIONS: This is the first report demonstrating the effects of smoking within the strata of gene variants involved in sex steroid metabolism on hot flashes in late reproductive-age women. The identification of individuals with a genetic susceptibility to smoking-related menopausal symptoms could contribute to interventions targeted at reducing reproductive morbidity both in the menopause and across the reproductive life course.">
+	<sentence ID="1053_0" START="1084" END="1287">
+		<snp ID="0" START="1133" END="1142" TEXT="Val158Met"/>
+		<phenotype ID="0" START="1200" END="1287" text="hot flashes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1053_1" START="1288" END="1458">
+		<snp ID="1" START="1311" END="1320" TEXT="Val158Met"/>
+		<phenotype ID="1" START="1401" END="1458" text="hot flashes"/>
+		<modality_marker  START="1368" END="1374" text="more f"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1053_2" START="1460" END="1699">
+		<snp ID="2" START="1478" END="1489" TEXT="CYP 1B1*3  "/>
+		<phenotype ID="2" START="1567" END="1699" text="hot flashes"/>
+		<modality_marker  START="1534" END="1538" text="more"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1053_3" START="1701" END="1860">
+		<snp ID="3" START="1732" END="1740" TEXT="CYP 1A2 "/>
+		<phenotype ID="3" START="1789" END="1860" text="hot flashes"/>
+		<modality_marker  START="1766" END="1770" text="more"/>
+		<modality_marker  START="1771" END="1777" text="likely"/>
+		<modality_marker  START="1781" END="1787" text="report"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

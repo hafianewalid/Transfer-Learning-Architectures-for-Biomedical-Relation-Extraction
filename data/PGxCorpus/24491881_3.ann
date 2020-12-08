@@ -1,0 +1,12 @@
+T4	Gene_or_protein 25 60	methylenetetrahydrofolate reductase 
+T6	Gene_or_protein 102 107	MTHFR 
+T7	Chemical 127 139	homocysteine 
+T8	Pharmacodynamic_phenotype 127 154	homocysteine ( Hcy ) levels
+T1	Gene_or_protein 63 68	MTHFR
+T2	Limited_variation 2 75	C-to-T mutation in the methylenetetrahydrofolate reductase ( MTHFR ) gene
+T3	Chemical 142 145	Hcy
+T5	Phenotype 89 107	thermolabile MTHFR
+R1	isEquivalentTo Arg1:T1 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T8	
+R3	isEquivalentTo Arg1:T3 Arg2:T7	
+R4	causes Arg1:T2 Arg2:T5	

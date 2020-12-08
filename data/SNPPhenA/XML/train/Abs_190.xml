@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1102" TEXT="Human pigmentation appears to be one of the main modulators of individual risk of developing malignant melanoma (MM). A large number of genes are known to be involved in rare pigmentary disorders and explain most of the variation in pigmentation phenotypes seen in human populations. This Spanishcase-control study included 205 patients with melanoma and 245 control subjects. Thirty-one single nucleotide polymorphisms (SNPs) in genes that had been mainly associated with congenital pigmentation syndromes (ADTB3A, ATRN, CHS1, EDNRB, HPS, KIT, MGRN1, MITF, MLANA, MYO5A, MYO7A,OA1, OCA2, PAX3 and SOX10) were selected. We found that the variant allele of OCA2 R419Q (rs1800407) was associated with increased risk of MM (OR 1.55, 95% CI 1.04-2.31, P = 0.03). This effect on melanoma risk appeared to be stronger among individuals with solar lentigines, or at least 50 nevi. We also describe, for the first time, an association with the variant S1666C (rs2276288) in the MYO7A gene (OR 1.35; 95% CI 1.04-1.76; P = 0.03). Again, this association appeared to be stronger in several phenotypic groups such as individuals with fair skin and those with childhood sunburns. We also found that several variants in the pigmentation genes considered were associated with intermediate phenotypic characteristics. Our findings highlight the potential importance of pigmentation genes in sporadic MM susceptibility.">
+	<sentence ID="1102_0" START="620" END="721">
+		<snp ID="0" START="668" END="677" TEXT="rs1800407"/>
+		<phenotype ID="0" START="717" END="721" text="MM"/>
+		<modality_marker  START="623" END="628" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

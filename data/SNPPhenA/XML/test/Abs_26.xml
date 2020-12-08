@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1019" TEXT="It has been suggested recently that molecules expressed both in the pancreas and hypothalamus, such as mu-opioid receptor 1 (OPRM1), could form an integrated brain-liver system, which may sense glucose levels and therefore contribute to the development of type 2 diabetes mellitus (T2DM). In the present study, we tested associations between OPRM1 gene polymorphisms (rs1799971, 102T/C and rs0648007G/A) and indices of glucose tolerance,insulin sensitivity (IS) and insulin secretion derived from plasma measures obtained in a fasting state and following a 75 g oral glucose tolerance test(OGTT) in 749 subjects from the Quebec Family Study (QFS). Polymorphisms were tested for association with glucose tolerance (normal vs IFG and T2DM combined) by calculating a chi(2) statistic and corresponding P values, whereas associations with quantitative measures of glucose tolerance, IS and insulin secretion were tested using mixed linear models implemented in the MIXED procedure of sas (SAS Institute, Cary, NC, USA). Associations were found between 102T/C OPRM1 and indices of glucose tolerance and IS. Compared with T/T homozygotes, carriers of the OPRM1 C-102 variant exhibited a better glucose tolerance with a lower (P = 0.006) glucose area under the curve (AUC) following the OGTT and a better IS with a higher (P = 0.03) value of the Cederholm index, a numerical index of the curve relating glucose uptake to the log(10) plasma insulin levels during the OGTT. The results of the present study reveal that the 102T/C OPRM1 gene polymorphism is associated with a better glucose tolerance and improved IS, both of which suggest a potential protective effect of this variant on T2DM risk..">
+	<sentence ID="1019_0" START="1465" END="1690">
+		<snp ID="0" START="1514" END="1526" TEXT="102T/C OPRM1"/>
+		<phenotype ID="0" START="1679" END="1690" text="T2DM"/>
+		<modality_marker  START="1498" END="1504" text="reveal"/>
+		<modality_marker  START="1622" END="1629" text="suggest"/>
+		<modality_marker  START="1632" END="1641" text="potential"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

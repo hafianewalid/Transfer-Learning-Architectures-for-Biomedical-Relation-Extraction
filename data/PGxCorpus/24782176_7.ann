@@ -1,0 +1,11 @@
+T1	Chemical 78 81	MTX 
+T2	Pharmacodynamic_phenotype 78 81;95 103	MTX toxicity 
+T4	Gene_or_protein 142 146	RFC1 
+T5	Limited_variation 110 162	reduced folate carrier 1 gene ( RFC1 ) variant 80G>A 
+T6	Limited_variation 182 191	rs1051266 
+T7	Gene_or_protein 110 139	reduced folate carrier 1 gene
+T8	Pharmacodynamic_phenotype 78 90	MTX efficacy
+R1	isEquivalentTo Arg1:T4 Arg2:T7	
+R6	isEquivalentTo Arg1:T6 Arg2:T5	
+R2	isAssociatedWith Arg1:T8 Arg2:T5	
+R3	isAssociatedWith Arg1:T2 Arg2:T5	

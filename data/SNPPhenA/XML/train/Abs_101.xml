@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1004" TEXT="The aim of this study was to investigate the apolipoprotein E (APOE) chromosomal region in frontotemporal lobar degeneration (FTLD), and in particular in primary progressive aphasia (PPA) and the behavioral variant frontotemporal dementia (bvFTD). To this aim, we selected three single-nucleotide polymorphisms (SNPs) rs2075650 and rs157590 (TOMM40), and rs1064725 (APOC1), representative of the linkage disequilibrium (LD) blocks at the 19q13-q13.2 chromosomal region. The SNPs rs429358 and rs7412 forming the APOE polymorphism were also included in the study. The analysis was made in 282 patients with a clinical diagnosis of sporadic FTLD, namely 207 bvFTD and 75 PPA, and 296 cognitively healthy control subjects. LD (r2 = 0.35) between TOMM40 (rs2075650) and APOC1 (rs1064725) was observed in PPA, but not in controls and in bvFTD. Inside this region of 26.9 kb, LD (r2 ≥ 0.50) between TOMM40 (rs2075650) and APOE (rs429358) was observed in bvFTD and in controls, but not in PPA. Inside this region of 16.3 kb, LD (r2 = 0.14) between TOMM40 (rs157590) and APOE (rs429358) was observed in PPA, but not in bvFTD and in controls. Although the genetics of PPA and bvFTD needs further investigation, our results suggested the presence of a different genetic background underlying PPA and bvFTD at the 19q13-q13.2chromosomal region.">
+	<sentence ID="1004_0" START="838" END="984">
+		<snp ID="0" START="900" END="909" TEXT="rs2075650"/>
+		<snp ID="1" START="921" END="929" TEXT="rs429358"/>
+		<phenotype ID="0" START="947" END="984" text="bvFTD"/>
+		<phenotype ID="1" START="981" END="984" text="PPA"/>
+		<modality_marker  START="935" END="943" text="observed"/>
+		<negation_scope  START="974" END="984" text="not in PPA">
+			<negation_cue START="974" END="977" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

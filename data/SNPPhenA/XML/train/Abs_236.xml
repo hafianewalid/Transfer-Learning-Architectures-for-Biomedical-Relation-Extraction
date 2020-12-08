@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1153" TEXT="The transcription factor 7-like 2 (TCF7L2) has been recently associated with diabetes risk, and it may exert its effect through metabolic syndrome (MetS)-related traits and be subjected to modification by environmental factors. We investigated the effect of single nucleotide polymorphisms (SNP), rs7903146 and rs12255372, within the TCF7L2 locus on postprandial lipemia and other MetS-related traits and their modulation by dietary fat. Data were collected from 1083 European Americans participating in the Genetics of Lipid Lowering Drugs and Diet Network Study. Carriers of the minor T allele at the C/T rs7903146 SNP had higher fasting plasma glucose (P = 0.012), lower homeostasis model assessment of beta cell function (P = 0.041), higher plasmaVLDL (P = 0.035), and lower large LDL particle (P = 0.007) concentrations and higher risk of MetS (P = 0.011) than CC individuals. Moreover, we identified significant interactions between this SNP and PUFA intake modulating fasting VLDL particle concentrations (P = 0.016) and postprandial triglycerides (TG) (P = 0.028), chylomicrons (P = 0.025), total VLDL (P = 0.026), and large VLDL (P = 0.018) concentrations. Thus, only T allele carriers with a PUFA intake &gt; or = 7.36% of energy had elevated fasting plasma VLDL concentrations and postprandial TG-rich lipoproteins. These variables did not differ in T allelecarriers and noncarriers in the low-PUFA intake group. Moreover, these significant interactions were due exclusively to (n-6) PUFA intake. In summary, high (n-6) PUFA intakes (&gt; or = 6.62% of energy intake) were associated with atherogenic dyslipidemia in carriers of the minor T allele at the TCF7L2rs7903146 SNP and may predispose them to MetS, diabetes, and cardiovascular disease.">
+	<sentence ID="1153_0" START="228" END="437">
+		<snp ID="0" START="297" END="306" TEXT="rs7903146"/>
+		<snp ID="1" START="311" END="321" TEXT="rs12255372"/>
+		<phenotype ID="0" START="350" END="437" text="postprandial lipemia"/>
+		<phenotype ID="1" START="381" END="437" text="MetS-related traits"/>
+		<modality_marker  START="375" END="380" text="other"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1153_1" START="1505" END="1750">
+		<snp ID="2" START="1666" END="1675" TEXT="rs7903146"/>
+		<phenotype ID="2" START="1517" END="1750" text="high (n-6) PUFA intakes"/>
+		<phenotype ID="3" START="1594" END="1750" text="atherogenic dyslipidemia"/>
+		<modality_marker  START="1684" END="1687" text="may"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

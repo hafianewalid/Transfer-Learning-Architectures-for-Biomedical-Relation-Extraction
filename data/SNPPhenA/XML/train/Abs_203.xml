@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1117" TEXT="BACKGROUND: Childhood hypertension is a complex disease influenced by both genetic and environmental factors. We aimed to examine how obesitystatus influences the association of 6 single nucleotide polymorphisms (SNPs) identified by genome-wide association studies (GWASs) withsystolic/diastolic blood pressure (SBP/DBP) and hypertension in Chinese children. METHODS: We recruited 619 hypertensive case subjects and 2,458 individuals with normal blood pressure from the Beijing Child and Adolescent Metabolic Syndrome study, a population-based case-control study. We selected 6 SNPs from earlier GWASs of hypertension and genotyped them using TaqMan assay. RESULTS: In the normal weight group, we did not observe any significant association of 6 SNPs and the genetic risk score (GRS) with SBP/DBP and hypertension (all P &gt; 0.05). Only STK39 rs3754777 was significantly associated with higher DBP (P = 0.02) in the overweight subjects. In the obese group, 3 SNPs and the GRS were significantly associated with higher SBP (ATP2B1 rs17249754: P = 0.02; CSK rs1378942: P = 0.003; CYP17A1 rs1004467: P = 0.04; GRS: P = 0.0002). We also observed a significant association of 4 SNPs and the GRS with hypertension (ATP2B1 rs17249754: P = 0.02; CSK rs1378942: P = 0.02; CYP17A1 rs1004467: P = 0.02; MTHFR rs1801133: P = 0.03; GRS: P = 0.0004). Correction for multiple testing had no influence on the statistical significance of the association of GRS with SBP/hypertension. CONCLUSIONS: This study shows a significant association of hypertension susceptibility loci only inobese Chinese children, suggesting a likely influence of childhood obesity on the risk of hypertension.">
+	<sentence ID="1117_0" START="830" END="934">
+		<snp ID="0" START="841" END="850" TEXT="rs3754777"/>
+		<phenotype ID="0" START="914" END="934" text="overweight"/>
+		<modality_marker  START="885" END="891" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

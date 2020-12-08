@@ -1,0 +1,12 @@
+T1	Phenotype 111 114;127 139	ABO blood groups 
+T2	Phenotype 117 119;127 139	Rh blood groups 
+T3	Chemical 240 251	lead oxides 
+T4	Phenotype 124 139	MN blood groups
+T5	Phenotype 155 175	ability to taste PTC
+T6	Phenotype 178 191	ear lobe type
+T7	Phenotype 196 212	mid-digital hair
+T8	Genomic_factor 75 93	chromosomic damage
+T9	Genomic_variation 21 40	genetic variability
+R1	isAssociatedWith Arg1:T3 Arg2:T8	
+R2	isAssociatedWith Arg1:T9 Arg2:T8	
+#1	AnnotatorNotes R2	hyp

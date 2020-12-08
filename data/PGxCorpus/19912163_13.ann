@@ -1,0 +1,8 @@
+T1	Chemical 76 86	mizoribine 
+T2	Limited_variation 124 129	G565A 
+T3	Pharmacodynamic_phenotype 48 86	dose-normalized C ( 12 ) of mizoribine
+T4	Pharmacokinetic_phenotype 91 111	substitute CL ( MZ )
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

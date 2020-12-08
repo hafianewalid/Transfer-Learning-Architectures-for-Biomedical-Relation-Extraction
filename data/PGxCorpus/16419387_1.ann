@@ -1,0 +1,10 @@
+T1	Haplotype 75 99	cytochrome P450 3A4 * 1B 
+T2	Chemical 119 127	fentanyl 
+T3	Haplotype 104 111;75 90	3A5 * 3 cytochrome P450
+T4	Gene_or_protein 75 94	cytochrome P450 3A4
+T5	Gene_or_protein 104 107;75 90	3A5 cytochrome P450
+T6	Pharmacodynamic_phenotype 51 61	toxicology
+R1	isAssociatedWith Arg1:T3 Arg2:T2	
+R2	isAssociatedWith Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

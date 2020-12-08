@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1107" TEXT="METHODS: Eleven tag single nucleotide polymorphisms (SNPs) in the PRCP gene and four tag SNPs and G-1903A rs1800875 polymorphism in the CMA1 gene were genotyped in the Chinese Han population (n=1020) using a polymerase chain reaction-restriction fragment length polymorphism method.">
+	<sentence ID="1107_0" START="9" END="281">
+		<snp ID="0" START="106" END="115" TEXT="rs1800875"/>
+		<phenotype ID="0" START="168" END="281" text="Chinese Han population"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1027" TEXT="We have determined 4 frequent nonsynonymous gene polymorphisms of CYP1B1 in the human tumor cell lines panels of the National Cancer Institut e (NCI) and the Japanese Foundation for Cancer Research (JFCR): rs10012 (R48G), rs1056827 (A119S), rs1056836 (L432V), and rs1800440 (N453S).">
+	<sentence ID="1027_0" START="0" END="282">
+		<snp ID="0" START="206" END="213" TEXT="rs10012"/>
+		<snp ID="1" START="222" END="231" TEXT="rs1056827"/>
+		<snp ID="2" START="241" END="250" TEXT="rs1056836"/>
+		<snp ID="3" START="264" END="273" TEXT="rs1800440"/>
+		<phenotype ID="0" START="86" END="282" text="tumor"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

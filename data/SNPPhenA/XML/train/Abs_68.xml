@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1235" TEXT="BACKGROUND: Tissue concentrations of fatty acids (FAs) and genetic variations are well-known factors which affect the cardiovascular disease (CVD) risk. The objective was to examine whether the genetic variability of 20 candidate genes and red blood cells (RBCs) percentage of total n-3 polyunsaturatedfatty acids (PUFA), a biomarker of dietary n-3 PUFA intake, modulate lipid related CVD risk factors in the Inuit population. METHODS: Data from the Qanuippitaa Nunavik Health Survey (n = 553) were analysed via multivariate regression models with 40 known polymorphisms, RBCs percentage of n-3 PUFA, and the interaction term to take into account the effect on plasma lipid and apolipoporotein levels. RESULTS: Individuals being heterozygotes forCETP C-4502T (rs183130) or G-971A (rs4783961) together with higher n-3 PUFA had lower triacylglycerol (TG) concentrations compared to homozygotesfor the minor allele. Further, effects of a stronger beneficial association between n-3 PUFA in RBCs and plasma lipid parameters- including lower totalcholesterol (TC), lower low-density lipoprotein cholesterol (LDL-C) or higher high-density lipoprotein cholesterol (HDL-C) concentrations- were associated with AGT M235T (rs699) TT genotype, CETP G-971A (rs4783961) AG genotype, T allele carriers of CETP C-4502T (rs183130), and T allele carriers ofCETP Ile405Val (rs5882). In contrast, higher n-3 PUFA in RBCs were associated with adverse lipid profiles- including increased LDL-C, increased apolipoprotein B100 or decreased HDL-C concentrations- in G allele carriers of the APOA5 -3 A/G (rs651821), C allele carriers of APOA5 T-1131C (rs662799), G carriers of APOC3 SstI (rs5128) and G carriers of APOA4 Asn147Ser (rs5104). CONCLUSIONS: Overall, these results suggest that percentage of total n-3 PUFA of RBCs are associated with lipids related CVD risk factors conferred by genetic variations in the Inuit population.">
+	<sentence ID="1235_0" START="913" END="1364">
+		<snp ID="0" START="1213" END="1218" TEXT="rs699"/>
+		<snp ID="1" START="1246" END="1255" TEXT="rs4783961"/>
+		<snp ID="2" START="1305" END="1313" TEXT="rs183130"/>
+		<phenotype ID="0" START="979" END="1364" text="PUFA"/>
+		<phenotype ID="1" START="1060" END="1364" text="lower low-density lipoprotein cholesterol "/>
+		<modality_marker  START="1066" END="1069" text="low"/>
+		<modality_marker  START="1113" END="1119" text="higher"/>
+		<modality_marker  START="1120" END="1124" text="high"/>
+		<pair PAIRID="0" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

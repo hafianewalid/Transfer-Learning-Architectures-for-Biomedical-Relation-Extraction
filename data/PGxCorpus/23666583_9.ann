@@ -1,0 +1,6 @@
+T1	Chemical 41 51	tacrolimus 
+T2	Gene_or_protein 81 87	CYP3A5 
+T3	Pharmacokinetic_phenotype 41 61	tacrolimus clearance
+T4	Limited_variation 81 96	CYP3A5 genotype
+R1	isAssociatedWith Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	neg

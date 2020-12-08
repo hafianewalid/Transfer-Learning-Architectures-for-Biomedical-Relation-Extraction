@@ -1,0 +1,4 @@
+T1	SNP 33 49	apolipoprotein E
+T2	Phenotype 111 123	osteoporosis
+T3	Modality_Marker 138 145	unclear
+R1	neutral_association Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	SNP 0 16	CYP1B1 Leu432Val
+T2	SNP 21 30	Asn453Ser
+T3	Phenotype 94 112	endometrial cancer
+T4	Modality_Marker 45 57	demonstrated
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

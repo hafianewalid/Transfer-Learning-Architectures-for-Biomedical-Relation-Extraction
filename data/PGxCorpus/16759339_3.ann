@@ -1,0 +1,14 @@
+T1	Limited_variation 92 148	Ser9Gly ( BalI ) polymorphism in exon 1 of the DRD3 gene 
+T2	Chemical 155 162	alcohol 
+T3	Disease 231 241	alcoholism 
+T4	Limited_variation 16 83	-141 C Ins/Del polymorphism in the promoter region of the DRD2 gene
+T5	Gene_or_protein 74 78	DRD2
+T6	Gene_or_protein 139 143	DRD3
+T7	Disease 155 173	alcohol -dependent
+T8	Genomic_factor 204 241	genetic predisposition for alcoholism
+T9	Genomic_factor 51 83	promoter region of the DRD2 gene
+T10	Genomic_factor 125 148	exon 1 of the DRD3 gene
+R1	isAssociatedWith Arg1:T4 Arg2:T7	
+R2	isAssociatedWith Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

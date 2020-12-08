@@ -1,0 +1,13 @@
+T1	Chemical 52 61	erlotinib 
+T2	Gene_or_protein 73 77	EGFR 
+T3	Disease 86 91	NSCLC 
+T4	Chemical 152 160	platinum 
+T5	Disease 194 199	NSCLC 
+T6	Chemical 260 269	erlotinib 
+T7	Pharmacodynamic_phenotype 248 269	response to erlotinib
+T8	Limited_variation 73 85	EGFR -mutant
+T9	Pharmacodynamic_phenotype 52 72	erlotinib -sensitive
+T10	Chemical 194 212	NSCLC chemotherapy
+R1	influences Arg1:T4 Arg2:T7	
+R2	influences Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,14 @@
+T1	Disease 64 72	diabetes 
+T2	Limited_variation 80 94	TCF1 mutations 
+T3	Gene_or_protein 80 84	TCF1 
+T4	Pharmacodynamic_phenotype 133 172	hypoglycaemic effects of sulphonylureas 
+T5	Limited_variation 179 185;195 204	KCNJ11 mutations 
+T6	Gene_or_protein 179 185	KCNJ11 
+T7	Gene_or_protein 189 194	ABCC8 
+T8	Chemical 214 228	sulphonylureas 
+T9	Limited_variation 189 204	ABCC8 mutations
+T11	Chemical 158 172	sulphonylureas
+T10	Chemical 253 260	insulin
+R1	causes Arg1:T2 Arg2:T1	
+R2	treats Arg1:T8 Arg2:T1	
+R3	treats Arg1:T10 Arg2:T1	

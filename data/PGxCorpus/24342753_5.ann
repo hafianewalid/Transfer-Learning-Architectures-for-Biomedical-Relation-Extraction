@@ -1,0 +1,15 @@
+T1	Chemical 96 103	4a- PDD
+T2	Limited_variation 0 17;33 52	Substituting F617 in TM5 with leucine
+T3	Pharmacodynamic_phenotype 61 80	channel sensitivity
+T4	Limited_variation 0 12;20 24;33 52	Substituting Y621 in TM5 with leucine
+T5	Gene_or_protein 36 39	TM5
+T6	Limited_variation 0 12;28 52	Substituting F624 in TM5 with leucine
+T7	Phenotype 177 216	activation in response to cell swelling
+T8	Limited_variation 142 147	F617L
+T9	Limited_variation 152 157	Y621L
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	decreases Arg1:T2 Arg2:T3	
+R3	decreases Arg1:T4 Arg2:T3	
+R4	decreases Arg1:T6 Arg2:T3	
+R5	increases Arg1:T8 Arg2:T7	
+R6	increases Arg1:T9 Arg2:T7	

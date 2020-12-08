@@ -1,0 +1,11 @@
+T2	Limited_variation 21 64	genetic deletion of Pak1 ( Pak1 ( - / - ) ) 
+T3	Gene_or_protein 41 45	Pak1 
+T4	Chemical 183 196	acetylcholine 
+T5	Chemical 199 202	ACh 
+T1	Gene_or_protein 99 102	Pak
+T6	Pharmacodynamic_phenotype 110 133	response of the airways
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T6	
+R3	influences Arg1:T2 Arg2:T6	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

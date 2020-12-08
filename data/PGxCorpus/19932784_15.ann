@@ -1,0 +1,12 @@
+T1	Disease 27 50	acute coronary syndrome 
+T2	Disease 53 70	diabetes mellitus 
+T3	Gene_or_protein 77 84	CYP2C19 
+T4	Chemical 143 154	clopidogrel 
+T6	Phenotype 16 24	high BMI
+T7	Haplotype 77 86	CYP2C19 2
+T8	Pharmacodynamic_phenotype 107 111	HTPR
+R2	isAssociatedWith Arg1:T2 Arg2:T8	
+R3	isAssociatedWith Arg1:T1 Arg2:T8	
+R4	causes Arg1:T4 Arg2:T8	
+R1	isAssociatedWith Arg1:T6 Arg2:T8	
+R5	isAssociatedWith Arg1:T7 Arg2:T8	

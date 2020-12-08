@@ -1,0 +1,12 @@
+T1	Gene_or_protein 61 64	p53
+T2	Limited_variation 61 67	p53 wt
+T3	Chemical 91 100	cisplatin
+T4	Limited_variation 211 221	p53 status
+T5	Disease 146 155;175 184	prostatic carcinoma
+T6	Gene_or_protein 211 214	p53
+T7	Disease 108 118;175 184	colorectal carcinoma
+R1	isAssociatedWith Arg1:T2 Arg2:T5	
+R2	isAssociatedWith Arg1:T3 Arg2:T5	
+R3	isAssociatedWith Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

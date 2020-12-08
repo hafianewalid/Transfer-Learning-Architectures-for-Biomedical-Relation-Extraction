@@ -1,0 +1,17 @@
+T1	Gene_or_protein 68 73	ABCB1 
+T2	Chemical 120 140	( R ) - lansoprazole 
+T3	Phenotype 169 199	CYP2C19 extensive metabolizers 
+T5	Phenotype 215 240	gastroesophageal symptoms 
+T6	Chemical 282 292	tacrolimus 
+T7	Limited_variation 68 92	ABCB1 C3435Tpolymorphism
+T8	Pharmacokinetic_phenotype 100 140	pharmacokinetics of ( R ) - lansoprazole
+T4	Phenotype 202 205	EMs
+T9	Gene_or_protein 169 176	CYP2C19
+T10	Disease 244 260	renal transplant
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	influences Arg1:T7 Arg2:T8	
+R4	influences Arg1:T7 Arg2:T5	
+R3	influences Arg1:T7 Arg2:T6	
+#1	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R3	hyp

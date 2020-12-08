@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1191" TEXT="BACKGROUND: Preoperative pain, type of operation and anesthesia, severity of acute postoperative pain, and psychosocial factors have been identified as risk factors for chronic postsurgical pain (CPP). Recently, it has been suggested that genetic factors also contribute to CPP. In this study, we aimed to determine whether the catechol-O-methyl transferase (COMT) and opioid receptor μ-1 (OPRM1) common functional polymorphisms rs4680 and rs1799971 were associated with the incidence, intensity, or duration of CPP in patients after lower abdominal surgery. METHODS: One hundred and two patients with American Society of Anesthesiologists (ASA) physical status I/II underwent either abdominal radical prostatectomy (n = 45) or hysterectomy (n = 57). The incidences of CPP in the pelvic and scar areas were evaluated in all patients three months after surgery. RESULTS: Thirty-five (34.3%) patients experienced CPP after lower abdominal surgery. Within this group, six (17.1%) patients demonstrated symptoms of neuropathic pain. For COMT rs4680, 22 (21.6%) patients had Met158Met, 55 (53.9%) patients had Val158Met, and 25 (24.5%) patients had Val158Val. No association was found between CPP phenotypes (incidence, intensity, and duration) and different rs4680 genotypes. For OPRM1 rs1799971, only CPP patients carrying at least one copy of the G allele had higher pain intensity than A118A carriers (p=0.02). No associations with other phenotypes were found. No combined effect of COMT/OPRM1 polymorphisms on CPP phenotypes was observed. CONCLUSIONS: OPRM1 genotype influences CPP following lower abdominal surgery. COMT didn't affect CPP, suggesting its potential modality-specific effects on human pain.">
+	<sentence ID="1191_0" START="1460" END="1538">
+		<snp ID="0" START="1482" END="1492" TEXT="COMT/OPRM1"/>
+		<phenotype ID="0" START="1510" END="1538" text="CPP"/>
+		<modality_marker  START="1529" END="1537" text="observed"/>
+		<negation_scope  START="1460" END="1538" text="No combined effect of COMT/OPRM1 polymorphisms on CPP phenotypes was observed.">
+			<negation_cue START="1460" END="1462" text="No"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1191_1" START="1617" END="1706">
+		<snp ID="1" START="1617" END="1621" TEXT="COMT"/>
+		<phenotype ID="1" START="1636" END="1706" text="CPP"/>
+		<modality_marker  START="1641" END="1651" text="suggesting"/>
+		<modality_marker  START="1656" END="1665" text="potential"/>
+		<negation_scope  START="1622" END="1706" text="didn't affect CPP, suggesting its potential modality-specific effects on human pain.">
+			<negation_cue START="1622" END="1628" text="didn't"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

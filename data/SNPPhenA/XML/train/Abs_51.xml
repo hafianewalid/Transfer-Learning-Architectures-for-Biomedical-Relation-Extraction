@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1217" TEXT="The toll-like receptor (TLR) family maintains pulmonary homeostasis by pathogen recognition, clearance and regulation of inflammation. Genes affect inginflammation response play a key role in modifying Cystic fibrosis (CF) lung disease severity. We assessed the impact of single nucleotidepolymorphisms (SNPs) of TLR genes (TLR1 to TLR10, CD14, lipopolyssacharide-binding protein (LBP)) on lung function in CF patients. Each SNP was tested for time-dependent effect on FEV1, using six genetic models. In addition, we investigated associations between SNP genotypes and extreme subject specific slopes of FEV1 decline. Variant alleles of polymorphisms of TLR2 rs1898830, rs5743708, and rs3804100 demonstrated a consistent association with lung disease severity (p = 0.008, p = 0.006 and p = 0.029 respectively). Patients homozygous for variant C allele of TLR5 polymorphism rs5744174 are more frequently associated with extreme fast FEV1 decline (OR: 20 (95% Confidence Interval:1.85-216.18)). Patients homozygous AA for TLR1 polymorphism rs5743551 are more frequently associated with faster decline of FEV1 compared to heterozygous genotype (OR:7.33 (95% CI:1.63-33.11). Our findings indicate that variations in TLR1, TLR2 and TLR5 genes may influence CF lung function decline. Further functional analysis is required to provide new insights into the pathogenesis of TLRs in CF lung disease severity.">
+	<sentence ID="1217_0" START="618" END="810">
+		<snp ID="2" START="659" END="668" TEXT="rs1898830"/>
+		<snp ID="0" START="670" END="679" TEXT="rs5743708"/>
+		<snp ID="1" START="685" END="694" TEXT="rs3804100"/>
+		<phenotype ID="0" START="738" END="810" text="lung disease severity"/>
+		<modality_marker  START="695" END="707" text="demonstrated"/>
+		<modality_marker  START="710" END="720" text="consistent"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

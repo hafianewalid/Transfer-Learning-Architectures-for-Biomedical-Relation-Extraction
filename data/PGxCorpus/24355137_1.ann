@@ -1,0 +1,23 @@
+T1	Limited_variation 19 35	5-HTR2A -1438A/G
+T2	Gene_or_protein 55 59	MAOA
+T3	Disease 114 145	borderline personality disorder
+T4	Chemical 156 162	heroin
+T5	Gene_or_protein 19 26	5-HTR2A
+T6	Limited_variation 38 52	COMT Val158Met
+T7	Limited_variation 55 64	MAOA -LPR
+T8	Limited_variation 67 75	DAT VNTR
+T9	Limited_variation 80 90	5-HTT VNTR
+T10	Disease 156 173	heroin -dependent
+T11	Gene_or_protein 38 42	COMT
+T12	Gene_or_protein 67 70	DAT
+T13	Gene_or_protein 80 85	5-HTT
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	isAssociatedWith Arg1:T6 Arg2:T3	
+R3	isAssociatedWith Arg1:T7 Arg2:T3	
+R4	isAssociatedWith Arg1:T8 Arg2:T3	
+R5	isAssociatedWith Arg1:T9 Arg2:T3	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp
+#5	AnnotatorNotes R5	hyp

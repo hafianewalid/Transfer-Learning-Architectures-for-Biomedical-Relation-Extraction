@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1144" TEXT="Associations between genotypes and cognitive outcomes may provide clues as to which mechanisms cause individual differences in old-age cognitive performance. We investigated the effects of five polymorphisms on cognitive functioning in a population-based sample of 2,694 persons without dementia(60-102 years). A structural equation model (SEM) was fit to the cognitive data, yielding five specific latent factors (perceptual speed, episodic memory, semantic memory, category fluency, and letter fluency), as well as a global cognitive factor. These factors showed the expected associations with chronological age. Genotyping was performed for five single-nucleotide polymorphisms that have been associated with cognitive performance: APOE rs429358, COMT rs4680, BDNF rs6265, KIBRA rs17070145, and CLSTN2 (rs6439886). After controlling for age, gender, and education, as well as correcting for multiple comparisons, we observed negative effects of being an APOE ε4 carrier on episodic memory and perceptual speed. Furthermore, being a CLSTN2 TT carrier was associated with poorer semantic memory. For the global factor, the same pattern of results was observed. In addition, being a BDNF any A carrier was associated with better cognitive performance. Also, older age was associated with stronger genetic effects of APOE on global cognition. However, this interaction effect was partly driven by the presence of preclinical dementia cases in our sample. Similarly, excluding futuredementia cases attenuated the effects of APOE on episodic memory and global cognition, suggesting that part of the effects of APOE on old-age cognitive performance may be driven by dementia-related processes.">
+	<sentence ID="1144_0" START="615" END="817">
+		<snp ID="0" START="735" END="748" TEXT="APOE rs429358"/>
+		<snp ID="1" START="750" END="761" TEXT="COMT rs4680"/>
+		<snp ID="2" START="763" END="774" TEXT="BDNF rs6265"/>
+		<snp ID="3" START="776" END="792" TEXT="KIBRA rs17070145"/>
+		<snp ID="4" START="806" END="815" TEXT="rs6439886"/>
+		<phenotype ID="0" START="712" END="817" text="cognitive performance"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

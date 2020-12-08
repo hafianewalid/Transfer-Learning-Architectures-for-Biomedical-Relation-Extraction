@@ -1,0 +1,8 @@
+T1	Limited_variation 31 56	DPYSL2 gene polymorphisms 
+T2	Gene_or_protein 31 37	DPYSL2 
+T4	Disease 97 99	AD 
+T3	Disease 76 94	alcohol dependence
+T5	Chemical 76 83	alcohol
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R2	hyp

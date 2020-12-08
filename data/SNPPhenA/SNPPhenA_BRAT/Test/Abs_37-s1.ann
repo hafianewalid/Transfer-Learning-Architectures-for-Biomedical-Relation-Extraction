@@ -1,0 +1,3 @@
+T1	SNP 129 142	IL23R-IL12RB2
+T2	Phenotype 194 215	Behçet's disease (BD)
+R1	neutral_association Arg1:T1 Arg2:T2

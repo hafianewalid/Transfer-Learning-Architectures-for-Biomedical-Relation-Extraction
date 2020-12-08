@@ -1,0 +1,13 @@
+T1	Pharmacodynamic_phenotype 4 26	effect of aflatoxin B1 
+T2	Gene_or_protein 73 105	transforming growth factor-alpha 
+T3	Chemical 109 113	CCl4 
+T4	Pharmacodynamic_phenotype 109 138	CCl4 induced rat liver injury 
+T5	Chemical 14 26	aflatoxin B1
+T6	Phenotype 34 68	expression of early response genes
+T8	Pharmacodynamic_phenotype 126 138	liver injury
+T7	Phenotype 34 47;73 105	expression of transforming growth factor-alpha
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T1 Arg2:T7	
+R5	causes Arg1:T3 Arg2:T8	
+#2	AnnotatorNotes R1	hyp
+#1	AnnotatorNotes R2	hyp

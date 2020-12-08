@@ -1,0 +1,1 @@
+We observed that carriage of two alleles with > or = 22 CAG repeats was associated with an increased risk of ovarian cancer compared with carriage of two alleles with <22 CAG repeats (covariate-adjusted odds ratios, 1.31; 95% confidence intervals, 1.01-1.69).

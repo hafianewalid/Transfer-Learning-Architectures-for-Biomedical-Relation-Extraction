@@ -1,0 +1,8 @@
+T1	SNP 44 53	rs1799750
+T2	SNP 120 129	rs1799750
+T3	SNP 130 138	rs679620
+T4	Phenotype 198 210	sporadic RCC
+T5	Modality_Marker 13 19	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

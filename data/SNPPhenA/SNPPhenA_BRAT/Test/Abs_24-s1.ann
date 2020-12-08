@@ -1,0 +1,3 @@
+T1	SNP 183 192	rs1799971
+T2	Phenotype 76 87	amphetamine
+R1	neutral_association Arg1:T1 Arg2:T2

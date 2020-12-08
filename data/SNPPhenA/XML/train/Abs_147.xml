@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1054" TEXT="Only FTO rs9939609 and GRS were statistically associated with hypertension risk in the age- and sex-adjusted model after correction for multiple testing.Conclusions:The present study demonstrated that FTO rs9939609 and combined SNPs were significantly associated with risk of hypertension, which seems to be dependent on BMI.International Journal of Obesity advance online publication, 16 April 2013; doi:10.1038/ijo.2013.37.">
+	<sentence ID="1054_0" START="153" END="325">
+		<snp ID="0" START="205" END="214" TEXT="rs9939609"/>
+		<phenotype ID="0" START="276" END="325" text="hypertension"/>
+		<modality_marker  START="153" END="164" text="Conclusions"/>
+		<modality_marker  START="183" END="195" text="demonstrated"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

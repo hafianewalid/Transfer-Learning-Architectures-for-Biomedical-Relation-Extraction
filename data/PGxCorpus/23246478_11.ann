@@ -1,0 +1,4 @@
+T2	Phenotype 113 152	prostate specific antigen concentration 
+T3	Gene_or_protein 113 138	prostate specific antigen 
+T1	Limited_variation 41 72	single nucleotide polymorphisms
+R1	influences Arg1:T1 Arg2:T2	

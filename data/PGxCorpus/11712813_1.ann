@@ -1,0 +1,7 @@
+T1	Limited_variation 2 32	polymorphism of the XRCC1 gene 
+T3	Gene_or_protein 22 27	XRCC1 
+T4	Chemical 58 66	platinum 
+T5	Disease 95 112	colorectal cancer 
+T2	Pharmacodynamic_phenotype 46 66	response to platinum
+R2	treats Arg1:T4 Arg2:T5	
+R1	influences Arg1:T1 Arg2:T2	

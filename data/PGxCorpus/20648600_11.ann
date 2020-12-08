@@ -1,0 +1,10 @@
+T1	Chemical 0 3	LAM 
+T2	Limited_variation 34 39	L180M 
+T3	Limited_variation 45 50	M204V 
+T4	Disease 106 113	viremia 
+T5	Pharmacodynamic_phenotype 0 14	LAM resistance
+T6	Limited_variation 0 52	LAM resistance substitutions ( rt L180M + rt M204V )
+R2	isAssociatedWith Arg1:T4 Arg2:T3	
+R3	isAssociatedWith Arg1:T4 Arg2:T2	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp

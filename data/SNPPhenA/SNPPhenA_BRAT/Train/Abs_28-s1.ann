@@ -1,0 +1,6 @@
+T1	SNP 22 32	COMT/OPRM1
+T2	Phenotype 50 53	CPP
+T3	Modality_Marker 69 77	observed
+T4	Negation_Scope 0 78	No combined effect of COMT/OPRM1 polymorphisms on CPP phenotypes was observed.
+T5	Negation_Cue 0 2	No
+R1	negative_association Arg1:T1 Arg2:T2

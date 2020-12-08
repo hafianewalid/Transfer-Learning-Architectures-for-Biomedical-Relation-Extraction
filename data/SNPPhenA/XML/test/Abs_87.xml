@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1086" TEXT="BACKGROUND: Numerous studies have shown an association between polymorphisms in the androgen receptor gene (AR) and the risk forandrogenetic alopecia (AGA), but the overall results are still controversial. OBJECTIVE: To determine, by conducting a meta-analysis, whether the common AR gene polymorphisms confer susceptibility to AGA. METHODS: Publications addressing the association between AR gene polymorphisms and risk for AGA were selected from the PubMed, EMBASE and CBMdisc databases. Data were extracted from the studies by two independent reviewers. The meta-analysis was performed using the software programs RevMan (version 5.0.25) and STATA (version 9.2). From these data, odds ratio (OR) with 95% confidence interval (CI) was calculated. RESULTS: Only eight studies were found, reporting a total of 2074 patients with AGA and 1115 healthy controls. Three common polymorphisms of the AR gene were addressed: a StuI restriction-site polymorphism (rs6152, G&gt;A), and CAG and GGC triplet-repeat polymorphisms. Meta-analysis results identified a significant association between the G allele of the AR StuI polymorphism and the risk for AGA (OR = 2.68, 95% CI 1.71-4.19, P &lt; 0.01), especially in white populations (OR = 2.76, 95% CI 1.71-4.45, P &lt; 0.01). No association was found between theCAG or GGC polymorphism and the risk for AGA (OR = 0.81, 95% CI 0.49-1.34, P = 0.41; OR = 1.01, 95% CI 0.47-2.14, P = 0.99, respectively). CONCLUSIONS: Our meta-analysis suggests that the G allele of AR StuI polymorphism might be a potential risk factor for AGA, especially in whitepopulations. However, we did not find any obvious association of the CAG and GGC triplet-repeat polymorphisms of the AR gene with risk for AGA.">
+	<sentence ID="1086_0" START="1434" END="1589">
+		<snp ID="0" START="1495" END="1502" TEXT="AR StuI"/>
+		<phenotype ID="0" START="1553" END="1589" text="AGA"/>
+		<modality_marker  START="1434" END="1445" text="CONCLUSIONS"/>
+		<modality_marker  START="1465" END="1473" text="suggests"/>
+		<modality_marker  START="1516" END="1521" text="might"/>
+		<modality_marker  START="1527" END="1536" text="potential"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

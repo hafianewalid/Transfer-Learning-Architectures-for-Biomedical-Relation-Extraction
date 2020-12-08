@@ -1,0 +1,8 @@
+T1	SNP 111 120	rs1800497
+T2	SNP 164 170	rs4680
+T3	Phenotype 202 217	eating symptoms
+T4	Phenotype 255 287	bulimia-spectrum eatingdisorders
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T4
+R3	neutral_association Arg1:T2 Arg2:T3
+R4	neutral_association Arg1:T2 Arg2:T4

@@ -1,0 +1,10 @@
+T3	Gene_or_protein 14 19	MTHFR 
+T5	Gene_or_protein 30 35	ABCB1 
+T6	Limited_variation 30 42	ABCB1 C3435T 
+T7	Chemical 93 96	MTX 
+T8	Limited_variation 14 25	MTHFR C677T 
+T1	Pharmacodynamic_phenotype 93 118	MTX plasma concentrations
+R1	increases Arg1:T8 Arg2:T1	
+R2	increases Arg1:T6 Arg2:T1	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

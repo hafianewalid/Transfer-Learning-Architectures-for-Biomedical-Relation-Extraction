@@ -1,0 +1,8 @@
+T1	SNP 149 157	rs429358
+T2	SNP 161 167	rs7412
+T3	Phenotype 171 188	MS susceptibility
+T4	Modality_Marker 131 138	support
+T5	Negation_Scope 127 188	not support a role of rs429358 or rs7412 on MS susceptibility
+T6	Negation_Cue 127 130	not
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T1	SNP 34 43	rs7903146
+T2	Phenotype 71 93	fasting plasma glucose
+T3	Modality_Marker 3 11	expected
+T4	Modality_Marker 64 70	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T2

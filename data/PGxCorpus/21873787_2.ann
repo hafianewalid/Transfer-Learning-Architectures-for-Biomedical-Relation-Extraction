@@ -1,0 +1,10 @@
+T2	Gene_or_protein 66 98	RAS association domain family 1A 
+T3	Gene_or_protein 101 108	RASSF1A 
+T4	Disease 128 162	advanced epithelial ovarian cancer 
+T5	Chemical 192 201	cisplatin 
+T1	Phenotype 44 110	methylation status of RAS association domain family 1A ( RASSF1A )
+T6	Pharmacodynamic_phenotype 180 227	efficacy of cisplatin based neoadjuvant therapy
+T7	Chemical 192 227	cisplatin based neoadjuvant therapy
+R1	isEquivalentTo Arg1:T3 Arg2:T2	
+R2	isAssociatedWith Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R2	hyp

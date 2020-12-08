@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1035" TEXT="Although there was only moderate linkage disequilibrium between rs2075650 and the ApoE ε4 defining SNP rs429358, we could not find an APOE-independent effect of rs2075650 on longevity, either in cross-sectional or in longitudinal analyses.">
+	<sentence ID="1035_0" START="0" END="239">
+		<snp ID="0" START="64" END="73" TEXT="rs2075650"/>
+		<snp ID="1" START="103" END="111" TEXT="rs429358"/>
+		<snp ID="2" START="161" END="170" TEXT="rs2075650"/>
+		<phenotype ID="0" START="174" END="239" text="longevity"/>
+		<modality_marker  START="116" END="121" text="could"/>
+		<modality_marker  START="126" END="130" text="find"/>
+		<negation_scope  START="122" END="239" text="not find an APOE-independent effect of rs2075650 on longevity, either in cross-sectional or in longitudinal analyses.">
+			<negation_cue START="122" END="125" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

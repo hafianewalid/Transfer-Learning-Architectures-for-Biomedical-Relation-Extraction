@@ -1,0 +1,6 @@
+T1	Chemical 15 35	PEG - PEI copolymers 
+T2	Chemical 21 24	PEI 
+T3	Phenotype 88 109	dystrophin expression 
+T4	Gene_or_protein 88 98	dystrophin 
+T5	Chemical 15 18	PEG
+R1	increases Arg1:T1 Arg2:T3	

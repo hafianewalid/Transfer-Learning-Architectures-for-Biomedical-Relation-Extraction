@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1047" TEXT="OBJECTIVE: Heterozygosity for a 32 base pair deletion in the CCR5 gene (CCR5wt/Δ32) and the minor alleles of a single-nucleotide polymorphism in the HCP5 gene (rs2395029) and in the HLA-C gene region (-35HLA-C; rs9264942) has been associated with a lower viral load set point. Recent studies have shown that over calendar time, viral load set point has significantly increased at a population level. Here we studied whether this increase coincides with a fading impact of above-mentioned host genetic markers on HIV-1 control. METHODS: We compared the association between viral load set point and HCP5 rs2395029, -35HLA-C rs9264942, and the CCR5wt/Δ32 genotype in HIV-1-infected individuals in the Netherlands who had seroconverted between 1982 and 2002 (pre-2003 seroconverters, n = 459) or between 2003 and 2009 (post-2003 seroconverters, n = 231). RESULTS: Viral load set point in post-2003 seroconverters was significantly higher than in pre-2003 seroconverters (P = 4.5 × 10(-5)). The minor alleles for HCP5 rs2395029, -35HLA-C rs9264942 and CCR5wt/Δ32 had a similar prevalence in both groups and were all individually associated with a significantly lower viral load set point in pre-2003 seroconverters. In post-2003 seroconverters, this association was no longer observed for HCP5 rs2395029 and CCR5wt/Δ32. The association between viralload set point and HCP5 rs2395029 had significantly changed over time, whereas the change in impact of the CCR5wt/Δ32 genotype over calendar time was not independent from the other markers under study. CONCLUSIONS: The increased viral load set point at a population level coincides with a lost impact of certain host genetic factors on HIV-1 control.">
+	<sentence ID="1047_0" START="0" END="275">
+		<snp ID="0" START="160" END="169" TEXT="rs2395029"/>
+		<snp ID="1" START="211" END="220" TEXT="rs9264942"/>
+		<phenotype ID="0" START="249" END="275" text="lower viral load set point"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

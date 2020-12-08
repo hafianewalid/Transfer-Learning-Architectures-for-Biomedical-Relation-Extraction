@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1176" TEXT="Genetic variants in the gene encoding for transcription factor-7-like 2 (TCF7L2) have been associated with type 2 diabetes (T2D) and impaired beta cell function, but the mechanisms have remained unknown. We therefore studied prospectively the ability of common variants in TCF7L2 to predict future T2D and explored the mechanisms by which they would do this. Scandinavian subjects followed for up to 22 years were genotyped for 3 SNPs (rs7903146, rs12255372, and rs10885406) in TCF7L2, and a subset of them underwent extensive metabolic studies. Expression of TCF7L2 was related to genotype and metabolic parameters in human islets. The CT/TT genotypes of SNP rs7903146 strongly predicted future T2D in 2 independent cohorts (Swedish and Finnish). The risk T allele was associated with impaired insulin secretion, incretin effects, and enhanced rate of hepatic glucose production. TCF7L2 expression in human islets was increased 5-fold in T2D, particularly in carriers of the TT genotype. Overexpression of TCF7L2 in human islets reduced glucose-stimulated insulin secretion. In conclusion, the increased risk of T2D conferred by variants in TCF7L2 involves the enteroinsular axis, enhanced expression of the gene in islets, and impaired insulin secretion.">
+	<sentence ID="1176_0" START="633" END="747">
+		<snp ID="0" START="660" END="669" TEXT="rs7903146"/>
+		<phenotype ID="0" START="696" END="747" text="T2D"/>
+		<modality_marker  START="670" END="678" text="strongly"/>
+		<modality_marker  START="679" END="688" text="predicted"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

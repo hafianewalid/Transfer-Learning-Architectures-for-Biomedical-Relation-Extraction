@@ -1,0 +1,8 @@
+T1	Limited_variation 10 28	eNOS polymorphisms 
+T2	Gene_or_protein 10 14	eNOS 
+T3	Chemical 32 42	salbutamol 
+T4	Pharmacodynamic_phenotype 32 84	salbutamol evoked endothelium dependent vasodilation
+T5	Pharmacodynamic_phenotype 50 84	endothelium dependent vasodilation
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	causes Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R1	hyp

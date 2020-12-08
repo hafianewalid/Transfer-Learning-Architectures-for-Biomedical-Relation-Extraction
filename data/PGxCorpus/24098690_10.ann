@@ -1,0 +1,4 @@
+T1	Disease 47 57	restenosis 
+T3	Limited_variation 65 80	ACE DD genotype 
+T4	Gene_or_protein 65 68	ACE 
+R1	isAssociatedWith Arg1:T1 Arg2:T3	

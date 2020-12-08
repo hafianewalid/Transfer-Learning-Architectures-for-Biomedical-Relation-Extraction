@@ -1,0 +1,7 @@
+T1	SNP 3 12	rs7903146
+T2	Phenotype 59 88	higher fasting plasma glucose
+T3	Phenotype 116 137	lower HOMA-beta index
+T4	Phenotype 152 155	BMI
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3
+R3	weak_confidence_association Arg1:T1 Arg2:T4

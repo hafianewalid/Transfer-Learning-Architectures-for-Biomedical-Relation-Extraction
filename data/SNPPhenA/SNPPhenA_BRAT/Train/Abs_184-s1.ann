@@ -1,0 +1,7 @@
+T1	SNP 106 116	rs12255372
+T2	Phenotype 237 251	ovarian cancer
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 256 264	observed
+T5	Negation_Scope 183 265	no compelling evidence for association with breast or ovarian cancer was observed.
+T6	Negation_Cue 183 185	no
+R1	negative_association Arg1:T1 Arg2:T2

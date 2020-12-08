@@ -1,0 +1,13 @@
+T1	SNP 83 92	rs1130864
+T2	SNP 115 124	rs1800795
+T3	SNP 147 156	rs1800629
+T4	SNP 176 184	rs909253
+T5	SNP 207 216	rsl800469
+T6	SNP 248 253	rs333
+T7	Phenotype 272 298	cardiac unfavorable events
+R1	neutral_association Arg1:T1 Arg2:T7
+R2	neutral_association Arg1:T2 Arg2:T7
+R3	neutral_association Arg1:T3 Arg2:T7
+R4	neutral_association Arg1:T4 Arg2:T7
+R5	neutral_association Arg1:T5 Arg2:T7
+R6	neutral_association Arg1:T6 Arg2:T7

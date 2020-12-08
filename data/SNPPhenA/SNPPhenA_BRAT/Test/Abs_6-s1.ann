@@ -1,0 +1,11 @@
+T1	SNP 14 23	rs1056827
+T2	SNP 28 35	rs10012
+T3	SNP 39 48	rs1056827
+T4	SNP 53 62	rs1056836
+T5	Phenotype 92 102	colorectal
+T6	Modality_Marker 63 71	revealed
+T7	Modality_Marker 134 142	stronger
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T3 Arg2:T5
+R4	weak_confidence_association Arg1:T4 Arg2:T5

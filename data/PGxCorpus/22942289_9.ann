@@ -1,0 +1,3 @@
+T2	Chemical 31 37	VX-770 
+T3	Gene_or_protein 55 59	CFTR 
+R1	influences Arg1:T2 Arg2:T3	

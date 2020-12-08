@@ -1,0 +1,10 @@
+T1	Disease 31 49	muscular dystrophy 
+T4	Gene_or_protein 92 101	dysferlin 
+T5	Chemical 132 142	bortezomib 
+T6	Phenotype 157 177	dysferlin expression 
+T7	Gene_or_protein 157 166	dysferlin 
+T2	Limited_variation 59 101	homozygous Arg555Trp mutation in dysferlin
+T3	Chemical 111 131	proteasome inhibitor
+R2	causes Arg1:T2 Arg2:T1	
+R1	treats Arg1:T5 Arg2:T1	
+R3	isAssociatedWith Arg1:T5 Arg2:T6	

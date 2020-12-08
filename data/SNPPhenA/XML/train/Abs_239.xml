@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1156" TEXT="OBJECTIVE: The present study was conducted to confirm possible associations between candidate genes from genome-wide association studies and type 2 diabetes in Japanese diabetic patients and a community-based general population. A total of 11 previously reported single-nucleotide polymorphisms (SNPs) from the TCF7L2, CDKAL1, HHEX, IGF2BP2, CDKN2A/B, SLC30A8, and KCNJ11 genes were analyzed. METHODS: Candidate SNPs were genotyped in 506 type 2 diabetic patients and 402 control subjects and meta-analyzed with six previous association studies in Japanese patients. Associations with fasting plasma insulin levels were investigated in a general population sample (n = 1,963, 61 +/- 13 years). RESULTS: In our case-control subjects, susceptibility to type 2 diabetes was replicated in TCF7L2 rs12255372, CDKAL1 rs7756992, rs7754840, HHEX (rs7923837), IGF2BP2 (rs4402960 and rs1470579), CDKN2A/B (rs10811661), and SLC30A8 (rs13266634). In addition to these polymorphisms, meta-analysis confirmed the association of type 2 diabetes susceptibility with KCNJ11 rs5219, TCF7L2 rs7903146, and HHEX rs1111875. The TCF7L2 rs12255372 polymorphism showed the highest odds ratio (OR) for type 2 diabetes (OR 1.714 [1.298-2.263]). Odds ratio of other polymorphisms ranged from 1.13 to 1.41. The risk allele of CDKAL1 rs7756992 was significantly associated with lower insulin levels in type 2 diabetic patients after adjustment for other confounding factors. CONCLUSIONS: Type 2 diabetes susceptibility of seven candidate genes was confirmed in Japanese. Conservation of susceptible loci for type 2 diabetes was independent of ethnic background.">
+	<sentence ID="1156_0" START="703" END="934">
+		<snp ID="0" START="792" END="802" TEXT="rs12255372"/>
+		<snp ID="1" START="811" END="820" TEXT="rs7756992"/>
+		<snp ID="2" START="822" END="831" TEXT="rs7754840"/>
+		<snp ID="3" START="839" END="848" TEXT="rs7923837"/>
+		<snp ID="4" START="860" END="869" TEXT="rs4402960"/>
+		<snp ID="5" START="874" END="883" TEXT="rs1470579"/>
+		<snp ID="6" START="896" END="906" TEXT="rs10811661"/>
+		<snp ID="7" START="922" END="932" TEXT="rs13266634"/>
+		<phenotype ID="0" START="751" END="934" text="type 2 diabetes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="0" SNPID="7" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1156_1" START="935" END="1102">
+		<snp ID="8" START="1057" END="1063" TEXT="rs5219"/>
+		<snp ID="9" START="1072" END="1081" TEXT="rs7903146"/>
+		<snp ID="10" START="1092" END="1101" TEXT="rs1111875"/>
+		<phenotype ID="1" START="1014" END="1102" text="type 2 diabetes"/>
+		<modality_marker  START="985" END="994" text="confirmed"/>
+		<pair PAIRID="8" PHENOTYPEID="1" SNPID="8" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="9" PHENOTYPEID="1" SNPID="9" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="10" PHENOTYPEID="1" SNPID="10" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1156_2" START="1103" END="1218">
+		<snp ID="11" START="1114" END="1124" TEXT="rs12255372"/>
+		<phenotype ID="2" START="1177" END="1218" text="type 2 diabetes"/>
+		<modality_marker  START="1138" END="1144" text="showed"/>
+		<modality_marker  START="1149" END="1156" text="highest"/>
+		<pair PAIRID="11" PHENOTYPEID="2" SNPID="11" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1156_3" START="1219" END="1445">
+		<snp ID="12" START="1305" END="1314" TEXT="rs7756992"/>
+		<phenotype ID="3" START="1349" END="1445" text="lower insulin levels in type 2 diabetic"/>
+		<modality_marker  START="1233" END="1238" text="other"/>
+		<modality_marker  START="1419" END="1424" text="other"/>
+		<pair PAIRID="12" PHENOTYPEID="3" SNPID="12" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

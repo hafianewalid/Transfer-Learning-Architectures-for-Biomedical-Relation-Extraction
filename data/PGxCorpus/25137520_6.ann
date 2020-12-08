@@ -1,0 +1,51 @@
+T1	Limited_variation 60 73	SNPs in TNF-a 
+T2	Gene_or_protein 68 73	TNF-a 
+T3	Gene_or_protein 76 81	TNF-b 
+T4	Gene_or_protein 92 95	VDR 
+T5	Gene_or_protein 98 101	MBP 
+T6	Gene_or_protein 108 112	APOE 
+T7	Chemical 126 133	mercury 
+T8	Chemical 119 123	lead
+T9	Chemical 139 147	solvents
+T10	Gene_or_protein 84 89	TCA-b
+T11	Limited_variation 60 67;76 81	SNPs in TNF-b
+T12	Limited_variation 60 67;84 89	SNPs in TCA-b
+T13	Limited_variation 60 67;92 95	SNPs in VDR
+T14	Limited_variation 60 67;98 101	SNPs in MBP
+T15	Limited_variation 108 112;60 67	APOE SNPs in
+R1	isAssociatedWith Arg1:T1 Arg2:T8	
+R2	isAssociatedWith Arg1:T1 Arg2:T7	
+R3	isAssociatedWith Arg1:T1 Arg2:T9	
+R4	isAssociatedWith Arg1:T11 Arg2:T8	
+R5	isAssociatedWith Arg1:T11 Arg2:T7	
+R6	isAssociatedWith Arg1:T11 Arg2:T9	
+R7	isAssociatedWith Arg1:T12 Arg2:T8	
+R8	isAssociatedWith Arg1:T12 Arg2:T7	
+R9	isAssociatedWith Arg1:T12 Arg2:T9	
+R10	isAssociatedWith Arg1:T13 Arg2:T8	
+R11	isAssociatedWith Arg1:T13 Arg2:T7	
+R12	isAssociatedWith Arg1:T13 Arg2:T9	
+R13	isAssociatedWith Arg1:T14 Arg2:T8	
+R14	isAssociatedWith Arg1:T14 Arg2:T7	
+R15	isAssociatedWith Arg1:T14 Arg2:T9	
+R16	isAssociatedWith Arg1:T15 Arg2:T8	
+R17	isAssociatedWith Arg1:T15 Arg2:T7	
+R18	isAssociatedWith Arg1:T15 Arg2:T9	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R1	hyp
+#4	AnnotatorNotes R6	hyp
+#5	AnnotatorNotes R5	hyp
+#6	AnnotatorNotes R4	hyp
+#7	AnnotatorNotes R9	hyp
+#8	AnnotatorNotes R8	hyp
+#9	AnnotatorNotes R7	hyp
+#10	AnnotatorNotes R12	hyp
+#11	AnnotatorNotes R11	hyp
+#12	AnnotatorNotes R10	hyp
+#13	AnnotatorNotes R15	hyp
+#14	AnnotatorNotes R14	hyp
+#15	AnnotatorNotes R13	hyp
+#16	AnnotatorNotes R18	hyp
+#17	AnnotatorNotes R17	hyp
+#18	AnnotatorNotes R16	hyp

@@ -1,0 +1,14 @@
+T1	Phenotype 39 55	PDYN mRNA levels 
+T2	Gene_or_protein 39 43	PDYN 
+T3	Limited_variation 184 210	PDYN promoter SNP genotype 
+T4	Gene_or_protein 184 188	PDYN 
+T5	Chemical 214 221	alcohol 
+T6	Phenotype 161 179	addictive behavior
+T7	Phenotype 140 157	cognitive control
+T8	Disease 214 232	alcohol -dependent
+T9	Genomic_factor 39 48	PDYN mRNA
+T10	Genomic_factor 184 197	PDYN promoter
+R3	isAssociatedWith Arg1:T1 Arg2:T8	
+R1	isAssociatedWith Arg1:T3 Arg2:T8	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R1	hyp

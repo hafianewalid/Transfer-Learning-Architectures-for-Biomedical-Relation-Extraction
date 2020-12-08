@@ -1,0 +1,3 @@
+T1	SNP 102 111	rs2069827
+T2	Phenotype 164 172	survival
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

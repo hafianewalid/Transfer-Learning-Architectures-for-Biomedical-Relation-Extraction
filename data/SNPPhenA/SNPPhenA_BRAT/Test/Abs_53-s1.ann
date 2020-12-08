@@ -1,0 +1,6 @@
+T1	SNP 193 202	CYP2A13*7
+T2	SNP 310 318	CYP2A6*9
+T3	Phenotype 251 270	nicotine dependence
+T4	Modality_Marker 3 8	found
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

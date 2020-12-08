@@ -1,0 +1,25 @@
+T2	Limited_variation 116 142	Stromelysin-1 polymorphism 
+T3	Gene_or_protein 116 129	Stromelysin-1 
+T4	Limited_variation 145 152;162 203	-455G/A polymorphisms of the beta-fibrinogen gene 
+T5	Limited_variation 157 203	TaqI polymorphisms of the beta-fibrinogen gene 
+T7	Gene_or_protein 183 198	beta-fibrinogen 
+T8	Gene_or_protein 206 211	apoE4 
+T10	Limited_variation 214 263	Asp(9)Asn mutation in the lipoprotein lipase gene 
+T12	Gene_or_protein 240 258	lipoprotein lipase 
+T13	Gene_or_protein 298 312	hepatic lipase 
+T14	Gene_or_protein 326 329	ACE 
+T15	Gene_or_protein 66 100	Cholesteryl Ester Transfer Protein
+T16	Limited_variation 66 113	Cholesteryl Ester Transfer Protein polymorphism
+T17	Chemical 392 399	statins
+T18	Pharmacodynamic_phenotype 381 399	effects of statins
+T6	Limited_variation 270 317	-514 CT polymorphism in the hepatic lipase gene
+T1	Limited_variation 326 348	ACE deletion type gene
+R1	influences Arg1:T16 Arg2:T18	
+R2	influences Arg1:T2 Arg2:T18	
+R3	influences Arg1:T4 Arg2:T18	
+R4	influences Arg1:T5 Arg2:T18	
+R5	influences Arg1:T8 Arg2:T18	
+R6	influences Arg1:T10 Arg2:T18	
+R8	influences Arg1:T6 Arg2:T18	
+R9	influences Arg1:T14 Arg2:T18	
+R7	influences Arg1:T1 Arg2:T18	

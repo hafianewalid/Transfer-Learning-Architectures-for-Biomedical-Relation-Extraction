@@ -1,0 +1,9 @@
+T1	SNP 38 47	rs9939609
+T2	Phenotype 107 113	cancer
+T3	Phenotype 114 128	cardiovascular
+T4	Phenotype 141 149	diabetes
+T5	Negation_Scope 104 150	no cancer,cardiovascular disease, or diabetes.
+T6	Negation_Cue 104 106	no
+R1	neutral_association Arg1:T1 Arg2:T2
+R2	neutral_association Arg1:T1 Arg2:T3
+R3	neutral_association Arg1:T1 Arg2:T4

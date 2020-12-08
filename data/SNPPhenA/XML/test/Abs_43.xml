@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1038" TEXT="Benign prostatic hyperplasia (BPH) and prostate cancer (PCa) are two chronic conditions, very common in aged men, that have been associated to inflammatory process. Chemokines and their receptors are recognized as critical mediators of inflammatory responses, they regulate immune cell migration and are implicated in tumor pathogenesis. The impact of two chemokine receptor gene polymorphisms, CCR2-64I (rs1799864) and CCR5-Δ32 (rs333), was evaluated in BPH and PCa. 385 DNA samples (130 BPH, 136 PCa, 119 healthy control) were genotyped. The allele frequencies were similar among control, BPH and PCa groups. Median of serum PSA levels was different between groups: 0.79, 1.45 and 6.91ng/mL in control, BPH and PCa groups, respectively (all p&lt;0.001). The prostate volume median was 20.00cm(3) in the control group, thus, lower than BPH (35.35cm(3)) and PCa (35.80cm(3)) (both p&lt;0.001), nevertheless no statistical significant difference was observed between BPH and PCa patients (p=0.172). Remarkably, CCR2-64I was a protective factor to PCa when compared with BPH (OR=0.550; 95%CI=0.311-0.975), although the statistically significant difference was lost after correction for multiple comparisons. No significant associations of CCR5-Δ32 variant were observed with BPH, PCa or PCa clinicopathologic status. Our data suggest the influence of CCR2-64I variant in the development of prostate cancer.">
+	<sentence ID="1038_0" START="992" END="1199">
+		<snp ID="0" START="1004" END="1012" TEXT="CCR2-64I"/>
+		<phenotype ID="0" START="1040" END="1199" text="PCa"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1038_1" START="1200" END="1308">
+		<snp ID="1" START="1231" END="1239" TEXT="CCR5-Δ32"/>
+		<phenotype ID="1" START="1267" END="1308" text="BPH"/>
+		<phenotype ID="2" START="1272" END="1308" text="PCa"/>
+		<phenotype ID="3" START="1279" END="1308" text="PCa"/>
+		<modality_marker  START="1253" END="1263" text="observed w"/>
+		<negation_scope  START="1200" END="1308" text="No significant associations of CCR5-Δ32 variant were observed with BPH, PCa or PCa clinicopathologic status.">
+			<negation_cue START="1200" END="1202" text="No"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

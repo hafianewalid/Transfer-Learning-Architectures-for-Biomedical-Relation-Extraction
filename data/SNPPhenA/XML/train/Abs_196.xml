@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1108" TEXT="BACKGROUND: The prolylcarboxypeptidase (PRCP) gene encodes a membrane protein that acts on angiotensin II (Ang II) and kallikrein to release vasoactive peptides. The chymase (CMA1) gene is important for Ang II generation. Therefore, the two genes might be involved in the pathogenesis of essential hypertension (EH). METHODS: Eleven tag single nucleotide polymorphisms (SNPs) in the PRCP gene and four tag SNPs and G-1903A (rs1800875) polymorphism in the CMA1 gene were genotyped in the Chinese Han population (n=1020) using a polymerase chain reaction-restriction fragment length polymorphism method. RESULTS: In the PRCP gene, single site analyses indicated that the rs7104980 G allele was a susceptible factor for EH (adjusted odds ratio (OR)=1.98, 95% confidence interval (CI) 1.62-2.43, p=0.3×10(-10)). The protective effect of Hap3 GAGCACTAACA was observed without carrying the susceptible rs7104908 G allele (OR=0.67, 95% CI 0.56-0.81, p=0.3×10(-4)) by haplotype analyses. In the case of the CMA1 gene, no associations with EH were found through single site analyses. However, haplotype analyses showed that Hap16 TTTA significantly increased the risk of EH with OR=3.15 (p=0.0002) which may be driven by interaction with a nearby SNP combination. CONCLUSIONS: The present results indicated PRCP rs7104980 can be considered as a marker for EH and Hap3 GAGCACTAACA (PRCP) and Hap16 TTTA (CMA1) might be associated with EH in Chinese Han population.">
+	<sentence ID="1108_0" START="1255" END="1454">
+		<snp ID="0" START="1303" END="1312" TEXT="rs7104980"/>
+		<phenotype ID="0" START="1425" END="1454" text="EH"/>
+		<modality_marker  START="1255" END="1266" text="CONCLUSIONS"/>
+		<modality_marker  START="1313" END="1316" text="can"/>
+		<modality_marker  START="1400" END="1405" text="might"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

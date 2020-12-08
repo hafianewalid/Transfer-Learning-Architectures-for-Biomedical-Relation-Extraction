@@ -1,0 +1,8 @@
+T1	SNP 29 39	rs12255372
+T2	SNP 41 50	rs3814573
+T3	Phenotype 67 82	type 2 diabetes
+T4	Modality_Marker 19 24	found
+T5	Negation_Scope 0 101	No association was found for rs12255372, rs3814573, c.1,637C>A and type 2 diabetes (p = 0.278-1.000).
+T6	Negation_Cue 0 2	No
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

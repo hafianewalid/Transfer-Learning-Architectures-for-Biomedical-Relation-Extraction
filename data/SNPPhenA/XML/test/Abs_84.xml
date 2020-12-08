@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1083" TEXT="The oxytocin receptor gene (OXTR) has been studied in autism because of the role of oxytocin (OT) in social cognition. Linkage has also been demonstrated to the region of OXTR in a large sample. Two single nucleotide polymorphisms (SNPs) and a haplotype constructed from them in OXTR have been associated with autism in the Chinese Han population. We tested whether these associations replicated in a Caucasian sample with strictly defined autistic disorder. We genotyped the two previously associated SNPs (rs2254298, rs53576) in 57 Caucasian autism trios. Probands met clinical, ADI-R, and ADOS criteria for autistic disorder. Significant association was detected at rs2254298 (p=0.03) but not rs53576. For rs2254298, overtransmission of the G allele to probands with autistic disorder was found which contrasts with the overtransmission of A previously reported in the Chinese Han sample. In both samples, G was more frequent than A. However, in our Caucasian autism trios and the CEU Caucasian HapMap samples the frequency of A was less than that reported in the Chinese Han and Chinese in Bejing HapMap samples. The haplotype test of association did not reveal excess transmission from parents to affected offspring. These findings provide support for association of OXTR with autism in a Caucasian population. Overtransmission of different alleles in different populations may be due to a different pattern of linkage disequilibrium between the marker rs2254298 and an as yet undetermined susceptibility variant in OXTR.">
+	<sentence ID="1083_0" START="705" END="891">
+		<snp ID="0" START="709" END="718" TEXT="rs2254298"/>
+		<phenotype ID="0" START="770" END="891" text="autistic"/>
+		<modality_marker  START="792" END="797" text="found"/>
+		<modality_marker  START="856" END="864" text="reported"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

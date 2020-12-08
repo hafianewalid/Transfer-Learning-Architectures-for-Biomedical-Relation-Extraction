@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1231" TEXT="Androgenetic alopecia, or male pattern baldness, is a complex condition with a strong heritable component. In 2001, we published the first significant evidence of a genetic association between baldness and a synonymous coding SNP rs6152 in the androgen receptor gene, AR. Recently, this finding was replicated in three independent studies, confirming an important role for AR in the baldness phenotype. In one such replication study, it was claimed that the causative variant underlying the association was likely to be the polyglycine (GGN) repeat polymorphism, one of two apparently functional triplet repeat polymorphisms located in the exon 1 transactivating domain of the gene. Here, we extend our original association finding and present comprehensive evidence from approximately 1,200 fathers and sons drawn from 703 families of the Victorian Family Heart Study, a general population Caucasian cohort, that neither exon 1 triplet repeat polymorphism is causative in this condition. Seventy-eight percent of fathers (531/683) and 30% of sons (157/520) were affected to some degree with AGA. We utilised statistical methods appropriate for the categorical nature of the phenotype and familial structure of the cohort, and determined that whilst SNP rs6152 was strongly associated with baldness (P &lt; 0.0001), the GGN triplet repeat was not (P = 0.13). In the absence of any other known common functional coding variants, we argue that the causative variant is likely to be in the non-coding region, and yet to be identified. The identification of functional non-coding variants surrounding AR may have significance not only for baldness, but also for the many other complex conditions that have thus far been linked to AR.">
+	<sentence ID="1231_0" START="107" END="271">
+		<snp ID="0" START="230" END="236" TEXT="rs6152"/>
+		<phenotype ID="0" START="193" END="271" text="baldness"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1231_1" START="1097" END="1355">
+		<snp ID="1" START="1254" END="1260" TEXT="rs6152"/>
+		<phenotype ID="1" START="1290" END="1355" text="baldness"/>
+		<modality_marker  START="1265" END="1273" text="strongly"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,7 @@
+T2	Gene_or_protein 48 52	XBP1 
+T4	Chemical 118 127	valproate 
+T5	Disease 131 148	bipolar disorders 
+T6	Limited_variation 48 60	XBP1 -116C/G
+T1	Pharmacodynamic_phenotype 118 127;78 89	valproate response to
+R1	isAssociatedWith Arg1:T6 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

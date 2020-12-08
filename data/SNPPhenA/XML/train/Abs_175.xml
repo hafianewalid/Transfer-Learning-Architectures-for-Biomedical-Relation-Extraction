@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1085" TEXT="New onset posttransplant diabetes mellitus (PTDM) has a high incidence after kidney transplantation in patients medicated with tacrolimus. PTDM can adversely affect patient and graft survival. The pathophysiology of PTDM closely mimics type 2 diabetes mellitus (T2DM). One of the possible genetic factors predisposing individuals to PTDM might be a polymorphism in the transcription factor 7-like 2 gene (TCF7L2). This polymorphism has previously been associated with increased risk of T2DM in the general population. Therefore, the present study aimed to evaluate TCF7L2 polymorphisms in PTDM in kidney transplant patients medicated with tacrolimus. Non-diabetic kidney transplant patients medicated with tacrolimus (n = 234) were genotyped for the presence of TCF7L2 gene variants (rs12255372 and rs7903146) using TaqMan probes. Of the 234 patients, 66 patients had developed PTDM and 168 had not. Frequencies of the studied single nucleotide polymorphisms (SNPs) did not differ significantly between the study groups. Moreover, haplotypeanalyses failed to detect any associations between TCF7L2 haplotypes and PTDM. However, in late-onset PTDM (developed later that 2 weeks from transplantation), frequencies of the rs7903146 TT genotype and T minor allele were significantly increased compared to non-PTDM controls (17.9% vs. 5.9%, p = 0.017, OR: 4.13, 95% CI: 1.19-14.33 for TT genotype, 39.3% vs. 25.9%, p = 0.038 for T allele). If the application of TCF7L2 rs7903146 SNPs as a marker for PTDM is confirmed by further independent studies, replacing tacrolimus with other immunosuppressants could be warranted in patients at high risk of PTDM, as diagnosed by TCF7L2 genotyping.">
+	<sentence ID="1085_0" START="1435" END="1683">
+		<snp ID="0" START="1464" END="1473" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1495" END="1683" text="PTDM"/>
+		<phenotype ID="1" START="1643" END="1683" text="PTDM"/>
+		<modality_marker  START="1503" END="1512" text="confirmed"/>
+		<modality_marker  START="1571" END="1576" text="other"/>
+		<modality_marker  START="1596" END="1601" text="could"/>
+		<modality_marker  START="1630" END="1634" text="high"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

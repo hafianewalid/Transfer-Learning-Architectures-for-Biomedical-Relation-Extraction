@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1005" TEXT="The shared genetic basis of attention deficit/hyperactivity disorder (ADHD) and substance use disorders (SUDs) was explored by investigating the association of candidate risk factors in neurotransmitter genes with both disorders. One hundred seven methadone maintenance treatment patients, 36 having an ADHD diagnosis, 176 adult patients with ADHD without SUDs, and 500 healthy controls were genotyped for variants in the DRD4 (exon 3 VNTR), DRD5 (upstream VNTR), HTR1B (rs6296), DBH (rs2519152), COMT (rs4680; Val158Met), and OPRM1 (rs1799971; 118A&gt;G) genes. Association with disease was tested using logistic regression models. This pilot study was adequately powered to detect larger genetic effects (OR≥2) of risk alleles with a low frequency. Compared to controls, ADHD patients (with and without SUDs) showed significantly increased frequency of the DBH (rs2519152: OR 1.73;CI 1.15-2.59; P=0.008) and the OPRM1 risk genotypes (rs1799971: OR 1.71; CI 1.17-2.50; P=0.006). The DBH risk genotype was associated with ADHD diagnosis, with the association strongest in the pure ADHD group. The OPRM1 risk genotype increased the risk for the combined ADHD and SUDphenotype. The present study strengthens the evidence for a shared genetic basis for ADHD and addiction. The association of OPRM1 with the ADHD and SUD combination could help to explain the contradictory results of previous studies. The power limitations of the study restrict the significance of these findings: replication in larger samples is warranted..">
+	<sentence ID="1005_0" START="748" END="976">
+		<snp ID="0" START="861" END="870" TEXT="rs2519152"/>
+		<snp ID="1" START="933" END="942" TEXT="rs1799971"/>
+		<phenotype ID="0" START="770" END="976" text="ADHD"/>
+		<phenotype ID="1" START="802" END="976" text="SUDs"/>
+		<modality_marker  START="808" END="814" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

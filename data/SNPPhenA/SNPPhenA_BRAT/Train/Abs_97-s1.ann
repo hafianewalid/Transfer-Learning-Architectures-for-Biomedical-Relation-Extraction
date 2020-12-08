@@ -1,0 +1,5 @@
+T1	SNP 50 64	APOE genotypes
+T2	Phenotype 80 106	saturated fatty acids(SFA)
+T3	Phenotype 112 141	obesity on serum lipid levels
+R1	neutral_association Arg1:T1 Arg2:T2
+R2	neutral_association Arg1:T1 Arg2:T3

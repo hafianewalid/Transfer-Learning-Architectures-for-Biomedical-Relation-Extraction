@@ -1,0 +1,9 @@
+T1	SNP 34 40	TCF7L2
+T2	SNP 155 164	rs7903146
+T3	SNP 213 223	rs12255372
+T4	Phenotype 79 82	GDM
+T5	Modality_Marker 41 47	showed
+T6	Modality_Marker 52 61	strongest
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T3 Arg2:T4
+R3	moderate_confidence_association Arg1:T2 Arg2:T4

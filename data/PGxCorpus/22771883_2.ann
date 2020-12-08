@@ -1,0 +1,17 @@
+T1	Chemical 165 179	gadoxetic acid
+T2	Chemical 273 287	gadoxetic acid
+T4	Limited_variation 128 135;26 119	OATP1B3 genetic polymorphisms of liver-specific human organic anion transporting polypeptide ( OATP )
+T5	Gene_or_protein 113 117	OATP
+T6	Limited_variation 26 123	genetic polymorphisms of liver-specific human organic anion transporting polypeptide ( OATP ) 1B1
+T7	Pharmacokinetic_phenotype 155 179	uptake of gadoxetic acid
+T8	Pharmacodynamic_phenotype 252 287	liver enhancement by gadoxetic acid
+T3	Gene_or_protein 72 110	organic anion transporting polypeptide
+R2	influences Arg1:T6 Arg2:T7	
+R3	influences Arg1:T4 Arg2:T7	
+R4	influences Arg1:T6 Arg2:T8	
+R5	influences Arg1:T4 Arg2:T8	
+R1	isEquivalentTo Arg1:T5 Arg2:T3	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R5	hyp
+#4	AnnotatorNotes R4	hyp

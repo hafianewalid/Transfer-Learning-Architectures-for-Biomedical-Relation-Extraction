@@ -1,0 +1,8 @@
+T3	Chemical 98 106	levodopa
+T4	Limited_variation 13 18	MUT +
+T5	Phenotype 44 55	axial signs
+T6	Limited_variation 73 78	MUT -
+T7	Pharmacodynamic_phenotype 137 158;98 106	resistant axial signs levodopa
+T1	Disease 255 262	surgery
+R1	increases Arg1:T4 Arg2:T5	
+R2	causes Arg1:T6 Arg2:T7	

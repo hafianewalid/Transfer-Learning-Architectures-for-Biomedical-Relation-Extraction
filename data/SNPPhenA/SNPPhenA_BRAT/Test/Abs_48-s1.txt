@@ -1,0 +1,1 @@
+Univariate analysis detected one significant single-nucleotide polymorphism (p = 0.03), rs1801133, within the methylenetetrahydrofolate reductase (MTHFR) gene associated with AR.

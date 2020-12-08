@@ -1,0 +1,12 @@
+T2	Chemical 41 45	MPAG 
+T3	Gene_or_protein 96 103	SLCO1B1 
+T4	Limited_variation 108 129	SLCO1B3 polymorphisms 
+T5	Gene_or_protein 108 115	SLCO1B3 
+T6	Limited_variation 141 158	UGT polymorphisms 
+T7	Gene_or_protein 141 144	UGT 
+T8	Pharmacokinetic_phenotype 41 62	MPAG pharmacokinetics
+T1	Limited_variation 116 129;96 103	polymorphisms SLCO1B1
+R1	influences Arg1:T1 Arg2:T8	
+R2	influences Arg1:T4 Arg2:T8	
+R3	influences Arg1:T6 Arg2:T8	
+#1	AnnotatorNotes R3	neg

@@ -1,0 +1,15 @@
+T1	Gene_or_protein 34 37	NAA 
+T2	Gene_or_protein 40 42	Cr 
+T3	Gene_or_protein 48 51	Cho 
+T4	Chemical 89 92	MPH 
+T5	Limited_variation 128 156	DAT1 gene VNTR polymorphisms 
+T6	Gene_or_protein 128 132	DAT1 
+T7	Phenotype 48 58	Cho levels
+T8	Phenotype 40 42;52 58	Cr levels
+T9	Phenotype 34 37;52 58	NAA levels
+R2	influences Arg1:T4 Arg2:T8	
+R3	influences Arg1:T4 Arg2:T9	
+R1	influences Arg1:T4 Arg2:T7	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R3	neg
+#3	AnnotatorNotes R2	neg

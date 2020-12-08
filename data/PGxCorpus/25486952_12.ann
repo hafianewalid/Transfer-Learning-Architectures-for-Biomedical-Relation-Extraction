@@ -1,0 +1,5 @@
+T1	Disease 11 14	PMF 
+T4	Gene_or_protein 63 67	JAK2 
+T2	Chemical 63 78	JAK2 inhibitors
+R1	treats Arg1:T2 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

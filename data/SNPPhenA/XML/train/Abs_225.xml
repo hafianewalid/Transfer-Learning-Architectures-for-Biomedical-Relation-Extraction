@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1141" TEXT="BACKGROUND: Genotypes of tumor necrosis factor alpha (TNF-α) and its surface receptors, TNFRSF1A and TNFRSF1B, have been examined in terms of the progression, metastasis, clinical efficacy, and prognosis of various cancers; however, little is known about their effects on clinical outcome inpatients with esophageal squamous cell carcinoma (ESCC). In this study, TNF-α and TNFRSF1A genotypes were retrospectively evaluated in terms of predicting clinical response, long-term survival, and severe acute toxicities in 46 male Japanese ESCC patients treated with definitive 5-fluorouracil (5-FU)/cisplatin (CDDP)-based chemoradiotherapy (CRT). METHODS: A course consisted of the continuous infusion of 5-FU at 400 mg/m(2)/day for days 1-5 and 8-12, the infusion of CDDP at 40 mg/m(2)/day on days 1 and 8, and radiation at 2 Gy/day on days 1-5, 8-12, and 15-19, with a second course being repeated after a 2-week interval. The TNF-α -1031T&gt;C (rs1799964), -863C&gt;A (rs1800630), -857C&gt;T (rs1799724), -308G&gt;A (rs1800629), -238G&gt;A (rs361525), TNFRSF1A -609G&gt;T (rs4149570), and 36A&gt;G (rs767455) genotypes were evaluated. RESULTS: The TNF-α -857C&gt;T genotype was found to be predictive of clinical response, i.e., complete response or not (P = 0.010, Fisher's exact test), but had no effect on long-term survival (CC(-857) vs. CT(-857) + TT(-857), P = 0.072, Fisher's exact test, P = 0.070, Log-rank test). CONCLUSIONS: The TNF-α -857C&gt;T genotype was found to be predictive of clinical response and was more likely to predict long-term survival in Japanese ESCC patients receiving definitive 5-FU/CDDP-based CRT. Further clinical investigations with a larger number of patients or experiments in vitro should be performed to assess the predictive value of this genotype following CRT.">
+	<sentence ID="1141_0" START="1395" END="1600">
+		<snp ID="0" START="1412" END="1434" TEXT="TNF-α -857C&gt;T genotype"/>
+		<phenotype ID="0" START="1545" END="1600" text="ESCC"/>
+		<modality_marker  START="1395" END="1406" text="CONCLUSIONS"/>
+		<modality_marker  START="1439" END="1444" text="found"/>
+		<modality_marker  START="1451" END="1461" text="predictive"/>
+		<modality_marker  START="1491" END="1495" text="more"/>
+		<modality_marker  START="1496" END="1502" text="likely"/>
+		<modality_marker  START="1506" END="1513" text="predict"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,4 @@
+T1	SNP 107 113	rs4680
+T2	Phenotype 60 77	liver homeostasis
+T3	Modality_Marker 9 21	hypothesized
+R1	weak_confidence_association Arg1:T1 Arg2:T2

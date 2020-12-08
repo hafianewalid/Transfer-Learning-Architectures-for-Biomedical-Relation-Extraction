@@ -1,0 +1,4 @@
+T1	SNP 11 20	rs3754777
+T2	Phenotype 84 94	overweight
+T3	Modality_Marker 55 61	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T2

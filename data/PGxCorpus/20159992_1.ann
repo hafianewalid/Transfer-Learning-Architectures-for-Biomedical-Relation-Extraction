@@ -1,0 +1,8 @@
+T1	Limited_variation 4 45	FLT3 internal tandem duplication mutation 
+T2	Gene_or_protein 4 8	FLT3 
+T3	Chemical 101 113	AZD1152-HQPA 
+T4	Disease 117 143	acute myelogenous leukemia 
+T5	Gene_or_protein 75 90	aurora B kinase
+T6	Chemical 75 100	aurora B kinase inhibitor
+R1	influences Arg1:T3 Arg2:T1	
+R3	decreases Arg1:T3 Arg2:T5	

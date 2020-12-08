@@ -1,0 +1,11 @@
+T3	Gene_or_protein 77 81	cAMP 
+T5	Chemical 163 174	1,25-(OH)2D 
+T6	Pharmacodynamic_phenotype 38 51	serum calcium
+T7	Pharmacodynamic_phenotype 64 81	nephrogenous cAMP
+T8	Pharmacodynamic_phenotype 157 174	serum 1,25-(OH)2D
+T9	Chemical 6 20	PTH - ( 1-34 )
+T10	Pharmacodynamic_phenotype 94 122	renal phosphate reabsorption
+R1	increases Arg1:T9 Arg2:T6	
+R2	increases Arg1:T9 Arg2:T7	
+R3	increases Arg1:T9 Arg2:T8	
+R4	decreases Arg1:T9 Arg2:T10	

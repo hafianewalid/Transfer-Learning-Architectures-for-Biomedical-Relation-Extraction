@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1081" TEXT="For this purpose, two single nucleotide polymorphisms (SNPs), 6930G&gt;A (rs53576) and 9073G&gt;A (rs2254298), within the oxytocin receptor gene (OXTR), were studied in a cohort of 185 patients with major depression (50.3%) or bipolar I or II disorders (49.7%) and 192 matched healthy controls.">
+	<sentence ID="1081_0" START="0" END="288">
+		<snp ID="0" START="71" END="78" TEXT="rs53576"/>
+		<snp ID="1" START="93" END="102" TEXT="rs2254298"/>
+		<phenotype ID="0" START="199" END="288" text="depression"/>
+		<phenotype ID="1" START="221" END="288" text="bipolar"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

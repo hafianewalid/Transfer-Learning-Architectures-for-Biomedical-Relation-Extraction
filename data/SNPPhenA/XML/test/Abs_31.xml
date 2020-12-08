@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1025" TEXT="As for COMT Val158Met rs4680 polymorphism, the heterogeneous genotype showed a decreased risk for endometrial cancer compared with the common homogenous genotype in a fixed-effect model in Asian population (Met/Val vs.">
+	<sentence ID="1025_0" START="0" END="218">
+		<snp ID="0" START="7" END="28" TEXT="COMT Val158Met rs4680"/>
+		<phenotype ID="0" START="98" END="218" text="endometrial cancer"/>
+		<modality_marker  START="70" END="76" text="showed"/>
+		<modality_marker  START="180" END="185" text="model"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

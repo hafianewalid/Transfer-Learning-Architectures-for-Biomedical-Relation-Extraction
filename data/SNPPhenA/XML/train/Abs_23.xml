@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1146" TEXT="BACKGROUND: Recently, polymorphisms in COMT (catechol-O-methyltransferase), PLCH1 (phosphoinositide-specific phospholipase C eta 1), and CYP17A1 (cytochrome P450 17A1) were found to be associated with the development of lung cancer in a non-Chinese population. OBJECTIVE: To explore the potential association between single-nucleotide polymorphism (SNP) in COMT, PLCH1, CYP17A1, and non-small-cell lung cancer (NSCLC) susceptibility in Chinese patients who were nonsmokers. METHODS: A case-controlled study was conducted in 200 patients with NSCLC and 200 healthy controls who were age and sex matched. SNPs rs4680, rs181696, and rs743572 from the COMT, PLCH1, and CYP17A1 genes, respectively, were selected for genotyping. The association between genotype and lung cancer risk was evaluated by computing the odds ratio and 95% confidence intervalfrom multivariate unconditional logistic regression analyses with adjustment for sex and age. RESULTS: The frequency of the G genotype in COMT rs4680 was statistically different between patients with NSCLC and controls (P = .04), and between patients with adenocarcinomas (ADC) and controls (P = .02).  The frequency of the A genotype in PLCH1 rs181696 occurred more frequently in squamous cell carcinomas (SQC) than in controls (P = .02). The G/G homozygous genotype in COMT rs4680 and A/A homozygous genotype in PLCH1 rs181696 were associated with ADC and SQC, respectively (odds ratio [OR] 0.61 and OR 2.01, respectively). CONCLUSIONS: In this study, we found that the COMT rs4680 SNP was significantly associated with a reduced risk of NSCLC, especially ADC, which suggests that this SNP may have a protective effect. Moreover, the PLCH1 rs181696 SNP was strongly associated with an increased risk of SQC, which suggests that this SNP may be a risk factor for developing SQC.">
+	<sentence ID="1146_0" START="950" END="1148">
+		<snp ID="0" START="990" END="996" TEXT="rs4680"/>
+		<phenotype ID="0" START="1047" END="1148" text="NSCLC"/>
+		<phenotype ID="1" START="1103" END="1148" text="adenocarcinomas (ADC)"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1146_1" START="1150" END="1286">
+		<snp ID="1" START="1191" END="1199" TEXT="rs181696"/>
+		<phenotype ID="2" START="1228" END="1286" text="squamous cell carcinomas (SQC)"/>
+		<modality_marker  START="1209" END="1213" text="more"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1146_2" START="1287" END="1472">
+		<snp ID="2" START="1323" END="1329" TEXT="rs4680"/>
+		<snp ID="3" START="1367" END="1375" TEXT="rs181696"/>
+		<phenotype ID="3" START="1397" END="1472" text="ADC"/>
+		<phenotype ID="4" START="1405" END="1472" text="SQC"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="4" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="4" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1146_3" START="1486" END="1668">
+		<snp ID="4" START="1524" END="1530" TEXT="rs4680"/>
+		<phenotype ID="5" START="1587" END="1668" text="NSCLC"/>
+		<phenotype ID="6" START="1605" END="1668" text="ADC"/>
+		<modality_marker  START="1504" END="1509" text="found"/>
+		<modality_marker  START="1616" END="1624" text="suggests"/>
+		<modality_marker  START="1639" END="1642" text="may"/>
+		<pair PAIRID="7" PHENOTYPEID="5" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="8" PHENOTYPEID="6" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1146_4" START="1669" END="1756">
+		<snp ID="5" START="1689" END="1697" TEXT="rs181696"/>
+		<phenotype ID="7" START="1752" END="1756" text="SQC"/>
+		<modality_marker  START="1706" END="1714" text="strongly"/>
+		<pair PAIRID="9" PHENOTYPEID="7" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

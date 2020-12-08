@@ -1,0 +1,11 @@
+T1	SNP 57 66	rs2273535
+T2	Phenotype 23 29	cancer
+T3	Phenotype 110 123	breast cancer
+T4	Phenotype 185 202	colorectal cancer
+T5	Phenotype 276 293	esophageal cancer
+T6	Modality_Marker 35 43	revealed
+T7	Modality_Marker 80 83	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T1 Arg2:T5
+R4	weak_confidence_association Arg1:T1 Arg2:T3

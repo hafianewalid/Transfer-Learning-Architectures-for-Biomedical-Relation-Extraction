@@ -1,0 +1,8 @@
+T1	Disease 47 66	CEL in blast crisis 
+T2	Gene_or_protein 22 28	FIP1L1 
+T5	Chemical 85 94	sorafenib 
+T6	Limited_variation 22 46	FIP1L1 -PDGFRalpha T674I
+T3	Chemical 97 104	Nexavar
+R1	isAssociatedWith Arg1:T6 Arg2:T1	
+R2	treats Arg1:T5 Arg2:T1	
+R3	isEquivalentTo Arg1:T3 Arg2:T5	

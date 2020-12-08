@@ -1,0 +1,1 @@
+SNP rs290487 located in an LD block close to the 3' end of the gene was associated with type 2 diabetes (allele-specific P = 0.0021; permuted P = 0.03).

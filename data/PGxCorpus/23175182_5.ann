@@ -1,0 +1,18 @@
+T1	Gene_or_protein 14 28	mGlu3 receptor 
+T2	Pharmacodynamic_phenotype 57 77	action of paclitaxel 
+T3	Pharmacodynamic_phenotype 57 66;80 89	action of etoposide 
+T4	Pharmacodynamic_phenotype 57 66;92 104	action of cis-platinum 
+T5	Pharmacodynamic_phenotype 111 121;57 66	irinotecan action of 
+T6	Chemical 14 37	mGlu3 receptor blockade
+T7	Chemical 67 77	paclitaxel
+T8	Chemical 80 89	etoposide
+T9	Chemical 92 104	cis-platinum
+T10	Chemical 111 121	irinotecan
+R1	influences Arg1:T6 Arg2:T2	
+R2	influences Arg1:T6 Arg2:T3	
+R3	influences Arg1:T6 Arg2:T4	
+R4	influences Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	neg
+#4	AnnotatorNotes R4	neg

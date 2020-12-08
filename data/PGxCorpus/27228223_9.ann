@@ -1,0 +1,7 @@
+T1	Chemical 46 57	oseltamivir 
+T2	Limited_variation 179 192	CES1 variants 
+T3	Gene_or_protein 179 183	CES1 
+T4	Limited_variation 207 212	G143E 
+T5	Pharmacokinetic_phenotype 46 68	oseltamivir activation
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T4 Arg2:T5	

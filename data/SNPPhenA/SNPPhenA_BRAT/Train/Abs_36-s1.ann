@@ -1,0 +1,7 @@
+T1	SNP 106 112	rs4680
+T2	Phenotype 117 126	psychotic
+T3	Modality_Marker 24 32	findings
+T4	Modality_Marker 76 80	find
+T5	Negation_Scope 66 136	failed to find any associations between rs4680 and psychotic symptoms.
+T6	Negation_Cue 66 72	failed
+R1	negative_association Arg1:T1 Arg2:T2

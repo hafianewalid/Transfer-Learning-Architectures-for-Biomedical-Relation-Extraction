@@ -1,0 +1,15 @@
+T1	Gene_or_protein 58 87	xeroderma pigmentosum group A 
+T2	Gene_or_protein 90 93	XPA 
+T3	Gene_or_protein 108 137	xeroderma pigmentosum group D 
+T5	Gene_or_protein 140 143	XPD 
+T6	Chemical 220 247	platinum based chemotherapy 
+T7	Disease 260 265	NSCLC 
+T8	Limited_variation 108 195	xeroderma pigmentosum group D ( XPD ) codon751 single-nucleotide polymorphisms ( SNPs )
+T4	Limited_variation 155 195;58 103	single-nucleotide polymorphisms ( SNPs ) xeroderma pigmentosum group A ( XPA ) codon23
+T9	Pharmacodynamic_phenotype 208 247	response to platinum based chemotherapy
+T10	Chemical 220 228	platinum
+R1	influences Arg1:T4 Arg2:T9	
+R2	influences Arg1:T8 Arg2:T9	
+R3	treats Arg1:T6 Arg2:T7	
+R4	isEquivalentTo Arg1:T2 Arg2:T1	
+R5	isEquivalentTo Arg1:T5 Arg2:T3	

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1266" TEXT="Hepatitis C virus (HCV) modulates host lipid metabolism as part of its lifecycle and is dependent upon VLDL for co-assembly and secretion. HCVdyslipidemia is associated with steatosis, insulin resistance, IL28B genotype and disease progression. Apolipoprotein E (ApoE) is an important lipidtransport protein, a key constituent of VLDL, and is involved in immunomodulation. Our aims were to determine the role of APOE regional polymorphisms on host lipids, IL28B genotype and disease severity in chronic HCV (CHC) patients. The study cohort included 732 CHC patients with available DNA forgenotype determination of four polymorphisms in the chromosome 19 region that encompasses the TOMM40, APOE and APOC1 genes. Serum lipidanalysis and apolipoproteins levels were measured using an immunoturbidimetric assay. APOE rs7412 polymorphism (capturing the ε2 isoform) was significantly associated with serum ApoE levels in both Caucasians and African-American patients (p = 2.3 × 10(-11)) and explained 7 % of variance inserum ApoE. Among IL28B-CC patients (n = 196), the rs429358 (defines ε4 isoform) and TOMM40 '523' S polymorphisms were associated with 12 % of variance in ApoB levels. Patients homozygous for the APOE ε3 isoform had a greater than two fold increased odds of F2-F4 fibrosis (p = 1.8 × 10(-5)), independent of serum lipid and lipoprotein levels. There were no associations between APOE polymorphisms and serum HDL-C, APO-CIII and triglycerides. In CHC patients, genetic heterogeneity in the APOE/TOMM40 genomic region is significantly associated with variation in serum ApoE and ApoB levels, and also with fibrosis suggesting a pleiotropic attribute of this genomic region.">
+	<sentence ID="1266_0" START="1358" END="1455">
+		<snp ID="0" START="1393" END="1397" TEXT="APOE"/>
+		<phenotype ID="0" START="1416" END="1455" text="serum HDL-C"/>
+		<phenotype ID="1" START="1429" END="1455" text="APO-CIII"/>
+		<phenotype ID="2" START="1442" END="1455" text="triglycerides"/>
+		<negation_scope  START="1369" END="1455" text="no associations between APOE polymorphisms and serum HDL-C, APO-CIII and triglycerides">
+			<negation_cue START="1369" END="1371" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1266_1" START="1457" END="1685">
+		<snp ID="1" START="1503" END="1514" TEXT="APOE/TOMM40"/>
+		<phenotype ID="3" START="1460" END="1685" text="CHC"/>
+		<modality_marker  START="1627" END="1637" text="suggesting"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

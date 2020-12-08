@@ -1,0 +1,3 @@
+T1	SNP 51 60	rs5770917
+T2	Phenotype 9 12	EHS
+R1	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,46 @@
+T1	Chemical 84 100	6-mercaptopurine 
+T2	Gene_or_protein 118 122	TPMT 
+T4	Chemical 127 139	methotrexate 
+T5	Chemical 142 145	MTX 
+T6	Gene_or_protein 169 174	ABCB1 
+T7	Gene_or_protein 180 184	MDR1 
+T8	Gene_or_protein 189 194	ABCC2 
+T9	Gene_or_protein 197 204	SLC19A1 
+T10	Gene_or_protein 210 214	RFC1 
+T11	Gene_or_protein 223 230	SLCO1B1 
+T12	Chemical 241 244	MTX 
+T13	Gene_or_protein 259 264	MTHFR 
+T14	Gene_or_protein 269 273	TYMS 
+T16	Chemical 362 365	MTX 
+T20	Pharmacokinetic_phenotype 362 375	MTX clearance
+T3	Pharmacodynamic_phenotype 336 354	treatment toxicity
+T15	Pharmacokinetic_phenotype 84 115	6-mercaptopurine detoxification
+T17	Pharmacokinetic_phenotype 127 158	methotrexate ( MTX ) metabolism
+T18	Pharmacodynamic_phenotype 241 251	MTX effect
+T19	Limited_variation 304 317	polymorphisms
+T21	Limited_variation 49 71	polymorphisms in genes
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	influences Arg1:T6 Arg2:T17	
+R4	influences Arg1:T2 Arg2:T15	
+R5	influences Arg1:T8 Arg2:T17	
+R6	influences Arg1:T9 Arg2:T17	
+R8	influences Arg1:T11 Arg2:T17	
+R9	influences Arg1:T13 Arg2:T18	
+R10	influences Arg1:T14 Arg2:T18	
+R11	influences Arg1:T19 Arg2:T3	
+R12	influences Arg1:T19 Arg2:T20	
+R13	influences Arg1:T21 Arg2:T15	
+R14	influences Arg1:T21 Arg2:T17	
+R3	isEquivalentTo Arg1:T7 Arg2:T6	
+R7	isEquivalentTo Arg1:T10 Arg2:T9	
+#1	AnnotatorNotes R11	hyp
+#2	AnnotatorNotes R12	hyp
+#3	AnnotatorNotes R14	hyp
+#4	AnnotatorNotes R13	hyp
+#5	AnnotatorNotes R4	hyp
+#6	AnnotatorNotes R2	hyp
+#7	AnnotatorNotes R8	hyp
+#8	AnnotatorNotes R6	hyp
+#9	AnnotatorNotes R5	hyp
+#10	AnnotatorNotes R10	hyp
+#11	AnnotatorNotes R9	hyp

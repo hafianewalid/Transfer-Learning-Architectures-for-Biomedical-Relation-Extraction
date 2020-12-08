@@ -1,0 +1,11 @@
+T2	Gene_or_protein 26 30	ENO2 
+T4	Phenotype 85 113	reduced ENO2 gene expression 
+T5	Gene_or_protein 93 97	ENO2 
+T1	Disease 61 78	heroin dependence
+T3	Disease 143 160	heroin dependence
+T6	Chemical 61 67	heroin
+T7	Chemical 143 149	heroin
+R1	isAssociatedWith Arg1:T2 Arg2:T1	
+R2	increases Arg1:T4 Arg2:T3	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

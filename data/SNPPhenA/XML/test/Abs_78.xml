@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1076" TEXT="The presence of four common oxytocin receptor gene polymorphisms (rs2254298, rs53576, rs2228485 and rs237911) was evaluated in one hundred women with preterm birth and one hundred healthy women using restriction fragment length polymorphism genotyping.">
+	<sentence ID="1076_0" START="0" END="252">
+		<snp ID="0" START="66" END="75" TEXT="rs2254298"/>
+		<snp ID="1" START="77" END="84" TEXT="rs53576"/>
+		<snp ID="2" START="86" END="95" TEXT="rs2228485"/>
+		<snp ID="3" START="100" END="108" TEXT="rs237911"/>
+		<phenotype ID="0" START="150" END="252" text="preterm birth"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1031" TEXT="Objective: We have conducted the first study of the association of interleukin (IL)-10, tumor necrosis factor alpha (TNF-α), and IL23R-IL12RB2 region single nucleotide polymorphisms (SNPs) with Behçet's disease (BD) in Western Algeria.">
+	<sentence ID="1031_0" START="0" END="235">
+		<snp ID="0" START="129" END="142" TEXT="IL23R-IL12RB2"/>
+		<phenotype ID="0" START="194" END="235" text="Behçet's disease (BD)"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

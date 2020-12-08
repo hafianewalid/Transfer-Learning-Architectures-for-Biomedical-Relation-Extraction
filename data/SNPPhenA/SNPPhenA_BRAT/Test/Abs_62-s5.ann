@@ -1,0 +1,6 @@
+T1	SNP 4 10	rs4680
+T2	Phenotype 46 64	alcohol dependence
+T3	Phenotype 170 199	nicotine or opiate dependence
+T4	Modality_Marker 15 21	showed
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3

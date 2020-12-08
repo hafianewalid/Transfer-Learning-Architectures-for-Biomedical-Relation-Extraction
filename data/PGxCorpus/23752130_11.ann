@@ -1,0 +1,10 @@
+T1	Chemical 32 44	butyric acid
+T2	Gene_or_protein 98 104	MFG-E8
+T3	Disease 141 148	colitis
+T4	Pharmacodynamic_phenotype 108 148	DSS -induced murine experimental colitis
+T5	Chemical 108 111	DSS
+T7	Pharmacodynamic_phenotype 61 86	anti-inflammatory effects
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+R2	isAssociatedWith Arg1:T2 Arg2:T4	
+R3	causes Arg1:T5 Arg2:T3	
+R4	causes Arg1:T1 Arg2:T7	

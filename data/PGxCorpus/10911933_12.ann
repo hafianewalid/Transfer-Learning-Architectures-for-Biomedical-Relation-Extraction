@@ -1,0 +1,9 @@
+T2	Gene_or_protein 11 17	CYP2A6 
+T3	Chemical 25 40	tranylcypromine 
+T4	Chemical 43 54	methoxsalen 
+T1	Phenotype 83 111	activation of procarcinogens
+T5	Phenotype 67 74	smoking
+R3	decreases Arg1:T3 Arg2:T2	
+R4	decreases Arg1:T4 Arg2:T2	
+R1	decreases Arg1:T2 Arg2:T1	
+R2	decreases Arg1:T2 Arg2:T5	

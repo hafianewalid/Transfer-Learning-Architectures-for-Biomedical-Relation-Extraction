@@ -1,0 +1,11 @@
+T1	Chemical 0 8	Nutlin-3 
+T2	Gene_or_protein 14 18	MDM2 
+T3	Gene_or_protein 94 97	p53 
+T4	Disease 110 116	cancer 
+T5	Chemical 14 28	MDM2 inhibitor
+T6	Chemical 77 97	activator of the p53
+R1	decreases Arg1:T1 Arg2:T2	
+R2	increases Arg1:T1 Arg2:T3	
+R3	treats Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

@@ -1,0 +1,9 @@
+T1	Chemical 57 72	25-OH vitamin D 
+T3	Gene_or_protein 163 168	NR1I1 
+T5	Haplotype 163 172	NR1I1 CCA
+T6	Phenotype 93 113	virological response
+T7	Pharmacodynamic_phenotype 53 79	low 25-OH vitamin D levels
+T2	Haplotype 175 178	bAt
+R3	influences Arg1:T5 Arg2:T6	
+R4	influences Arg1:T7 Arg2:T6	
+R1	isEquivalentTo Arg1:T2 Arg2:T5	

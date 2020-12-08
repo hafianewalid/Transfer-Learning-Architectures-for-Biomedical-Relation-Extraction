@@ -1,0 +1,8 @@
+T1	SNP 52 61	rs2254298
+T2	SNP 72 81	rs2228485
+T3	SNP 95 103	rs237911
+T4	Phenotype 180 193	preterm birth
+T5	Modality_Marker 117 122	found
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

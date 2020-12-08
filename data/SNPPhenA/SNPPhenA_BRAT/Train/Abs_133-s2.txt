@@ -1,0 +1,1 @@
+Among them, genetic variants in   TCF7L2 showed the strongest association with GDM risk, with ORs (95% CIs) of 1.44 (1.29-1.60, P < 0.001) per T allele of rs7903146 and 1.46 (1.15-1.84, P = 0.002) per T allele of rs12255372

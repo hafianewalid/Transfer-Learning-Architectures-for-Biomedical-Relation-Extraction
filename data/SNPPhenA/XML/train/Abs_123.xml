@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1028" TEXT="BACKGROUND: The nicotinic acetylcholine receptor (nAChR) gene cluster CHRNA5-A3-B4 on chromosome 15 has been the subject of a considerable body of research over recent years. Two highly correlated single nucleotide polymorphisms (SNPs) within this region--rs16969968 in CHRNA5 and rs1051730 in CHRNA3--have generated particular interest. METHODS: We reviewed the literature relating to SNPs rs16969968 and rs1051730  and  smoking-related phenotypes, and clinical and preclinical studies, which shed light on the mechanisms underlying these associations. RESULTS: Following the initial discovery of an association between this locus and smoking behavior, further associations with numerous phenotypes have been subsequently identified, including smoking-related behaviors, diseases, and cognitive phenotypes. Potential mechanisms thought to underlie these have also been described, as well as possible gene × environment interaction effects. CONCLUSIONS: Perhaps counter to the usual route of scientific inquiry, these initial findings, based exclusively on human samples and strengthened by their identification through agnostic genome-wide methods, have led to preclinical research focused on determining the mechanism underlying these associations. Progress has been made using knockout mouse models, highlighting the importance of α5 nAChR subunits in regulating nicotine intake, particularly those localized to the habenula-interpeduncular nucleus pathway. Translational research seeking to evaluate the effect of nicotine challenge on brain activation as a function of rs16969968 genotype using neuroimaging technologies is now called for, which may point to new targets for novel smoking cessation therapies.">
+	<sentence ID="1028_0" START="338" END="552">
+		<snp ID="0" START="391" END="403" TEXT="rs16969968 a"/>
+		<snp ID="1" START="406" END="417" TEXT="rs1051730  "/>
+		<phenotype ID="0" START="422" END="552" text="smoking-related phenotypes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

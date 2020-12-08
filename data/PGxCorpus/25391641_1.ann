@@ -1,0 +1,18 @@
+T1	Gene_or_protein 20 26	CYP2B6 
+T2	Gene_or_protein 29 35	CYP2A6 
+T3	Gene_or_protein 40 46	UGT2B7 
+T4	Chemical 98 107	efavirenz 
+T5	Chemical 112 122	nevirapine 
+T6	Disease 50 53	HIV
+T7	Chemical 50 63	HIV treatment
+R1	isAssociatedWith Arg1:T3 Arg2:T7	
+R2	isAssociatedWith Arg1:T2 Arg2:T7	
+R3	isAssociatedWith Arg1:T1 Arg2:T7	
+R4	treats Arg1:T4 Arg2:T6	
+R5	treats Arg1:T5 Arg2:T6	
+R6	isAssociatedWith Arg1:T1 Arg2:T4	
+R7	isAssociatedWith Arg1:T2 Arg2:T5	
+R8	isAssociatedWith Arg1:T2 Arg2:T4	
+R9	isAssociatedWith Arg1:T1 Arg2:T5	
+R10	isAssociatedWith Arg1:T3 Arg2:T4	
+R11	isAssociatedWith Arg1:T3 Arg2:T5	

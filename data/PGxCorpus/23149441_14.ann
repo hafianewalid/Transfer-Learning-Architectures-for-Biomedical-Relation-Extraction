@@ -1,0 +1,8 @@
+T1	Limited_variation 29 48	CYP3A5 polymorphism 
+T2	Gene_or_protein 29 35	CYP3A5 
+T3	Chemical 64 74	tacrolimus 
+T4	Limited_variation 120 139	CYP3A5 polymorphism 
+T5	Gene_or_protein 120 126	CYP3A5 
+T6	Pharmacodynamic_phenotype 64 86	tacrolimus variability
+R1	influences Arg1:T4 Arg2:T6	
+#1	AnnotatorNotes R1	neg

@@ -1,0 +1,8 @@
+T1	Phenotype 67 89	p53 protein expression 
+T2	Gene_or_protein 67 70	p53 
+T3	Disease 97 103	tumors 
+T4	Disease 138 153	prostate cancer 
+T6	Chemical 230 247	androgen blockade
+R1	treats Arg1:T6 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T4	
+R3	isAssociatedWith Arg1:T1 Arg2:T3	

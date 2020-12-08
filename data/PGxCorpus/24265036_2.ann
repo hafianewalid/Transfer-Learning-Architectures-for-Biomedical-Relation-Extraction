@@ -1,0 +1,14 @@
+T1	Chemical 3 12	tamoxifen 
+T2	Disease 22 35	breast cancer 
+T3	Gene_or_protein 108 125	estrogen receptor 
+T4	Gene_or_protein 198 215	estrogen receptor 
+T5	Phenotype 63 74	hot flashes
+T6	Phenotype 108 136	estrogen receptor antagonism
+T7	Limited_variation 150 171;198 215	genetic variations of estrogen receptor
+T8	Limited_variation 150 189	genetic variations of metabolic enzymes
+T9	Gene_or_protein 172 189	metabolic enzymes
+R1	treats Arg1:T1 Arg2:T2	
+R2	influences Arg1:T7 Arg2:T6	
+R3	influences Arg1:T8 Arg2:T6	
+R4	influences Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes R4	hyp

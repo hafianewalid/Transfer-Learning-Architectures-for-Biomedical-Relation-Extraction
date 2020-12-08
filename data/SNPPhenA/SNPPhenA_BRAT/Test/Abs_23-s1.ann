@@ -1,0 +1,6 @@
+T1	SNP 54 60	118A>G
+T2	Phenotype 86 103	heroin dependence
+T3	Modality_Marker 12 19	suggest
+T4	Negation_Scope 34 130	no direct effect of 118A>G genotype on the risk for heroin dependence among active heroin users.
+T5	Negation_Cue 34 36	no
+R1	negative_association Arg1:T1 Arg2:T2

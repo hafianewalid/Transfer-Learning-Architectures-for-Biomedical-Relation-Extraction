@@ -1,0 +1,5 @@
+T1	Chemical 0 19	Hydrochlorothiazide 
+T3	Gene_or_protein 130 154	calcium-sensing receptor 
+T4	Limited_variation 96 159	gain-of-function mutations of the calcium-sensing receptor gene
+T5	Pharmacokinetic_phenotype 40 65	urinary calcium excretion
+R1	decreases Arg1:T1 Arg2:T5	

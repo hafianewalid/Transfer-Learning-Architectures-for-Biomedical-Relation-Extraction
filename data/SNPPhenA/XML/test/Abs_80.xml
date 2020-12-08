@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1079" TEXT="Guided by the affective spillover hypothesis and the differential susceptibility to environmental influence frameworks, the present study examined how associations between interparental conflict and mothers' parenting practices were moderated by serotonin transporter (5-HTT) and oxytocin receptor (OXTR)genes. A sample of 201 mothers and their 2-year old child participated in a laboratory-based research assessment. Results supported differential susceptibility hypotheses within spillover frameworks. With respect to OXTR rs53576, mothers with the GG genotype showed greater differential maternal sensitivity across varying levels of interparental conflict. Mothers with one or two copies of the 5-HTTLPR S allele demonstrated differential susceptibility for both sensitive and harsh/punitive caregiving behaviors. Finally, analyses examined whether maternal depressive symptoms and emotional closeness to their child mediated the moderating effects. Findings suggest that maternal emotional closeness with their child indirectly linked OXTR with maternal sensitivity. The results highlight how molecular genetics may explain heterogeneity in spillover models with differential implications for specific parenting behaviors. Implications for clinicians and therapists working with maritally distressed parents are discussed.">
+	<sentence ID="1079_0" START="504" END="660">
+		<snp ID="0" START="525" END="532" TEXT="rs53576"/>
+		<phenotype ID="0" START="578" END="660" text="differential maternal sensitivity"/>
+		<modality_marker  START="563" END="569" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

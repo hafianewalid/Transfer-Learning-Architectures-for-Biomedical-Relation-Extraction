@@ -1,0 +1,16 @@
+T2	Gene_or_protein 13 17	DPYD 
+T4	Gene_or_protein 59 63	DPYD 
+T5	Chemical 84 88	5-FU 
+T6	Chemical 148 152	5-FU 
+T7	Pharmacodynamic_phenotype 157 182	chemotherapeutic toxicity 
+T8	Disease 212 229	colonic carcinoma 
+T3	Phenotype 59 79	DPYD enzyme activity
+T9	Pharmacokinetic_phenotype 84 104	5-FU dyes metabolism
+T10	Pharmacokinetic_phenotype 132 152	accumulation of 5-FU
+T11	Haplotype 13 21	DPYD * 5
+T12	Chemical 157 173	chemotherapeutic
+T1	Disease 200 207;220 229	gastric carcinoma
+R1	decreases Arg1:T11 Arg2:T3	
+R2	decreases Arg1:T11 Arg2:T9	
+R3	causes Arg1:T11 Arg2:T10	
+R4	causes Arg1:T11 Arg2:T7	

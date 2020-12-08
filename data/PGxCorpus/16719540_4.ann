@@ -1,0 +1,6 @@
+T1	Chemical 122 134	fluorouracil 
+T3	Gene_or_protein 296 316	thymidylate synthase 
+T2	Pharmacokinetic_phenotype 202 218	pharmacokinetics
+T4	Pharmacokinetic_phenotype 263 273	metabolism
+T5	Gene_or_protein 283 290	targets
+T6	Pharmacodynamic_phenotype 165 189	narrow therapeutic index

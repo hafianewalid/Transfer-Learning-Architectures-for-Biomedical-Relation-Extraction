@@ -1,0 +1,8 @@
+T1	Chemical 0 3	IMO 
+T2	Gene_or_protein 20 24	EGFR 
+T3	Phenotype 74 107	interaction between TLR9 and EGFR 
+T4	Gene_or_protein 94 98	TLR9 
+T5	Gene_or_protein 103 107	EGFR 
+T6	Phenotype 20 45	EGFR -dependent signaling
+R1	influences Arg1:T1 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T6	

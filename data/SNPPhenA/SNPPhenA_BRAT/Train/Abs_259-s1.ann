@@ -1,0 +1,5 @@
+T1	SNP 176 187	rs7903146 ,
+T2	SNP 188 200	rs12255372 ,
+T3	Phenotype 95 126	GLP-1-induced insulin secretion
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

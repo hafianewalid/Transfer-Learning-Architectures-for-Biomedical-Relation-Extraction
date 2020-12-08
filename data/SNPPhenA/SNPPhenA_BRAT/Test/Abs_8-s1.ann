@@ -1,0 +1,6 @@
+T1	SNP 99 105	rs4680
+T2	Phenotype 33 36	CPP
+T3	Modality_Marker 19 24	found
+T4	Negation_Scope 0 116	No association was found between CPP phenotypes (incidence, intensity, and duration) and different rs4680 genotypes.
+T5	Negation_Cue 0 2	No
+R1	negative_association Arg1:T1 Arg2:T2

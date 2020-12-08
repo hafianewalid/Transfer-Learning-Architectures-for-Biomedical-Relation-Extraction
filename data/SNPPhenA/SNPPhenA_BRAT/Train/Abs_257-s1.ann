@@ -1,0 +1,5 @@
+T1	SNP 27 36	rs7903146
+T2	Phenotype 63 66	T2D
+T3	Modality_Marker 37 45	strongly
+T4	Modality_Marker 46 55	predicted
+R1	strong_confidence_association Arg1:T1 Arg2:T2

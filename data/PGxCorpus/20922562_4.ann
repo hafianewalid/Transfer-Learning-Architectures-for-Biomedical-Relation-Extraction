@@ -1,0 +1,10 @@
+T1	Limited_variation 45 67	polymorphisms of KIF3A 
+T2	Gene_or_protein 62 67	KIF3A 
+T3	Disease 103 106	AIA 
+T4	Chemical 225 232	aspirin 
+T5	Phenotype 174 205	forced expiratory volume at 1 s
+T6	Phenotype 208 217	FEV ( 1 )
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	causes Arg1:T4 Arg2:T5	
+R3	decreases Arg1:T1 Arg2:T5	
+R4	isEquivalentTo Arg1:T6 Arg2:T5	

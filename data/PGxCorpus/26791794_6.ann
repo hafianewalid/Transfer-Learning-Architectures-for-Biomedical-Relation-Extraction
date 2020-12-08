@@ -1,0 +1,10 @@
+T1	Gene_or_protein 97 103	PIK3CA 
+T2	Limited_variation 97 117	PIK3CA - p.Glu545Lys 
+T3	Chemical 146 156	crizotinib 
+T5	Gene_or_protein 50 53	MET
+T6	Limited_variation 50 79	MET exon 14 skipping mutation
+T4	Pharmacodynamic_phenotype 191 199	response
+T7	Genomic_factor 50 61	MET exon 14
+R1	influences Arg1:T2 Arg2:T3	
+R2	decreases Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R2	hyp

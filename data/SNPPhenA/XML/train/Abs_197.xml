@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1109" TEXT="Previous studies have indicated that CMA1 promoter polymorphism rs1800875 may be involved in regulating immunoglobulin E (IgE) levels in patients with eczema, and it is associated with the progression of immunoglobulin A nephropathy.">
+	<sentence ID="1109_0" START="0" END="233">
+		<snp ID="0" START="64" END="73" TEXT="rs1800875"/>
+		<phenotype ID="0" START="151" END="233" text="eczema"/>
+		<phenotype ID="1" START="204" END="233" text="immunoglobulin A nephropathy"/>
+		<modality_marker  START="22" END="31" text="indicated"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

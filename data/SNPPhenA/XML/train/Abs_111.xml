@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1015" TEXT="BACKGROUND: The development of COPD in subjects with alpha-1 antitrypsin (AAT) deficiency is likely to be influenced by modifier genes. Genome-wide association studies and integrative genomics approaches in COPD have demonstrated significant associations with SNPs in the chromosome 15q region that includes CHRNA3 (cholinergic nicotine receptor alpha3) and IREB2 (iron regulatory binding protein 2).We investigated whether SNPs in thechromosome 15q region would be modifiers for lung function and COPD in AAT deficiency. METHODS: The current analysis included 378 PIZZ subjects in the AAT Genetic Modifiers Study and a replication cohort of 458 subjects from the UK AAT Deficiency National Registry. Nine SNPs in LOC123688, CHRNA3 and IREB2 were selected for genotyping. FEV1 percent of predicted and FEV1/FVC ratio were analyzed as quantitative phenotypes. Family-based association analysis was performed in the AAT Genetic Modifiers Study. In the replication set, general linear models were used for quantitativephenotypes and logistic regression models were used for the presence/absence of emphysema or COPD. RESULTS: Three SNPs (rs2568494 in IREB2, rs8034191 in LOC123688, and rs1051730 in CHRNA3) were associated with pre-bronchodilator FEV1 percent of predicted in the AAT Genetic Modifiers Study. Two SNPs (rs2568494 and rs1051730) were associated with the post-bronchodilator FEV1 percent of predicted and pre-bronchodilator FEV1/FVC ratio; SNP-by-gender interactions were observed.  In the UK National Registry dataset, rs2568494 was significantly associated with emphysema in the male subgroup; significant SNP-by-smoking interactions were observed. CONCLUSIONS: IREB2 and CHRNA3 are potential genetic modifiers of COPDphenotypes in individuals with severe AAT deficiency and may be sex-specific in their impact.">
+	<sentence ID="1015_0" START="1123" END="1305">
+		<snp ID="0" START="1135" END="1144" TEXT="rs2568494"/>
+		<snp ID="1" START="1155" END="1164" TEXT="rs8034191"/>
+		<snp ID="2" START="1183" END="1192" TEXT="rs1051730"/>
+		<phenotype ID="0" START="1225" END="1305" text="pre-bronchodilator FEV1 percent"/>
+		<modality_marker  START="1260" END="1269" text="predicted"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1015_1" START="1306" END="1492">
+		<snp ID="3" START="1316" END="1325" TEXT="rs2568494"/>
+		<snp ID="4" START="1330" END="1339" TEXT="rs1051730"/>
+		<phenotype ID="1" START="1366" END="1492" text="post-bronchodilator FEV1 percent"/>
+		<phenotype ID="2" START="1416" END="1492" text="pre-bronchodilator FEV1/FVC ratio"/>
+		<modality_marker  START="1402" END="1411" text="predicted"/>
+		<modality_marker  START="1483" END="1491" text="observed"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="2" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1015_2" START="1494" END="1661">
+		<snp ID="5" START="1531" END="1540" TEXT="rs2568494"/>
+		<phenotype ID="3" START="1575" END="1661" text="emphysema"/>
+		<modality_marker  START="1652" END="1660" text="observed"/>
+		<pair PAIRID="7" PHENOTYPEID="3" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

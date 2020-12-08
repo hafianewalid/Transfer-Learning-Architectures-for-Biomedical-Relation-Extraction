@@ -1,0 +1,16 @@
+T1	Disease 81 97	conduct disorder
+T2	Disease 128 139	impulsivity
+T3	Chemical 158 165	alcohol
+T6	Gene_or_protein 240 244	DRD2
+T7	Disease 146 176	problematic alcohol / drug use
+T8	Limited_variation 215 244	A1 carrier status of the DRD2
+T4	Chemical 168 172	drug
+R4	isAssociatedWith Arg1:T1 Arg2:T2	
+R1	influences Arg1:T8 Arg2:T7	
+R2	influences Arg1:T8 Arg2:T2	
+R3	isAssociatedWith Arg1:T1 Arg2:T7	
+R5	isAssociatedWith Arg1:T2 Arg2:T7	
+R6	influences Arg1:T8 Arg2:T1	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R6	hyp

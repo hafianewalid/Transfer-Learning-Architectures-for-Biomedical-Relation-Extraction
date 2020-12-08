@@ -1,0 +1,6 @@
+T1	SNP 52 62	TNF-α -238
+T2	Phenotype 152 161	psoriasis
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 32 40	suggests
+T5	Modality_Marker 95 98	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2

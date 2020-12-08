@@ -1,0 +1,11 @@
+T1	Gene_or_protein 35 66	dihydropyrimidine dehydrogenase 
+T2	Chemical 144 156	capecitabine 
+T3	Limited_variation 35 114	dihydropyrimidine dehydrogenase ( DPD ) single nucleotide polymorphisms ( SNP )
+T4	Haplotype 119 129;35 74	haplotypes dihydropyrimidine dehydrogenase ( DPD )
+T5	Pharmacodynamic_phenotype 133 156	outcome of capecitabine
+T6	Gene_or_protein 69 72	DPD
+R1	isEquivalentTo Arg1:T6 Arg2:T1	
+R2	influences Arg1:T4 Arg2:T5	
+R3	influences Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

@@ -1,0 +1,6 @@
+T1	Gene_or_protein 28 34	ICAM-1 
+T4	Chemical 148 153	DMXAA
+T3	Phenotype 103 121	antitumor immunity
+T5	Genomic_variation 14 34	nonfunctional ICAM-1
+R1	causes Arg1:T5 Arg2:T3	
+#1	AnnotatorNotes R1	neg

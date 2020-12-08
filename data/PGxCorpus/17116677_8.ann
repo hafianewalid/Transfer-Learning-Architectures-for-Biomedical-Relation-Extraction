@@ -1,0 +1,8 @@
+T1	Limited_variation 43 48	D123G 
+T2	Limited_variation 51 56	F227L 
+T3	Limited_variation 63 68	T369I 
+T4	Phenotype 126 154	concentrations of VRX-480773 
+T5	Chemical 144 154	VRX-480773
+R1	causes Arg1:T4 Arg2:T3	
+R2	causes Arg1:T4 Arg2:T1	
+R3	causes Arg1:T4 Arg2:T2	

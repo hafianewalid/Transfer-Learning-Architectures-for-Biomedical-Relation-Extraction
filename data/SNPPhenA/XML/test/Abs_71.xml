@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1069" TEXT="OBJECTIVE: The Val108/158Met (rs4680) single nucleotide polymorphism (SNP) in the catechol-O-methyltransferase (COMT) gene contributes to genetic susceptibility to schizophrenia, which is specifically related to impairments in executive functioning. A different genomic region composed of three SNPs(rs737865, rs4680, rs165599) within the COMT gene has been reported to be significantly associated with schizophrenia in Ashkenazi Jews. This study aims to clarify the association between these three SNPs and their haplotypes with schizophrenia and neurocognitive functioning, using both case-control and family-based designs. METHODS: The case-control study included 124 schizophrenia patients and 112 healthy controls, while the family samples included 83 families with at least two affected siblings. The neurocognitive functioning was assessed by the Continuous Performance Test (CPT) andWisconsin Card Sorting Test. The association analysis was performed using TRANSMIT and FBAT. RESULTS: There was no significant association between the three SNPs and schizophrenia in the case-control study.In the family study, the A allele of rs165599 was transmitted preferentially to the affected individuals (p = 0.023), and significantly associated with a later age of onset (p = 0.018), more severe delusion/hallucination symptom dimension (p = 0.027), and poorer performance in the CPT (p = 0.04). The triple SNP haplotypes did not reveal any significant association with schizophrenia or neurocognitive function. CONCLUSIONS: The SNP rs165599, which has been mapped to the 3'-UTR region of the COMT gene, was significantly associated with schizophrenia in our family study, and possibly associated with the age of onset, delusion/hallucination symptom dimension, and CPT performance. Therefore, COMT may contribute to the genetic risk for schizophrenia not through the Val108/158Met polymorphism, but through other variants that are situated 3' to this region, in the Taiwanese population. Nevertheless, the true associated functional variants in our subjects remain to be elucidated.">
+	<sentence ID="1069_0" START="11" END="249">
+		<snp ID="0" START="29" END="37" TEXT="(rs4680)"/>
+		<phenotype ID="0" START="164" END="249" text="schizophrenia"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1069_1" START="250" END="435">
+		<snp ID="1" START="300" END="308" TEXT="rs737865"/>
+		<snp ID="2" START="310" END="316" TEXT="rs4680"/>
+		<snp ID="3" START="318" END="326" TEXT="rs165599"/>
+		<phenotype ID="1" START="403" END="435" text="schizophrenia"/>
+		<modality_marker  START="358" END="366" text="reported"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1069_2" START="1524" END="1781">
+		<snp ID="4" START="1532" END="1540" TEXT="rs165599"/>
+		<phenotype ID="2" START="1637" END="1781" text="schizophrenia"/>
+		<modality_marker  START="1676" END="1684" text="possibly"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1069_3" START="1782" END="1987">
+		<snp ID="5" START="1867" END="1880" TEXT="Val108/158Met"/>
+		<phenotype ID="3" START="1837" END="1987" text="schizophrenia"/>
+		<modality_marker  START="1798" END="1801" text="may"/>
+		<modality_marker  START="1907" END="1912" text="other"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

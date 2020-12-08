@@ -1,0 +1,1 @@
+We observed two epistatic interactions on symptom indices: interactions (in predicted directions) of DRD2 by   DAT were seen on Body Mass Index (p=.023), and of DRD4 by COMT on self-harming behaviors (p=.014),

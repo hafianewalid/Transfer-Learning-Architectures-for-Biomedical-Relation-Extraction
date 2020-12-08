@@ -1,0 +1,1 @@
+RESULTS: Significant associations with FTD were observed for genotypes rs449647 A/T (odds ratio [OR], 2.1; 95% confidence interval [CI], 1.0-4.5), rs769446 T/C (OR, 4.4; 95% CI, 1.9-10.2), and APOE ε3/ε4 (OR, 4.1; 95% CI, 1.6-10.9)

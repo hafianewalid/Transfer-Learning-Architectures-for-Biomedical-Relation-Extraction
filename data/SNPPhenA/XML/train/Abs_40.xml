@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1205" TEXT="COMT (Catechol-O methyltransferase) gene is one of the key players in synaptic plasticity and in learning and memory mechanisms. A single nucleotidepolymorphism (rs4680; G to A) in the COMT coding region causes Val158Met aminoacid substitution in the corresponding protein, with Val allele exhibiting a 3- to 4-fold increase in enzyme activity compared to Met. With the purpose of examining the influence of COMT as a genetic risk factor for cognitive impairment, we analyzed a sample of 248 healthy subjects, 276 patients affected by Alzheimer's disease (AD), and 70 subjects with mild cognitive impairment (MCI), the latter condition possibly representing a prodrome for dementia. All subjects were analyzed for COMT rs4680 polymorphism and APOE genotype. Our study strengthens data showing that APOE ε4 allele is an independent risk factor for AD and also a risk factor for MCI. NeitherCOMT alleles nor genotypes proved to be independently associated with the risk of AD or MCI in our sample. However, we found an association between COMT GG genotype (Val/Val) and APOE ε4 carrier status and the risk of AD and MCI. In particular, when GG genotype is included into the multinomial analysis, the risk of AD and MCI due to APOE ε4 allele is increased of about 2-3 fold; moreover, the risk conferred by the combination of G and ε4 allelesis more pronounced in male patients. To our knowledge, this synergistic effect is here shown for the first time on a population sample representative of Caucasian patients.">
+	<sentence ID="1205_0" START="996" END="1118">
+		<snp ID="0" START="1037" END="1044" TEXT="COMT GG"/>
+		<snp ID="1" START="1069" END="1075" TEXT="POE ε4"/>
+		<phenotype ID="0" START="1107" END="1118" text="AD"/>
+		<phenotype ID="1" START="1114" END="1118" text="MCI"/>
+		<modality_marker  START="1008" END="1013" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

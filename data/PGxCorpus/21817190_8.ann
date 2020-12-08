@@ -1,0 +1,16 @@
+T1	Limited_variation 18 38	variants of the ITPA 
+T3	Gene_or_protein 34 38	ITPA 
+T4	Disease 74 92	haemolytic anaemia 
+T5	Chemical 97 100	RBV 
+T6	Chemical 170 177	PEG-IFN 
+T7	Chemical 182 185	RBV 
+T8	Limited_variation 247 280	TT genotype at rs8099917 of IL28B 
+T9	Gene_or_protein 275 280	IL28B 
+T10	Pharmacodynamic_phenotype 154 185	SVR by standard PEG-IFN and RBV
+T12	Pharmacodynamic_phenotype 97 115	RBV dose reduction
+T2	Limited_variation 262 271	rs8099917
+T11	Chemical 170 185	PEG-IFN and RBV
+R2	decreases Arg1:T1 Arg2:T4	
+R3	influences Arg1:T1 Arg2:T12	
+R1	increases Arg1:T1 Arg2:T10	
+R4	influences Arg1:T8 Arg2:T10	

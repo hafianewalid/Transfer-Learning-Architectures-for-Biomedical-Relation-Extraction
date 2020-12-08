@@ -1,0 +1,12 @@
+T1	Gene_or_protein 17 24	GABABR1 
+T2	Limited_variation 17 31	GABABR1 T1974C 
+T3	Limited_variation 34 41	rs29230 
+T4	Disease 111 121	alcoholism 
+T5	Chemical 125 132	alcohol 
+T6	Gene_or_protein 51 65	GABAB receptor
+T7	Phenotype 125 152	alcohol withdrawal seizures
+R2	isEquivalentTo Arg1:T3 Arg2:T2	
+R1	isAssociatedWith Arg1:T2 Arg2:T4	
+R3	isAssociatedWith Arg1:T2 Arg2:T7	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R3	neg

@@ -1,0 +1,7 @@
+T1	SNP 8 17	rs7903146
+T2	Phenotype 65 68	T2D
+T3	Modality_Marker 18 23	shows
+T4	Modality_Marker 79 85	strong
+T5	Negation_Scope 72 109	not as strong (OR = 1.39, p = 0.152).
+T6	Negation_Cue 72 75	not
+R1	negative_association Arg1:T1 Arg2:T2

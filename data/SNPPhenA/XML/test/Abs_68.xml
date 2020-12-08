@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1065" TEXT="Dopaminergic system in the prefrontal cortex (PFC) is known to regulate the cognitive functions. Catechol-O-methyl transferase (COMT), one of the major modulators of prefrontal dopamine function, has emerged as an important determinant of schizophrenia associated cognitive dysfunction and response to antipsychotics. A common Val-&gt;Met polymorphism (rs4680) in the COMT gene, associated with increased prefrontal dopamine catabolism, impairs prefrontal cognition and might increase risk for schizophrenia. Further, the degree of cognitive improvement observed with antipsychotics in schizophrenia patients is influenced by the COMT activity, and Val/Met has been proposed as a potential pharmacogenetic marker. However, studies evaluating the role of COMT have been equivocal. The presence of other functional polymorphisms in the gene, and the observed ethnic variations in the linkage disequilibrium structure at COMT locus, suggest that COMT activity regulation might be complex. Despite these lacunae in our current understanding, the influence of COMT on PFC mediated cognitive tasks is undeniable. COMT thus represents an attractive candidate for novel therapeutic interventions for cognitive dysfunction. The COMT activity inhibiting drugs including tolcapone and entacapone, have shown promising potential as they selectively modulate dopaminergic transmission. This review is an attempt to summarize the rapidly evolving literature exploring the diverse facets of COMT biology, its functional relevance as a predictive marker and a therapeutic target for schizophrenia.">
+	<sentence ID="1065_0" START="318" END="505">
+		<snp ID="0" START="350" END="356" TEXT="rs4680"/>
+		<phenotype ID="0" START="491" END="505" text="schizophrenia"/>
+		<modality_marker  START="467" END="472" text="might"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

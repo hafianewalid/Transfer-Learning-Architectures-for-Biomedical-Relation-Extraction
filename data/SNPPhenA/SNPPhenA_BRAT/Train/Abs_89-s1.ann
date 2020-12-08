@@ -1,0 +1,4 @@
+T1	SNP 46 56	rs12255372
+T2	Phenotype 130 139	DI values
+T3	Modality_Marker 155 160	model
+R1	weak_confidence_association Arg1:T1 Arg2:T2

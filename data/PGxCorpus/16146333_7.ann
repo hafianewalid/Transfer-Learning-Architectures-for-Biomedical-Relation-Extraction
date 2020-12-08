@@ -1,0 +1,12 @@
+T2	Chemical 182 199	estrone-3-sulfate 
+T3	Chemical 202 243	17beta-estradiol 17-(beta-D-glucuronide ) 
+T4	Chemical 250 262	methotrexate 
+T1	Pharmacodynamic_phenotype 34 76	resistance against chemotherapeutic agents
+T5	Chemical 53 76	chemotherapeutic agents
+T6	Gene_or_protein 79 83	BCRP
+T7	Chemical 125 142	organic molecules
+R1	causes Arg1:T6 Arg2:T1	
+R2	influences Arg1:T6 Arg2:T2	
+R3	influences Arg1:T6 Arg2:T3	
+R4	influences Arg1:T6 Arg2:T4	
+R5	influences Arg1:T6 Arg2:T7	

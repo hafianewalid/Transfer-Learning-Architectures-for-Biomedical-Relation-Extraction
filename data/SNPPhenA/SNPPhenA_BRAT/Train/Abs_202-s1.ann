@@ -1,0 +1,9 @@
+T1	SNP 58 67	rs2606345
+T2	SNP 133 142	rs2606345
+T3	SNP 143 152	rs1048943
+T4	SNP 153 162	rs4646903
+T5	Phenotype 28 34	tumors
+R1	moderate_confidence_association Arg1:T1 Arg2:T5
+R2	moderate_confidence_association Arg1:T2 Arg2:T5
+R3	moderate_confidence_association Arg1:T3 Arg2:T5
+R4	moderate_confidence_association Arg1:T4 Arg2:T5

@@ -1,0 +1,9 @@
+T1	SNP 119 128	rs1800875
+T2	Phenotype 140 146	eczema
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 21 28	confirm
+T5	Modality_Marker 38 50	observations
+T6	Modality_Marker 183 190	support
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+T8	Negation_Cue 152 155	not
+T9	Negation_Scope 152 258	not with serum IgE levels, and support the hypothesis that CMA1 serves as candidate gene for atopic eczema

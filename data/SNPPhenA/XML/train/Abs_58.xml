@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1224" TEXT="BACKGROUND: SNP rs5770917 located between CPT1B and CHKB, and HLA-DRB1*1501-DQB1*0602 haplotype were previously identified as susceptibility loci for narcolepsy with cataplexy. This study was conducted in order to investigate whether these genetic markers are associated withJapanese CNS hypersomnias (essential hypersomnia: EHS) other than narcolepsy with cataplexy. RESULTS: EHS was significantly associated with SNP rs5770917 (P(allele) = 3.6x10(-3); OR = 1.56; 95% c.i.: 1.12-2.15) and HLA-DRB1*1501-DQB1*0602 haplotype (P(positivity) = 9.2x10(-11); OR = 3.97; 95% c.i.: 2.55-6.19). No interaction between the two markers (SNP rs5770917 and HLA-DRB1*1501-DQB1*0602 haplotype) was observed in EHS. CONCLUSIONS: CPT1B, CHKB and HLA are candidates for susceptibility to CNS hypersomnias (EHS), as well as narcolepsy with cataplexy.">
+	<sentence ID="1224_0" START="368" END="586">
+		<snp ID="0" START="419" END="428" TEXT="rs5770917"/>
+		<phenotype ID="0" START="377" END="586" text="EHS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,7 @@
+T1	Gene_or_protein 49 56	CYP2C19 
+T2	Phenotype 77 97	platelet aggregation 
+T3	Chemical 122 133	clopidogrel 
+T4	Haplotype 49 60	CYP2C19 * 2
+R2	influences Arg1:T4 Arg2:T2	
+R1	influences Arg1:T3 Arg2:T2	
+R3	influences Arg1:T4 Arg2:T3	

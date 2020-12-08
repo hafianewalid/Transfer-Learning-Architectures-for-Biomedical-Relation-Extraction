@@ -1,0 +1,5 @@
+T2	Gene_or_protein 45 50	FCER2 
+T3	Chemical 130 140	budesonide 
+T4	Disease 156 172	Childhood Asthma
+T1	Limited_variation 45 82	FCER2 single nucleotide polymorphisms
+R2	treats Arg1:T3 Arg2:T4	

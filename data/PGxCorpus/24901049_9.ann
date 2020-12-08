@@ -1,0 +1,11 @@
+T1	Chemical 0 10	Dabrafenib 
+T3	Phenotype 40 115	Ser358 phosphorylation of mixed lineage kinase domain-like protein ( MLKL ) 
+T4	Gene_or_protein 25 29	RIP3 
+T5	Gene_or_protein 66 106	mixed lineage kinase domain-like protein 
+T6	Gene_or_protein 109 113	MLKL 
+T7	Phenotype 134 167	interaction between RIP3 and MLKL 
+T8	Gene_or_protein 154 158	RIP3 
+T9	Gene_or_protein 163 167	MLKL 
+R1	isEquivalentTo Arg1:T6 Arg2:T5	
+R2	decreases Arg1:T1 Arg2:T3	
+R3	decreases Arg1:T1 Arg2:T7	

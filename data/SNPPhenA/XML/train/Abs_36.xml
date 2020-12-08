@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1200" TEXT="We sought to determine whether the COMT val158met polymorphism (rs4680) is associated with delusions and hallucinations in people with dementia with Lewy bodies (DLB) and Parkinson's disease dementia (PDD). A total of 218 individuals, recruited from centres in Norway, Sweden and the UK were included in this study; 121 with clinically or neuropathologically diagnosed DLB/PDD and 97 age-matched, cognitively normal controls. All participants with dementia underwent serial evaluation of neuropsychiatric symptoms to assess the presence of persistent delusions and hallucinations using the Columbia University Scale for Psychopathology in Alzheimer's disease, the Neuropsychiatric Inventory or the Present Behavioural Examination. Severity of cognitive impairment was measured using the Mini Mental State Examination (MMSE). Both controls and participants with dementia were genotypedfor rs4680. In contrast to previous findings, analysis by logistic regression failed to find any associations between rs4680 and psychotic symptoms. Larger studies in well characterised cohorts are warranted in order to investigate this relationship further.">
+	<sentence ID="1200_0" START="896" END="1032">
+		<snp ID="0" START="1002" END="1008" TEXT="rs4680"/>
+		<phenotype ID="0" START="1013" END="1032" text="psychotic"/>
+		<modality_marker  START="920" END="928" text="findings"/>
+		<modality_marker  START="972" END="976" text="find"/>
+		<negation_scope  START="962" END="1032" text="failed to find any associations between rs4680 and psychotic symptoms.">
+			<negation_cue START="962" END="968" text="failed"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

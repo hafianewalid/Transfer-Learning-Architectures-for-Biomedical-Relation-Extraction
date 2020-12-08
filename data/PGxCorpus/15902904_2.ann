@@ -1,0 +1,17 @@
+T1	Chemical 53 60	ethanol 
+T2	Chemical 117 130	acetylcholine 
+T3	Chemical 205 218	acetylcholine 
+T4	Gene_or_protein 250 256	CHRNA4 
+T5	Chemical 315 322	ethanol 
+T6	Gene_or_protein 195 242	nicotinic acetylcholine receptor alpha4 subunit
+T7	Pharmacodynamic_phenotype 269 322	enhancement of nicotinic receptor function by ethanol
+T8	Gene_or_protein 86 139	alpha4beta2 neuronal nicotinic acetylcholine receptor
+T9	Limited_variation 175 258	polymorphism of the nicotinic acetylcholine receptor alpha4 subunit gene ( CHRNA4 )
+T10	Phenotype 74 139	activity of alpha4beta2 neuronal nicotinic acetylcholine receptor
+T11	Gene_or_protein 284 302	nicotinic receptor
+T12	Pharmacodynamic_phenotype 284 311	nicotinic receptor function
+R1	isEquivalentTo Arg1:T4 Arg2:T6	
+R2	increases Arg1:T1 Arg2:T10	
+R3	influences Arg1:T9 Arg2:T7	
+R4	increases Arg1:T5 Arg2:T12	
+#1	AnnotatorNotes R3	hyp

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1011" TEXT="OBJECTIVE: To investigate the role of the apolipoprotein E (APOE) locus in frontotemporal dementia (FTD) and primary progressive aphasia (PPA). METHODS: Case-control study. METHODS: Neurology clinic, Rome, Italy. METHODS: Eighty-six patients with a clinical diagnosis of sporadic FTD, including 32 patients with a clinical diagnosis of PPA, and 99 nondemented cognitively intact control subjects. METHODS: Genotype analysis of the 3 single-nucleotide polymorphisms rs449647, rs769446, and rs405509 in the promoter region of the APOE gene and of the 2 single-nucleotide polymorphisms rs429358 and rs7412 forming the common apoE polymorphism. RESULTS: Significant associations with FTD were observed for genotypesrs449647 A/T (odds ratio [OR], 2.1; 95% confidence interval [CI], 1.0-4.5), rs769446 T/C (OR, 4.4; 95% CI, 1.9-10.2), and APOE ε3/ε4 (OR, 4.1; 95% CI, 1.6-10.9). Significant associations with PPA were also observed for genotypes APOE ε3/ε4 (OR, 22.5; 95% CI, 1.2-229.4) and ε4/ε4 (OR, 7.5; 95% CI, 2.6-21.6). Significant associations with FTD were observed for haplotypes A-C-G-C-C (OR, 5.6; 95% CI, 1.4-21.5) and T-T-T-C-C (OR, 5.2; 95% CI, 1.1-24.0). Significant associations with PPA were also observed for haplotypes A-T-T-T-C (OR, 0.4; 95% CI, 0.2-0.9) and A-T-T-C-C (OR, 5.2; 95% CI, 1.4-19.3). CONCLUSIONS: Although the physiological role of   apoE in FTD and PPA needs further investigations, our results suggest an involvement of the APOE gene locus in the genetics of FTD and PPA.">
+	<sentence ID="1011_0" START="1312" END="1501">
+		<snp ID="0" START="1362" END="1366" TEXT="apoE"/>
+		<snp ID="1" START="1454" END="1458" TEXT="APOE"/>
+		<phenotype ID="0" START="1370" END="1501" text="FTD"/>
+		<phenotype ID="1" START="1378" END="1501" text="PPA"/>
+		<phenotype ID="2" START="1489" END="1501" text="FTD"/>
+		<phenotype ID="3" START="1497" END="1501" text="PPA"/>
+		<modality_marker  START="1312" END="1323" text="CONCLUSIONS"/>
+		<modality_marker  START="1424" END="1431" text="suggest"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="3" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,1 @@
+RESULTS : All 7 cell lines were wild-type for EGFR and KRAS regardless of erlotinib sensitivity ; however , 1 erlotinib -resistant cell line ( HN31 ) harbored an HRAS G12D mutation .

@@ -1,0 +1,5 @@
+T1	Chemical 0 11	Haloperidol 
+T2	Gene_or_protein 30 36	CYP3A4 
+T3	Gene_or_protein 85 91	CYP2D6 
+R1	influences Arg1:T2 Arg2:T1	
+R2	influences Arg1:T1 Arg2:T3	

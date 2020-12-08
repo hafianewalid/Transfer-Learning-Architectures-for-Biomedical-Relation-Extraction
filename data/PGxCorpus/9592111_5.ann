@@ -1,0 +1,8 @@
+T1	Chemical 53 60	alcohol 
+T2	Phenotype 179 201	NGFI-B mRNA expression 
+T3	Gene_or_protein 179 185	NGFI-B 
+T4	Genomic_factor 179 190	NGFI-B mRNA
+T5	Chemical 247 251	ACTH
+T6	Pharmacokinetic_phenotype 247 261	ACTH secretion
+R1	influences Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R1	hyp

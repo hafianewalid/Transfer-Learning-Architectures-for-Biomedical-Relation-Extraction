@@ -1,0 +1,15 @@
+T1	SNP 36 42	CYP1A1
+T2	SNP 44 49	GSTM1
+T3	SNP 51 56	ABCB1
+T4	SNP 58 62	NOS3
+T5	SNP 64 67	IL6
+T6	SNP 69 73	CCR5
+T7	SNP 78 81	ACE
+T8	Phenotype 103 106	CAP
+R1	weak_confidence_association Arg1:T1 Arg2:T8
+R2	weak_confidence_association Arg1:T2 Arg2:T8
+R3	weak_confidence_association Arg1:T3 Arg2:T8
+R4	weak_confidence_association Arg1:T4 Arg2:T8
+R5	weak_confidence_association Arg1:T5 Arg2:T8
+R6	weak_confidence_association Arg1:T6 Arg2:T8
+R7	weak_confidence_association Arg1:T7 Arg2:T8

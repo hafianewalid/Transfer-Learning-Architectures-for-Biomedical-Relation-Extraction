@@ -1,0 +1,7 @@
+T1	Chemical 0 10	Salmeterol 
+T2	Gene_or_protein 39 64	beta2-adrenergic receptor 
+T3	Disease 102 108	asthma 
+T4	Pharmacodynamic_phenotype 0 19	Salmeterol response
+T5	Limited_variation 39 73	beta2-adrenergic receptor genotype
+R1	influences Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes R1	neg

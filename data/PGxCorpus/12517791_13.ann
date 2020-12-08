@@ -1,0 +1,10 @@
+T1	Limited_variation 46 57	AR mutation 
+T2	Gene_or_protein 46 48	AR 
+T3	Disease 91 94	AWS 
+T4	Chemical 112 121	flutamide 
+T5	Chemical 208 220	bicalutamide 
+T6	Disease 170 183	refractory PC
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	treats Arg1:T4 Arg2:T6	
+R3	treats Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R2	hyp

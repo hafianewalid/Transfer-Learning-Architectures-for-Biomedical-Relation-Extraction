@@ -1,0 +1,6 @@
+T1	SNP 75 82	L1007fs
+T2	SNP 127 132	G908R
+T3	Phenotype 223 225	CD
+T4	Modality_Marker 28 33	found
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

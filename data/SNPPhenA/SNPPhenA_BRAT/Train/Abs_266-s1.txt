@@ -1,0 +1,1 @@
+We genotyped 6,516 participants for rs12255372 and  rs7903146 and analysed the role in type 2 diabetes susceptibility using binary logistic regression. Age, sex and obesity status were examined as covariates

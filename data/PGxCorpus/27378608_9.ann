@@ -1,0 +1,7 @@
+T2	Gene_or_protein 122 126	HER2 
+T4	Gene_or_protein 34 42	FcyRIIIa
+T5	Limited_variation 34 44	FcyRIIIa V
+T1	Chemical 92 118	trastuzumab plus lapatinib
+T3	Disease 122 131	HER2 + BC
+R1	treats Arg1:T1 Arg2:T3	
+R2	influences Arg1:T5 Arg2:T1	

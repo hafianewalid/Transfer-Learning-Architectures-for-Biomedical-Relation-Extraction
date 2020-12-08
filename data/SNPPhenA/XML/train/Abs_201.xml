@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1115" TEXT="BACKGROUND: Atopic disorders are the result of complex interactions between genetic and environmental factors. Associations analyses between thepromoter polymorphism rs1800875 in the mast cell chymase gene (CMA1) and atopy-related phenotypes have yielded inconsistent results. METHODS: We sequenced the CMA1 locus in 24 unrelated healthy individuals with serum IgE levels &lt;50% percentile and 24 individuals with atopic eczema andserum IgE levels &gt;90% percentile. Seven CMA1 single nucleotide polymorphisms (SNPs) were evaluated for evidence of associations with atopic phenotypes within a large population of German adults (n = 1875). Subjects were phenotyped by standardized questionnaires and interviews, skin pricktesting and serum IgE measurements. Genotyping was performed using MALDI-TOF MS (Matrix-Assisted Laser Desorption Ionization-Time of Flight mass spectrometry). RESULTS: Promoter polymorphism rs1800875 was significantly associated with atopic eczema.  No associations between any other single SNP and atopic phenotypes could be detected. Haplotype reconstruction revealed four of 128 possible haplotypes reaching estimated frequencies of 3% or more. Two of these haplotypes showed a borderline-significant association with atopic eczema, which did not remain significant after correction for multiple testing. CONCLUSIONS: Results confirm previous observations of a significant association between the CMA1 promoter polymorphism rs1800875 and atopic eczema, but &lt;NegScope&gt;not with serum IgE levels, and support the hypothesis that CMA1 serves as candidate gene for atopic eczema.&lt;NegScope&gt;">
+	<sentence ID="1115_0" START="1326" END="1605">
+		<snp ID="0" START="1445" END="1454" TEXT="rs1800875"/>
+		<phenotype ID="0" START="1466" END="1605" text="eczema"/>
+		<modality_marker  START="1326" END="1337" text="CONCLUSIONS"/>
+		<modality_marker  START="1347" END="1354" text="confirm"/>
+		<modality_marker  START="1364" END="1376" text="observations"/>
+		<modality_marker  START="1519" END="1526" text="support"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

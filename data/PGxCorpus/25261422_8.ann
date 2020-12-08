@@ -1,0 +1,5 @@
+T1	Chemical 64 73	tenofovir 
+T2	Chemical 78 91	emtricitabine 
+T3	Limited_variation 156 160	M41L 
+T5	Disease 139 144	HIV-1
+T4	Disease 139 160	HIV-1 harbouring M41L

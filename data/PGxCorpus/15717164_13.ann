@@ -1,0 +1,10 @@
+T1	Gene_or_protein 8 14	GST-M1 
+T2	Chemical 34 50	cyclophosphamide 
+T3	Limited_variation 62 81	GST-P1 polymorphism 
+T4	Gene_or_protein 62 68	GST-P1 
+T5	Limited_variation 8 19	GST-M1 null
+T6	Pharmacodynamic_phenotype 34 59	cyclophosphamide efficacy
+T7	Phenotype 114 148	susceptibility to further relapses
+R1	increases Arg1:T5 Arg2:T6	
+R2	increases Arg1:T3 Arg2:T7	
+#1	AnnotatorNotes R2	hyp

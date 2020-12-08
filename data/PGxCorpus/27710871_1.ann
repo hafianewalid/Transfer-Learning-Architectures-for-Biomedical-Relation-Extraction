@@ -1,0 +1,6 @@
+T1	Chemical 0 11	Trabectedin 
+T2	Phenotype 55 70	BRCA deficiency 
+T3	Gene_or_protein 55 59	BRCA 
+T4	Chemical 17 29	chemotherapy
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

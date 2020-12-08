@@ -1,0 +1,9 @@
+T1	SNP 20 25	APOA5
+T2	SNP 30 36	BTN2A1
+T3	Phenotype 82 94	dyslipidemia
+T4	Phenotype 128 132	MetS
+T5	Modality_Marker 37 40	may
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

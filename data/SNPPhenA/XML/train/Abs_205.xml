@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1119" TEXT="Alpha-actinin-3 (ACTN3) is an integral part of the Z line of the sarcomere. The ACTN3 R577X (rs1815739) polymorphism determines the presence or absence of functional ACTN3, which may influence the extent of exercise-induced muscle damage. This study aimed to compare the impact of, and recovery from, muscle-damaging eccentric exercise on subjects with or without functional ACTN3. Seventeen young men (20-33 years old), homozygous for the R (n = 9) or X (n = 8) alleles, performed two bouts of stretch-shortening exercise (50 drop jumps) two weeks apart. Muscle soreness, plasma creatine kinase (CK) activity, jump height, maximal voluntary isometric torque (MVC), peak concentric isokinetic torque (IT), and electrically stimulated knee extension torques at 20 and 100 Hz were measured at baseline and at a number of time points up to 14 days after each bout. There were no significant baseline differences between the groups. However, significant time point × genotype interactions were observed for MVC (p = 0.021) and IT (p = 0.011) for the immediate effect of eccentric exercise in bout 1. The RR group showed greater voluntary force decrements (RR vs. XX: MVC, -33.3% vs. -24.5%; IT, -35.9% vs. -23.2%) and slower recovery. A repeated-bout effect was clearly observed, but there were no differences by genotype group. The ACTN3 genotype modulates the response of muscle function to plyometric jumping exercise, although the differences are modest. The ACTN3 genotype does not influence the clearly observed repeated-bout effect; however, XX homozygotes recover baseline voluntary torque values faster and thus may be able to undertake more frequent training sessions.">
+	<sentence ID="1119_0" START="76" END="238">
+		<snp ID="0" START="93" END="102" TEXT="rs1815739"/>
+		<phenotype ID="0" START="224" END="238" text="muscle damage"/>
+		<modality_marker  START="179" END="182" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

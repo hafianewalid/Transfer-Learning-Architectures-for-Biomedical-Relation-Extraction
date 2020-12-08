@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1037" TEXT="UNLABELLED: Gastric cancer is mainly initiated by inflammation and chronic superficial gastritis, and tumor necrosis factor-α (TNF-α) is an inflammatory cytokine which plays an important role in the inflammation. TNF-α rs1800629 G/A polymorphism was proposed to be associated withgastric cancer risk, but previous studies on Caucasians reported conflicting results. We performed a meta-analysis to comprehensively assess the association between TNF-α rs1800629 polymorphism and gastric cancer risk in Caucasians. The pooled odds ratio (OR) with 95 % confidence interval(95 % CI) was calculated to assess the association. Eleven case-control studies with 7,427 subjects were finally included into the meta-analysis. Overall,TNF-α rs1800629 polymorphism was significantly associated with the increased risk of gastric cancer under four genetic comparison models (A versus G: OR = 1.32, 95 % CI 1.12-1.56, P = 0.001; AA versus GG: OR = 1.76, 95 % CI 1.37-2.26, P &lt; 0.001; AA versus GG/GA: OR = 1.62, 95 % CI 1.27-2.07, P &lt; 0.001; AA/GA versus GG: OR = 1.35, 95 % CI 1.14-1.60, P = 0.001). Meta-analysis of those studies with high quality showed that TNF-α rs1800629 polymorphism was still significantly associated with the increased risk of gastric cancer under four genetic comparison models. There was no risk of publication bias in the meta-analysis. The meta-analysis suggests that TNF-α rs1800629 polymorphism is associated with the increased risk of gastric cancer in Caucasians.">
+	<sentence ID="1037_0" START="715" END="860">
+		<snp ID="0" START="729" END="738" TEXT="rs1800629"/>
+		<phenotype ID="0" START="808" END="860" text="gastric cancer"/>
+		<modality_marker  START="715" END="722" text="Overall"/>
+		<modality_marker  START="853" END="859" text="models"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

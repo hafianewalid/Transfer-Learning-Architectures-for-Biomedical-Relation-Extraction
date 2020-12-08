@@ -1,0 +1,12 @@
+T1	Chemical 46 54	brazilin 
+T4	Gene_or_protein 126 142	heme oxygenase-1 
+T5	Gene_or_protein 145 149	HO-1 
+T6	Chemical 29 41	C. sappan L.
+T7	Gene_or_protein 102 112	luciferase
+T8	Phenotype 102 121	luciferase activity
+T2	Phenotype 126 162	heme oxygenase-1 ( HO-1 ) expression
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	increases Arg1:T6 Arg2:T8	
+R3	increases Arg1:T6 Arg2:T2	
+R4	increases Arg1:T1 Arg2:T8	
+R5	increases Arg1:T1 Arg2:T2	

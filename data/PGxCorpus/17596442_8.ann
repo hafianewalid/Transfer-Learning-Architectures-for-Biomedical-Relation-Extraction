@@ -1,0 +1,13 @@
+T2	Chemical 0 7	Cocaine 
+T4	Gene_or_protein 53 73	glutamate receptor 1 
+T5	Gene_or_protein 105 110	CB1-R 
+T6	Chemical 134 139	AM251 
+T1	Pharmacodynamic_phenotype 0 73	Cocaine -induced c AMP -dependent phosphorylation of glutamate receptor 1
+T3	Limited_variation 105 117	CB1-R mutant
+T8	Chemical 17 22	c AMP
+T7	Pharmacodynamic_phenotype 17 73	c AMP -dependent phosphorylation of glutamate receptor 1
+T9	Pharmacodynamic_phenotype 34 73	phosphorylation of glutamate receptor 1
+R1	causes Arg1:T2 Arg2:T7	
+R2	influences Arg1:T8 Arg2:T9	
+R3	influences Arg1:T3 Arg2:T1	
+R4	influences Arg1:T6 Arg2:T1	

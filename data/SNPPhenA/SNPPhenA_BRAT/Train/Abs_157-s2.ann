@@ -1,0 +1,19 @@
+T1	SNP 31 40	rs7901695
+T2	SNP 42 51	rs7903146
+T3	SNP 53 63	rs11196205
+T4	SNP 69 79	rs12255372
+T5	Phenotype 104 119	type 2 diabetes
+T6	Phenotype 131 157	impaired glucose tolerance
+T7	Phenotype 178 202	normal glucose tolerance
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T1 Arg2:T6
+R3	neutral_association Arg1:T1 Arg2:T7
+R4	neutral_association Arg1:T2 Arg2:T5
+R5	neutral_association Arg1:T2 Arg2:T6
+R6	neutral_association Arg1:T2 Arg2:T7
+R7	neutral_association Arg1:T3 Arg2:T5
+R8	neutral_association Arg1:T3 Arg2:T6
+R9	neutral_association Arg1:T3 Arg2:T7
+R10	neutral_association Arg1:T4 Arg2:T5
+R11	neutral_association Arg1:T4 Arg2:T6
+R12	neutral_association Arg1:T4 Arg2:T7

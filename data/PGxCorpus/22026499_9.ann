@@ -1,0 +1,11 @@
+T3	Gene_or_protein 59 63	SGCE 
+T4	Disease 77 95	myoclonus dystonia 
+T5	Disease 125 143	myoclonus dystonia 
+T6	Pharmacodynamic_phenotype 160 185	alcohol -induced dystonia 
+T1	Limited_variation 43 63	mutation in the SGCE
+T2	Chemical 160 167	alcohol
+T7	Pharmacodynamic_phenotype 177 185	dystonia
+R1	causes Arg1:T1 Arg2:T4	
+R2	isAssociatedWith Arg1:T1 Arg2:T5	
+R3	causes Arg1:T1 Arg2:T6	
+R4	causes Arg1:T2 Arg2:T7	

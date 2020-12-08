@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1057" TEXT="OBJECTIVE: Fenofibrate therapy reduces serum triglycerides (TG) and increases high-density lipoprotein-cholesterol (HDL-C) and thus addresses the atherogenic dyslipidemia associated with metabolic syndrome (MetS). Our hypothesis is that genetic factors contribute to the variability of lipid response to fenofibrate differently in subjects with MetS and without MetS. METHODS: We investigated the association in 25 candidate genes with lipid responses to a 3-weeks trial on fenofibrate in subjects with and without MetS. We employed growth curve mixed models to generate the response phenotypes tofenofibrate in TG, HDL-C, and low-density lipoprotein-cholesterol (LDL-C) and examined the genetic associations accounting for family dependencies. RESULTS: After correcting for multiple testing (p&lt;0.05) and accounting for significant differences in the association effect sizes between subjects with and without MetS (p&lt;0.05), variants of APOA5 (rs662799) and APOE (rs429358) were associated with HDL-C and LDL-C responses in MetS subjects, while APOA4 rs675 was associated with TG response in non-MetS subjects. There was also suggestive evidence that MetS may interact with APOA4(p=0.017), APOA5 (p=0.06), and APOE (p=0.09) to the variation to lipid responses. CONCLUSIONS: Genetic effects that contributed to the variability of lipid responses to fenofibrate may differ in subjects with and without MetS. This research may provide guidance for more personalized and effective therapies.">
+	<sentence ID="1057_0" START="745" END="1110">
+		<snp ID="0" START="944" END="952" TEXT="rs662799"/>
+		<snp ID="1" START="964" END="972" TEXT="rs429358"/>
+		<snp ID="2" START="1051" END="1056" TEXT="rs675"/>
+		<phenotype ID="0" START="910" END="1110" text="MetS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

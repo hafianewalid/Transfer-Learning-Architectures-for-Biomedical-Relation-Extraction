@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1095" TEXT="BACKGROUND: TCF7L2 is a transcription factor involved in Wnt/beta-catenin signaling which has a variant known to be associated with risk of Type 2 diabetes and, in some studies, with risk of certain cancers, including familial breast cancer. No studies of ovarian cancer have been reported to date. METHODS: Two clinic-based case-control studies at the Mayo Clinic were assessed including 798 breast cancer cases, 843 breast cancer controls, 391 ovarian cancer cases, and 458 ovarian cancer controls. Genotyping at TCF7L2 rs12255372 used a 5' endonuclease assay, and statistical analysis used logistic regression among participants as a whole and among a priori-defined subsets. RESULTS: No associations with risk of breast or ovarian cancer were observed (ordinal model, p = 0.62 and p = 0.75, respectively). In addition, no associations were observed among sub-groups defined by age, BMI, family history, stage, grade, histology, or tumor behavior. CONCLUSIONS: Although the biology of the Wnt/beta-catenin signaling pathway and prior association between rs12255372 and numerous phenotypes warranted examination of this TCF7L2 SNP, no compelling evidence for association with breast or ovarian cancer was observed.">
+	<sentence ID="1095_0" START="951" END="1216">
+		<snp ID="0" START="1057" END="1067" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1188" END="1216" text="ovarian cancer"/>
+		<modality_marker  START="951" END="962" text="CONCLUSIONS"/>
+		<modality_marker  START="1207" END="1215" text="observed"/>
+		<negation_scope  START="1134" END="1216" text="no compelling evidence for association with breast or ovarian cancer was observed.">
+			<negation_cue START="1134" END="1136" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

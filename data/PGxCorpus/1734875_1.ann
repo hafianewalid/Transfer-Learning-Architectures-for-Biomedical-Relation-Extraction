@@ -1,0 +1,6 @@
+T1	Chemical 24 44	phosphatidylinositol 
+T2	Gene_or_protein 48 53	c-myc 
+T3	Disease 48 87	c-myc gene-expressed human renal cancer 
+T4	Phenotype 48 68	c-myc gene-expressed
+R1	influences Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R1	hyp

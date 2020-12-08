@@ -1,0 +1,10 @@
+T1	Pharmacodynamic_phenotype 0 24	RESISTANCE TO SAQUINAVIR 
+T2	Chemical 14 24	SAQUINAVIR 
+T3	Pharmacodynamic_phenotype 27 51	Resistance to saquinavir 
+T4	Chemical 41 51	saquinavir 
+T5	Limited_variation 102 106;116 131	L90M in HIV protease 
+T6	Limited_variation 111 131	G48V in HIV protease 
+T7	Disease 119 122	HIV
+T8	Gene_or_protein 119 131	HIV protease
+R1	isAssociatedWith Arg1:T3 Arg2:T5	
+R2	isAssociatedWith Arg1:T3 Arg2:T6	

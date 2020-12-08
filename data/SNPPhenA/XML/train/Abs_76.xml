@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1244" TEXT="This study examined the associations of the APOA5 T-1131C (rs662799), G553T (Cys185Gly, rs2075291), GCK G-30A (rs1799884), GCKR A/G at intron16 (rs780094) and T1403C (Leu446Pro, rs1260326) polymorphisms with serum lipid and glucose levels in Japanese, considering lifestyle factors. Study subjects were 2,191 participants (aged 35-69 years, 1,159 males) enrolled in the Japan Multi-Institutional Collaborative Cohort (J-MICC) Study.Dyslipidemia was defined as fasting serum triglycerides (FTG) ≥ 150 mg/dL and/or HDL-cholesterol (HDL-C) &lt; 40 mg/dL, while dysglycemia was asfasting blood sugar (FBS) ≥ 110 mg/dL. When those with APOA5 -1131 T/T or 553 G/G were defined as references, those with APOA5 -1131 T/C, C/C or 553 G/T, T/T demonstrated significantly elevated risk of dyslipidemia (age- and sex-adjusted odds ratio: 1.77 [95% confidence interval:1.39-2.27], 3.35 [2.41-4.65], 2.23 [1.64-3.02] and 13.78 [3.44-55.18], respectively). Evaluation of FTG, HDL-C or FBS levels according to the genotype revealed that FTG and HDL-C levels were significantly associated with the APOA5 T-1131C and G553T polymorphisms, FTG with the GCKR rs780094 and rs1260326 polymorphisms, and FBS with the GCKR rs780094 and rs1260326 polymorphisms. Moreover, a significant positive interaction between APOA5 553 G/T+T/T genotypes and fat intake ≥ 25% of total energy for the risk of dyslipidemia was observed. Our cross-sectional study confirmed the essential roles of the polymorphisms of the APOA5, GCK and GCKR in the lipid or glucose metabolism disorders, and suggested the importance of fat intake control in the individualized prevention of dyslipidemia.">
+	<sentence ID="1244_0" START="0" END="281">
+		<snp ID="0" START="59" END="67" TEXT="rs662799"/>
+		<snp ID="1" START="77" END="86" TEXT="Cys185Gly"/>
+		<snp ID="2" START="88" END="97" TEXT="rs2075291"/>
+		<snp ID="3" START="111" END="120" TEXT="rs1799884"/>
+		<snp ID="5" START="145" END="153" TEXT="rs780094"/>
+		<snp ID="6" START="178" END="187" TEXT="rs1260326"/>
+		<phenotype ID="0" START="208" END="281" text="serum lipid"/>
+		<phenotype ID="2" START="224" END="281" text="glucose levels"/>
+		<modality_marker  START="252" END="263" text="considering"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="6" PHENOTYPEID="2" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="7" PHENOTYPEID="2" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="8" PHENOTYPEID="2" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="9" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="10" PHENOTYPEID="2" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="11" PHENOTYPEID="0" SNPID="6" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="12" PHENOTYPEID="2" SNPID="6" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1244_1" START="1233" END="1393">
+		<snp ID="4" START="1286" END="1295" TEXT="APOA5 553"/>
+		<phenotype ID="1" START="1367" END="1393" text="dyslipidemia"/>
+		<modality_marker  START="1384" END="1392" text="observed"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

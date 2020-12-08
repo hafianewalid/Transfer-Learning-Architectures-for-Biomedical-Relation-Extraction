@@ -1,0 +1,10 @@
+T1	SNP 197 206	rs7903146
+T2	SNP 225 234	rs7901695
+T3	SNP 255 265	rs12255372
+T4	SNP 288 298	rs11196205
+T5	Phenotype 92 123	type 2 diabetes mellitus (T2DM)
+T6	Modality_Marker 377 385	possible
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

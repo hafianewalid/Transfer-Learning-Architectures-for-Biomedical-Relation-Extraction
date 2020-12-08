@@ -1,0 +1,7 @@
+T1	SNP 87 98	(rs1051730)
+T2	Phenotype 165 181	smoking behavior
+T3	Phenotype 187 209	tobacco-related cancer
+T4	Phenotype 214 246	lung and cardiovascular diseases
+R1	neutral_association Arg1:T1 Arg2:T2
+R2	neutral_association Arg1:T1 Arg2:T3
+R3	neutral_association Arg1:T1 Arg2:T4

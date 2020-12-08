@@ -1,0 +1,10 @@
+T1	Gene_or_protein 37 44	SLC22A2 
+T2	Gene_or_protein 94 98	OCT2 
+T4	Chemical 295 302	aspirin 
+T5	Gene_or_protein 0 34	Solute carrier family 22, member 2 
+T6	Gene_or_protein 63 91	organic cation transporter 2 
+T7	Chemical 228 242	prostaglandins
+R1	isEquivalentTo Arg1:T1 Arg2:T5	
+R2	isEquivalentTo Arg1:T2 Arg2:T6	
+R3	influences Arg1:T5 Arg2:T7	
+R5	isEquivalentTo Arg1:T6 Arg2:T5	

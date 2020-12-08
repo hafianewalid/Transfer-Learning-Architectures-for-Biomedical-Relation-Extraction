@@ -1,0 +1,3 @@
+T1	SNP 12 21	rs1051730
+T2	Phenotype 63 67	COPD
+R1	strong_confidence_association Arg1:T1 Arg2:T2

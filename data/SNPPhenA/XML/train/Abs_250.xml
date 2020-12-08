@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1169" TEXT="OBJECTIVE: The prevalence of type 2 diabetes mellitus (DM) among Emirati subjects is one of the highest in the world. This has been attributed to risingprevalence of obesity acting on genetically susceptible individuals. We analyzed the associations between TCF7L2 polymorphism and DM, metabolicsyndrome, and markers of beta cell function and insulin resistance in a population-based sample of Emirati subjects. METHODS: We genotyped the twoTCF7L2 single nucleotide polymorphisms (SNPs) rs12255372 and rs7903146 in 368 adult subjects. Homeostatic model assessment (HOMA) was used to assess beta cell function (HOMA2-%B) and insulin resistance (HOMA2-IR). The SNP genotypes were analyzed against disease stage [normal glucose=0 (n=188), pre-diabetes=1 (n=85), and DM=2 (n=95)] and against clinical and biochemical measures. Age and sex were included as covariates in all association analyses. Additional adjustments were made for body mass index (BMI) and waist circumference in several analyses. RESULTS: Diabetes disease stage was marginally significantly associated with the frequency of the T variant at rs12255372 (p=0.057; adjusted p=0.017) but not at rs7903146 (p=0.5; adjusted p=0.2).Comparison between subjects with normal glucose and the combined DM/pre-diabetes showed a significant association with rs12255372 (OR 1.47, CI 1.04-2.08; p=0.03) but not with rs7903146 (OR 1.16, CI 0.81-1.64; p=0.4). We found no association with metabolic syndrome, or with insulin and glucose levels, HOMA2-%B or HOMA2-IR. The age-standardized prevalence rate for metabolic syndrome was 43.9% in men and 42.1% inwomen. CONCLUSIONS: These data suggest that TCF7L2 variants are associated with increased risk for DM in Emirati subjects. We also demonstrate a high prevalence of the metabolic syndrome in this population.">
+	<sentence ID="1169_0" START="1005" END="1191">
+		<snp ID="0" START="1107" END="1117" TEXT="rs12255372"/>
+		<snp ID="1" START="1157" END="1166" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1005" END="1191" text="Diabetes"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1169_1" START="1191" END="1407">
+		<snp ID="2" START="1310" END="1320" TEXT="rs12255372"/>
+		<snp ID="3" START="1366" END="1375" TEXT="rs7903146"/>
+		<phenotype ID="2" START="1224" END="1407" text="normal glucose"/>
+		<phenotype ID="3" START="1256" END="1407" text="DM/pre-diabetes"/>
+		<modality_marker  START="1272" END="1278" text="showed"/>
+		<negation_scope  START="1357" END="1407" text="not with rs7903146 (OR 1.16, CI 0.81-1.64; p=0.4).">
+			<negation_cue START="1357" END="1360" text="not"/>
+		</negation_scope>
+		<pair PAIRID="4" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="6" PHENOTYPEID="3" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1169_2" START="1624" END="1726">
+		<snp ID="4" START="1648" END="1663" TEXT="TCF7L2 variants"/>
+		<phenotype ID="1" START="1703" END="1726" text="DM"/>
+		<modality_marker  START="1635" END="1642" text="suggest"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

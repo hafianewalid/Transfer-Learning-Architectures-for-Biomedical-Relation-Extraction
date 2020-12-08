@@ -1,0 +1,11 @@
+T1	Gene_or_protein 60 67	CYP2C19 
+T2	Chemical 138 150	escitalopram 
+T3	Chemical 154 164	omeprazole 
+T4	Pharmacokinetic_phenotype 154 173	omeprazole kinetics
+T5	Pharmacokinetic_phenotype 138 150;165 173	escitalopram kinetics
+T6	Chemical 60 78	CYP2C19 substrates
+T7	Limited_variation 186 195	genotypes
+R1	influences Arg1:T7 Arg2:T4	
+R2	influences Arg1:T7 Arg2:T5	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

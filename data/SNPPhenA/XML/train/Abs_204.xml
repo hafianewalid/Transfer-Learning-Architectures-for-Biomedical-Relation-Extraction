@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1118" TEXT="OBJECTIVE: Methylenetetrahydrofolate reductase (MTHFR) is a key enzyme in the metabolism of folate. The single nucleotide polymorphism (SNP), C677T (Ala&gt;Val, rs1801133), has been confirmed to decrease the enzyme activity. The association between C677T and cervical cancer susceptibility has been widely studied. However, the results were inconsistent. In order to elucidate the role of this SNP in cervical cancer, a meta-analysis was conducted. METHODS: The literature search was performed using the following databases: PubMed, Embase and ISI Web of Science up to December 2012. The effect of association was indicated as crude odds ratio (OR) with the corresponding 95% confidence interval (CI). RESULTS: Six studies including 1431 cases and 1915 controls explored C677T genotypes were involved in this meta-analysis. Overall meta-analysis showed that C677T polymorphism increased cervical cancer risk in the complete over-dominant model (random-effect OR=1.33, 95% CI: 1.00-1.77, I(2)=69%). After excluding one study which showed apparent heterogeneity, the heterogeneity disappeared. The meta-analysis of five studies including 1231 cases and 1715 controls showed the fixed-effect OR reached 1.20 (95% CI: 1.03-1.40, I(2)=0) as (TT+CC) in the complete over-dominant model. CONCLUSIONS: C677T polymorphism of MTHFR gene may increase the risk of cervical cancer in the complete over-dominant model. The association merits replicating and validating in further studies.">
+	<sentence ID="1118_0" START="222" END="311">
+		<snp ID="0" START="246" END="251" TEXT="C677T"/>
+		<phenotype ID="0" START="256" END="311" text="cervical cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1118_1" START="1278" END="1401">
+		<snp ID="1" START="1291" END="1296" TEXT="C677T"/>
+		<phenotype ID="1" START="1349" END="1401" text="cervical"/>
+		<modality_marker  START="1278" END="1289" text="CONCLUSIONS"/>
+		<modality_marker  START="1323" END="1327" text=" may"/>
+		<modality_marker  START="1395" END="1400" text="model"/>
+		<pair PAIRID="0" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

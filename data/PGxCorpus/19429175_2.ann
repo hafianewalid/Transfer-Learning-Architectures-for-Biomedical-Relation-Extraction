@@ -1,0 +1,10 @@
+T2	Chemical 9 17	morphine 
+T3	Chemical 22 28	heroin 
+T5	Gene_or_protein 89 94	MOR-1 
+T1	Gene_or_protein 54 73	mu-opioid receptors
+T4	Pharmacodynamic_phenotype 22 38	heroin analgesia
+T6	Pharmacodynamic_phenotype 29 38;9 17	analgesia morphine
+R1	causes Arg1:T1 Arg2:T4	
+R2	causes Arg1:T1 Arg2:T6	
+R3	influences Arg1:T5 Arg2:T4	
+R4	influences Arg1:T5 Arg2:T6	

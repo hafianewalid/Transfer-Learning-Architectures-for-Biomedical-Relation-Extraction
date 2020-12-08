@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1060" TEXT="Elevated mammographic density (MD) is strongly associated with breast cancer risk and the estrogen pathway has been proposed as a potential mechanism for this association. It has been repeatedly observed that several established estrogen-related factors associated with breast cancer risk, such as parity and hormone replacement therapy, are also associated with MD. However, the association of circulating estrogen levels (known to be strongly positively associated with breast cancer risk) with MD has so far been inconsistent. Since MD is highly heritable, single nucleotidepolymorphisms (SNPs) in genes involved in the estrogen pathway and their relation with MD could provide information that would help understand the link between MD and breast cancer risk. This review of 18 studies describes the relation of SNPs located in genes of the estrogen pathway (genes coding forhydroxysteroid dehydrogenases (HSD3B1, HSD17B1), cytochrome P450 (CYP1A1, CYP1A2, CYP17A1, CYP19A1 and CYP1B1), catechol-O-methyltransferase (COMT), uridine diphospho-glucuronosyltransferase (UGT1A1), sulfotransferases (SULT1A1, SULT1E1) and for estrogen receptors alphaand beta (ESR1, ESR2)) with MD.  Most of the SNPs evaluated showed no association with MD when analyses were performed on overall study population.  However, when this relation was assessed within strata based on estrogen-related factors, a few SNPs (HSD17B1 (rs2010750,rs598126 and rs676387),COMT (rs4680), UGT1A1 (rs8175347) and ESR1 (rs9340799) seemed to be related to MD in the same direction of their associations with breast cancerrisk. Since such data are very limited, additional research including stratified analyses by factors related to estrogen are needed to validate these findings.">
+	<sentence ID="1060_0" START="1298" END="1591">
+		<snp ID="0" START="1409" END="1418" TEXT="rs2010750"/>
+		<snp ID="1" START="1419" END="1427" TEXT="rs598126"/>
+		<snp ID="2" START="1432" END="1440" TEXT="rs676387"/>
+		<snp ID="3" START="1448" END="1454" TEXT="rs4680"/>
+		<snp ID="4" START="1465" END="1474" TEXT="rs8175347"/>
+		<snp ID="5" START="1486" END="1495" TEXT="rs9340799"/>
+		<phenotype ID="0" START="1521" END="1591" text="MD"/>
+		<phenotype ID="1" START="1573" END="1591" text="breast cancerrisk"/>
+		<modality_marker  START="1390" END="1393" text="few"/>
+		<modality_marker  START="1497" END="1503" text="seemed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="8" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="9" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="10" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="11" PHENOTYPEID="1" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

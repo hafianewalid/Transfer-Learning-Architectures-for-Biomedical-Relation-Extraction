@@ -1,0 +1,13 @@
+T1	Phenotype 0 15	JAK2 inhibition
+T2	Gene_or_protein 0 4	JAK2
+T3	Pharmacodynamic_phenotype 25 68	sensitivity to the EGFR inhibitor erlotinib
+T4	Chemical 59 68	erlotinib
+T5	Gene_or_protein 44 48	EGFR
+T7	Gene_or_protein 122 126	EGFR
+T8	Disease 122 161	EGFR -mutant TKI -resistant lung cancer
+T9	Chemical 44 58	EGFR inhibitor
+T10	Limited_variation 122 134	EGFR -mutant
+T11	Chemical 72 75	TKI
+T12	Chemical 135 138	TKI
+T13	Phenotype 72 86	TKI -resistant
+R1	influences Arg1:T1 Arg2:T3	

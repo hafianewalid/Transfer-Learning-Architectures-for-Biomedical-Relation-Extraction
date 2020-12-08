@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1097" TEXT="OBJECTIVE: To investigate the expression of ABCC11 (MRP8) protein in normal breast tissue, and examine the difference in ABCC11 mRNA and proteinexpression between normal breast and breast cancer tissues taking into account ABCC11 genotype (a functional SNP, rs17822931) and estrogen receptor (ER) status. METHODS: Sections of paraffin-embedded normal and malignant tissues from 10 patients with invasive ductal carcinoma were used for immunohistochemical analysis. DNA and RNA were extracted from the same sections and used for genotyping and ABCC11 transcript expression measurement by quantitative RT-PCR. RESULTS: A strong expression of ABCC11 was found in epithelial and myoepithelial cells of normal breast lobules and ducts in individuals with different ABCC11 genotypes. A predominant decrease of ABCC11 expression was observed in malignant tissue compared to normal beast specimen (8 of 10 cases), despite four out of ten tumors showed the elevated ABCC11 mRNA level as compared to the normal counterpart. Neither ABCC11 mRNA nor protein expression in normal or cancerous tissue correlated with ER status. CONCLUSIONS: The expression of ABCC11 protein appears to be decreased in most BC. The effect of ABCC11 protein on breast cancer chemosensitivity is likely to be more complex than that which can be directly inferred from ABCC11 genotype and mRNA expression level in the tumor.">
+	<sentence ID="1097_0" START="11" END="303">
+		<snp ID="0" START="258" END="268" TEXT="rs17822931"/>
+		<phenotype ID="0" START="44" END="303" text="ABCC11 (MRP8)"/>
+		<phenotype ID="1" START="181" END="303" text="breast cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,15 @@
+T1	Chemical 102 111	gefitinib 
+T3	Gene_or_protein 129 133	EGFR 
+T7	Gene_or_protein 205 209	EGFR 
+T8	Phenotype 14 19	HRQoL
+T5	Phenotype 24 41	symptom endpoints
+T4	Chemical 163 187	carboplatin / paclitaxel
+T10	Limited_variation 205 227	EGFR mutation-negative
+T9	Limited_variation 129 151	EGFR mutation-positive
+T11	Disease 129 158	EGFR mutation-positive tumors
+T12	Disease 205 234	EGFR mutation-negative tumors
+T13	Pharmacodynamic_phenotype 63 80	efficacy outcomes
+T14	Chemical 163 174	carboplatin
+T15	Chemical 177 187	paclitaxel
+R1	treats Arg1:T1 Arg2:T11	
+R2	treats Arg1:T4 Arg2:T12	

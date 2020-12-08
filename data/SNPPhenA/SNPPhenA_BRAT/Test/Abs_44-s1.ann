@@ -1,0 +1,9 @@
+T1	SNP 203 211	rs10012 
+T2	SNP 219 230	rs1056827 (
+T3	SNP 239 248	rs1056836
+T4	SNP 263 272	rs1800440
+T5	Phenotype 180 186	Cancer
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

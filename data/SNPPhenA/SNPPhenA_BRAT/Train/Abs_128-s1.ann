@@ -1,0 +1,6 @@
+T1	SNP 165 169	ApoE
+T2	Phenotype 73 96	obstructive sleep apnea
+T3	Modality_Marker 41 49	reported
+T4	Modality_Marker 177 185	findings
+T5	Modality_Marker 186 191	about
+R1	weak_confidence_association Arg1:T1 Arg2:T2

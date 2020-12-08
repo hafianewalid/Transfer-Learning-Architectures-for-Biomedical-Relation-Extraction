@@ -1,0 +1,8 @@
+T3	Disease 102 128	nonischemic cardiomyopathy 
+T4	Disease 143 156	heart failure 
+T5	Chemical 186 196	carvedilol 
+T1	Limited_variation 0 38	Arg389Gly- beta1 -adrenergic receptors
+T2	Phenotype 64 98	left ventricular systolic function
+T6	Gene_or_protein 11 38	beta1 -adrenergic receptors
+R1	influences Arg1:T1 Arg2:T2	
+R2	treats Arg1:T5 Arg2:T3	

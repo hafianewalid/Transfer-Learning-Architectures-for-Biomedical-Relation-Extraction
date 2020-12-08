@@ -1,0 +1,8 @@
+T1	Phenotype 14 29	HAGE expression 
+T2	Gene_or_protein 14 18	HAGE 
+T3	Chemical 94 107	anthracycline 
+T4	Disease 121 125	TNBC 
+T5	Pharmacodynamic_phenotype 82 117	response to anthracycline treatment
+R1	treats Arg1:T3 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R2	hyp

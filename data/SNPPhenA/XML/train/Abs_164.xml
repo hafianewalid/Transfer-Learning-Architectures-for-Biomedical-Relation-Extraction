@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1073" TEXT="In recent years, it has been widely accepted that transcription factor 7-like 2 (TCF7L2) is associated with type 2 diabetes mellitus (T2DM) in multipleethnic groups, especially its single nucleotide polymorphisms of rs7903146C/T, rs12255372G/T and rs290487T/C. However, the results previously obtained in Chinese Han population are often inconsistent. For clearing this issue, herein we performed meta-analysis based on the reports that can be found to assess the association. In the meta-analysis, Odds ratio (OR) and 95% confidence interval (95% CI) were calculated with random-effect model or fixed-effect model based on the heterogeneity analysis. The quality of included studies was evaluated by using the Newcastle-Ottawa Scale. The sensitivity analysis was used to confirm the reliability and stability of the meta-analysis. In total, 20 case-control studies with 9122 cases of T2DM and 8017 controls were included. Among these case-control studies, we selected 13 ones on rs7903146 C/T, 5 ones on rs12255372 G/T, 8 ones on rs290487 T/C. The results indicated that rs7903146C/T polymorphism was significantly associated with T2DM (T vs. C, OR = 1.73, 95% CI = 1.39-2.16). There was no evidence that rs12255372G/T and rs290487T/C polymorphisms increased T2DM risk (T vs. G, OR = 1.77, 95% CI = 0.88-3.56; C vs. T, OR = 1.08, 95% CI = 0.93-1.25). Subgroup analysis of different regions proved the relationship between rs7903146C/T polymorphism and T2DM risk in both the northern and the southernChina. The association of rs290487 with T2DM was affected by body mass index, whereas the association of rs7903146 and rs290487 with T2DM was influenced neither by age nor by sex. In conclusion, this study indicated that the rs7903146C/T polymorphism of the TCF7L2 gene had a significant effect on T2DM risk in Chinese Han population, with rs12255372G/T and rs290487T/C polymorphisms showing no significant effect.">
+	<sentence ID="1073_0" START="1680" END="1914">
+		<snp ID="0" START="1725" END="1737" TEXT="rs7903146C/T"/>
+		<snp ID="1" START="1840" END="1853" TEXT="rs12255372G/T"/>
+		<snp ID="2" START="1858" END="1869" TEXT="rs290487T/C"/>
+		<phenotype ID="0" START="1798" END="1914" text="T2DM"/>
+		<modality_marker  START="1683" END="1693" text="conclusion"/>
+		<modality_marker  START="1706" END="1715" text="indicated"/>
+		<modality_marker  START="1884" END="1891" text="showing"/>
+		<negation_scope  START="1835" END="1914" text="with rs12255372G/T and rs290487T/C polymorphisms showing no significant effect.">
+			<negation_cue START="1892" END="1894" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

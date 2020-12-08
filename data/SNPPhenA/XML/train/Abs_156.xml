@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1064" TEXT="BACKGROUND: Only 10-15% of smokers develop chronic obstructive pulmonary disease (COPD) which indicates genetic susceptibility to the disease. Recent studies suggested an association between COPD and polymorphisms in CHRNA coding subunits of nicotinic acetylcholine receptor. Herein, we performed a meta-analysis to clarify the impact of CHRNA variants on COPD. METHODS: We searched Web of Knowledge and Medline from 1990 through June 2011 for COPD gene studies reporting variants on CHRNA. Pooled odds ratios (ORs) were calculated using the major allele or genotypeas reference group. RESULTS: Among seven reported variants in CHRNA, rs1051730 was finally analyzed with sufficient studies. Totally 3460 COPD and 11437 controls from 7 individual studies were pooled-analyzed. A-allele of rs1051730 was associated with an increased risk of COPD regardless of smoking exposure (pooled OR = 1.26, 95% CI 1.18-1.34, p &lt; 10⁻⁵). At the genotypic level, the ORs gradually increased per A-allele (OR = 1.27 and 1.50 for GA and AA respectively, p  10⁻⁵). Besides, AA genotype exhibited an association with reduced FEV1% predicted (mean difference 3.51%, 95%CI 0.87-6.16%, p = 0.009) and increased risk of emphysema (OR 1.93, 95%CI 1.29-2.90, p = 0.001). CONCLUSIONS: Our findings suggest that rs1051730 in CHRNA is a susceptibility variant for COPD, in terms of both airway obstruction and parenchyma destruction.">
+	<sentence ID="1064_0" START="776" END="922">
+		<snp ID="0" START="788" END="797" TEXT="rs1051730"/>
+		<phenotype ID="0" START="839" END="922" text="COPD"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1064_1" START="1258" END="1404">
+		<snp ID="1" START="1284" END="1293" TEXT="rs1051730"/>
+		<phenotype ID="1" START="1335" END="1404" text="COPD"/>
+		<modality_marker  START="1262" END="1270" text="findings"/>
+		<modality_marker  START="1271" END="1278" text="suggest"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

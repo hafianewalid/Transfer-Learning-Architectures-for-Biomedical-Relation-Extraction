@@ -1,0 +1,7 @@
+T1	Chemical 0 11	Omacetaxine 
+T2	Disease 59 62	CML 
+T3	Limited_variation 77 91	T315I mutation 
+R1	treats Arg1:T1 Arg2:T2	
+R2	isAssociatedWith Arg1:T3 Arg2:T2	
+R3	isAssociatedWith Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

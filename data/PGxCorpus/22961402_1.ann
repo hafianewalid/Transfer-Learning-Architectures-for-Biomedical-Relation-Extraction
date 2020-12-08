@@ -1,0 +1,8 @@
+T1	Limited_variation 0 18	CD55 polymorphisms 
+T2	Gene_or_protein 0 4	CD55 
+T3	Chemical 31 38	aspirin 
+T5	Pharmacodynamic_phenotype 31 72	aspirin - exacerbated respiratory disease
+T4	Pharmacodynamic_phenotype 53 72	respiratory disease
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	increases Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

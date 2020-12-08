@@ -1,0 +1,5 @@
+T1	SNP 121 130	rs7903146
+T2	Phenotype 169 184	type 2 diabetes
+T3	Modality_Marker 131 137	showed
+T4	Modality_Marker 275 282	reports
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

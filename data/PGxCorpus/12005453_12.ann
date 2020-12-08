@@ -1,0 +1,12 @@
+T2	Chemical 58 66	butyrate 
+T4	Gene_or_protein 99 104	GLUT2 
+T3	Gene_or_protein 109 120	proglucagon
+T5	Phenotype 109 131	proglucagon expression
+T6	Chemical 158 163	SCFAs
+T1	Phenotype 121 131;99 104	expression GLUT2
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T2 Arg2:T1	
+R3	influences Arg1:T6 Arg2:T1	
+R4	influences Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R1	neg

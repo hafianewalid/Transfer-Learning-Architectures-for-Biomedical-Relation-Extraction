@@ -1,0 +1,12 @@
+T1	SNP 49 54	A118G
+T2	Phenotype 115 129	pain intensity
+T3	Phenotype 166 175	back pain
+T4	Phenotype 180 188	sciatica
+T5	Phenotype 195 206	lumbar disc
+T6	Modality_Marker 59 64	could
+T7	Modality_Marker 65 72	predict
+T8	Modality_Marker 162 165	low
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T1 Arg2:T2
+R3	neutral_association Arg1:T1 Arg2:T3
+R4	neutral_association Arg1:T1 Arg2:T4

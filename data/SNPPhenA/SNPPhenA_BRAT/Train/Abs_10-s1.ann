@@ -1,0 +1,10 @@
+T1	SNP 44 49	APOE2
+T2	Phenotype 87 89	DN
+T3	Phenotype 166 174	diabetes
+T4	Phenotype 272 274	DN
+T5	Modality_Marker 136 144	revealed
+T6	Negation_Scope 16 89	no significant effects of   APOE2 or E4 carriers on the development of DN
+T7	Negation_Cue 16 18	no
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T1 Arg2:T4
+R3	negative_association Arg1:T1 Arg2:T2

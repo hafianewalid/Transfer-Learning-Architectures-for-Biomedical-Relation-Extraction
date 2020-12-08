@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1185" TEXT="OBJECTIVE: We investigated the association of variants of the transcription factor 7-like 2 (TCF7L2) gene with: (1) incident diabetes in the Finnish Diabetes Prevention Study (DPS, Study I); (2) type 2 diabetes and impaired glucose regulation (i.e. IGT or IFG) in a cross-sectional study (Study II); and (3) insulin secretion, insulin sensitivity and adipose tissue expression of TCF7L2 in offspring of type 2 diabetic probands (III). METHODS: Study I (the DPS) included 507 individuals with IGT who were randomly allocated to control and intervention groups and followed for an average of 3.9 years to monitor for progression to diabetes. Study II was a population-based cross-sectional study of 1,766 men, aged 50-70 years, randomly selected from the population of Kuopio, eastern Finland. Study III included 238 non-diabetic offspring of patients with type 2 diabetes. Genotyping of rs12255372 and rs7903146 of TCF7L2 was carried out. RESULTS: In the DPS, the TT genotype of rs12255372 was significantly associated with an adjusted 2.85-fold risk (95% CI 1.17-6.95, p = 0.021) of incident diabetes in the control group, but not in the intervention group. In Study II, the adjusted odds ratio in subjects with the TT genotype was 3.40 (1.45-7.97, p = 0.005) for the comparison of diabetic subjects with normoglycaemic subjects. The T allele of rs12255372 was significantly associated with decreased insulin secretion (Studies II, III). Expression of TCF7L2 in adipose tissue tended to be lower in subjects with the TT risk genotypes of rs12255372 and rs7903146. CONCLUSIONS: The variant of rs12255372 of TCF7L2 was associated with incident type 2 diabetes in the DPS and in a separate population-based cross-sectional study. Impaired insulin secretion is likely to be the main cause for our findings.">
+	<sentence ID="1185_0" START="947" END="1157">
+		<snp ID="0" START="978" END="988" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1092" END="1157" text="diabetes"/>
+		<negation_scope  START="1127" END="1157" text="not in the intervention group.">
+			<negation_cue START="1127" END="1130" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1185_1" START="1330" END="1437">
+		<snp ID="1" START="1346" END="1356" TEXT="rs12255372"/>
+		<phenotype ID="1" START="1401" END="1437" text="insulin secretion"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1185_2" START="1577" END="1726">
+		<snp ID="2" START="1592" END="1602" TEXT="rs12255372"/>
+		<phenotype ID="2" START="1642" END="1726" text="type 2 diabetes"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,8 @@
+T1	SNP 88 96	TNFRSF1A
+T2	SNP 101 109	TNFRSF1B
+T3	Phenotype 306 340	esophageal squamous cell carcinoma
+T4	Modality_Marker 233 239	little
+T5	Modality_Marker 243 248	known
+T6	Modality_Marker 249 254	about
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

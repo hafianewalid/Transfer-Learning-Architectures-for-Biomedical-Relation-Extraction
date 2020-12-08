@@ -1,0 +1,8 @@
+T1	SNP 57 70	CYP2B6 (516T)
+T2	SNP 75 92	IL28B (12007005T)
+T3	Phenotype 256 260	AIDS
+T4	Phenotype 264 275	hepatitis C
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

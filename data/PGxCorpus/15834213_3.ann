@@ -1,0 +1,7 @@
+T1	Gene_or_protein 43 49	GABRA2 
+T2	Chemical 69 76	alcohol 
+T3	Chemical 111 118	alcohol 
+T4	Disease 69 87	alcohol dependence
+T5	Disease 111 129	alcohol -dependent
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

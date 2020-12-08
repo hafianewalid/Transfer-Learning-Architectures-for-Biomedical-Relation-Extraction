@@ -1,0 +1,13 @@
+T1	Chemical 15 24	Gefitinib 
+T2	Limited_variation 181 200	EGFR gene mutations 
+T3	Gene_or_protein 181 185	EGFR 
+T4	Limited_variation 225 256	EGFR exon 19 deletion mutations 
+T5	Gene_or_protein 225 229	EGFR 
+T6	Chemical 45 56	bevacizumab
+T7	Disease 159 164	NSCLC
+T8	Chemical 15 56	Gefitinib in combination with bevacizumab
+T9	Genomic_factor 225 237	EGFR exon 19
+R1	treats Arg1:T8 Arg2:T7	
+R2	influences Arg1:T2 Arg2:T8	
+R3	influences Arg1:T4 Arg2:T8	
+R4	isAssociatedWith Arg1:T7 Arg2:T2	

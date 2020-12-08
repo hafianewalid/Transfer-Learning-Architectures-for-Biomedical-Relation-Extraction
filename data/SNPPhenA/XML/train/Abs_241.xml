@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1159" TEXT="UNLABELLED: We studied the impact of genetic and traditional risk factors for type 2 diabetes in a large, population-based study from Nord-Trøndelag county in Norway (HUNT), in both cross-sectional and prospective design. METHODS: 65,905 individuals participated in the HUNT study. We studied a randomly selected group of 869 individuals with self-reported diabetes or non-fasting serum glucose &gt;or=11.1 mmol/L and 2,080 non-diabetic control subjects with non-fasting serum glucose &lt;5.5 mmol/L. Four candidate polymorphisms in the three genes TCF7L2 (rs12255372 and rs7903146), PPARG (rs1801282), KCNJ11 (rs5219) and traditional risk factors were studied. RESULTS: Risk alleles of the TCF7L2 gene showed increased risk of diabetes even when controlled for traditional diabetes risk factors (diabetes in family, waist circumference, physical activity, BMI, SBP and total and HDL-cholesterol) in both a cross-sectional and prospective setting (cross-sectional: rs12255372 OR 1.61 (1.31-1.99), rs7903146 OR 1.48 (1.20-1.83) and prospective: rs12255372 OR 1.59 (1.22-2.07), rs7903146 OR 1.47 (1.11-1.93)). The risk alleles of TCF7L2 indicated impaired beta-cell function in patients and control subjects. The population attributable risks for diabetes with TCF7L2 risk alleles were 15 % and with diabetes in a first-degree relative 31 %. CONCLUSIONS: The risk alleles of the TCF7L2 gene (rs12255372 and rs7903146) were strongly associated with type 2 diabetes, even after controlling for traditional risk factors in both a cross-sectional and prospective setting. These risk alleles were associated with indices of reduced beta-cell function.">
+	<sentence ID="1159_0" START="1347" END="1559">
+		<snp ID="0" START="1384" END="1394" TEXT="rs12255372"/>
+		<snp ID="1" START="1399" END="1408" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1440" END="1559" text="type 2 diabetes"/>
+		<modality_marker  START="1415" END="1423" text="strongly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

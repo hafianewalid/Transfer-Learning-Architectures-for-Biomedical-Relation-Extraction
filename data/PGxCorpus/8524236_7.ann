@@ -1,0 +1,21 @@
+T1	Chemical 40 55	chloramphenicol
+T3	Gene_or_protein 106 113	ER/ Sp1
+T4	Chemical 146 161	chloramphenicol
+T5	Chemical 223 227	TCDD
+T6	Gene_or_protein 279 296	ER/ Sp1 - " XRE "
+T7	Gene_or_protein 40 82	chloramphenicol acetyltransferase reporter
+T2	Limited_variation 96 131	wild-type ER/ Sp1 promoter sequence
+T8	Pharmacodynamic_phenotype 134 188	E2 -induced chloramphenicol acetyltransferase activity
+T9	Gene_or_protein 146 179	chloramphenicol acetyltransferase
+T10	Limited_variation 272 296	mutant ER/ Sp1 - " XRE "
+T11	Pharmacodynamic_phenotype 134 179;193 204	E2 -induced chloramphenicol acetyltransferase mRNA levels
+T12	Chemical 134 136	E2
+T13	Genomic_factor 146 179;193 197	chloramphenicol acetyltransferase mRNA
+T14	Pharmacodynamic_phenotype 146 188	chloramphenicol acetyltransferase activity
+T15	Pharmacodynamic_phenotype 146 179;193 204	chloramphenicol acetyltransferase mRNA levels
+R1	decreases Arg1:T5 Arg2:T11	
+R2	decreases Arg1:T5 Arg2:T8	
+R3	influences Arg1:T10 Arg2:T8	
+R4	causes Arg1:T12 Arg2:T14	
+R5	causes Arg1:T12 Arg2:T15	
+#1	AnnotatorNotes R3	neg

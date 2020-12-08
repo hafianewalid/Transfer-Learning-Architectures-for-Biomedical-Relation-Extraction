@@ -1,0 +1,8 @@
+T1	Chemical 18 28	naltrexone 
+T2	Chemical 60 67	alcohol 
+T4	Gene_or_protein 85 90	OPRM1 
+T5	Limited_variation 85 105	OPRM1 A118G genotype 
+T6	Disease 60 78	alcohol dependence
+R1	treats Arg1:T1 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T1	
+#1	AnnotatorNotes R2	neg

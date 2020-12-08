@@ -1,0 +1,10 @@
+T2	Chemical 16 42	3'-azido-3'-deoxythymidine 
+T3	Chemical 60 69	estradiol 
+T4	Chemical 72 77	17-OH 
+T5	Chemical 86 103	ethinyl estradiol 
+T6	Chemical 106 111	17-OH 
+T7	Limited_variation 179 194	UGT1A1 genotype 
+T8	Gene_or_protein 179 185	UGT1A1 
+T9	Chemical 0 13	Acetaminophen
+T1	Chemical 45 57	muraglitazar
+T10	Pharmacokinetic_phenotype 145 164	rates of metabolism

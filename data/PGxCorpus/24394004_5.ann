@@ -1,0 +1,6 @@
+T1	Genomic_factor 29 39	MSI status 
+T3	Chemical 73 84	oxaliplatin 
+T2	Pharmacodynamic_phenotype 48 59;73 104	efficacy of oxaliplatin -based chemotherapy
+T4	Chemical 73 104	oxaliplatin -based chemotherapy
+R1	influences Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

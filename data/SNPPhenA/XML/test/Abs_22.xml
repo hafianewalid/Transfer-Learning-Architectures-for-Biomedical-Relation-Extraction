@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1015" TEXT="The association between single-nucleotide polymorphisms (SNPs) of the CYP1B1 gene and lung cancer risk is still ambiguous. In this meta analysis, we assessed 10 case-control studies included 7,067 cases and 9,374 controls of the association between CYP1B1 SNPs of Leu432Val rs1056836, 432C&gt;G , Asn453Ser rs1800440, 453A&gt;G, Ala119Ser rs1056827, 119G&gt;T, Arg48Gly rs10012, 48C&gt;G and the risk of lung cancer . Crude odds ratios (ORs) with 95% confidence intervals (CIs) were used to evaluate the strength of association between the polymorphism and lung cancer risk under codominant model, dominant model and additive model respectively. Although there were limitations, this meta analysis indicated that individuals with 432GG genotypehad a 39.7% higher risk of having lung cancer than those with the 432CC genotype, and individuals with the 432G allele had a 26.3% increased risk as well. An increased risk of lung cancer of 2.13 fold was observed in individuals with 119TT genotype. For Arg48Gly, individuals with 48GG genotype had a significantly increased risk of lung cancer compared with individuals with 48CC (OR 3.859; 95% CI 2.536-5.87). Elevated risk of lung cancer were observed in dominant model (OR 2.115; 95% CI 1.653-2.705) as well. The risk of lung cancer was elevated as the frequency of G allele increased in additive model (P = 0.000). For individuals with the polymorphism at codon 453, no evidence of such association was observed. Furthermore, a possible association between the CYP1B1 polymorphism at codon 432 and the lung cancer could be detected in individuals of Caucasian origin, while a negative association was suggested in Asians and African-Americans. An increased lung cancer risk was also found in women with polymorphism at codon 453. These results are supportive for the hypothesis that the CYP1B1 432GG, 119TT and 48GG genotypes are low-penetrance risk factors for developing lungcancer, and further studies are needed to validate these associations.">
+	<sentence ID="1015_0" START="146" END="405">
+		<snp ID="0" START="274" END="293" TEXT="rs1056836, 432C&gt;G ,"/>
+		<snp ID="1" START="304" END="321" TEXT="rs1800440, 453A&gt;G"/>
+		<snp ID="2" START="333" END="350" TEXT="rs1056827, 119G&gt;T"/>
+		<snp ID="3" START="352" END="377" TEXT="Arg48Gly rs10012, 48C&gt;G a"/>
+		<phenotype ID="0" START="392" END="405" text="lung cancer"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

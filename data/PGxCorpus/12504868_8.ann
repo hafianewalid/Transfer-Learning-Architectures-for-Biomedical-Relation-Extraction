@@ -1,0 +1,6 @@
+T1	Gene_or_protein 0 33	Intercellular adhesion molecule-1 
+T2	Gene_or_protein 181 184	Tat 
+T4	Phenotype 0 49	Intercellular adhesion molecule-1 gene expression
+T5	Chemical 181 203	Tat combined with METH
+T3	Chemical 199 203	METH
+R1	increases Arg1:T5 Arg2:T4	

@@ -1,0 +1,7 @@
+T1	Disease 0 13	Breast cancer 
+T2	Limited_variation 54 84	Asp299Gly polymorphism of TLR4 
+T4	Gene_or_protein 80 84	TLR4 
+T5	Chemical 118 151	anthracycline -based chemotherapy 
+T3	Chemical 118 131	anthracycline
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+R2	influences Arg1:T2 Arg2:T5	

@@ -1,0 +1,1 @@
+In haplotype analysis, the haplotype combination of rs2254298 A allele, rs2228485 C allele and rs237911 G allele was found to be significantly associated with an increased risk of preterm birth (OR=3.2 [CI 1.04-9.8], p=0.043).

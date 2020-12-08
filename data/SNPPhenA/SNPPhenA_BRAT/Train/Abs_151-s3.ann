@@ -1,0 +1,3 @@
+T1	SNP 37 46	rs1051730
+T2	Phenotype 61 90	short-term (4-week) cessation
+R1	strong_confidence_association Arg1:T1 Arg2:T2

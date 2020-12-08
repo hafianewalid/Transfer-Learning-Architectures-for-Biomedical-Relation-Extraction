@@ -1,0 +1,8 @@
+T1	Chemical 48 57	ribavirin 
+T2	Limited_variation 84 105	polymorphisms at ITPA 
+T3	Gene_or_protein 101 105	ITPA 
+T4	Disease 132 151	chronic hepatitis C
+T5	Pharmacodynamic_phenotype 110 128	treatment efficacy
+T6	Phenotype 172 184	relapse risk
+R1	isAssociatedWith Arg1:T2 Arg2:T5	
+R2	decreases Arg1:T2 Arg2:T6	

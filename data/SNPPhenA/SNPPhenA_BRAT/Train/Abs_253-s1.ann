@@ -1,0 +1,4 @@
+T1	SNP 35 44	rs7903146
+T2	Phenotype 103 137	PTDM in renal allograft recipients
+T3	Modality_Marker 11 18	suggest
+R1	weak_confidence_association Arg1:T1 Arg2:T2

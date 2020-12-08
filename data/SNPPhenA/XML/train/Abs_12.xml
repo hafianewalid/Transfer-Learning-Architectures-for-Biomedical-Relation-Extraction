@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1024" TEXT="The nicotinic acetylcholine receptor polymorphism (rs1051730) on chromosome 15q25 is associated with major tobacco-related diseases in the general population with additional increased risk of COPD as well as lung cancer.">
+	<sentence ID="1024_0" START="0" END="220">
+		<snp ID="0" START="51" END="60" TEXT="rs1051730"/>
+		<phenotype ID="0" START="107" END="220" text="tobacco-related diseases"/>
+		<phenotype ID="1" START="208" END="220" text="lung cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

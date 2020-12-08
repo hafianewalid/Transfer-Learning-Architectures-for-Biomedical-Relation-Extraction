@@ -1,0 +1,7 @@
+T1	SNP 60 69	rs1799971
+T2	Phenotype 89 110	alcohol use disorders
+T3	Phenotype 289 307	alcohol dependence
+T4	Phenotype 315 328	alcohol abuse
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T2
+R3	neutral_association Arg1:T1 Arg2:T4

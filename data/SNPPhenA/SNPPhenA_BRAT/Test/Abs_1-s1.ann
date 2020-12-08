@@ -1,0 +1,5 @@
+T1	SNP 25 34	rs2144300
+T2	Phenotype 243 266	coronary artery disease
+T3	Modality_Marker 63 67	high
+T4	Modality_Marker 127 138	potentially
+R1	weak_confidence_association Arg1:T1 Arg2:T2

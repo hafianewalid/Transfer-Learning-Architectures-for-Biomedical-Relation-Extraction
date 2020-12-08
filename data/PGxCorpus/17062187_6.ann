@@ -1,0 +1,19 @@
+T1	Limited_variation 20 25	M184V 
+T2	Limited_variation 30 35	Q151M 
+T3	Chemical 61 104	nucleoside reverse transcriptase inhibitors 
+T4	Limited_variation 178 182	V71I 
+T5	Limited_variation 187 191	L90M 
+T6	Chemical 215 225	nelfinavir 
+T7	Chemical 107 112	NRTIs
+T8	Disease 118 133	HIV-1 infection
+T9	Chemical 201 210	indinavir
+T10	Pharmacodynamic_phenotype 47 114	resistance to nucleoside reverse transcriptase inhibitors ( NRTIs )
+T11	Pharmacodynamic_phenotype 215 236	nelfinavir resistance
+T12	Pharmacodynamic_phenotype 201 210;226 236	indinavir resistance
+R1	isEquivalentTo Arg1:T7 Arg2:T3	
+R2	causes Arg1:T1 Arg2:T10	
+R3	causes Arg1:T2 Arg2:T10	
+R4	causes Arg1:T4 Arg2:T12	
+R5	causes Arg1:T5 Arg2:T12	
+R6	causes Arg1:T4 Arg2:T11	
+R7	causes Arg1:T5 Arg2:T11	

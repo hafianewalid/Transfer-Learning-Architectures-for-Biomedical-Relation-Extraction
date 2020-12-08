@@ -1,0 +1,4 @@
+T1	Chemical 43 50	CpG ODN 
+T2	Phenotype 130 168	development of Th2 -mediated responses 
+T3	Gene_or_protein 145 148	Th2 
+R1	decreases Arg1:T1 Arg2:T2	

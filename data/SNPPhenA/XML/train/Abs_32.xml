@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1196" TEXT="OBJECTIVE: Disordered metabolism of estrogen is believed to play a significant role in endometrial carcinogenesis. Recently, a number of studies have been conducted to identify the role of estrogen-related gene polymorphism in endometrial cancer risk, generating conflicting conclusions. This meta-analysis aimed to assess the association between genetic polymorphisms involving estrogen metabolic enzymes and endometrial cancer risk. METHODS: A systematic search of 6 databases was conducted. Fourteen studies on the association of COMT (catechol-O-methyltransferase) Val158Met, CYP1B1 Leu432Val, and CYP1B1 Asn453Ser polymorphisms with endometrial cancer risk were identified, enrolling a total of 4283 cancer cases and 7094 controls. Odds ratios (ORs) with 95% confidence intervals (CIs) were used to assess the relationship. RESULTS: In CYP1B1 Leu432Val(rs1056836) analysis, the heterozygous genotype (CG) demonstrated an increased risk for endometrial cancer (Val/Leu vs. Leu/Leu: pooled OR, 1.11; 95% CI, 1.01-1.23; P = 0.039; I = 10.5%; (Val/Val +Val/Leu) vs. Leu/Leu: pooled OR, 1.19; 95% CI, 1.03-1.38; P = 0.017; I = 54.7%). As for CYP1B1 Asn453Ser(rs1800440) polymorphism, a decreased risk was observed in G allele compared with A allele (Ser vs. Asn: pooled OR, 0.82; 95% CI, 0.72-0.94; P = 0.005; I = 0.0%), and heterozygous genotype also showed a decreased risk compared with normal genotype (Ser/Asn vs. Asn/Asn: pooled OR, 0.81; 95% CI, 0.69-0.95; P = 0.011; I = 0.0%). As for COMT Val158Met (rs4680) polymorphism, the heterogeneous genotype showed a decreased risk for endometrial cancer compared with the common homogenous genotype in a fixed-effect model in Asian population (Met/Val vs. Val/Val: pooled OR, 0.83; 95% CI, 0.70-0.98; P = 0.033; I = 29.2%), whereas no positive results are found in other subgroups or models. CONCLUSIONS: COMT Val158Met was seen to show a decreased risk for endometrial cancer in Asian population. CYP1B1 Leu432Val and Asn453Ser polymorphisms demonstrated an increased and decreased risk for endometrial cancer, respectively. Further large and comprehensive studies in various populations with more detailed individual data are needed to confirm our findings.">
+	<sentence ID="1196_0" START="1843" END="1947">
+		<snp ID="0" START="1856" END="1870" TEXT="COMT Val158Met"/>
+		<phenotype ID="0" START="1909" END="1947" text="endometrial cancer"/>
+		<modality_marker  START="1843" END="1854" text="CONCLUSIONS"/>
+		<modality_marker  START="1883" END="1887" text="show"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1196_1" START="1949" END="2076">
+		<snp ID="1" START="1949" END="1965" TEXT="CYP1B1 Leu432Val"/>
+		<snp ID="2" START="1970" END="1979" TEXT="Asn453Ser"/>
+		<phenotype ID="1" START="2043" END="2076" text="endometrial cancer"/>
+		<modality_marker  START="1994" END="2006" text="demonstrated"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

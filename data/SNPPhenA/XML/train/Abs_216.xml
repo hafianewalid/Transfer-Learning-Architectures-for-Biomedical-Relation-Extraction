@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1131" TEXT="Centrosome defects can result in aneuploidy and genomic instability, and have important implications for breast cancer development. The Aurora-A and BRCA1 proteins interact and both are strongly involved in centrosome regulation. Genetic variants in these two genes may have an effect on breast cancer development. Here, we report a comprehensive single nucleotide polymorphism (SNP) and haplotype-tagging association study on these twogenes in 1334 breast cancer cases and 1568 unaffected controls among the Chinese Han population. Apart from a missense SNP, rs2273535 (Phe31Ile), and a probable risk SNP, rs2064863, six htSNPs were analysed in three high-LD blocks of AURKA spanning from 10 kb upstream to 2 kb downstream ofAURKA. For BRCA1, six htSNPs were analysed in a large high-LD region covering 98 kb (10 kb was extended to each end of BRCA1). The results showed that four SNPs in AURKA (data in recessive model, rs2273535: OR = 2.19, 95% CI = 1.03-4.66, p = 0.0422; rs2298016: OR = 0.38, 95% CI = 0.18-0.82, p = 0.0141; rs6024836: OR = 1.54, 95% CI = 1.18-2.00, p = 0.0014; rs10485805: OR = 0.68, 95% CI = 0.47-0.98, p = 0.0380) and one SNP in BRCA1(rs3737559, dominant model OR = 1.35, 95% CI = 1.11-1.64, p = 0.0030) were associated with breast cancer susceptibility. After correction for multiple comparisons (FDR = 0.05), only rs6024836 and rs3737559 remained significant. Two haplotypes (CC of block 2, OR = 20.74, 95% CI = 4.35-98.88, p = 0.0001; GG of block 3, OR = 1.32, 95% CI = 1.12-1.56, p = 0.0010) and one diplotype (AG-GG of block 3, OR = 1.63, 95% CI = 1.18-2.26, p = 0.0031) within AURKA showed strong associations with breast cancer risk. One haplotype of BRCA1 (CTGTTG, OR = 1.30, 95% CI = 1.06-1.59, p = 0.0118) was also associated with breast cancer risk. However, women harbouring both at-risk genotypes of Aurora-A and BRCA1 were at a slightly increased risk compared with those harbouring either at-risk variant alone. Common genetic variants in the AURKA and BRCA1 genes may contribute to breast cancer development.">
+	<sentence ID="1131_0" START="853" END="1279">
+		<snp ID="0" START="922" END="931" TEXT="rs2273535"/>
+		<snp ID="1" START="976" END="985" TEXT="rs2298016"/>
+		<snp ID="2" START="1030" END="1039" TEXT="rs6024836"/>
+		<snp ID="3" START="1084" END="1094" TEXT="rs10485805"/>
+		<snp ID="4" START="1160" END="1169" TEXT="rs3737559"/>
+		<phenotype ID="0" START="1250" END="1279" text="breast cancer"/>
+		<modality_marker  START="865" END="871" text="showed"/>
+		<modality_marker  START="915" END="920" text="model"/>
+		<modality_marker  START="1180" END="1185" text="model"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

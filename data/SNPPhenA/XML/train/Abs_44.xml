@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1209" TEXT="BACKGROUND: The Met158 allele of catechol-O-methyl transferase (COMT) gene is associated with increased levels of catecholamines in the prefrontal cortex and may increase the likelihood of aggressiveness. We conducted a meta-analysis to test the hypothesis that the Met158 allele of the COMT gene is associated with aggressive and violent behavior in schizophrenia. METHODS: MEDLINE search (12/31/11) yielded 14 studies examining the association of the COMT gene polymorphism (rs4680) and aggression in schizophrenia (total n=2219). Three separate analyses were conducted using a random effects model for Met allele carriers vs. Val/Val homozygotes, Met/Met homozygotes vs. Val allele carriers, and Met allele vs. Val allele, respectively. Primary outcome was frequency of patients with aggressive behavior and odds ratio (OR) was the effect size measure. RESULTS: The frequency of violent patients in the sample ranged from 20% to 75%. The pooled effect sizes for the Met homozygotes vs. Val allele carriers, Met allele carriers vs. Val homozygotes and the Met allele vs. Val allele comparisons were 1.74, 1.65 and 1.35, ps&lt;.05, respectively, suggesting that the Met 158 allele of the COMT gene is associated with higher risk for violence in schizophrenia. Results remained significant after examining heterogeneity among samples and potential publication biases. CONCLUSIONS: The Met158 allele of the COMT gene confers a significantly increased risk for aggressive and violent behavior in schizophrenia. These data may provide basis for developing informative strategies for reducing violence in patients with schizophrenia.">
+	<sentence ID="1209_0" START="1378" END="1505">
+		<snp ID="0" START="1382" END="1388" TEXT="Met158"/>
+		<phenotype ID="2" START="1456" END="1505" text="aggressive"/>
+		<phenotype ID="1" START="1471" END="1505" text="violent behavior"/>
+		<phenotype ID="0" START="1491" END="1505" text="schizophrenia"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

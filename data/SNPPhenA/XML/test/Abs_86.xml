@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1085" TEXT="BACKGROUND: Previous research has suggested that the social impairments exhibited by individuals with autism are associated with changes in plasma oxytocin (OT) levels. The physiologic effects of oxytocin are mediated through its specific receptors (OTRs), and numerous studies have implicated OTRs in the regulation of social cognition and behavior. Animal models and linkage data from genome screens indicate that the oxytocin receptor gene (OXTR) is an excellent candidate for research concerning psychiatric disorders, particularly those involving social impairments, such as autism. METHODS: We genotyped four single nucleotide polymorphisms (SNPs) located within the OXTR gene of 195 Chinese Han autism trios, using polymerase chain reaction-restriction fragment length polymorphism analysis. RESULTS: The family-based association test (FBAT) revealed a significant genetic association between autism and two of the SNPs tested (rs2254298 A: Z = 2.287, p = .0222; rs53576 A: Z = 2.573, p = .0101). When haplotypes were constructed with two, three, and four markers, the haplotype-specific FBAT revealed that a number of haplotypes, particularly those involving rs53576, were significantly associated with autism. Furthermore, haplotypes constructed with all markers showed a significant excess transmission for the specific and global haplotype analyses (p = .0020 and .0289, respectively). CONCLUSIONS: These data suggest an involvement of OXTR in the susceptibility to autism, and replication is important.">
+	<sentence ID="1085_0" START="1004" END="1218">
+		<snp ID="0" START="1167" END="1174" TEXT="rs53576"/>
+		<phenotype ID="0" START="1211" END="1218" text="autism"/>
+		<modality_marker  START="1100" END="1108" text="revealed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

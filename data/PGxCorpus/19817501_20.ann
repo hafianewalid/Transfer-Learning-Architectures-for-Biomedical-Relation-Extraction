@@ -1,0 +1,22 @@
+T1	Gene_or_protein 14 20	CYP2D6 
+T2	Pharmacokinetic_phenotype 133 149;169 185	activity towards dextromethorphan 
+T3	Pharmacokinetic_phenotype 133 149;188 199	activity towards risperidone 
+T4	Pharmacokinetic_phenotype 133 149;202 209	activity towards codeine 
+T5	Pharmacokinetic_phenotype 133 149;214 225	activity towards haloperidol 
+T6	Haplotype 14 25	CYP2D6 * 17
+T7	Phenotype 68 84	reduced function
+T8	Chemical 150 160	substrates
+T9	Pharmacokinetic_phenotype 133 160	activity towards substrates
+T10	Chemical 169 185	dextromethorphan
+T11	Chemical 188 199	risperidone
+T12	Chemical 202 209	codeine
+T13	Chemical 214 225	haloperidol
+R1	influences Arg1:T6 Arg2:T7	
+R2	influences Arg1:T6 Arg2:T2	
+R3	influences Arg1:T6 Arg2:T3	
+R4	influences Arg1:T6 Arg2:T4	
+R5	influences Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes R5	in a remarkably variable way
+#2	AnnotatorNotes R4	in a remarkably variable way
+#3	AnnotatorNotes R3	in a remarkably variable way
+#4	AnnotatorNotes R2	in a remarkably variable way

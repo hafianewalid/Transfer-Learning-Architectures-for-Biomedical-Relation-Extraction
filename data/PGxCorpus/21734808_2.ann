@@ -1,0 +1,11 @@
+T1	Limited_variation 28 67	cytosine deaminase ( bCD ) mutant D314A 
+T3	Chemical 72 88	5-fluorocytosine 
+T4	Chemical 91 95	5-FC 
+T5	Disease 115 127	colon cancer 
+T7	Gene_or_protein 49 52	bCD
+T2	Gene_or_protein 28 46	cytosine deaminase
+R1	isEquivalentTo Arg1:T7 Arg2:T2	
+R2	isEquivalentTo Arg1:T4 Arg2:T3	
+R3	isAssociatedWith Arg1:T1 Arg2:T3	
+R4	treats Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R3	hyp

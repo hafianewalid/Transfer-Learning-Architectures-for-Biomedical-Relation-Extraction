@@ -1,0 +1,47 @@
+T1	Limited_variation 0 9	rs9923231 
+T2	Gene_or_protein 12 18	VKORC1 
+T3	Limited_variation 23 29	rs7294 
+T4	Gene_or_protein 32 38	VKORC1 
+T5	Limited_variation 43 52	rs1057910 
+T6	Gene_or_protein 55 61	CYP2C9 
+T7	Limited_variation 66 75	rs2108622 
+T8	Gene_or_protein 78 84	CYP4F2 
+T9	Limited_variation 93 101	rs699664 
+T10	Gene_or_protein 104 108	GGCX 
+T11	Pharmacodynamic_phenotype 127 142	warfarin action 
+T12	Chemical 173 182	vitamin K 
+T13	Chemical 313 321	warfarin 
+T14	Pharmacokinetic_phenotype 293 321	pharmacokinetics of warfarin
+T15	Pharmacodynamic_phenotype 272 288;310 321	pharmacodynamics of warfarin
+T16	Pharmacodynamic_phenotype 161 182	circulatory vitamin K
+T17	Chemical 127 135	warfarin
+R1	influences Arg1:T9 Arg2:T11	
+R2	influences Arg1:T7 Arg2:T11	
+R3	influences Arg1:T5 Arg2:T11	
+R4	influences Arg1:T3 Arg2:T11	
+R5	influences Arg1:T1 Arg2:T11	
+R6	influences Arg1:T9 Arg2:T15	
+R7	influences Arg1:T7 Arg2:T15	
+R8	influences Arg1:T5 Arg2:T15	
+R9	influences Arg1:T3 Arg2:T14	
+R10	influences Arg1:T1 Arg2:T13	
+R11	influences Arg1:T1 Arg2:T15	
+R12	influences Arg1:T3 Arg2:T15	
+R13	influences Arg1:T5 Arg2:T14	
+R14	influences Arg1:T7 Arg2:T14	
+R15	influences Arg1:T9 Arg2:T14	
+R16	influences Arg1:T1 Arg2:T16	
+R17	influences Arg1:T3 Arg2:T16	
+R18	influences Arg1:T5 Arg2:T16	
+R19	influences Arg1:T7 Arg2:T16	
+R20	influences Arg1:T9 Arg2:T16	
+#1	AnnotatorNotes R10	hyp
+#3	AnnotatorNotes R8	hyp
+#4	AnnotatorNotes R7	hyp
+#5	AnnotatorNotes R6	hyp
+#2	AnnotatorNotes R11	hyp
+#6	AnnotatorNotes R9	hyp
+#7	AnnotatorNotes R12	hyp
+#8	AnnotatorNotes R13	hyp
+#9	AnnotatorNotes R14	hyp
+#10	AnnotatorNotes R15	hyp

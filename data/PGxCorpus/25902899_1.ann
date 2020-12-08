@@ -1,0 +1,13 @@
+T1	Chemical 23 32	pazopanib 
+T2	Chemical 37 47	everolimus 
+T3	Gene_or_protein 51 57	PIK3CA 
+T4	Gene_or_protein 77 81	PTEN 
+T5	Disease 110 122	solid tumors 
+T6	Chemical 23 47	pazopanib and everolimus
+T7	Limited_variation 51 86	PIK3CA mutation positive/ PTEN loss
+T8	Pharmacodynamic_phenotype 110 153	solid tumors refractory to standard therapy
+R3	treats Arg1:T6 Arg2:T8	
+R1	influences Arg1:T6 Arg2:T7	
+R2	isAssociatedWith Arg1:T7 Arg2:T8	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R1	hyp

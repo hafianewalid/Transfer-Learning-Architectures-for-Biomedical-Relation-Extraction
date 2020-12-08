@@ -1,0 +1,12 @@
+T1	Gene_or_protein 14 18	KRAS 
+T2	Disease 105 110	NSCLC 
+T3	Chemical 153 181	platinum -based chemotherapy 
+T4	Limited_variation 14 21	KRAS MT
+T5	Phenotype 55 71	progression-free
+T6	Phenotype 76 92	overall survival
+T7	Chemical 153 161	platinum
+R1	decreases Arg1:T4 Arg2:T5	
+R2	decreases Arg1:T4 Arg2:T6	
+R3	treats Arg1:T3 Arg2:T2	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

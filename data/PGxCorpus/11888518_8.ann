@@ -1,0 +1,8 @@
+T1	Chemical 30 36	BO-653 
+T2	Chemical 47 55	probucol 
+T3	Phenotype 82 97	c-myc induction 
+T4	Gene_or_protein 82 87	c-myc 
+T5	Phenotype 12 27	gene expression
+R1	decreases Arg1:T1 Arg2:T3	
+R2	decreases Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes R2	neg

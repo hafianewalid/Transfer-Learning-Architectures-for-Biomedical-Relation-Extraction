@@ -1,0 +1,5 @@
+T1	Phenotype 30 47	CPT II deficiency 
+T2	Gene_or_protein 30 36	CPT II 
+T3	Chemical 88 100	triheptanoin 
+R1	isAssociatedWith Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

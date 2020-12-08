@@ -1,0 +1,9 @@
+T1	SNP 152 161	rs1056836
+T2	SNP 183 192	rs1800440
+T3	SNP 214 223	rs1056827
+T4	SNP 244 251	rs10012
+T5	Phenotype 276 287	lung cancer
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

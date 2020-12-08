@@ -1,0 +1,1 @@
+Disease association analysis revealed a susceptibility haplotype CGTC (in order of rs440446, rs769450, rs429358, rs7412) and the carriers of this haplotype has higher risk of osteopenia (OR 3.53, 95% CI 1.21-11.0, P=0.017) and osteoporosis (OR 3.61, 95% CI 1.53-9.48, P=0.002) after adjusting the confounding effect of age, BMI and years since menopause.

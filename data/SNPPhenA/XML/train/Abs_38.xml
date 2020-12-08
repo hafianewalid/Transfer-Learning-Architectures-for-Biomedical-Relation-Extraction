@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1202" TEXT="Breast cancer is associated to estrogen exposure. Allelic variants involved in estrogen metabolism might change the risk of developing this neoplasia. We examined the potential association of breast cancer risk in Mexican women with the polymorphisms CYP1A1 rs1048943, CYP1B1 rs1056836, COMTrs4680, GSTP1 rs1695, GSTT1 null and GSTM1 null which are involved in estrogen metabolism pathway. This study included 150 cases and 150 controls. A significant association was observed between, CYP1A1 rs1048943 (OR = 1.95, C.I. 1.13-3.36) and GSTP1 rs1695 (OR = 2.39, C.I. 1.24-4.24) polymorphisms with the risk of breast cancer. This risk was increased when the women were stratified according to their menopausal status. The results show that breast cancer risk significantly increases in women with 3-6 risk polymorphisms (OR = 3.75, C.I. 1.44-9.74).">
+	<sentence ID="1202_0" START="438" END="621">
+		<snp ID="0" START="486" END="502" TEXT="CYP1A1 rs1048943"/>
+		<snp ID="1" START="535" END="547" TEXT="GSTP1 rs1695"/>
+		<phenotype ID="0" START="607" END="621" text="breast cancer"/>
+		<modality_marker  START="468" END="476" text="observed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

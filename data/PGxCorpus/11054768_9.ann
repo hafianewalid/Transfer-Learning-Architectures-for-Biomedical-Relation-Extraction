@@ -1,0 +1,9 @@
+T1	Chemical 21 27	heroin 
+T2	Limited_variation 137 166	polymorphism in the DRD4 gene 
+T5	Gene_or_protein 157 161	DRD4 
+T4	Disease 21 34	heroin -abuse
+T3	Haplotype 137 161;176 186	polymorphism in the DRD4 haplotypes
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

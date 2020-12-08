@@ -1,0 +1,13 @@
+T1	Limited_variation 17 44	Gly16Arg ADRB2 polymorphism 
+T3	Gene_or_protein 26 31	ADRB2 
+T4	Chemical 61 71	salmeterol 
+T5	Chemical 75 86	montelukast 
+T6	Disease 129 135	asthma 
+T7	Pharmacodynamic_phenotype 48 71	responses to salmeterol
+T8	Pharmacodynamic_phenotype 48 60;75 86	responses to montelukast
+R2	treats Arg1:T5 Arg2:T6	
+R3	treats Arg1:T4 Arg2:T6	
+R1	influences Arg1:T1 Arg2:T7	
+R4	influences Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R1	hyp

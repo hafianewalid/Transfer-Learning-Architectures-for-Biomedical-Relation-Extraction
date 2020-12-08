@@ -1,0 +1,9 @@
+T1	Pharmacokinetic_phenotype 64 94	PON1 activity towards diazoxon 
+T2	Gene_or_protein 64 68	PON1 
+T3	Chemical 86 94	diazoxon 
+T4	Limited_variation 5 37	combination of R and L genotypes
+T5	Limited_variation 26 27	L
+T6	Limited_variation 20 21	R
+T7	Pharmacokinetic_phenotype 64 77	PON1 activity
+R1	decreases Arg1:T4 Arg2:T1	
+R2	influences Arg1:T7 Arg2:T3	

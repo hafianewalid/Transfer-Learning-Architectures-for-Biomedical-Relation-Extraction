@@ -1,0 +1,6 @@
+T1	SNP 32 50	ApoE polymorphisms
+T2	Phenotype 88 90	RA
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Negation_Scope 55 104	not differ between patients with RA and controls.
+T5	Negation_Cue 55 58	not
+R1	neutral_association Arg1:T1 Arg2:T2

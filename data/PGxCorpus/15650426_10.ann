@@ -1,0 +1,12 @@
+T1	Chemical 11 14	MVA 
+T5	Gene_or_protein 105 108	Env 
+T3	Gene_or_protein 62 65	CD8
+T2	Gene_or_protein 54 57	CD4
+T4	Pharmacodynamic_phenotype 54 57;66 82	CD4 T cell responses
+T6	Pharmacodynamic_phenotype 62 82	CD8 T cell responses
+T7	Pharmacodynamic_phenotype 99 118	anti- Env Ab titers
+R1	increases Arg1:T1 Arg2:T4	
+R2	increases Arg1:T1 Arg2:T6	
+R3	increases Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

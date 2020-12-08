@@ -1,0 +1,6 @@
+T1	Chemical 36 39	TAC 
+T2	Gene_or_protein 63 68	MDR-1 
+T3	Genomic_variation 63 76	MDR-1 -3435CC
+T4	Pharmacodynamic_phenotype 11 20	C/D ratio
+R1	increases Arg1:T3 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T1	

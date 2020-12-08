@@ -1,0 +1,14 @@
+T1	Limited_variation 64 89	CYP3A5 gene polymorphisms 
+T2	Gene_or_protein 64 70	CYP3A5 
+T3	Limited_variation 96 127	IL-18 A-607C gene polymorphisms 
+T4	Gene_or_protein 96 101	IL-18 
+T6	Chemical 165 175	tacrolimus 
+T7	Gene_or_protein 44 54	hemoglobin
+T8	Gene_or_protein 57 59	Hb
+T9	Phenotype 38 41	age
+T10	Pharmacodynamic_phenotype 165 186	tacrolimus C/D ratios
+R1	isEquivalentTo Arg1:T8 Arg2:T7	
+R3	isAssociatedWith Arg1:T7 Arg2:T10	
+R4	isAssociatedWith Arg1:T1 Arg2:T10	
+R5	isAssociatedWith Arg1:T3 Arg2:T10	
+R2	isAssociatedWith Arg1:T9 Arg2:T10	

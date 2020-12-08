@@ -1,0 +1,11 @@
+T1	SNP 54 69	TOMM40 rs157590
+T2	SNP 74 87	APOE rs429358
+T3	Phenotype 104 107	PPA
+T4	Phenotype 120 125	bvFTD
+T5	Modality_Marker 92 100	observed
+T6	Negation_Scope 113 142	not in bvFTD and in controls.
+T7	Negation_Cue 113 116	not
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	negative_association Arg1:T2 Arg2:T4

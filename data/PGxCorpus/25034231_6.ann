@@ -1,0 +1,5 @@
+T1	Chemical 5 13	xanthone 
+T2	Phenotype 33 52	expression of CXCR4 
+T3	Gene_or_protein 47 52	CXCR4 
+T4	Disease 56 58	MM 
+R1	decreases Arg1:T1 Arg2:T2	

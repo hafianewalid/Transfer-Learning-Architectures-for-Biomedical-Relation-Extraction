@@ -1,0 +1,6 @@
+T1	SNP 13 18	C677T
+T2	Phenotype 71 79	cervical
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 46 49	may
+T5	Modality_Marker 117 122	model
+R1	weak_confidence_association Arg1:T1 Arg2:T2

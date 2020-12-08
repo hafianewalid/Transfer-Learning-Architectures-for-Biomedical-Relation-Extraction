@@ -1,0 +1,5 @@
+T1	SNP 41 47	rs4680
+T2	SNP 52 60	rs165774
+T3	Phenotype 87 100	schizophrenia
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

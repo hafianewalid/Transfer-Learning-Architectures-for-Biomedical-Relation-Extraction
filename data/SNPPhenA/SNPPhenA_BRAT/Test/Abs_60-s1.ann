@@ -1,0 +1,12 @@
+T1	SNP 103 117	CYP17 rs743572
+T2	SNP 119 134	CYP19A1 rs10046
+T3	SNP 136 149	ERβ rs1256049
+T4	SNP 151 164	ERβ rs4986938
+T5	SNP 175 181	rs4680
+T6	Phenotype 218 229	lung cancer
+T7	Modality_Marker 323 328	never
+R1	neutral_association Arg1:T1 Arg2:T6
+R2	neutral_association Arg1:T2 Arg2:T6
+R3	neutral_association Arg1:T3 Arg2:T6
+R4	neutral_association Arg1:T4 Arg2:T6
+R5	neutral_association Arg1:T5 Arg2:T6

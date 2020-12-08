@@ -1,0 +1,12 @@
+T2	Chemical 37 46	silymarin 
+T4	Chemical 50 61	doxorubicin 
+T6	Phenotype 116 137	c-myc gene expression 
+T7	Gene_or_protein 116 121	c-myc 
+T1	Pharmacodynamic_phenotype 0 10;26 46	Preventive effects of silymarin
+T8	Pharmacodynamic_phenotype 50 89	doxorubicin -induced testicular damages
+T3	Pharmacodynamic_phenotype 15 46	protective effects of silymarin
+T5	Pharmacodynamic_phenotype 71 89	testicular damages
+R1	influences Arg1:T6 Arg2:T1	
+R2	treats Arg1:T2 Arg2:T8	
+R3	influences Arg1:T6 Arg2:T3	
+R4	causes Arg1:T4 Arg2:T5	

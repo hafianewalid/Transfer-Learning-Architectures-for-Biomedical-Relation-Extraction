@@ -1,0 +1,19 @@
+T1	Gene_or_protein 85 88	XDH 
+T2	Gene_or_protein 91 95	AOX1 
+T4	Gene_or_protein 102 107	MOCOS 
+T5	Pharmacodynamic_phenotype 161 178	drug side effects 
+T6	Chemical 236 248	azathioprine 
+T7	Chemical 251 254	AZA 
+T9	Disease 194 211	kidney transplant
+T3	Limited_variation 41 88	single nucleotide polymorphisms ( SNPs ) in XDH
+T8	Limited_variation 41 84;91 95	single nucleotide polymorphisms ( SNPs ) in AOX1
+T10	Limited_variation 102 107;41 84	MOCOS single nucleotide polymorphisms ( SNPs ) in
+T11	Chemical 279 304	immunosuppressive regimen
+R1	isEquivalentTo Arg1:T7 Arg2:T6	
+R4	isAssociatedWith Arg1:T5 Arg2:T4	
+R5	isAssociatedWith Arg1:T5 Arg2:T2	
+R2	treats Arg1:T6 Arg2:T9	
+R3	isAssociatedWith Arg1:T5 Arg2:T1	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R5	hyp
+#3	AnnotatorNotes R4	hyp

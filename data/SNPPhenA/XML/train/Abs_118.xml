@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1022" TEXT="CONCLUSIONS: The present study exposed a susceptibility haplotype CGTC, within   APOE gene, which was found to  be associated with BMD and risk of osteopenia and osteoporosis in postmenopausal females of India.">
+	<sentence ID="1022_0" START="0" END="210">
+		<snp ID="0" START="66" END="70" TEXT="CGTC"/>
+		<snp ID="1" START="81" END="85" TEXT="APOE"/>
+		<phenotype ID="0" START="131" END="210" text="BMD"/>
+		<phenotype ID="1" START="147" END="210" text="osteopenia"/>
+		<phenotype ID="2" START="162" END="210" text="osteoporosis"/>
+		<modality_marker  START="0" END="11" text="CONCLUSIONS"/>
+		<modality_marker  START="102" END="107" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

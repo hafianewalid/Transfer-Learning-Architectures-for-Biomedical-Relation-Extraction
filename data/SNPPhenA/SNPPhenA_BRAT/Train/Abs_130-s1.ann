@@ -1,0 +1,10 @@
+T1	SNP 25 40	APOE genotyping
+T2	Phenotype 117 119	AD
+T3	Phenotype 224 226	AD
+T4	Modality_Marker 41 46	could
+T5	Modality_Marker 105 108	may
+T6	Modality_Marker 189 199	predictive
+T7	Negation_Scope 131 226	not robust enough to serve as an independent screening or predictive test in thediagnosis of AD
+T8	Negation_Cue 131 134	not
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T2

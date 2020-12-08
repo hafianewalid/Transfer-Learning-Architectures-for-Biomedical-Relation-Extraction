@@ -1,0 +1,14 @@
+T1	Gene_or_protein 78 82	TPMT 
+T2	Limited_variation 87 110	ITPA gene polymorphisms 
+T3	Gene_or_protein 87 91	ITPA 
+T4	Chemical 192 204	azathioprine 
+T5	Chemical 207 210	AZA 
+T6	Limited_variation 78 82;92 110	TPMT gene polymorphisms
+T7	Pharmacodynamic_phenotype 115 131	drug intolerance
+T8	Disease 151 167	renal transplant
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	isAssociatedWith Arg1:T6 Arg2:T7	
+R3	isAssociatedWith Arg1:T2 Arg2:T7	
+R4	treats Arg1:T4 Arg2:T8	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

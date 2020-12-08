@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1017" TEXT="This study aimed to investigate associations between subjective response to amphetamine and genetic polymorphisms and haplotypes in the μ-opioid receptor including the exonic variant rs1799971 (Asp40Asn).">
+	<sentence ID="1017_0" START="0" END="204">
+		<snp ID="0" START="183" END="192" TEXT="rs1799971"/>
+		<phenotype ID="0" START="76" END="204" text="amphetamine"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

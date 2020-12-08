@@ -1,0 +1,13 @@
+T1	Chemical 31 44	acetaminophen 
+T2	Chemical 47 72	acetaminophen glucuronide 
+T3	Gene_or_protein 76 82	UGT1A1 
+T4	Limited_variation 76 93	UGT1A1 -wildtypes
+T5	Limited_variation 76 82;96 109	UGT1A1 heterozygotes
+T6	Limited_variation 114 121;76 82	mutants UGT1A1
+T7	Pharmacokinetic_phenotype 4 72	metabolic ratios unchanged acetaminophen / acetaminophen glucuronide
+R1	isAssociatedWith Arg1:T7 Arg2:T4	
+R2	isAssociatedWith Arg1:T7 Arg2:T6	
+R3	isAssociatedWith Arg1:T7 Arg2:T5	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R3	neg
+#3	AnnotatorNotes R1	neg

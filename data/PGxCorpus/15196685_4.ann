@@ -1,0 +1,4 @@
+T1	Chemical 69 78	capsaicin 
+T2	Phenotype 91 107	c-fos expression 
+T3	Gene_or_protein 91 96	c-fos 
+R1	increases Arg1:T1 Arg2:T2	

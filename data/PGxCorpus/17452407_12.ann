@@ -1,0 +1,15 @@
+T1	Disease 36 40	ESRD 
+T3	Gene_or_protein 59 66	ERalpha 
+T4	Limited_variation 59 78	ERalpha Ser10Ser CC 
+T5	Chemical 130 142	triglyceride 
+T6	Disease 112 115	PEW
+T7	Chemical 158 165	albumin
+T8	Chemical 176 181	hsCRP
+T9	Phenotype 98 115	prevalence of PEW
+T10	Pharmacodynamic_phenotype 124 142	serum triglyceride
+T11	Pharmacodynamic_phenotype 152 165	serum albumin
+T12	Pharmacodynamic_phenotype 176 188	hsCRP levels
+R1	decreases Arg1:T4 Arg2:T9	
+R2	decreases Arg1:T4 Arg2:T10	
+R3	increases Arg1:T4 Arg2:T11	
+R4	decreases Arg1:T4 Arg2:T12	

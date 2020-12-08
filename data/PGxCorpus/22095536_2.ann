@@ -1,0 +1,16 @@
+T1	Chemical 118 125	PEG-IFN 
+T5	Gene_or_protein 212 217	IL28B 
+T4	Chemical 102 115	peginterferon
+T2	Chemical 102 153	peginterferon ( PEG-IFN ) and ribavirin combination
+T3	Limited_variation 181 222	genetic polymorphisms near the IL28B gene
+T6	Phenotype 45 65	early viral dynamics
+T7	Pharmacodynamic_phenotype 91 161	outcome of peginterferon ( PEG-IFN ) and ribavirin combination therapy
+T8	Chemical 132 141	ribavirin
+T9	Pharmacodynamic_phenotype 261 285	response to this therapy
+R1	isEquivalentTo Arg1:T1 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T6	
+R3	influences Arg1:T6 Arg2:T7	
+R4	influences Arg1:T3 Arg2:T7	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp

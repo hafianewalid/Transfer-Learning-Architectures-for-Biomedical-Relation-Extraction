@@ -1,0 +1,8 @@
+T1	Disease 5 10	GISTs 
+T2	Chemical 22 39	imatinib mesylate 
+T3	Gene_or_protein 74 77	KIT 
+T4	Gene_or_protein 82 88	PDGFRA 
+T5	Disease 159 163	GIST 
+R1	decreases Arg1:T2 Arg2:T3	
+R2	decreases Arg1:T2 Arg2:T4	
+R3	treats Arg1:T2 Arg2:T1	

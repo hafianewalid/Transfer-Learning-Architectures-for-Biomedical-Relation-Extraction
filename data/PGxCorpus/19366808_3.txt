@@ -1,0 +1,1 @@
+Here , we show that the multikinase inhibitor sorafenib inhibits proliferation and induces apoptosis at much lower concentrations in Ton.B210 cells when driven by inducibly expressed BCR/ABL than when driven by interleukin-3 .

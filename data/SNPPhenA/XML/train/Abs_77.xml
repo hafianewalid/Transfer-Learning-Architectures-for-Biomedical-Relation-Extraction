@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1245" TEXT="Type 2 diabetes mellitus (T2DM) is a major cause of coronary artery disease (CAD) and is responsible for a great deal of morbidity and mortality inAsian Indians. Several gene polymorphisms have been associated with CAD and T2DM in different ethnic groups. This study will give an insight about the association of two selected candidate gene polymorphisms; paraoxonase1 (PON1) Q192R and apolipoprotein A5 (APOA5) -1131T&gt;C were assessed in a cohort of South Indian patients having CAD with and without T2DM.  Polymerase chain reaction-based genotyping of PON1 Q192R (rs662) and APOA5-1131T&gt;C (rs662799) polymorphism was carried out in 520 individuals, including 250 CAD patients (160 with T2DM and 90 without T2DM), 150 T2DMpatients with no identified CAD, and 120 normal healthy sex- and age-matched individuals as controls. The PON1 192RR genotype and R allele frequencywere elevated in both CAD and T2DM patients when compared with controls; however, only CAD patients with T2DM showed a statistical significance (p=0.023; OR=1.49; 95% CI: 1.04-2.12) when compared with controls. The APOA5-1131CC genotype and C allele also showed a significant association between the CAD+T2DM patients when compared with CAD without T2DM and healthy controls (p=0.012; OR=1.71; 95% CI: 1.0-2.67). An additive interaction between the PON1 RR and APOA5 TC genotypes was identified between the T2DM and CAD patients (p=0.028 and 0.0382, respectively). PON1 and APOA5 polymorphisms may serve as biomarkers in the South Indian population to identify T2DM patients who are at risk of developing CAD.">
+	<sentence ID="1245_0" START="1435" END="1579">
+		<snp ID="0" START="1435" END="1439" TEXT="PON1"/>
+		<snp ID="1" START="1444" END="1449" TEXT="APOA5"/>
+		<phenotype ID="0" START="1531" END="1579" text="T2DM"/>
+		<phenotype ID="1" START="1575" END="1579" text="CAD"/>
+		<modality_marker  START="1464" END="1467" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

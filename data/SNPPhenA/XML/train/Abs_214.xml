@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1129" TEXT="The association between the Serine/threonine kinase 15 (STK15) F31I polymorphism (rs2273535) and cancer susceptibility remains controversial. To further investigate this potential relationship, we conducted a comprehensive meta-analysis of 27 published studies involving a total of 19,267 multiple cancer cases and 24,359 controls. Our results indicate statistical evidence of an association between the STK15 F31I polymorphism and the increased risk of overall cancer in four genetic models: AA vs. TA+TT, AA vs. TT, AA vs. TA, and A vs. T. In a stratified analysis by cancer type, there was an increased risk of breast cancer in four genetic models: AA vs. TA+TT, AA vs. TT, AA vs. TA, and A vs. T, as well as esophageal cancer in two genetic models: AA vs. TA+TT and AA vs. TA. In a stratified analysis by ethnicity, there was a significant increase in cancer risk among Asians, but not Caucasians, in four genetic models: AA vs. TA+TT, AA vs. TT, AA vs. TA and A vs. T. In addition, a stratified analysis by ethnicity in the breast cancer subgroup revealed a significant increase in cancer risk among Asians in two genetic models: AA vs. TA+TT and AA vs. TT, as well as among Caucasians in one genetic model: AA vs. TA. In summary, this meta-analysis demonstrates that the STK15 F31I polymorphism may be a risk factor for cancer.">
+	<sentence ID="1129_0" START="0" END="141">
+		<snp ID="0" START="82" END="91" TEXT="rs2273535"/>
+		<phenotype ID="0" START="97" END="141" text="cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

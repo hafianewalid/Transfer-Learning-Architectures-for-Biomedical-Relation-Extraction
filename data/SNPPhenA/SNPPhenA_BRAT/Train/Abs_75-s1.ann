@@ -1,0 +1,13 @@
+T1	SNP 84 89	APOA5
+T2	SNP 91 94	GCK
+T3	SNP 99 103	GCKR
+T4	Phenotype 120 138	glucose metabolism
+T5	Phenotype 237 249	dyslipidemia
+T6	Modality_Marker 26 35	confirmed
+T7	Modality_Marker 154 163	suggested
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T1 Arg2:T5
+R3	strong_confidence_association Arg1:T2 Arg2:T4
+R4	strong_confidence_association Arg1:T2 Arg2:T5
+R5	strong_confidence_association Arg1:T3 Arg2:T4
+R6	strong_confidence_association Arg1:T3 Arg2:T5

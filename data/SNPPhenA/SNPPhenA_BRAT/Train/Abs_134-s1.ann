@@ -1,0 +1,9 @@
+T1	SNP 49 58	rs1051730
+T2	SNP 63 73	rs16969968
+T3	Phenotype 200 207	smoking
+T4	Phenotype 218 229	lung cancer
+T5	Modality_Marker 235 240	other
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T1 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T3

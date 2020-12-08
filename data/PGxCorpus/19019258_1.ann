@@ -1,0 +1,9 @@
+T1	Disease 21 34	breast cancer 
+T2	Gene_or_protein 55 61	CYP2D6 
+T3	Chemical 89 98	tamoxifen 
+T4	Pharmacokinetic_phenotype 89 109	tamoxifen metabolism
+T5	Pharmacodynamic_phenotype 114 127;89 98	drug response tamoxifen
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

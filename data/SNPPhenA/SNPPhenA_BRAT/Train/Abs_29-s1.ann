@@ -1,0 +1,4 @@
+T1	SNP 121 130	rs7901695
+T2	Phenotype 50 65	type 2 diabetes
+T3	Modality_Marker 90 95	found
+R1	weak_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,10 @@
+T1	Chemical 41 52	raltegravir 
+T2	Limited_variation 72 111	single nucleotide polymorphism of ABCB1 
+T3	Gene_or_protein 106 111	ABCB1 
+T4	Gene_or_protein 116 121	ABCG2 
+T5	Pharmacodynamic_phenotype 41 67	raltegravir concentrations
+T6	Limited_variation 116 121;72 105	ABCG2 single nucleotide polymorphism of
+R1	isAssociatedWith Arg1:T5 Arg2:T2	
+R2	isAssociatedWith Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

@@ -1,0 +1,10 @@
+T1	Chemical 28 36	spinosad 
+T2	Chemical 41 59	milbemycin 5-oxime 
+T3	Limited_variation 100 118	MDR1 gene mutation 
+T4	Gene_or_protein 100 104	MDR1 
+T5	Pharmacodynamic_phenotype 18 36	safety of spinosad
+T6	Pharmacodynamic_phenotype 18 27;41 59	safety of milbemycin 5-oxime
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	isAssociatedWith Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

@@ -1,0 +1,10 @@
+T1	Chemical 15 22	alcohol 
+T2	Disease 36 38	AD 
+T3	Genomic_factor 69 89	3 ' region of GABRA2 
+T4	Gene_or_protein 83 89	GABRA2 
+T5	Gene_or_protein 235 241	GABRG1 
+T6	Disease 15 33	alcohol dependence
+R1	isEquivalentTo Arg1:T2 Arg2:T6	
+R2	isAssociatedWith Arg1:T2 Arg2:T3	
+R3	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R3	hyp

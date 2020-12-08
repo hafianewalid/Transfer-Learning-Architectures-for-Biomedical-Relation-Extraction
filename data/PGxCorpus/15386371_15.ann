@@ -1,0 +1,7 @@
+T1	Chemical 55 59	5-FU 
+T3	Gene_or_protein 104 106	TS 
+T4	Limited_variation 141 145	VNTR
+T5	Limited_variation 154 185	SNP located within the promoter
+T2	Limited_variation 104 115	TS genotype
+R1	influences Arg1:T4 Arg2:T1	
+R2	influences Arg1:T5 Arg2:T1	

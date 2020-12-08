@@ -1,0 +1,6 @@
+T1	Chemical 0 8	Nicotine 
+T2	Chemical 65 73	nicotine 
+T3	Gene_or_protein 90 96	CYP2A5 
+T4	Pharmacokinetic_phenotype 56 86	rates of nicotine inactivation
+T5	Phenotype 0 28	Nicotine self-administration
+R1	causes Arg1:T3 Arg2:T4	

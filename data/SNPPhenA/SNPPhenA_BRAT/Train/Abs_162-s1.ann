@@ -1,0 +1,9 @@
+T1	SNP 76 86	rs12255372
+T2	SNP 120 130	rs12255372
+T3	Phenotype 91 95	T2DM
+T4	Phenotype 182 186	T2DM
+T5	Modality_Marker 105 114	confirmed
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3
+R3	strong_confidence_association Arg1:T2 Arg2:T4
+R4	strong_confidence_association Arg1:T1 Arg2:T4

@@ -1,0 +1,11 @@
+T1	SNP 64 73	rs2075650
+T2	SNP 103 111	rs429358
+T3	SNP 161 170	rs2075650
+T4	Phenotype 174 183	longevity
+T5	Modality_Marker 116 121	could
+T6	Modality_Marker 126 130	find
+T7	Negation_Scope 122 239	not find an APOE-independent effect of rs2075650 on longevity, either in cross-sectional or in longitudinal analyses.
+T8	Negation_Cue 122 125	not
+R1	negative_association Arg1:T1 Arg2:T4
+R2	negative_association Arg1:T2 Arg2:T4
+R3	negative_association Arg1:T3 Arg2:T4

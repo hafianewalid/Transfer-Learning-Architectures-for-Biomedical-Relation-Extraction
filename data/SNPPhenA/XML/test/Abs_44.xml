@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1039" TEXT="Cytochrome P450 1B1 (CYP1B1) is found in tumor tissue and is suspected to play a role in oncogenesis and drug resistance. CYP1B1 genepolymorphisms have been associated with the risk of developing lung and other cancers. They may be associated with tumor response to anticancerdrugs. We have determined 4 frequent nonsynonymous gene polymorphisms of CYP1B1 in the human tumor cell lines panels of the National CancerInstitute (NCI) and the Japanese Foundation for Cancer Research (JFCR):rs10012 (R48G), rs1056827 (A119S),  rs1056836 (L432V), and  rs1800440 (N453S). Numerous anticancer drugs have been tested against these panels that offer the opportunity to detect associations between gene polymorphisms and drug sensitivity. CYP1B1 single nucleotide polymorphisms were in marked linkage disequilibrium. The L432V allelic variants were significantly associated with reduced sensitivity to DNA-interacting anticancer agents, alkylators, camptothecins, topoisomerase II inhibitors, and someantimetabolites. For instance, in the NCI panel, cell lines homozygous for the V432 allele were globally 2-fold resistant to alkylating agents (P = 5 × 10(-10)) and 4.5-fold to camptothecins (P = 6.6 × 10(-9)) than cell lines homozygous for the L432 allele. Similar features were exhibited by the JFCR panel.Cell lines homozygous for the V432 allele were globally less sensitive to DNA-interfering drugs than cell lines having at least 1 common allele. There was no significant association between mRNA expression of CYP1B1 and CYP1B1 genotype, and no significant association between CYP1B1 mRNA expression and drug cytotoxicity. These observations open the way to clinical studies exploring the role of CYP1B1 gene polymorphisms for predictingtumor sensitivity to chemotherapy.">
+	<sentence ID="1039_0" START="283" END="563">
+		<snp ID="0" START="486" END="494" TEXT="rs10012 "/>
+		<snp ID="1" START="502" END="513" TEXT="rs1056827 ("/>
+		<snp ID="2" START="522" END="531" TEXT="rs1056836"/>
+		<snp ID="3" START="546" END="555" TEXT="rs1800440"/>
+		<phenotype ID="0" START="463" END="563" text="Cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,11 @@
+T1	Phenotype 8 26	p53 overexpression 
+T2	Gene_or_protein 8 11	p53 
+T3	Chemical 208 222	5-fluorouracil 
+T4	Chemical 227 237	levamisole 
+T6	Phenotype 81 97	patient survival
+T7	Limited_variation 31 39;8 11	mutation p53
+T5	Chemical 190 237	chemotherapy with 5-fluorouracil and levamisole
+R1	decreases Arg1:T7 Arg2:T6	
+R2	decreases Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

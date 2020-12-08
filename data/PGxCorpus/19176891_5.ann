@@ -1,0 +1,14 @@
+T1	Chemical 64 67	CCK
+T4	Chemical 222 225	CCK
+T5	Gene_or_protein 249 255	ERK1/2
+T2	Gene_or_protein 143 149	ERK1/2
+T8	Genomic_factor 152 159	pERK1/2
+T6	Genomic_factor 128 149	phosphorylated ERK1/2
+T3	Pharmacodynamic_phenotype 222 255	CCK -induced expression of ERK1/2
+T7	Pharmacodynamic_phenotype 235 255	expression of ERK1/2
+T9	Gene_or_protein 272 292	tyrosine hydroxylase
+T10	Phenotype 272 308	tyrosine hydroxylase -immunoreactive
+R1	isEquivalentTo Arg1:T8 Arg2:T6	
+R2	increases Arg1:T1 Arg2:T8	
+R3	causes Arg1:T4 Arg2:T7	
+R4	increases Arg1:T10 Arg2:T3	

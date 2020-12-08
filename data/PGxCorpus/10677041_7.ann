@@ -1,0 +1,7 @@
+T1	Gene_or_protein 10 15	DOR-1 
+T5	Gene_or_protein 122 127	DOR-1 
+T2	Limited_variation 10 22	DOR-1 mutant
+T3	Chemical 66 74	morphine
+T6	Pharmacodynamic_phenotype 43 74	analgesic tolerance to morphine
+R1	influences Arg1:T2 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T6	

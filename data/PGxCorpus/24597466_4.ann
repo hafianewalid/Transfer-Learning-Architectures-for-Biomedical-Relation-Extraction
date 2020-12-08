@@ -1,0 +1,24 @@
+T1	Gene_or_protein 28 33	HLA-B
+T3	Chemical 77 80	CBZ
+T6	Gene_or_protein 179 184	HLA-B
+T7	Pharmacodynamic_phenotype 226 251	hypersensitivity syndrome
+T8	Chemical 213 216	CBZ
+T9	Pharmacodynamic_phenotype 254 257	HSS
+T10	Disease 263 286	maculopapular exanthema
+T11	Disease 289 292	MPE
+T12	Pharmacodynamic_phenotype 77 157	CBZ -induced Stevens-Johnson syndrome / toxic epidermal necrolysis ( SJS / TEN )
+T4	Pharmacodynamic_phenotype 146 155	SJS / TEN
+T5	Haplotype 28 41	HLA-B * 15:02
+T13	Limited_variation 179 192	HLA-B * 15:02
+T14	Pharmacodynamic_phenotype 213 251	CBZ -induced hypersensitivity syndrome
+T17	Pharmacodynamic_phenotype 90 143	Stevens-Johnson syndrome / toxic epidermal necrolysis
+R2	increases Arg1:T5 Arg2:T12	
+R9	causes Arg1:T3 Arg2:T17	
+R5	causes Arg1:T8 Arg2:T7	
+R3	isEquivalentTo Arg1:T9 Arg2:T7	
+R4	isEquivalentTo Arg1:T11 Arg2:T10	
+R6	increases Arg1:T5 Arg2:T14	
+R11	increases Arg1:T5 Arg2:T10	
+R1	isEquivalentTo Arg1:T4 Arg2:T17	
+#1	AnnotatorNotes R6	neg
+#2	AnnotatorNotes R11	neg

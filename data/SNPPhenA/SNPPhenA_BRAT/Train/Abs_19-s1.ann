@@ -1,0 +1,11 @@
+T1	SNP 63 71	rs429358
+T2	Phenotype 230 233	DAD
+T3	Phenotype 237 239	DS
+T4	Modality_Marker 3 11	expected
+T5	Modality_Marker 17 21	most
+T6	Modality_Marker 22 30	strongly
+T7	Modality_Marker 148 152	more
+T8	Modality_Marker 162 172	implicated
+T9	Modality_Marker 205 213	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3

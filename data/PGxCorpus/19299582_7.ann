@@ -1,0 +1,17 @@
+T1	Chemical 25 33	sirtinol 
+T2	Gene_or_protein 44 49	SIRT1 
+T3	Gene_or_protein 79 84	SIRT1 
+T4	Gene_or_protein 108 113	SIRT1 
+T5	Gene_or_protein 124 129	SIRT1 
+T6	Gene_or_protein 148 157	TNF-alpha 
+T7	Gene_or_protein 198 203	SIRT1 
+T8	Phenotype 222 241	TNF-alpha secretion 
+T9	Gene_or_protein 222 231	TNF-alpha 
+T10	Gene_or_protein 124 135	SIRT1 shRNA
+T11	Chemical 44 59	SIRT1 inhibitor
+T12	Genomic_variation 65 84	knocking down SIRT1
+R1	decreases Arg1:T1 Arg2:T2	
+R4	increases Arg1:T1 Arg2:T6	
+R2	influences Arg1:T7 Arg2:T8	
+R3	increases Arg1:T10 Arg2:T6	
+R5	increases Arg1:T12 Arg2:T6	

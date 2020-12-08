@@ -1,0 +1,16 @@
+T4	Disease 123 129	polyps 
+T6	Gene_or_protein 184 189	EMID2 
+T7	Disease 245 257	nasal polyps 
+T9	Chemical 272 279	aspirin 
+T10	Gene_or_protein 136 181	emilin/multimerin domain-containing protein 2 
+T1	Phenotype 46 76	protruded extracellular matrix
+T2	Disease 19 41	subepithelial fibrosis
+T3	Pharmacodynamic_phenotype 272 295	aspirin -hypersensitive
+T5	Disease 261 267	asthma
+R1	isEquivalentTo Arg1:T6 Arg2:T10	
+R2	isAssociatedWith Arg1:T4 Arg2:T2	
+R3	isAssociatedWith Arg1:T4 Arg2:T1	
+R4	influences Arg1:T10 Arg2:T7	
+R5	influences Arg1:T10 Arg2:T3	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R5	hyp

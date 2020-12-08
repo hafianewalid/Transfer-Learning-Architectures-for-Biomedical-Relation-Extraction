@@ -1,0 +1,3 @@
+T1	SNP 49 58	Val158Met
+T2	Phenotype 116 127	hot flashes
+R1	weak_confidence_association Arg1:T1 Arg2:T2

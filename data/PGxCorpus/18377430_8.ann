@@ -1,0 +1,6 @@
+T1	Chemical 29 40	doxorubicin 
+T2	Limited_variation 101 128	ABCG2 c.421C>A polymorphism 
+T3	Gene_or_protein 101 106	ABCG2 
+T5	Pharmacokinetic_phenotype 29 56	doxorubicin pharmacokinetic
+R1	influences Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R1	neg

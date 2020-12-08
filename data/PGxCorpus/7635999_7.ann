@@ -1,0 +1,5 @@
+T1	Limited_variation 11 26	CYP2D6 genotype 
+T2	Gene_or_protein 11 17	CYP2D6 
+T3	Chemical 52 64	debrisoquine 
+T4	Pharmacokinetic_phenotype 41 78	ultrarapid debrisoquine hydroxylation
+R1	influences Arg1:T1 Arg2:T4	

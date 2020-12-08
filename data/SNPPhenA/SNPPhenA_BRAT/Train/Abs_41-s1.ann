@@ -1,0 +1,9 @@
+T1	SNP 8 41	COMT: rs4680: A>G and rs4633: C>T
+T2	SNP 108 120	MTHFR 677C>T
+T3	Phenotype 91 93	PD
+T4	Phenotype 151 176	plasma Hcy concentrations
+T5	Modality_Marker 61 66	found
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T4
+R3	neutral_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

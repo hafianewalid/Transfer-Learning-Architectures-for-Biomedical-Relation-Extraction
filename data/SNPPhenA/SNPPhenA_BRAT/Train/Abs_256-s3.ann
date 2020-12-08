@@ -1,0 +1,4 @@
+T1	SNP 57 71	rs7903146(C/T)
+T2	Phenotype 110 138	2-hour plasma glucose levels
+T3	Modality_Marker 103 109	higher
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

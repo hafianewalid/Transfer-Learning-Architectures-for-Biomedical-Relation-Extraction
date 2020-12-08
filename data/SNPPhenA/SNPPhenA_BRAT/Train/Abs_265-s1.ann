@@ -1,0 +1,5 @@
+T1	SNP 31 41	rs12255372
+T2	Phenotype 145 153	diabetes
+T3	Negation_Scope 180 210	not in the intervention group.
+T4	Negation_Cue 180 183	not
+R1	weak_confidence_association Arg1:T1 Arg2:T2

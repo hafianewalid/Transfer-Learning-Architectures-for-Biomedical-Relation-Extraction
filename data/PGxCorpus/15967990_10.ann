@@ -1,0 +1,8 @@
+T1	Phenotype 126 147	TPMT protein function 
+T2	Gene_or_protein 126 130	TPMT 
+T3	Chemical 192 202	thiopurine 
+T4	Pharmacodynamic_phenotype 180 202	response to thiopurine
+T5	Limited_variation 105 118	polymorphisms
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T5 Arg2:T1	
+R3	influences Arg1:T5 Arg2:T4	

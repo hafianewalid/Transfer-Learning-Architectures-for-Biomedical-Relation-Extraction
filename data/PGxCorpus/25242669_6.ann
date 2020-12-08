@@ -1,0 +1,14 @@
+T1	Gene_or_protein 69 73	EGFR 
+T3	Gene_or_protein 118 122	EGFR 
+T4	Chemical 319 328	gefitinib 
+T5	Gene_or_protein 344 348	EGFR 
+T7	Gene_or_protein 467 471	EGFR 
+T12	Chemical 467 477	EGFR -TKIs
+T8	Disease 69 88	EGFR -mutated NSCLC
+T2	Chemical 118 127	EGFR -TKI
+T6	Disease 344 363	EGFR -mutated NSCLC
+T9	Chemical 408 454	TKI followed by a subsequent line of treatment
+R1	treats Arg1:T2 Arg2:T8	
+R2	treats Arg1:T4 Arg2:T6	
+R3	treats Arg1:T9 Arg2:T6	
+#1	AnnotatorNotes R2	hyp

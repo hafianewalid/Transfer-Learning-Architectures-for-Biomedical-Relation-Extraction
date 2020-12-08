@@ -1,0 +1,10 @@
+T1	Gene_or_protein 20 24	P-gp 
+T3	Chemical 111 122	doxorubicin 
+T4	Chemical 126 137	vinblastine 
+T5	Phenotype 20 40	P-gp -expressing MDR
+T2	Pharmacodynamic_phenotype 111 122;89 103	doxorubicin sensitivity to
+T7	Pharmacodynamic_phenotype 126 137;89 103	vinblastine sensitivity to
+T8	Phenotype 263 276	MDR phenotype
+T9	Phenotype 54 79	serum from immunized mice
+R1	isAssociatedWith Arg1:T5 Arg2:T2	
+R2	isAssociatedWith Arg1:T5 Arg2:T7	

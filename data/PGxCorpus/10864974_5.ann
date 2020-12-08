@@ -1,0 +1,16 @@
+T1	Disease 80 95	oral dyskinesia 
+T3	Phenotype 100 122	Fos protein expression 
+T4	Gene_or_protein 100 103	Fos 
+T6	Chemical 170 198	1-(m-chlorophenyl)piperazine 
+T5	Chemical 201 206	m-CPP
+T7	Chemical 152 169	5-HT(2C ) agonist
+T8	Phenotype 30 76	unilateral lesions of nigrostriatal DA neurons
+R2	causes Arg1:T6 Arg2:T3	
+R3	isEquivalentTo Arg1:T5 Arg2:T6	
+R4	influences Arg1:T8 Arg2:T1	
+R1	influences Arg1:T8 Arg2:T3	
+R5	causes Arg1:T6 Arg2:T1	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R1	hyp
+#3	AnnotatorNotes R2	hyp
+#4	AnnotatorNotes R5	hyp

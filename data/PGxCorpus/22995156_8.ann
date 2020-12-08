@@ -1,0 +1,10 @@
+T1	Phenotype 17 21	B-Cd 
+T2	Limited_variation 76 101	MT1A rs11076161 A-alleles 
+T3	Gene_or_protein 76 80	MT1A 
+T5	Phenotype 119 140	highly polluted group
+T4	Limited_variation 81 91	rs11076161
+T6	Phenotype 193 196	age
+T7	Phenotype 199 202	sex
+T8	Phenotype 209 216	smoking
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	

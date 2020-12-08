@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1211" TEXT="Chromosome 22q11.2 deletion syndrome (22q11DS) is associated with neurocognitive impairments. The neural substrates of cognitive impairments in 22q11DS remain poorly understood. Because the corpus callosum (CC) is found to be abnormal in a variety of neurodevelopmental disorders, we obtained volumetric measurements of the CC and its subregions, examined the relationship between these regions and neurocognition and selected genotypeswithin candidate genes in the 22q11.2 interval in 59 children with 22q11DS and 53 control subjects. The total CC, splenium and genu were significantly larger in children with 22q11DS and the enlargement was associated with better neurocognitive functioning in the 22q11DS group, suggestive of a compensatory increase in the CC volumes. The expected age-related increase in the volume of the CC was not seen in children with 22q11DS, indicative of dysmaturation of the CC in these children. The increased volumes in the genu, splenium and total CC in the 22q11DS group were associated with polymorphisms within the candidate genes: COMT rs4680, ZDHHC8 rs175174 and &lt;snp&gt;UFD1L (rs5992403)&lt;/snp&gt;. These findings indicate that alterations in the CC volume in children with 22q11DS are associated with cognition and specific genotypes in the 22q11.2 interval.">
+	<sentence ID="1211_0" START="926" END="1129">
+		<snp ID="0" START="1067" END="1078" TEXT="COMT rs4680"/>
+		<snp ID="1" START="1080" END="1095" TEXT="ZDHHC8 rs175174"/>
+		<phenotype ID="0" START="990" END="1129" text="22q11DS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

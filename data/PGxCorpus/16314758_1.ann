@@ -1,0 +1,6 @@
+T3	Gene_or_protein 37 43	Homer1 
+T1	Limited_variation 17 48	polymorphism in the Homer1 gene
+T2	Disease 54 72	cocaine dependence
+T4	Chemical 54 61	cocaine
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

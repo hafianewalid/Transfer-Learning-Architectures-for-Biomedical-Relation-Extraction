@@ -1,0 +1,7 @@
+T1	Phenotype 0 25	Recurrence of proteinuria
+T2	Disease 14 25	proteinuria
+T3	Disease 55 107	NPHS2 -associated focal segmental glomerulosclerosis
+T4	Gene_or_protein 55 60	NPHS2
+T5	Chemical 130 143	cyclosporin A
+T6	Chemical 147 156	sirolimus
+T7	Disease 41 51	transplant

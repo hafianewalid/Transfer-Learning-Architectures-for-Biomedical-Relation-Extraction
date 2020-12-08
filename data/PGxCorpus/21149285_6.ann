@@ -1,0 +1,20 @@
+T1	Limited_variation 35 48	HLA-A alleles 
+T2	Gene_or_protein 35 40	HLA-A 
+T3	Chemical 119 122	CBZ 
+T4	Chemical 125 128	CBZ 
+T5	Gene_or_protein 165 170	HLA-A 
+T6	Chemical 231 234	CBZ 
+T7	Chemical 289 292	CBZ 
+T8	Gene_or_protein 477 482	HLA-A 
+T9	Chemical 514 517	CBZ 
+T10	Pharmacodynamic_phenotype 92 97	cADRs
+T11	Haplotype 165 177	HLA-A * 3101
+T12	Pharmacodynamic_phenotype 231 249	CBZ -induced cADRs
+T13	Haplotype 477 489	HLA-A * 3101
+T14	Pharmacodynamic_phenotype 514 532	CBZ -induced cADRs
+T15	Pharmacodynamic_phenotype 244 249	cADRs
+T16	Pharmacodynamic_phenotype 527 532	cADRs
+R1	isAssociatedWith Arg1:T11 Arg2:T12	
+R2	influences Arg1:T13 Arg2:T14	
+R3	causes Arg1:T6 Arg2:T15	
+R4	causes Arg1:T9 Arg2:T16	

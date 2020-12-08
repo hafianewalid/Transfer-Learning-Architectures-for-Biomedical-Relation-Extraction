@@ -1,0 +1,12 @@
+T1	Chemical 0 6	RY10-4 
+T2	Chemical 12 16	DAPT 
+T3	Gene_or_protein 45 49	HER2 
+T4	Chemical 101 107	RY10-4 
+T5	Chemical 122 126	DAPT 
+T6	Chemical 0 16	RY10-4 plus DAPT
+T7	Phenotype 27 36	apoptosis
+T8	Phenotype 163 172	apoptosis
+T9	Phenotype 45 65	HER2 -overexpressing
+R1	increases Arg1:T6 Arg2:T7	
+R2	influences Arg1:T5 Arg2:T8	
+#1	AnnotatorNotes R2	neg

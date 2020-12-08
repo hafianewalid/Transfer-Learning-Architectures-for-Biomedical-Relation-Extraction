@@ -1,0 +1,5 @@
+T1	Limited_variation 0 17	CYP2C9 genotyping 
+T2	Gene_or_protein 0 6	CYP2C9 
+T3	Chemical 90 98	warfarin 
+T4	Pharmacodynamic_phenotype 90 118	warfarin dosage requirements
+R2	decreases Arg1:T1 Arg2:T4	

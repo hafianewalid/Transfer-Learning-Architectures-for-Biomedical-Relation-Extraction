@@ -1,0 +1,9 @@
+T1	Chemical 49 61	capecitabine 
+T2	Disease 73 90	pancreatic cancer 
+T3	Gene_or_protein 114 118	TYMS 
+T5	Limited_variation 114 136	TYMS * 2 / * 2 variant
+T6	Pharmacodynamic_phenotype 170 194	non-hematologic toxicity
+R1	increases Arg1:T5 Arg2:T6	
+R2	treats Arg1:T1 Arg2:T2	
+R3	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R1	hyp

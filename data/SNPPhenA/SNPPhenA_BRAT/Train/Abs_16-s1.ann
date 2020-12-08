@@ -1,0 +1,6 @@
+T1	SNP 30 36	TCF7L2
+T2	Phenotype 115 130	type 2 diabetes
+T3	Modality_Marker 4 12	findings
+T4	Modality_Marker 13 20	confirm
+T5	Modality_Marker 76 86	predicting
+R1	strong_confidence_association Arg1:T1 Arg2:T2

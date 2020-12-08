@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1208" TEXT="OBJECTIVE: Atherosclerotic disease is a major health problem among the elderly, which arises from a complex interaction between genetic and environmental factors. The catechol-O-methyltransferase (COMT) gene encodes an enzyme that degrades catecholamines and estrogens to less activemetabolites. The objective of this study was to examine whether polymorphisms of the COMT gene affected the severity of atherosclerotic disease in aJapanese elderly population. METHODS: A total of 1536 autopsy cases of hospital deaths were assessed for the degree of pathological atherosclerotic index (PAI), coronary stenotic index (CSI) and intracranial stenotic index (ICAI), which were obtained by macroscopic examination of the luminal surface of formalin-fixed arteries. Two single nucleotide polymorphisms (SNPs) in the COMT gene, rs4633 (C/T) and rs4680 (G/A) were genotyped. The rs4680 (G/A) corresponds to a functional SNP with the substitution of valine to methionine.RESULTS: The CC genotype of rs4633 (C/T) and the GG genotype of rs4680(G/A) showed a significantly higher degree of PAI and the association remained positive after adjustment for age, hypertension, diabetes, smoking and drinking (p=0.035 and p=0.031, respectively). There were no significant associations between COMT genotypes and CSI or ICAI. When male and female subjects were analyzed separately, the association was observed only in female subjects (p=0.012 and p=0.027) after adjustment for age, hypertension, diabetes, smoking and drinking. CONCLUSIONS: The functional SNP in the COMT gene associated with the severity of atherosclerosis in a Japaneseelderly population, whereby the influence of the genotype appears to be stronger in females than in males.">
+	<sentence ID="1208_0" START="1228" END="1306">
+		<snp ID="0" START="1275" END="1279" TEXT="COMT"/>
+		<phenotype ID="0" START="1294" END="1306" text="CSI"/>
+		<phenotype ID="1" START="1301" END="1306" text="ICAI"/>
+		<negation_scope  START="1239" END="1305" text="no significant associations between COMT genotypes and CSI or ICAI">
+			<negation_cue START="1239" END="1241" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

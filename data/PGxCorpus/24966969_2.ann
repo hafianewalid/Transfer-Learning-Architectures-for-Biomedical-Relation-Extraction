@@ -1,0 +1,8 @@
+T1	Limited_variation 0 73	Single nucleotide polymorphisms ( SNPs ) of VKORC ( 1173T/C , rs9934438 ) 
+T3	Limited_variation 0 43;78 108	Single nucleotide polymorphisms ( SNPs ) of CYP2C9 ( 1075A/C , rs1057910 ) 
+T4	Gene_or_protein 78 84	CYP2C9 
+T6	Pharmacodynamic_phenotype 147 170	sensitivity of warfarin 
+T7	Chemical 162 170	warfarin 
+T8	Gene_or_protein 44 49	VKORC
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T3 Arg2:T6	

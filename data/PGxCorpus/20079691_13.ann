@@ -1,0 +1,12 @@
+T1	Gene_or_protein 27 31	HER2 
+T3	Gene_or_protein 34 39	TOP2A 
+T4	Chemical 168 182	anthracyclines 
+T2	Genomic_variation 59 78	Ch17CEP duplication
+T5	Pharmacodynamic_phenotype 155 182	benefit from anthracyclines
+T6	Genomic_factor 43 56	chromosome 17
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T3 Arg2:T5	
+R3	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp
+#3	AnnotatorNotes R3	hyp

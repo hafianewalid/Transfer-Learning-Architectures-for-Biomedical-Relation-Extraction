@@ -1,0 +1,14 @@
+T1	Gene_or_protein 46 65	membrane type-1 MMP 
+T2	Gene_or_protein 68 75	MT1-MMP 
+T3	Gene_or_protein 121 146	tissue inhibitor of MMP-2 
+T4	Gene_or_protein 149 155	TIMP-2 
+T5	Chemical 171 181	theaflavin 
+T6	Phenotype 206 222	MMP-2 activation 
+T7	Gene_or_protein 206 211	MMP-2 
+T8	Phenotype 24 77	protein expression of membrane type-1 MMP ( MT1-MMP )
+T9	Phenotype 99 157	protein expression of tissue inhibitor of MMP-2 ( TIMP-2 )
+T10	Phenotype 15 19;32 77	mRNA expression of membrane type-1 MMP ( MT1-MMP )
+T11	Phenotype 107 157;90 94	expression of tissue inhibitor of MMP-2 ( TIMP-2 ) mRNA
+R3	isEquivalentTo Arg1:T2 Arg2:T1	
+R6	isEquivalentTo Arg1:T4 Arg2:T3	
+R9	decreases Arg1:T5 Arg2:T6	

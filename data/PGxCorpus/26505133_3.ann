@@ -1,0 +1,9 @@
+T1	Chemical 0 9	Sorafenib 
+T2	Gene_or_protein 56 60	FLT3 
+T3	Disease 106 114	leukemia 
+T4	Gene_or_protein 93 97	FLT3 
+T5	Disease 93 114	FLT3 mutated leukemia
+T6	Chemical 15 41	oral multikinase inhibitor
+T7	Limited_variation 93 105	FLT3 mutated
+R1	decreases Arg1:T1 Arg2:T2	
+R2	treats Arg1:T1 Arg2:T5	

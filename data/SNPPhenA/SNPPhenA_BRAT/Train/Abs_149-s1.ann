@@ -1,0 +1,3 @@
+T1	SNP 91 100	rs9939609
+T2	Phenotype 13 18	obese
+R1	neutral_association Arg1:T1 Arg2:T2

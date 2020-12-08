@@ -1,0 +1,7 @@
+T1	Chemical 68 72	TCDD
+T2	Pharmacodynamic_phenotype 56 72	toxicity of TCDD
+T3	Gene_or_protein 88 94	c- src
+T4	Phenotype 11 26	src -deficiency
+T5	Gene_or_protein 11 14	src
+T6	Genomic_variation 88 103	c- src knockout
+R2	influences Arg1:T4 Arg2:T2	

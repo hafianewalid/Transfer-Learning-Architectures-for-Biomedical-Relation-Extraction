@@ -1,0 +1,8 @@
+T1	Chemical 14 25	vemurafenib
+T3	Disease 80 88	melanoma
+T4	Disease 108 114	tumors
+T6	Limited_variation 130 152	BRAF (V600E ) mutation
+T7	Phenotype 57 104	abnormal signaling for melanoma cellular growth
+T5	Gene_or_protein 130 134	BRAF
+R1	decreases Arg1:T1 Arg2:T7	
+R2	isAssociatedWith Arg1:T4 Arg2:T6	

@@ -1,0 +1,13 @@
+T2	Gene_or_protein 14 19	ERCC1 
+T3	Chemical 85 113	platinum -based chemotherapy 
+T4	Gene_or_protein 140 145	ERCC1 
+T5	Phenotype 241 249	survival
+T6	Pharmacodynamic_phenotype 73 113	response to platinum -based chemotherapy
+T7	Disease 14 36	ERCC1 -negative tumors
+T8	Disease 140 162	ERCC1 -positive tumors
+T10	Chemical 85 93	platinum
+T11	Phenotype 14 29	ERCC1 -negative
+T1	Phenotype 140 155	ERCC1 -positive
+T9	Pharmacodynamic_phenotype 188 202	response rates
+R1	increases Arg1:T7 Arg2:T6	
+R2	influences Arg1:T8 Arg2:T6	

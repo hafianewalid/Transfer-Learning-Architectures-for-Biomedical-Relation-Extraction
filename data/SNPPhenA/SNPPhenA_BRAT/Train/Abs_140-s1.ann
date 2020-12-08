@@ -1,0 +1,5 @@
+T1	SNP 160 169	rs2395029
+T2	SNP 211 220	rs9264942
+T3	Phenotype 249 275	lower viral load set point
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

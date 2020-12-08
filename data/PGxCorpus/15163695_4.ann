@@ -1,0 +1,11 @@
+T1	Gene_or_protein 18 22	CREB 
+T2	Chemical 81 88	ethanol 
+T3	Phenotype 101 108;66 80	sucrose preference for 
+T4	Genomic_variation 18 38	CREB -haplodeficient
+T5	Phenotype 66 88	preference for ethanol
+T6	Chemical 101 108	sucrose
+T7	Genomic_variation 123 132	wild-type
+R1	increases Arg1:T4 Arg2:T5	
+R2	increases Arg1:T4 Arg2:T3	
+R3	influences Arg1:T7 Arg2:T5	
+#1	AnnotatorNotes R2	neg

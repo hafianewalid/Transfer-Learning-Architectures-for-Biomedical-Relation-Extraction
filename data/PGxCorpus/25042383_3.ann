@@ -1,0 +1,7 @@
+T3	Gene_or_protein 66 71	TOP2A 
+T4	Chemical 110 123	anthracycline 
+T5	Disease 162 175	breast cancer 
+T2	Pharmacodynamic_phenotype 85 123	efficacy of neo-adjuvant anthracycline
+R1	influences Arg1:T3 Arg2:T2	
+R2	treats Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,6 @@
+T1	Chemical 13 20	Alcohol 
+T2	Limited_variation 55 96	single-nucleotide polymorphisms in GABRA2 
+T3	Gene_or_protein 90 96	GABRA2 
+T5	Disease 13 34	Alcohol use disorders
+T6	Gene_or_protein 121 146	GABAA receptor a2-subunit
+R3	isAssociatedWith Arg1:T2 Arg2:T5	

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1252" TEXT="CONCLUSIONS: While previous studies in adults demonstrated, that the APOA5 -1131C minor allele confers risk for adult metabolic syndrome, here we show, that the susceptibility nature of this SNP restricted to the APOA5*2 haplotype in pediatric obese subjects.">
+	<sentence ID="1252_0" START="0" END="259">
+		<snp ID="0" START="69" END="74" TEXT="APOA5"/>
+		<phenotype ID="0" START="112" END="259" text="adult metabolic syndrome"/>
+		<modality_marker  START="0" END="11" text="CONCLUSIONS"/>
+		<modality_marker  START="46" END="58" text="demonstrated"/>
+		<modality_marker  START="146" END="150" text="show"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

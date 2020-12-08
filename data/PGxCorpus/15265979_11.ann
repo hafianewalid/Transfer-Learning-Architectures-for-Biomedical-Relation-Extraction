@@ -1,0 +1,8 @@
+T2	Chemical 97 107	amiodarone 
+T3	Gene_or_protein 126 135	PPARalpha 
+T5	Chemical 153 163	amiodarone 
+T1	Pharmacodynamic_phenotype 74 107	hepatotoxic effects of amiodarone
+T4	Pharmacodynamic_phenotype 153 187	amiodarone -induced hepatotoxicity
+T6	Disease 173 187	hepatotoxicity
+R1	decreases Arg1:T3 Arg2:T4	
+R2	causes Arg1:T5 Arg2:T6	

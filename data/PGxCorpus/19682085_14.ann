@@ -1,0 +1,10 @@
+T2	Gene_or_protein 14 18	ITPA 
+T5	Chemical 71 74	AZA 
+T6	Phenotype 114 132	flu -like symptoms 
+T7	Disease 114 117	flu 
+T3	Limited_variation 14 35	ITPA 94C>A homozygous
+T1	Pharmacodynamic_phenotype 71 109	AZA -related gastrointestinal toxicity
+T4	Pharmacodynamic_phenotype 84 109	gastrointestinal toxicity
+R1	increases Arg1:T3 Arg2:T1	
+R2	increases Arg1:T3 Arg2:T6	
+R3	isAssociatedWith Arg1:T5 Arg2:T4	

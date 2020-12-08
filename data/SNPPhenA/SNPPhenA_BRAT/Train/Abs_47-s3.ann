@@ -1,0 +1,7 @@
+T1	SNP 42 61	COMT haplotype GCGG
+T2	Phenotype 92 105	NPS at 15 min
+T3	Phenotype 119 165	amount of opioids consumed in the first 45 min
+T4	Phenotype 183 215	heart rate at 45 min in the PACU
+R1	moderate_confidence_association Arg1:T1 Arg2:T2
+R2	moderate_confidence_association Arg1:T1 Arg2:T3
+R3	weak_confidence_association Arg1:T1 Arg2:T4

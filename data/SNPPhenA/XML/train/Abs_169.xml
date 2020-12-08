@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1078" TEXT="OBJECTIVE: New-onset diabetes mellitus (NODM) is a frequent and serious complication arising after liver transplantation (LT). Transcription factor 7-like 2 (TCF7L2) polymorphisms have been reported to strongly associate with type 2 diabetes. In addition, the donor liver plays a vital role in regulating bloodglucose levels. In this study, we aim at evaluating the association between donor and recipient TCF7L2 gene polymorphisms with NODM after LT. METHODS: A total of 125 patients undergoing primary LT, without a history of diabetes were included.  Four single nucleotide polymorphisms (rs290487, rs7903146, rs11196205, and rs12255372), closely associated with type 2 diabetes in the Eastern Asia population, were genotyped and analyzed.  RESULTS: Both donor and recipient rs290487 polymorphisms (CC vs. TT genotype) were found to be significantly associated with NODM. In multivariate analysis, donor rs290487 genetic variation (OR = 2.172 per each C allele, p = 0.015), blood tacrolimus levels at 1 month post-LT &gt;10 ng/ml (OR = 3.264, p = 0.017), and recipient age &gt;55 years (OR = 2.638, p = 0.043) were identified as independent risk factors of NODM. Furthermore, donor rs290487 CCgenotype could predict a high probability (&gt;40%) of the onset of NODM. Predictive model containing donor rs290487 polymorphism showed a significantly higher prognostic ability on NODM than the model with only clinical parameters (p = 0.031). CONCLUSIONS: Donor TCF7L2 rs290487 polymorphism is associated with an increased risk of NODM after LT and has a potential clinical value for the prediction of NODM.">
+	<sentence ID="1078_0" START="1432" END="1596">
+		<snp ID="0" START="1458" END="1466" TEXT="rs290487"/>
+		<phenotype ID="0" START="1520" END="1596" text="NODM"/>
+		<modality_marker  START="1432" END="1443" text="CONCLUSIONS"/>
+		<modality_marker  START="1544" END="1553" text="potential"/>
+		<modality_marker  START="1577" END="1587" text="prediction"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

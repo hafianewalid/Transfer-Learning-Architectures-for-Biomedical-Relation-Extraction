@@ -1,0 +1,15 @@
+T1	Chemical 26 33	MnCl(2) 
+T2	Gene_or_protein 103 107	Nrf2 
+T3	Gene_or_protein 136 140	Nrf2 
+T5	Gene_or_protein 148 152	HO-1 
+T6	Phenotype 185 198;225 229	expression of HO-1 
+T8	Gene_or_protein 202 222	Nrf2 -regulated gene 
+T9	Gene_or_protein 225 229	HO-1 
+T10	Phenotype 65 74;87 107	cytosolic accumulation of Nrf2
+T11	Phenotype 79 107	nuclear accumulation of Nrf2
+T12	Phenotype 125 152	binding of Nrf2 to the HO-1
+T7	Gene_or_protein 202 206	Nrf2
+R3	increases Arg1:T1 Arg2:T10	
+R4	increases Arg1:T1 Arg2:T11	
+R1	increases Arg1:T1 Arg2:T12	
+R5	causes Arg1:T1 Arg2:T6	

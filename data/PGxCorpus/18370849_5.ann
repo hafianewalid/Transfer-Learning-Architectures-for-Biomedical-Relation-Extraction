@@ -1,0 +1,5 @@
+T2	Pharmacodynamic_phenotype 29 59	carbamazepine hypersensitivity 
+T3	Chemical 29 42	carbamazepine 
+T4	Gene_or_protein 64 69	HLA-B 
+T1	Haplotype 64 76	HLA-B * 1502
+R1	influences Arg1:T1 Arg2:T2	

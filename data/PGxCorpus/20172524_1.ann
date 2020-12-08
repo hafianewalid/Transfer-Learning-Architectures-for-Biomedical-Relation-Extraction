@@ -1,0 +1,7 @@
+T1	Pharmacodynamic_phenotype 11 47	effects of magnesium lithospermate B 
+T2	Chemical 22 47	magnesium lithospermate B 
+T3	Disease 56 80	diabetic atherosclerosis 
+T4	Gene_or_protein 85 100	Nrf2 -ARE- NQO1 
+T5	Genomic_factor 85 124	Nrf2 -ARE- NQO1 transcriptional pathway
+R1	decreases Arg1:T2 Arg2:T3	
+R2	influences Arg1:T5 Arg2:T1	

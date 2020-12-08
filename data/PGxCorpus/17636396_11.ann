@@ -1,0 +1,14 @@
+T1	Chemical 119 140;80 100	adjuvant chemotherapy anthracycline -based
+T2	Chemical 105 140	taxane -based adjuvant chemotherapy
+T3	Phenotype 158 174	HER2 /neu status
+T4	Gene_or_protein 158 167	HER2 /neu
+T5	Disease 196 223	HER2 /neu -positive cancers
+T6	Gene_or_protein 196 205	HER2 /neu
+T7	Disease 277 304	HER2 /neu -negative cancers
+T8	Gene_or_protein 277 286	HER2 /neu
+T9	Phenotype 196 215	HER2 /neu -positive
+T10	Phenotype 277 296	HER2 /neu -negative
+T11	Chemical 80 93	anthracycline
+T12	Chemical 105 111	taxane
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	isAssociatedWith Arg1:T2 Arg2:T3	

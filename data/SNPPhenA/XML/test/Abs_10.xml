@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1002" TEXT="Genetic variations in the human mu-opioid receptor gene (OPRM1) mediate individual differences in response to pain and opiate addiction. We studied whether the common A118G (rs1799971) mu-opioid receptor single nucleotide polymorphism (SNP) was associated with overdose severity in humans. In addition, we examined an SNP responsible for alternative splicing of OPRM1 (rs2075572). We assessed allele frequencies of the above SNPs and associations with clinical severity in patients presenting to the emergency department (ED) with acute drug overdose. This work was designed as an observational cohort study over a 12-month period at an urban teaching hospital. Participants consisted of consecutive adult ED patients with suspected acute drug overdose for whom discarded blood samples were available for analysis. Specimens were linked with clinical variables (demographics, urinetoxicology screens, clinical outcomes) then deidentified prior to genetic SNP analysis. Blinded genotyping was performed after standard DNA purification and whole genome amplification. In-hospital severe outcomes were defined as either respiratory arrest (RA; defined by mechanical ventilation) or cardiac arrest (CA; defined by loss of pulse). We analyzed 179 patients (61% male, median age 32) who overall suffered 15 RAs and four CAs, of whom three died. The 118G allele conferred 5.3-fold increased odds of CA/RA (p&lt;0.05), while the rs2075572 variant allele was not associated with CA/RA. The 118G variant allele in the OPRM1 gene is associated with worse clinical severity in patients with acute drug overdose. These findings mark the first time that the 118G variant allele is linked with clinical drug overdose vulnerability.">
+	<sentence ID="1002_0" START="1339" END="1472">
+		<snp ID="0" START="1418" END="1427" TEXT="rs2075572"/>
+		<phenotype ID="2" START="1392" END="1472" text="CA"/>
+		<phenotype ID="3" START="1395" END="1472" text="RA"/>
+		<phenotype ID="0" START="1467" END="1472" text="CA"/>
+		<phenotype ID="1" START="1470" END="1472" text="RA"/>
+		<negation_scope  START="1408" END="1472" text="while the rs2075572 variant allele was not associated with CA/RA">
+			<negation_cue START="1447" END="1450" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,9 @@
+T1	SNP 81 85	APOE
+T2	Phenotype 139 148	Alzheimer
+T3	Phenotype 160 175	atherosclerosis
+T4	Phenotype 180 189	Parkinson
+T5	Modality_Marker 33 40	suggest
+T6	Modality_Marker 104 109	other
+R1	neutral_association Arg1:T1 Arg2:T2
+R2	neutral_association Arg1:T1 Arg2:T3
+R3	neutral_association Arg1:T1 Arg2:T4

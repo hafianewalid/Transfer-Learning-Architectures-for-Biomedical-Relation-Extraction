@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1234" TEXT="BACKGROUND: The transcription factor 7-like 2 (TCF7L2) is a critical component of the Wnt/beta-catenin pathway. Aberrant TCF7L2 expression modifies Wnt signaling and mediates oncogenic effects through the upregulation of c-MYC and cyclin D. Genetic alterations in TCF7L2 may therefore affect cancer risk. Recently, TCF7L2 variants, including the microsatellite marker DG10S478 and the nearly perfectly linked SNP rs12233372, were identified to associate with type 2 diabetes. METHODS: We investigated the effect of the TCF7L2 rs12255372 variant on familial breast cancer (BC) risk by means of TaqMan allelic discrimination, analyzing BRCA1/2 mutation-negative index patients of 592 German BC families and 735 control individuals. RESULTS: The T allele of rs12255372 showed an association with borderline significance (OR = 1.19, 95% C.I. = 1.01-1.42, P = 0.04), and the Cochran-Armitage test for trend revealed an allele dose-dependent association of rs12255372 with BC risk (Ptrend = 0.04). CONCLUSIONS: Our results suggest a possible influence of TCF7L2 rs12255372 on the risk of familial BC.">
+	<sentence ID="1234_0" START="305" END="474">
+		<snp ID="0" START="368" END="376" TEXT="DG10S478"/>
+		<snp ID="1" START="413" END="423" TEXT="rs12233372"/>
+		<phenotype ID="0" START="459" END="474" text="type 2 diabetes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+	<sentence ID="1234_1" START="739" END="991">
+		<snp ID="2" START="755" END="765" TEXT="rs12255372"/>
+		<snp ID="3" START="951" END="961" TEXT="rs12255372"/>
+		<phenotype ID="1" START="967" END="991" text="BC risk"/>
+		<modality_marker  START="766" END="772" text="showed"/>
+		<modality_marker  START="902" END="910" text="revealed"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1234_2" START="1005" END="1094">
+		<snp ID="4" START="1056" END="1066" TEXT="rs12255372"/>
+		<phenotype ID="2" START="1082" END="1094" text="familial BC"/>
+		<modality_marker  START="1017" END="1024" text="suggest"/>
+		<modality_marker  START="1027" END="1035" text="possible"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

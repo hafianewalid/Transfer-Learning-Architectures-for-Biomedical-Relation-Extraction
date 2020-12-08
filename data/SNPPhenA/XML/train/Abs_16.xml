@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1068" TEXT="Emerging evidence indicates that variation in the transcription factor 7-like 2 (TCF7L2) gene may play a role in the pathogenesis of type 2 diabetes. In a prospective, nested, case-control study (n = 3,520) within the Nurses' Health Study (687 type 2 diabetic case and 1,051 control subjects) and the Health Professionals Follow-up Study (886 case and 896 control subjects),  we examined the association of a common variant of the TCF7L2 gene (rs12255372 [T/G]) with type 2 diabetes risk among Caucasians. Frequencies of the T-allele were significantly higher among case than control subjects; each copy of the T-allele was associated with a 1.32-fold (P = 0.0002) and 1.53-fold (P &lt; 0.0001) increased type 2 diabetes risk in women and men, respectively. The odds ratios (95% CI) associated with homozygous carriers of the T-allele were 1.86 (1.30-2.67) and 2.15 (1.48-3.13) in women and men, respectively. Population-attributable risks for diabetes associated with the T-allele were 14.8 and 22.3% for women and men, respectively. In a meta-analysis of 3,347 case and 3,947 control subjects, each copy of the T-allele was associated with a 1.48-fold increased risk (P &lt; 10(-16)). Our findings confirm that the TCF7L2 gene represents an important locus for predicting inherited susceptibility to type 2 diabetes.">
+	<sentence ID="1068_0" START="1181" END="1312">
+		<snp ID="0" START="1211" END="1217" TEXT="TCF7L2"/>
+		<phenotype ID="0" START="1296" END="1312" text="type 2 diabetes"/>
+		<modality_marker  START="1185" END="1193" text="findings"/>
+		<modality_marker  START="1194" END="1201" text="confirm"/>
+		<modality_marker  START="1257" END="1267" text="predicting"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

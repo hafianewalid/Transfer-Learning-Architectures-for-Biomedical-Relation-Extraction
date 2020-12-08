@@ -1,0 +1,6 @@
+T1	Chemical 0 10	Metoprolol 
+T2	Chemical 51 63	debrizoquine 
+T3	Limited_variation 51 97	debrizoquine oxidation ( CYP2D6 ) polymorphism 
+T4	Gene_or_protein 76 82	CYP2D6 
+T5	Pharmacokinetic_phenotype 0 30	Metoprolol alpha-hydroxylation
+T6	Pharmacokinetic_phenotype 51 73	debrizoquine oxidation

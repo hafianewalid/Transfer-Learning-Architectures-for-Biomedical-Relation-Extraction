@@ -1,0 +1,6 @@
+T1	Phenotype 27 40	cell survival
+T2	Chemical 63 70	CB 1954
+T3	Gene_or_protein 100 113	DT-diaphorase
+T4	Phenotype 100 122	DT-diaphorase activity
+R1	isAssociatedWith Arg1:T4 Arg2:T1	
+R2	isAssociatedWith Arg1:T2 Arg2:T1	

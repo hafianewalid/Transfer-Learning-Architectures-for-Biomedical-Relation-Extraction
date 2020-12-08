@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1220" TEXT="OBJECTIVE: Toll-like receptor (TLR) 2 and nucleotide-binding oligomerisation domain (NOD) 2 recognize distinct pathogen-associated molecular patterns (PAMS) on the cell surface and in the cytoplasm, respectively. Since they may contribute to susceptibility to spontaneous bacterial peritonitis (SBP), we studied the effects of TLR2 gene variants on susceptibility for SBP in relation to the previously reported NOD2 alleles. METHODS: Overall, 150 patients with liver cirrhosis and ascites were genotyped for TLR2 gene variants -16934 (rs4696480), Arg753Gln (rs5743708), Pro631His (rs5743704) and the TLR2GT microsatellite polymorphism in intron 2. Patients were monitored for SBP over two years. TLR2 SNPs were identified by hybridization probe assays on a LightCycler system. Numbers of GT repeats were determined with an ABI310 sequencer and Genescan Analysis 2.1 software. RESULTS: Fifty two patients (35%) had SBP. Unlike the TLR2 Arg753Gln and Pro631His mutations, SBP was significantly more frequent in patients with the TLR2 -16934 TTgenotype (38.5% vs. 15.3%; p = 0.002) and in carriers with two long tandem GT repeat alleles (&gt;20) (53.8% vs. 25.5%; p = 0.001). A multivariate analysis confirmed TLR2 GT microsatellite polymorphism (OR = 3.8, p = 0.002) and NOD2 variants (OR = 3.3, p = 0.011) as independent predictors of SBP, and the simultaneous presence of both risk factors indicated a particularly high risk for SBP (OR = 11.3, p = 0.00002). CONCLUSIONS: Analogous to NOD2 risk variants, TLR2 polymorphisms indicate increased susceptibility toward SBP in cirrhotic patients with ascites, and the combination of the TLR2 GTmicrosatellite polymorphism with at least one NOD2 risk variant enables improved identification of patients with a high risk for SBP.">
+	<sentence ID="1220_0" START="425" END="647">
+		<snp ID="0" START="527" END="533" TEXT="-16934"/>
+		<snp ID="1" START="535" END="544" TEXT="rs4696480"/>
+		<snp ID="2" START="547" END="556" TEXT="Arg753Gln"/>
+		<snp ID="3" START="558" END="567" TEXT="rs5743708"/>
+		<snp ID="4" START="581" END="590" TEXT="rs5743704"/>
+		<phenotype ID="0" START="461" END="647" text="liver cirrhosis"/>
+		<modality_marker  START="434" END="441" text="Overall"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

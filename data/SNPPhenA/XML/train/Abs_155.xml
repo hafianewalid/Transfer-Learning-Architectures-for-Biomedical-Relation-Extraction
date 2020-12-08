@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1063" TEXT="We genotyped four of the SNPs (rs7901695, rs7903146, rs11196205, and rs12255372) in Amish subjects with type 2 diabetes (n = 137), impaired glucose tolerance (IGT; n = 139), and normal glucose tolerance (NGT; n = 342).">
+	<sentence ID="1063_0" START="0" END="218">
+		<snp ID="0" START="31" END="40" TEXT="rs7901695"/>
+		<snp ID="1" START="42" END="51" TEXT="rs7903146"/>
+		<snp ID="2" START="53" END="63" TEXT="rs11196205"/>
+		<snp ID="3" START="69" END="79" TEXT="rs12255372"/>
+		<phenotype ID="0" START="104" END="218" text="type 2 diabetes"/>
+		<phenotype ID="1" START="131" END="218" text="impaired glucose tolerance"/>
+		<phenotype ID="2" START="178" END="218" text="normal glucose tolerance"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="7" PHENOTYPEID="1" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="8" PHENOTYPEID="2" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="9" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="10" PHENOTYPEID="1" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="11" PHENOTYPEID="2" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

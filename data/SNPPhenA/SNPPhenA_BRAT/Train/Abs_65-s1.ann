@@ -1,0 +1,13 @@
+T1	SNP 95 103	rs962458
+T2	SNP 105 111	rs6152
+T3	SNP 113 122	rs1204038
+T4	SNP 124 133	rs2361634
+T5	SNP 135 144	rs1337080
+T6	SNP 146 155	rs1337082
+T7	Phenotype 194 208	ovarian cancer
+R1	neutral_association Arg1:T1 Arg2:T7
+R2	neutral_association Arg1:T2 Arg2:T7
+R3	neutral_association Arg1:T3 Arg2:T7
+R4	neutral_association Arg1:T4 Arg2:T7
+R5	neutral_association Arg1:T5 Arg2:T7
+R6	neutral_association Arg1:T6 Arg2:T7

@@ -1,0 +1,9 @@
+T1	Gene_or_protein 3 7	Nrf2 
+T2	Chemical 26 29	Cln 
+T3	Phenotype 48 63	UGT1A1 activity 
+T4	Gene_or_protein 48 54	UGT1A1 
+T5	Gene_or_protein 75 79	Nrf2 
+T6	Genomic_variation 3 17	Nrf2 knock-out
+R1	increases Arg1:T2 Arg2:T3	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R1	neg

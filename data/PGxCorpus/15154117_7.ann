@@ -1,0 +1,10 @@
+T1	Haplotype 69 85	CHRNA4 haplotype 
+T2	Gene_or_protein 69 75	CHRNA4 
+T3	Chemical 170 178	nicotine 
+T4	Disease 170 188	nicotine addiction
+T6	Phenotype 280 284;317 323	FTND scores
+T7	Phenotype 313 323	RTQ scores
+T8	Haplotype 88 94	GCTATA
+R1	decreases Arg1:T8 Arg2:T4	
+R2	decreases Arg1:T8 Arg2:T6	
+R3	decreases Arg1:T8 Arg2:T7	

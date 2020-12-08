@@ -1,0 +1,8 @@
+T1	Chemical 14 22	VPA / HU
+T2	Phenotype 54 64;95 102	expression of EGFR
+T3	Gene_or_protein 98 102	EGFR
+T4	Phenotype 69 102	cell surface localization of EGFR
+T5	Chemical 14 17	VPA
+T6	Chemical 20 22	HU
+R1	decreases Arg1:T1 Arg2:T2	
+R2	decreases Arg1:T1 Arg2:T4	

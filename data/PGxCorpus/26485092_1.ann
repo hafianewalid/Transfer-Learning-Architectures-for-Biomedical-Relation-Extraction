@@ -1,0 +1,5 @@
+T1	Chemical 32 42	Tacrolimus 
+T2	Limited_variation 127 141	CYP3A5 Alleles 
+T3	Gene_or_protein 127 133	CYP3A5 
+T4	Pharmacodynamic_phenotype 32 57	Tacrolimus Concentrations
+R1	influences Arg1:T2 Arg2:T4	

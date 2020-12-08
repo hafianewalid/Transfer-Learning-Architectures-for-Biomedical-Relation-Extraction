@@ -1,0 +1,4 @@
+T1	SNP 28 36	epsilon2
+T2	Phenotype 86 88	AD
+T3	Modality_Marker 13 18	found
+R1	weak_confidence_association Arg1:T1 Arg2:T2

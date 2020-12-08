@@ -1,0 +1,15 @@
+T5	Disease 55 64	alcoholic 
+T6	Chemical 90 94	iron 
+T7	Phenotype 90 103	iron overload
+T2	Gene_or_protein 19 22	HFE
+T8	Limited_variation 2 27;30 35	Mutations in the HFE gene C282Y
+T9	Limited_variation 2 27;38 42	Mutations in the HFE gene H63D
+T10	Limited_variation 2 27;45 49	Mutations in the HFE gene S65C
+R1	isAssociatedWith Arg1:T7 Arg2:T10	
+R2	isAssociatedWith Arg1:T7 Arg2:T8	
+R3	isAssociatedWith Arg1:T7 Arg2:T9	
+R4	isAssociatedWith Arg1:T5 Arg2:T7	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R2	hyp
+#4	AnnotatorNotes R1	hyp

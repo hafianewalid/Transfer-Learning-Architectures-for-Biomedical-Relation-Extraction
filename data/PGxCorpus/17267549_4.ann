@@ -1,0 +1,6 @@
+T3	Gene_or_protein 44 57	Kv1.5 channel 
+T4	Gene_or_protein 65 70	KCNA5 
+T5	Chemical 202 217	4-aminopyridine 
+T1	Phenotype 22 72	overexpression of the Kv1.5 channel gene ( KCNA5 )
+T2	Pharmacodynamic_phenotype 189 217	sensitive to 4-aminopyridine
+R1	isEquivalentTo Arg1:T4 Arg2:T3	

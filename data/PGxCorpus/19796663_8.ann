@@ -1,0 +1,13 @@
+T1	Pharmacodynamic_phenotype 84 116	apomorphine -induced GH response 
+T3	Chemical 84 95	apomorphine 
+T4	Chemical 105 107	GH 
+T5	Gene_or_protein 129 133	DRD2 
+T6	Gene_or_protein 138 143	ANKK1 
+T7	Chemical 147 154	alcohol 
+T8	Disease 147 165	alcohol -dependent
+T2	Limited_variation 121 133	SNPs in DRD2
+T9	Limited_variation 121 128;138 143	SNPs in ANKK1
+T10	Pharmacodynamic_phenotype 105 116	GH response
+R1	causes Arg1:T3 Arg2:T10	
+R2	isAssociatedWith Arg1:T1 Arg2:T9	
+R3	isAssociatedWith Arg1:T1 Arg2:T2	

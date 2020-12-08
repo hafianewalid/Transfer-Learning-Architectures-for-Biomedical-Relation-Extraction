@@ -1,0 +1,7 @@
+T1	Limited_variation 83 100	5-HTTLPR S allele 
+T2	Gene_or_protein 83 91	5-HTTLPR 
+T3	Chemical 104 111	alcohol 
+T5	Disease 104 122	alcohol -dependent
+T4	Phenotype 58 74	suicide attempts
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T4 Arg2:T1	

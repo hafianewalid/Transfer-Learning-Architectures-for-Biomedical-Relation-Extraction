@@ -1,0 +1,16 @@
+T1	Limited_variation 60 79	MMP-2 polymorphisms 
+T2	Gene_or_protein 60 65	MMP-2 
+T4	Disease 159 184	nonsmall cell lung cancer 
+T5	Disease 187 192	NSCLC 
+T3	Pharmacodynamic_phenotype 85 103	treatment efficacy
+T7	Chemical 227 255	platinum -based chemotherapy
+T8	Disease 126 141	severe toxicity
+T6	Chemical 227 235	platinum
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+R5	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	treats Arg1:T7 Arg2:T4	
+R3	isAssociatedWith Arg1:T1 Arg2:T3	
+R4	isAssociatedWith Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R4	hyp
+#3	AnnotatorNotes R1	hyp

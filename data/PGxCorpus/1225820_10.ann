@@ -1,0 +1,13 @@
+T1	Gene_or_protein 86 90	ChF1
+T2	Gene_or_protein 95 99	ChS1
+T3	Phenotype 128 140;160 174	synthesis of cholinesterase
+T4	Gene_or_protein 160 174	cholinesterase
+T5	Disease 263 269	apnoea
+T6	Chemical 249 262	suxamethonium
+T7	Limited_variation 207 230	ChU1 ChD1 heterozygotes
+T8	Gene_or_protein 212 216	ChD1
+T9	Pharmacodynamic_phenotype 249 269	suxamethonium apnoea
+T11	Gene_or_protein 207 211	ChU1
+R1	influences Arg1:T1 Arg2:T3	
+R2	influences Arg1:T2 Arg2:T3	
+R3	isAssociatedWith Arg1:T7 Arg2:T9	

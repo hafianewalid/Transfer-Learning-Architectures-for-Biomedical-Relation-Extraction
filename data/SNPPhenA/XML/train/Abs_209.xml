@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1123" TEXT="BACKGROUND: Crohn's disease (CD) and ulcerative colitis (UC), the two main types of inflammatory bowel disease (IBD), are multifactorial conditions of unknown etiology. The objective of this study is to examine the combined gene-environment interactions influencing IBD susceptibility in a well-defined Caucasian cohort in rural mid-America. METHODS: Patients were diagnosed to have CD or UC using conventional radiologic, endoscopic, and/or histopathologic findings. Histological diagnosis was made by a single specialist gastrointestinal pathologist with a particular interest in IBD. Information regarding cigarette smoke exposure was obtained by administration of the Behavioral Risk Factor Surveillance System Survey (BRFSS) to allpatients. Genomic DNA was extracted from peripheral blood leukocytes, and polymerase chain reaction (PCR) amplification and genotyping were performed for 11 Single Nucleotide Polymorphisms (SNP) in NOD2, IL23r, OCTN1 genes along with IGR. RESULTS: Our cohort consists of 1196 patients: 435 controls, 485 CD patients, and 276 UC patients. Only patients with genotype data for at least 7 of 11 SNPs were included in our data analysis. Thecontrol groups for all 11 SNPs were in Hardy-Weinberg Equilibrium. In genotype-association SNP analysis, all NOD2 SNPs (rs5743293, rs2066844, rs2066845) and the IL23r SNP (rs11465804) showed a significant association to IBD (p &lt; 0.03). A multiple gene-interaction analysis showed an association between NOD2 and IL23r with UC (p = 0.04). There were no associations between any OCTN1 and IGR SNPs and IBD in this cohort. A multivariablelogistic regression analysis showed that female gender, &quot;current&quot; or &quot;former&quot; smoking status, family history of IBD, and NOD2 SNP minor alleles were associated with CD. CONCLUSIONS: IBD remains to be challenging to properly diagnose, characterize, and treat. Our study proposes a combined genetic, phenotypic, and environmental approach in an attempt to better understand IBD. Previously demonstrated associations between OCTN1 and IGR and IBD were not confirmed.">
+	<sentence ID="1123_0" START="1239" END="1407">
+		<snp ID="0" START="1292" END="1301" TEXT="rs5743293"/>
+		<snp ID="1" START="1303" END="1312" TEXT="rs2066844"/>
+		<snp ID="2" START="1314" END="1323" TEXT="rs2066845"/>
+		<snp ID="3" START="1344" END="1354" TEXT="rs11465804"/>
+		<phenotype ID="0" START="1392" END="1407" text="IBD"/>
+		<modality_marker  START="1356" END="1362" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,7 @@
+T1	SNP 82 86	MC1R
+T2	SNP 90 102	MATP/SLC45A2
+T3	SNP 110 114	OCA2
+T4	Phenotype 133 141	melanoma
+R1	neutral_association Arg1:T1 Arg2:T4
+R2	neutral_association Arg1:T2 Arg2:T4
+R3	neutral_association Arg1:T3 Arg2:T4

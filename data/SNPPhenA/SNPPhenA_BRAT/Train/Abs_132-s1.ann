@@ -1,0 +1,6 @@
+T1	SNP 64 68	OCA2
+T2	Phenotype 97 106	eye color
+T3	Phenotype 151 162	skin-cancer
+T4	Modality_Marker 111 116	other
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Pharmacodynamic_phenotype 88 99	neutropenia 
+T2	Chemical 68 78	irinotecan 
+T3	Gene_or_protein 116 122	UGT1A1 
+T4	Pharmacodynamic_phenotype 68 99	irinotecan -induced neutropenia
+T5	Haplotype 116 126	UGT1A1 * 6
+R2	causes Arg1:T2 Arg2:T1	
+R1	isAssociatedWith Arg1:T5 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	SNP 217 229	rs7903146C/T
+T2	SNP 231 244	rs12255372G/T
+T3	Phenotype 133 139	(T2DM)
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T2 Arg2:T3

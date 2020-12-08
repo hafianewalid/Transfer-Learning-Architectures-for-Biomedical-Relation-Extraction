@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1186" TEXT="OBJECTIVE: The gene encoding transcription factor 7-like 2 (TCF7L2) has been identified as a type 2 diabetes locus from genome-wide linkage studies and subsequent association analysis. We investigated the role of two common variants in TCF7L2 in a large case-control study recruited from the Tayside region of Scotland, UK. METHODS: We genotyped 6,516 participants for rs12255372 and  rs7903146 and analysed the role in type 2 diabetes susceptibility using binary logistic regression. Age, sex and obesity status were examined as covariates. The distribution of the genotypes within different treatment groups of cases was examined. RESULTS: Both variants were associated with type 2 diabetes (p &lt; 10(-13)). The variants were present at very similar frequencies and were in strong linkage disequilibrium (R(2) = 0.88, D' = 0.89). A gene dosage effect of the rare allele of both variants was observed, the heterozygote CT group of rs7903146 having an odds ratio of 1.36 (95% CI 1.2-1.5, p=1.54 x 10(-7)) for type 2 diabetes and the TT homozygote having a greater risk (OR = 2.03, 95% CI 1.7-2.5, p=1.40 x 10(-12)). An interaction with sex was observed, the males displaying a higher degree of genotype-associated risk compared with the females (p = 0.023). The T allele was associated with increased HbA(1c) levels in both cases and controls, and with decreased BMI and waist circumference in case but not controls. The T allele was overrepresented in individuals requiring insulin treatment and underrepresented in the patients being managed by diet alone (p = 0.006). CONCLUSIONS: We have confirmed TCF7L2 to be a diabetes locus in a large case-control study in Tayside, UK. Our data suggest that variants of TCF7L2 may be associated with increased disease severity and therapeutic failure.">
+	<sentence ID="1186_0" START="333" END="540">
+		<snp ID="0" START="369" END="379" TEXT="rs12255372"/>
+		<snp ID="1" START="385" END="394" TEXT="rs7903146"/>
+		<phenotype ID="0" START="420" END="540" text="type 2 diabetes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,5 @@
+T1	SNP 111 120	rs2075650
+T2	Phenotype 52 61	longevity
+T3	Modality_Marker 3 13	conclusion
+T4	Modality_Marker 68 72	high
+R1	weak_confidence_association Arg1:T1 Arg2:T2

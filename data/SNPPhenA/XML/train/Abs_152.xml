@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1060" TEXT="Background Cigarette smoking is a major risk factor for chronic obstructive pulmonary disease (COPD) and COPD severity. Previous genome-wide association studies (GWAS) have identified numerous single nucleotide polymorphisms (SNPs) associated with the number of cigarettes smoked per day (CPD) and a dopamine beta-hydroxylase (DBH) locus associated with smoking cessation in multiple populations. Objective To identify SNPs associated with lifetime average and current CPD, age at smoking initiation, and smoking cessation in patients with COPD. Methods GWAS were conducted in four independent cohorts encompassing 3441 ever-smoking patients with COPD (Global Initiative for Obstructive Lung Disease stage II or higher). UntypedSNPs were imputed using the HapMap (phase II) panel. Results from all cohorts were meta-analysed. Results Several SNPs near the HLA region onchromosome 6p21 and in an intergenic region on chromosome 2q21 showed associations with age at smoking initiation, both with the lowest p=2×10(-7). No SNPs were associated with lifetime average CPD, current CPD or smoking cessation with p&lt;10(-6). Nominally significant associations with candidateSNPs within cholinergic receptors, nicotinic, alpha 3/5 (CHRNA3/CHRNA5; eg, p=0.00011 for SNP rs1051730) and cytochrome P450, family 2, subfamily A, polypeptide 6 (CYP2A6; eg, p=2.78×10(-5) for a non-synonymous SNP rs1801272) regions were observed for lifetime average CPD, however only CYP2A6 showed evidence of significant association with current CPD. A candidate SNP (rs3025343) in   DBH was significantly (p=0.015) associated withsmoking cessation. Conclusion The authors identified two candidate regions associated with age at smoking initiation in patients with COPD. Associations of CHRNA3/CHRNA5 and CYP2A6 loci with CPD and DBH with smoking cessation are also likely of importance in the smoking behaviours of patients with COPD.">
+	<sentence ID="1060_0" START="1116" END="1519">
+		<snp ID="0" START="1259" END="1268" TEXT="rs1051730"/>
+		<snp ID="1" START="1380" END="1389" TEXT="rs1801272"/>
+		<phenotype ID="0" START="1417" END="1519" text="lifetime average CPD"/>
+		<phenotype ID="1" START="1507" END="1519" text="current CPD"/>
+		<modality_marker  START="1404" END="1412" text="observed"/>
+		<modality_marker  START="1459" END="1465" text="showed"/>
+		<modality_marker  START="1466" END="1474" text="evidence"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1060_1" START="1520" END="1618">
+		<snp ID="2" START="1536" END="1547" TEXT="(rs3025343)"/>
+		<phenotype ID="2" START="1553" END="1618" text="DBH"/>
+		<phenotype ID="3" START="1600" END="1618" text="smoking cessation"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

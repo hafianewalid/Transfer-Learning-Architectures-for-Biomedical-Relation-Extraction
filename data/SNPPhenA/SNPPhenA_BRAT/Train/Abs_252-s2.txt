@@ -1,0 +1,1 @@
+When testing rs7903146 and rs12255372 for replication in Finnish FCHL families, these single nucleotide polymorphisms were associated with TG (p = 0.01 and p = 0.007).

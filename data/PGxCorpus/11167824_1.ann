@@ -1,0 +1,11 @@
+T2	Chemical 17 39	5-aza-2'-deoxycytidine 
+T3	Disease 43 52	leukaemia 
+T4	Gene_or_protein 64 67	MLL 
+T5	Chemical 117 140	all-trans retinoic acid 
+T6	Chemical 145 174	1alpha,25-dihydroxyvitamin D3 
+T7	Genomic_variation 64 81	MLL abnormalities
+T8	Pharmacodynamic_phenotype 98 140	differentiation by all-trans retinoic acid
+T9	Pharmacodynamic_phenotype 145 174;98 116	1alpha,25-dihydroxyvitamin D3 differentiation by
+T1	Pharmacodynamic_phenotype 0 39	Sensitization by 5-aza-2'-deoxycytidine
+R1	isAssociatedWith Arg1:T3 Arg2:T7	
+R2	influences Arg1:T1 Arg2:T3	

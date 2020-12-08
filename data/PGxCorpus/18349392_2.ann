@@ -1,0 +1,10 @@
+T1	Gene_or_protein 24 56	epidermal growth factor receptor 
+T2	Gene_or_protein 59 63	EGFR 
+T3	Chemical 141 150	cetuximab 
+T5	Disease 176 204	metastatic colorectal cancer
+T6	Disease 207 211	MCRC
+T8	Pharmacodynamic_phenotype 129 158	activity of cetuximab therapy
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R3	influences Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R3	hyp

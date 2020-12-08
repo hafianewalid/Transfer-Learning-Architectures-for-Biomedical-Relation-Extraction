@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1110" TEXT="OBJECTIVE: The gene for mast cell chymase (CMA1) is an ideal candidate for investigating the genetic predisposition to coronary heart disease(CHD), as activated mast cells have been found to be present in a greater proportion in the shoulder region of atheroma than in normal coronary intimae. Previous studies have indicated that CMA1 promoter polymorphism rs1800875 may be involved in regulating immunoglobulin E (IgE) levels in patients witheczema, and it is associated with the progression of immunoglobulin A nephropathy. METHODS: The association between single nucleotidepolymorphism (SNP) rs1800875, serum chymase, and serum IgE levels was examined in 175 CHD subjects and 95 non-CHD subjects. RESULTS: Statistical analysis indicated no significant difference in allele frequency between CHD and non-CHD. However, a significant association was found between CMA1 genotypes and total IgE levels in CHD subjects. Meanwhile, crossover analysis revealed that, in GG homozygotes, CHD risk was nearly six times higher in those with IgE (U/ml) level &lt;2.58 (natural logarithm conversion), while no association was found with chymase level. CONCLUSIONS: Polymorphism rs1800875 of CMA1 may be associated with serum IgE level in CHD subjects, but not with chymase level in both groups. In GGhomozygotes, high IgE level is a protective factor against coronary disease.">
+	<sentence ID="1110_0" START="1152" END="1281">
+		<snp ID="0" START="1165" END="1174" TEXT="rs1800875"/>
+		<phenotype ID="0" START="1225" END="1281" text="CHD"/>
+		<modality_marker  START="1182" END="1186" text=" may"/>
+		<negation_scope  START="1243" END="1281" text="not with chymase level in both groups.">
+			<negation_cue START="1243" END="1246" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

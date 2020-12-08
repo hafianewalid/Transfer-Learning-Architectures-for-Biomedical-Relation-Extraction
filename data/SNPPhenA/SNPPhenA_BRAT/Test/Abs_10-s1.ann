@@ -1,0 +1,11 @@
+T1	SNP 79 88	rs2075572
+T2	Phenotype 53 55	CA
+T3	Phenotype 56 58	RA
+T4	Phenotype 128 130	CA
+T5	Phenotype 131 133	RA
+T6	Negation_Scope 69 133	while the rs2075572 variant allele was not associated with CA/RA
+T7	Negation_Cue 108 111	not
+R1	negative_association Arg1:T1 Arg2:T4
+R2	negative_association Arg1:T1 Arg2:T5
+R3	weak_confidence_association Arg1:T1 Arg2:T2
+R4	weak_confidence_association Arg1:T1 Arg2:T3

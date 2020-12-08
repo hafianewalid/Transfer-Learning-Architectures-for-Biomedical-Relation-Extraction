@@ -1,0 +1,5 @@
+T1	SNP 74 94	rs1051730/rs16966968
+T2	Phenotype 108 135	daily cigarette consumption
+T3	Modality_Marker 14 23	indicated
+T4	Modality_Marker 288 301	approximately
+R1	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1075" TEXT="Genome-wide association studies validated transcription factor 7-like 2 (TCF7L2) gene as confirmed type 2 diabetes (T2DM) susceptibility locus, and an ethnic contribution of TCF7L2 variants to T2DM risk was indicated. The aim of this study was to replicate in a Tunisian Arab population identified associations of common TCF7L2 variants with T2DM. We tested the association of TCF7L2 variants: rs4506565, rs7903146, rs12243326, and rs12255372, with T2DM in 900 Tunisian patients and 875 control subjects. TCF7L2 genotyping was done by allelic discrimination/real-time PCR method. Minor allele frequencies of rs4506565 (P=2.4×10(-8)), rs7903146 (P=1.2×10(-6)), rs12243326 (P=8.4×10(-8)) and rs12255372 (P=1.1×10(-5)) were significantly higher in cases. The four tested TCF7L2 variants were in linkage disequilibrium, and 4-locus (rs4506565, rs7903146, rs12243326, rs12255372) haplotype analysis demonstrated that haplotype 1111 was negatively associated (Pc&lt;0.001), while haplotypes 2222 (Pc=0.008) and 2211 (Pc=0.020) were positively associated with T2DM risk, after controlling for a number of covariates. The strong contribution of TCF7L2 gene variants to T2DM among Tunisians is in line with similar findings in other ethnic groups, confirming TCF7L2 as a common T2DM candidate gene.">
+	<sentence ID="1075_0" START="752" END="1106">
+		<snp ID="0" START="829" END="838" TEXT="rs4506565"/>
+		<snp ID="1" START="840" END="849" TEXT="rs7903146"/>
+		<snp ID="2" START="851" END="861" TEXT="rs12243326"/>
+		<snp ID="3" START="863" END="873" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1050" END="1106" text="T2DM"/>
+		<modality_marker  START="894" END="906" text="demonstrated"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

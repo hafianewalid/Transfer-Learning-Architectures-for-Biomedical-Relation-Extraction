@@ -1,0 +1,6 @@
+T1	Gene_or_protein 31 35	COMT 
+T2	Gene_or_protein 0 28	Catechol-O-methyltransferase 
+T3	Chemical 74 82	dopamine 
+T4	Pharmacokinetic_phenotype 52 82	breakdown of cerebral dopamine
+R2	isEquivalentTo Arg1:T1 Arg2:T2	
+R1	influences Arg1:T2 Arg2:T4	

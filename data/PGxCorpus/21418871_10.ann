@@ -1,0 +1,15 @@
+T1	Disease 13 27	Gastric cancer 
+T2	Limited_variation 42 56	ERCC1 -118 C/C 
+T3	Gene_or_protein 42 47	ERCC1 
+T4	Gene_or_protein 70 75	XRCC1 
+T5	Chemical 122 162	oxaliplatin -based adjuvant chemotherapy 
+T6	Limited_variation 70 85	XRCC1 -399A / G
+T7	Limited_variation 70 75;89 92	XRCC1 A/A
+T8	Chemical 122 133	oxaliplatin
+R1	treats Arg1:T5 Arg2:T1	
+R2	influences Arg1:T2 Arg2:T5	
+R3	influences Arg1:T6 Arg2:T5	
+R5	isAssociatedWith Arg1:T1 Arg2:T2	
+R6	isAssociatedWith Arg1:T1 Arg2:T6	
+R7	isAssociatedWith Arg1:T1 Arg2:T7	
+R4	influences Arg1:T7 Arg2:T5	

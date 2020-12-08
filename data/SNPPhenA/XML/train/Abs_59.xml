@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1225" TEXT="We conducted a genome-wide association study using 500K SNP microarrays in 222 Japanese individuals with narcolepsy and 389 Japanese controls, with replication of top hits in 159 Japanese individuals with narcolepsy and 190 Japanese controls, followed by the testing of 424 Koreans, 785 individuals of European descent and 184 African Americans. rs5770917, a SNP located between CPT1B and CHKB, was associated with narcolepsy in Japanese (rs5770917[C], odds ratio (OR) = 1.79, combined P = 4.4 x 10(-7)) and other ancestry groups (OR = 1.40, P = 0.02).">
+	<sentence ID="1225_0" START="346" END="552">
+		<snp ID="0" START="346" END="355" TEXT="rs5770917"/>
+		<snp ID="1" START="439" END="448" TEXT="rs5770917"/>
+		<phenotype ID="0" START="415" END="552" text="narcolepsy"/>
+		<modality_marker  START="508" END="513" text="other"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,4 @@
+T1	SNP 73 79	TCF7L2
+T2	Phenotype 51 54	T2D
+T3	Modality_Marker 87 95	suggests
+R1	weak_confidence_association Arg1:T1 Arg2:T2

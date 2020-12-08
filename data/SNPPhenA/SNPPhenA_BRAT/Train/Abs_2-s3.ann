@@ -1,0 +1,6 @@
+T1	SNP 153 166	APOE genotype
+T2	Phenotype 97 104	obesity
+T3	Modality_Marker 60 69	confirm t
+T4	Negation_Scope 56 166	not confirm that the effects of diet and obesity on TC and LDL-C level significantly depended on APOE genotype
+T5	Negation_Cue 56 59	not
+R1	negative_association Arg1:T1 Arg2:T2

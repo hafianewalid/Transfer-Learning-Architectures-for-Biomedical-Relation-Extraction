@@ -1,0 +1,16 @@
+T1	Limited_variation 174 183	rs9923231 
+T2	Chemical 149 157	warfarin 
+T3	Gene_or_protein 167 173	VKORC1 
+T4	Limited_variation 193 202	rs1799853 
+T5	Gene_or_protein 186 192	CYP2C9 
+T6	Limited_variation 212 221	rs1057910 
+T7	Gene_or_protein 205 211	CYP2C9 
+T8	Gene_or_protein 226 232	CYP4F2 
+T9	Limited_variation 233 242	rs2108622 
+T10	Pharmacodynamic_phenotype 149 164	warfarin dosing
+T11	Limited_variation 108 129	genetic polymorphisms
+R1	influences Arg1:T1 Arg2:T10	
+R2	influences Arg1:T4 Arg2:T10	
+R3	influences Arg1:T6 Arg2:T10	
+R4	influences Arg1:T9 Arg2:T10	
+R5	influences Arg1:T11 Arg2:T10	

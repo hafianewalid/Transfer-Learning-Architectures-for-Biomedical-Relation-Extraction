@@ -1,0 +1,3 @@
+T1	SNP 10 20	rs10410544
+T2	Phenotype 102 104	AD
+R1	neutral_association Arg1:T1 Arg2:T2

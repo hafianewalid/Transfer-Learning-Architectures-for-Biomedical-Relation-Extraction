@@ -1,0 +1,8 @@
+T1	SNP 89 98	rs4988235
+T2	Phenotype 42 65	lactase persistence(LP)
+T3	Phenotype 134 143	adiposity
+T4	Modality_Marker 3 15	hypothesized
+T5	Modality_Marker 100 105	would
+T6	Modality_Marker 171 176	would
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T2

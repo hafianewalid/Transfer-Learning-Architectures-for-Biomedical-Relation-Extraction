@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1223" TEXT="BACKGROUND: Narcolepsy is a sleep disorder characterized by excessive daytime sleepiness, cataplexy, and REM sleep abnormalities. A genome-wide association study identified a novel narcolepsy-related single nucleotide polymorphism (SNP), rs5770917, which is located adjacent to CPT1B(carnitine palmitoyltransferase 1B). In this study, we analyzed the CPT1B expression level and measured the carnitine fractions in blood samples obtained from narcolepsy patients and control subjects to test the hypothesis that fatty acid β-oxidation is altered in narcolepsy. RESULTS: We measured CPT1BmRNA expression in white blood cells of 38 narcolepsy patients and 56 healthy control subjects. The serum carnitine fractions (total carnitine, freecarnitine, and acylcarnitine) were measured in the 38 narcolepsy patients and in 30 of 56 control subjects. Stepwise multiple regression analysis revealed that the risk allele (C) for SNP rs5770917 was significantly associated with decreased CPT1B mRNA expression (P = 1.0 × 10(-9)), and the CPT1B expression was higher in the narcolepsy patients than in the controls (P = 0.005). The acylcarnitine levels were abnormally low in 21% of the narcolepsypatients while those of all the controls were within the normal range. Stepwise multiple regression analysis using the dichotomous variable for acylcarnitine (normal or abnormal) as an objective variable revealed that the diagnosis of narcolepsy but not CPT1B expression level and BMI was associated with abnormally low acylcarnitine levels (P = 0.006). CONCLUSIONS: Our results indicate that multiple factors are involved in the regulation of serumacylcarnitine levels. Abnormally low levels of acylcarnitine observed in narcolepsy suggest dysfunctional fatty acid β-oxidation pathway.">
+	<sentence ID="1223_0" START="842" END="1114">
+		<snp ID="0" START="922" END="931" TEXT="rs5770917"/>
+		<phenotype ID="0" START="1061" END="1114" text="narcolepsy"/>
+		<modality_marker  START="880" END="888" text="revealed"/>
+		<modality_marker  START="1047" END="1053" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

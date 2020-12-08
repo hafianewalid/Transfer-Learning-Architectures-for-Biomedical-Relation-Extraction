@@ -1,0 +1,10 @@
+T1	Limited_variation 19 28;47 78	Arg194Trp polymorphisms of the XRCC1 gene 
+T3	Limited_variation 37 78	Arg399Gln polymorphisms of the XRCC1 gene 
+T5	Gene_or_protein 68 73	XRCC1 
+T6	Disease 161 174	breast cancer 
+T7	Chemical 120 136	adjuvant therapy
+T8	Pharmacodynamic_phenotype 108 136	response to adjuvant therapy
+R10	isAssociatedWith Arg1:T3 Arg2:T8	
+R11	isAssociatedWith Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R10	hyp
+#2	AnnotatorNotes R11	hyp

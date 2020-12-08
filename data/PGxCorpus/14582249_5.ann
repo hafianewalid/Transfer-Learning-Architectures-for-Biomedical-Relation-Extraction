@@ -1,0 +1,10 @@
+T2	Gene_or_protein 25 30	GSTT1 
+T3	Limited_variation 35 53	GSTM1 polymorphism 
+T4	Gene_or_protein 35 40	GSTM1 
+T5	Chemical 86 99	1,3-butadiene 
+T1	Limited_variation 25 30;41 53	GSTT1 polymorphism
+T6	Pharmacodynamic_phenotype 61 99	biological indicators of 1,3-butadiene
+R1	isAssociatedWith Arg1:T3 Arg2:T6	
+R2	isAssociatedWith Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

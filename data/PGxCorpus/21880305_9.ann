@@ -1,0 +1,5 @@
+T1	Limited_variation 43 49	rs6265 
+T2	Chemical 70 80	sertraline 
+T3	Limited_variation 31 49	A allele of rs6265
+T4	Pharmacodynamic_phenotype 50 90	responded better to sertraline treatment
+R1	increases Arg1:T3 Arg2:T4	

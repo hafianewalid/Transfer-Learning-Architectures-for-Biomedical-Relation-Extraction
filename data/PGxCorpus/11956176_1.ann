@@ -1,0 +1,10 @@
+T1	Chemical 0 14	Cyclosporine a 
+T2	Chemical 19 24	FK506 
+T3	Phenotype 33 97	transcriptional activity of the human mineralocorticoid receptor 
+T4	Gene_or_protein 71 97	mineralocorticoid receptor 
+T5	Pharmacodynamic_phenotype 142 164	aldosterone resistance 
+T6	Chemical 142 153	aldosterone 
+T7	Disease 168 190	kidney transplantation
+R2	decreases Arg1:T2 Arg2:T3	
+R3	decreases Arg1:T1 Arg2:T3	
+R1	isAssociatedWith Arg1:T5 Arg2:T7	

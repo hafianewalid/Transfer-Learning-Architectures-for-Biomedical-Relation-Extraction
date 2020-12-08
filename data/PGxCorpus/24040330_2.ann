@@ -1,0 +1,41 @@
+T1	Chemical 46 57	glutathione 
+T2	Gene_or_protein 99 104	GSTT1 
+T3	Gene_or_protein 107 112	GSTP1 
+T4	Limited_variation 115 121	rs1695 
+T5	Limited_variation 132 138	rs4925 
+T6	Gene_or_protein 124 129	GSTO1 
+T7	Gene_or_protein 141 146	GSTO2 
+T8	Limited_variation 149 157	rs156697 
+T9	Gene_or_protein 160 165	GSTM1 
+T10	Gene_or_protein 168 173	GSTA1 
+T11	Limited_variation 176 185	rs3957357 
+T12	Disease 239 253	bladder cancer 
+T13	Gene_or_protein 46 69	glutathione transferase
+T14	Gene_or_protein 72 75	GST
+T15	Limited_variation 46 96	glutathione transferase ( GST ) gene polymorphisms
+T16	Phenotype 197 205	survival
+T17	Chemical 291 303	chemotherapy
+T18	Pharmacodynamic_phenotype 281 303	effect on chemotherapy
+R1	isAssociatedWith Arg1:T2 Arg2:T12	
+R3	isAssociatedWith Arg1:T4 Arg2:T12	
+R4	isAssociatedWith Arg1:T6 Arg2:T12	
+R5	isAssociatedWith Arg1:T5 Arg2:T12	
+R6	isAssociatedWith Arg1:T7 Arg2:T12	
+R7	isAssociatedWith Arg1:T8 Arg2:T12	
+R8	isAssociatedWith Arg1:T9 Arg2:T12	
+R9	isAssociatedWith Arg1:T10 Arg2:T12	
+R10	isAssociatedWith Arg1:T11 Arg2:T12	
+R11	isEquivalentTo Arg1:T14 Arg2:T13	
+R2	isAssociatedWith Arg1:T3 Arg2:T12	
+R12	isAssociatedWith Arg1:T15 Arg2:T12	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp
+#5	AnnotatorNotes R5	hyp
+#6	AnnotatorNotes R6	hyp
+#7	AnnotatorNotes R7	hyp
+#8	AnnotatorNotes R8	hyp
+#9	AnnotatorNotes R9	hyp
+#10	AnnotatorNotes R10	hyp
+#11	AnnotatorNotes R12	hyp

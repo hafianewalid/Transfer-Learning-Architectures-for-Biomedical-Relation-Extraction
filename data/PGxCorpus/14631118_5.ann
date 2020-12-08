@@ -1,0 +1,6 @@
+T1	Gene_or_protein 115 124	PPARalpha 
+T2	Chemical 191 199	Wy-14643 
+T4	Gene_or_protein 220 229	PPARalpha 
+T5	Chemical 22 48	EA extract of bitter gourd
+R1	increases Arg1:T5 Arg2:T1	
+R2	isAssociatedWith Arg1:T2 Arg2:T4	

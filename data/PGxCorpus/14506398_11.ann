@@ -1,0 +1,7 @@
+T1	Gene_or_protein 74 81	ALDH1A1 
+T2	Gene_or_protein 90 97	ALDH1A1 
+T5	Haplotype 74 85	ALDH1A1 * 2
+T6	Haplotype 90 101	ALDH1A1 * 3
+T7	Disease 142 152	alcoholics
+R4	isAssociatedWith Arg1:T2 Arg2:T7	
+R2	isAssociatedWith Arg1:T5 Arg2:T7	

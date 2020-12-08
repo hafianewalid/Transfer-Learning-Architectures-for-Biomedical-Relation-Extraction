@@ -1,0 +1,17 @@
+T1	Chemical 31 41	paclitaxel 
+T2	Phenotype 91 107	CHFR methylation 
+T3	Gene_or_protein 91 95	CHFR 
+T4	Chemical 141 151	paclitaxel 
+T5	Phenotype 201 217	CHFR methylation 
+T6	Gene_or_protein 201 205	CHFR 
+T7	Chemical 230 240	paclitaxel 
+T8	Pharmacodynamic_phenotype 114 151	partial response ( PR ) to paclitaxel
+T9	Pharmacodynamic_phenotype 224 240	PR to paclitaxel
+T10	Pharmacodynamic_phenotype 114 130	partial response
+T11	Pharmacodynamic_phenotype 133 135	PR
+T12	Pharmacodynamic_phenotype 224 226	PR
+R1	isAssociatedWith Arg1:T2 Arg2:T8	
+R2	isAssociatedWith Arg1:T5 Arg2:T9	
+R3	isEquivalentTo Arg1:T11 Arg2:T10	
+R4	causes Arg1:T4 Arg2:T10	
+R5	causes Arg1:T7 Arg2:T12	

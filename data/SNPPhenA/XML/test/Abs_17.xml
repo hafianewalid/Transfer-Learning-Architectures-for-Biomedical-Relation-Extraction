@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1009" TEXT="This study examined the interplay between the influence of peers who promote alcohol use and μ-opioid receptor M1 (OPRM1) genetic variation in the intergenerational transmission of alcohol use disorder (AUD) symptoms while separating the &quot;traitlike&quot; components of AUD symptoms from their age-specific manifestations at three ages from emerging adulthood (17-23 years) to adulthood (29-40 years). The results for males were consistent with genetically influenced peer selection mechanisms as mediators of parent alcoholism effects. Male children of alcoholics were less likely to be carriers of the G allele in single nucleotide polymorphism A118G (rs1799971), and those who were homozygous for the A allele were more likely to affiliate with alcohol use promoting peers who increased the risk for AUD symptoms at all ages. There was evidence for women of an interaction between OPRM1 variation and peer affiliations but only at the earliest age band. Peer influences had stronger effects among women who were G-carriers. These results illustrate the complex ways in which the interplay between influences at multiple levels of analysis can underlie the intergenerational transmission of alcohol disorders as well as the importance of considering age and gender differences in these pathways.">
+	<sentence ID="1009_0" START="531" END="822">
+		<snp ID="0" START="648" END="657" TEXT="rs1799971"/>
+		<phenotype ID="0" START="797" END="822" text="AUD"/>
+		<modality_marker  START="564" END="568" text="less"/>
+		<modality_marker  START="569" END="575" text="likely"/>
+		<modality_marker  START="712" END="716" text="more"/>
+		<modality_marker  START="717" END="723" text="likely"/>
+		<modality_marker  START="813" END="816" text="all"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

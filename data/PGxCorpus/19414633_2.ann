@@ -1,0 +1,7 @@
+T1	Chemical 18 29	clopidogrel 
+T2	Chemical 34 43	prasugrel 
+T3	Gene_or_protein 95 110	cytochrome P450 
+T6	Gene_or_protein 113 116	CYP 
+R1	isEquivalentTo Arg1:T6 Arg2:T3	
+R2	influences Arg1:T3 Arg2:T2	
+R3	influences Arg1:T3 Arg2:T1	

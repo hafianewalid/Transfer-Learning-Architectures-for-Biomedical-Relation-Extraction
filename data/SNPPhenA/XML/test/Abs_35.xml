@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1029" TEXT="BACKGROUND: Evidence has suggested that tumour necrosis factor (TNF)-α may be involved in the aetiology of psoriasis, but the underlying association of the TNF-α polymorphisms -238G/A(rs361525) and -308G/A (rs1800629) with the risk ofpsoriasis is still &lt;ModMar&gt;unconfirmed&lt;ModMar&gt;. OBJECTIVE: This meta-analysis was performed to determine whether the TNF-α -238G/A and -308G/A polymorphisms are associated with susceptibility to psoriasis. METHODS: Eligible studies were identified by searching PubMed, EMBASE, CNKI (China National Knowledge Infrastructure), CBM (Chinese biomedical literature database) and WANFANG databases within a range of published years from 1990 to August 2012. The odds ratio (OR) and 95% confidence interval (CI) were used to assess the different associations. RESULTS: In total, 17 studies with 2847 cases and 2222 controls were found for -238G/A and 20 studies with 2975 cases and 2243 controls for -308G/A. The pooled results showed an overall increased risk of psoriasis for the -238G/A polymorphism (OR = 2.06, 95% CI = 1.45-2.94, P &lt; 0.001 for AA/GA vs. GG) and a reduced psoriasis risk with the -308G/A polymorphism (OR = 0.68, 95% CI = 0.59-0.79, P &lt; 0.001 for AA/GA vs. GG). This association was only present in early-onset psoriasis (OR = 3.68, 95% CI = 2.17-6.24, P &lt; 0.001 for -238G/A; OR = 0.56, 95% CI = 0.43-0.72, P &lt; 0.001 for -308G/A), whereas there was no association (OR = 0.98, 95% CI = 0.56-1.70, P = 0.92 for -238G/A) or a unreliable association (OR = 0.66, 95% CI = 0.46-0.94, P = 0.02 for -308G/A) in late-onset psoriasis. CONCLUSIONS: This meta-analysis suggests that the TNF-α -238 and -308 promoter polymorphisms may play different roles in conferring susceptibility to psoriasis. Functional and well-designed studies should be conducted to confirm these results.">
+	<sentence ID="1029_0" START="12" END="280">
+		<snp ID="0" START="183" END="193" TEXT="(rs361525)"/>
+		<snp ID="1" START="206" END="217" TEXT="(rs1800629)"/>
+		<phenotype ID="0" START="234" END="280" text="psoriasis"/>
+		<modality_marker  START="25" END="34" text="suggested"/>
+		<modality_marker  START="71" END="74" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

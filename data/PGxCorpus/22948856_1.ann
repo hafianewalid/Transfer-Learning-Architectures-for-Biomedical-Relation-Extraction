@@ -1,0 +1,14 @@
+T1	Chemical 44 55	pridopidine 
+T3	Gene_or_protein 96 102	CYP2D6 
+T2	Pharmacodynamic_phenotype 20 55	tolerability profile of pridopidine
+T4	Pharmacokinetic_phenotype 0 15;41 55	Pharmacokinetic of pridopidine
+T5	Pharmacokinetic_phenotype 86 115	extensive CYP2D6 metabolizers
+T6	Pharmacokinetic_phenotype 77 81;96 115	poor CYP2D6 metabolizers
+R1	isAssociatedWith Arg1:T4 Arg2:T5	
+R2	isAssociatedWith Arg1:T4 Arg2:T6	
+R3	isAssociatedWith Arg1:T2 Arg2:T6	
+R4	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R4	hyp
+#4	AnnotatorNotes R1	hyp

@@ -1,0 +1,8 @@
+T1	SNP 117 126	rs1799971
+T2	Phenotype 266 269	AUD
+T3	Modality_Marker 33 37	less
+T4	Modality_Marker 38 44	likely
+T5	Modality_Marker 181 185	more
+T6	Modality_Marker 186 192	likely
+T7	Modality_Marker 282 285	all
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

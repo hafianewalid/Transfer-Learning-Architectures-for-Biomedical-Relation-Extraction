@@ -1,0 +1,10 @@
+T1	Pharmacodynamic_phenotype 0 29	COMT inhibition by entacapone 
+T2	Gene_or_protein 0 4	COMT 
+T3	Chemical 19 29	entacapone 
+T4	Gene_or_protein 44 48	COMT 
+T6	Gene_or_protein 64 68	COMT 
+T5	Limited_variation 44 55	COMT ( HH )
+T7	Limited_variation 64 75	COMT ( LL )
+R2	decreases Arg1:T3 Arg2:T2	
+R1	increases Arg1:T5 Arg2:T1	
+R3	influences Arg1:T7 Arg2:T1	

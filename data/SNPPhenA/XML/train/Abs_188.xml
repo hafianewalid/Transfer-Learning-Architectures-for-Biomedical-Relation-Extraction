@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1099" TEXT="Mutations in the gene OCA2 are responsible for oculocutaneous albinism type 2, but polymorphisms in and around OCA2 have also been associated with normal pigment variation. In Europeans, three haplotypes in the region have been shown to be associated with eye pigmentation and a missense SNP (rs1800407) has been associated with green/hazel eyes (Branicki et al. in Ann Hum Genet 73:160-170, 2009). In addition, a missense mutation(rs1800414) is a candidate for light skin pigmentation in East Asia (Yuasa et al. in Biochem Genet 45:535-542, 2007; Anno et al. in Int J Biol Sci 4, 2008). We have genotyped 3,432 individuals from 72 populations for 21 SNPs in the OCA2-HERC2 region including those previously associated with eye or skinpigmentation. We report that the blue-eye associated alleles at all three haplotypes were found at high frequencies in Europe; however, one is restricted toEurope and surrounding regions, while the other two are found at moderate to high frequencies throughout the world. We also observed that the derivedallele of rs1800414 is essentially limited to East Asia where it is found at high frequencies. Long-range haplotype tests provide evidence of selection for the blue-eye allele at the three haplotyped systems but not for the green/hazel eye SNP allele. We also saw evidence of selection at the derived allele of rs1800414 in East Asia. Our data suggest that the haplotype restricted to Europe is the strongest marker for blue eyes globally and add further inferential evidence that the derived allele of rs1800414 is an East Asian skin pigmentation allele.">
+	<sentence ID="1099_0" START="173" END="345">
+		<snp ID="0" START="293" END="302" TEXT="rs1800407"/>
+		<phenotype ID="0" START="329" END="345" text="green/hazel eyes"/>
+		<modality_marker  START="228" END="233" text="shown"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1099_1" START="1375" END="1595">
+		<snp ID="1" START="1543" END="1552" TEXT="rs1800414"/>
+		<phenotype ID="2" START="1460" END="1595" text="blue eyes"/>
+		<phenotype ID="1" START="1570" END="1595" text="skin pigmentation"/>
+		<modality_marker  START="1384" END="1391" text="suggest"/>
+		<modality_marker  START="1439" END="1448" text="strongest"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

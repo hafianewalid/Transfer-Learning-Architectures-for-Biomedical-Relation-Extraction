@@ -1,0 +1,12 @@
+T2	Limited_variation 26 71	inosine triphosphatase ( ITPA ) gene variants
+T3	Gene_or_protein 26 48	inosine triphosphatase
+T4	Gene_or_protein 51 55	ITPA
+T5	Pharmacodynamic_phenotype 107 113	anemia
+T6	Chemical 88 97	ribavirin
+T7	Disease 138 157	chronic hepatitis C
+T1	Pharmacodynamic_phenotype 88 113	ribavirin -induced anemia
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R4	decreases Arg1:T2 Arg2:T1	
+R2	isAssociatedWith Arg1:T1 Arg2:T7	
+R3	causes Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes R4	hyp

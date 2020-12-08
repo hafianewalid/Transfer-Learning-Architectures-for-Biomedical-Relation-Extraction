@@ -1,0 +1,8 @@
+T1	Chemical 14 26	cyclosporine 
+T2	Gene_or_protein 58 64	CYP3A5 
+T3	Disease 120 141	renal transplantation
+T4	Phenotype 58 79	CYP3A5 non-expressors
+T5	Pharmacokinetic_phenotype 14 43	cyclosporine dose-adjusted C0
+T6	Phenotype 58 64;85 95	CYP3A5 expressors
+R1	increases Arg1:T4 Arg2:T5	
+R2	influences Arg1:T6 Arg2:T5	

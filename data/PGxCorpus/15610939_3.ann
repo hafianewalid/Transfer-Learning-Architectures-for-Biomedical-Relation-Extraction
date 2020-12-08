@@ -1,0 +1,12 @@
+T1	Phenotype 12 43	5-HTT uptake ( function ) level 
+T2	Gene_or_protein 12 17	5-HTT 
+T3	Chemical 48 58	paroxetine 
+T4	Gene_or_protein 120 125	5-HTT 
+T5	Phenotype 120 141	5-HTT expression rate
+T6	Limited_variation 148 150;165 174	LL genotypes
+T7	Limited_variation 153 155;165 174	LS genotypes
+T8	Limited_variation 162 174	SS genotypes
+T9	Phenotype 48 66	paroxetine binding
+T10	Disease 95 105	alcoholics
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T9 Arg2:T5	

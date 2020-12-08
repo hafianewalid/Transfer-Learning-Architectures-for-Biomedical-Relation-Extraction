@@ -1,0 +1,7 @@
+T5	Gene_or_protein 36 60	adenosine deaminase-like 
+T6	Gene_or_protein 63 67	ADAL 
+T7	Chemical 113 120	GS-9219 
+T2	Pharmacokinetic_phenotype 85 120	intracellular activation of GS-9219
+R1	isEquivalentTo Arg1:T6 Arg2:T5	
+R2	influences Arg1:T5 Arg2:T2	
+#1	AnnotatorNotes R2	hyp

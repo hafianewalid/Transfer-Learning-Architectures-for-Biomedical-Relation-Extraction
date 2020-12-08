@@ -1,0 +1,9 @@
+T1	Limited_variation 13 27	CHEK2 mutation 
+T2	Gene_or_protein 13 18	CHEK2 
+T3	Gene_or_protein 68 70	ER 
+T4	Chemical 123 132	tamoxifen 
+T5	Disease 68 94	ER -positive breast cancer
+T6	Phenotype 68 80	ER -positive
+T7	Chemical 123 148	tamoxifen chemoprevention
+R1	increases Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T1 Arg2:T7	

@@ -1,0 +1,7 @@
+T1	SNP 29 37	rs429358
+T2	SNP 38 44	rs7412
+T3	SNP 95 100	rs693
+T4	Phenotype 201 218	gallstone disease
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

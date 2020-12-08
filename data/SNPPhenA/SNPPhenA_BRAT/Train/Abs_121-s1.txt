@@ -1,0 +1,1 @@
+Among SNPs tested with an allele frequency of at least 5%, only SNPs in   apoE are found to influence statin response significantly.

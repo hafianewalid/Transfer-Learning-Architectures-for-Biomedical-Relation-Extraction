@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1195" TEXT="Recently, the transcription factor 7-like 2 (TCF7L2) gene has been associated with type 2 diabetes in subjects of European origin in the DeCode study. We genotyped the two most associated variants (rs7903146 and rs12255372) in 2,367 French type 2 diabetic subjects and in 2,499 control subjects. Both the T-allele of rs7903146 and the T-allele of rs12255372 significantly increase type 2 diabetes risk with an allelic odds ratio (OR) of 1.69 (95% CI 1.55-1.83) (P = 6.0 x 10(-35)) and 1.60 (1.47-1.74) (P = 7.6 x 10(-28)), respectively. In nonobese type 2 diabetic subjects (BMI &lt;30 kg/m2, n = 1,346), the ORs increased to 1.89 (1.72-2.09) (P = 2.1 x 10(-38)) and 1.79 (1.62-1.97) (P = 5.7 x 10(-31)), respectively. The rs7903146 T at-risk allele associates with decreased BMI and earlier age at diagnosis in the type 2 diabetic subjects (P = 8.0 x 10(-3) and P = 3.8 x 10(-4), respectively), which is supported by quantitative family-based association tests. TCF7L2 is expressed in most human tissues, including mature pancreatic beta-cells, with the exception of the skeletal muscle. In the subcutaneous and omental fat from obese type 2 diabetic subjects, TCF7L2 expression significantly decreased compared with obese normoglycemic individuals. During rat fetal beta-cell differentiation, TCF7L2 expression pattern mimics the key marker NGN3 (neurogenin 3), suggesting a role in islet development. These data provide evidence that TCF7L2 is a major determinant of type 2 diabetes risk in European populations and suggests that this transcription factor plays a key role in glucose homeostasis.">
+	<sentence ID="1195_0" START="716" END="959">
+		<snp ID="0" START="720" END="731" TEXT="rs7903146 T"/>
+		<phenotype ID="0" START="773" END="959" text="BMI"/>
+		<phenotype ID="1" START="813" END="959" text="type 2 diabetic"/>
+		<modality_marker  START="902" END="911" text="supported"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

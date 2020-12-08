@@ -1,0 +1,1 @@
+Here , we report that overexpression of the Kv1.5 channel gene ( KCNA5 ) in human PASMC and other cell lines produced a 15-pS single channel current and a large whole cell current that was sensitive to 4-aminopyridine .

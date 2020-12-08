@@ -1,0 +1,10 @@
+T1	SNP 53 62	rs5743293
+T2	SNP 64 73	rs2066844
+T3	SNP 75 84	rs2066845
+T4	SNP 105 115	rs11465804
+T5	Phenotype 153 156	IBD
+T6	Modality_Marker 117 123	showed
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T3 Arg2:T5
+R4	weak_confidence_association Arg1:T4 Arg2:T5

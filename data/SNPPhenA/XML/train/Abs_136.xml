@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1042" TEXT="OBJECTIVE: We aimed to replicate the association of the rs290487 (IVS3C/T) and rs7903146 (IVS3C/T) polymorphisms of transcription factor 7-like 2 (TCF7L2) and type 2 diabetes mellitus (T2DM) in Han Chinese people in Henan province, China. METHODS: In all, 1,842 patients with T2DM and 7,777 normal glucose-tolerant controls underwent genotyping for the T2DM-associated variants rs7903146 (IVS3C/T) and rs290487 (IVS3C/T). We performed a meta-analysis of the association of the risk alleles of rs7903146 (IVS3C/T) and rs290487 (IVS3C/T) in TCF7L2 and T2DM in Han Chinese by combining previous studies with the present study. RESULTS: We found that T2DM was associated with the CC genotype (1.364, 1.137-1.636, p  = 0.001), the recessive model (1.457, 1.156-1.838, p  = 0.001) of rs290487 (IVS3C/T) and haplotype CC (1.116, 1.034-1.204, p  = 0.004) in Han Chinese. Moreover, our meta-analyses supported the association of the T allele (IVS3C/T) of rs7903146 (1.36, 1.24-1.48; p  = 6.404×10(-12)) and T2DM but not the C allele of rs290487 (IVS3C/T) (0.99, 0.85-1.15, p  = 0.890) in Han Chinese. We found no interactions between behavioral risk factors (smoking, alcohol drinking, andphysical activity) and rs7903146 (IVS3C/T) and rs290487 (IVS3C/T) polymorphisms. CONCLUSIONS: The CC genotype and the recessive model of the variant rs290487 (IVS3C/T) and CC haplotype of rs7903146 (IVS3C/T) and rs290487 (IVS3C/T) in TCF7L2may be associated with T2DM in Han Chinese people in Henan province, China..">
+	<sentence ID="1042_0" START="1261" END="1496">
+		<snp ID="0" START="1329" END="1337" TEXT="rs290487"/>
+		<snp ID="1" START="1368" END="1377" TEXT="rs7903146"/>
+		<snp ID="2" START="1392" END="1400" TEXT="rs290487"/>
+		<phenotype ID="0" START="1443" END="1496" text="T2DM"/>
+		<modality_marker  START="1261" END="1272" text="CONCLUSIONS"/>
+		<modality_marker  START="1308" END="1313" text="model"/>
+		<modality_marker  START="1420" END="1423" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

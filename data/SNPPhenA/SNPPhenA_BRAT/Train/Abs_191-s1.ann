@@ -1,0 +1,7 @@
+T1	SNP 48 57	rs1800407
+T2	SNP 112 117	HERC2
+T3	Phenotype 168 176	melanoma
+T4	Modality_Marker 21 32	demonstrate
+T5	Modality_Marker 141 149	somewhat
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

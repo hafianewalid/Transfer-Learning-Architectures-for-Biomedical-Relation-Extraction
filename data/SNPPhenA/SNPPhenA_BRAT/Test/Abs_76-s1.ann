@@ -1,0 +1,6 @@
+T1	SNP 28 37	rs4988235
+T2	Phenotype 102 121	lactase persistence
+T3	Phenotype 176 183	obesity
+T4	Modality_Marker 77 85	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1165" TEXT="OBJECTIVE: We hypothesised that TCF7L2 single nucleotide polymorphisms (SNPs) are associated with cardiovascular disease (CVD) and that the associations differ in diabetic and non-diabetic persons. METHODS: Our analysis included black and white participants from the Atherosclerosis Risk inCommunities study who were free of prevalent CVD at baseline and had been genotyped for rs7903146, rs12255372, rs7901695, rs11196205 and rs7895340 (n=13,369). Cox proportional hazard regression was used to estimate the associations between polymorphisms and incident events; logisticand linear regression were used for associations with baseline risk factor levels. RESULTS: TCF7L2 SNPs were not significantly associated with incidentcoronary heart disease, ischaemic stroke, CVD, prevalent peripheral artery disease (PAD) or all-cause mortality in the full cohort or when stratified byrace. CONCLUSIONS: In the whole cohort, TCF7L2 SNPs were not associated with incident CVD, all-cause mortality or prevalent PAD. This result suggests that the increased health risk associated with rs7903146 genotype is specific to diabetes.">
+	<sentence ID="1165_0" START="1005" END="1116">
+		<snp ID="0" START="1073" END="1082" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1045" END="1116" text="health risk"/>
+		<phenotype ID="1" START="1107" END="1116" text="diabetes"/>
+		<modality_marker  START="1017" END="1025" text="suggests"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

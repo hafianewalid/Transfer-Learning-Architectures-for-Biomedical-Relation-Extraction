@@ -1,0 +1,15 @@
+T1	Limited_variation 47 62	MAO-A genotypes 
+T2	Gene_or_protein 47 52	MAO-A 
+T5	Disease 279 295	Major Depression 
+T6	Pharmacodynamic_phenotype 165 198	antidepressant treatment response
+T4	Chemical 165 179	antidepressant
+T3	Chemical 99 108	serotonin
+T7	Chemical 116 130	norepinephrine
+T8	Pharmacokinetic_phenotype 131 143;99 108	availability serotonin
+T9	Pharmacokinetic_phenotype 116 143	norepinephrine availability
+R1	decreases Arg1:T1 Arg2:T6	
+R2	decreases Arg1:T1 Arg2:T8	
+R3	decreases Arg1:T1 Arg2:T9	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R1	hyp

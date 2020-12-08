@@ -1,0 +1,13 @@
+T1	Limited_variation 59 82	MTHFR gene polymorphism 
+T2	Gene_or_protein 59 64	MTHFR 
+T5	Phenotype 140 187	intima-media thickness of common carotid artery
+T6	Phenotype 190 196	CC-IMT
+T7	Gene_or_protein 98 110	homocysteine
+T8	Gene_or_protein 113 116	Hcy
+T3	Phenotype 91 124	plasma homocysteine ( Hcy ) level
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R3	isEquivalentTo Arg1:T8 Arg2:T7	
+R4	isAssociatedWith Arg1:T1 Arg2:T5	
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R1	hyp

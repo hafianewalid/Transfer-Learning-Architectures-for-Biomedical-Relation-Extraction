@@ -1,0 +1,7 @@
+T2	Gene_or_protein 17 22	PTGS2 
+T3	Limited_variation 17 61	PTGS2 -765G>C single-nucleotide polymorphism 
+T5	Gene_or_protein 80 85	COX-2 
+T6	Chemical 108 117	celecoxib 
+T1	Pharmacodynamic_phenotype 80 117	COX-2 inhibitory effects of celecoxib
+R1	influences Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R1	neg

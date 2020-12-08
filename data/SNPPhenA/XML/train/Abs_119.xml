@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1023" TEXT="BACKGROUND: The association of   apolipoprotein E (APOE) genotypes with bone mineral density (BMD) and risk of osteoporosis have remained unclear. The influence of APOE gene polymorphisms on BMD as genetic mediators of osteoporosis risk needs to be explored in Indian postmenopausal females where this disease is rising rampantly. RESULTS: The present study investigated the role and relevance of four pertinent APOE single nucleotidepolymorphisms: 5'UTR G/C (rs440446), Int2 G/A (rs769450), Exon4 T/C (rs429358), Exon4C/T (rs7412) in DEXA verified 133 osteoporotic, 57 osteopenic and 83 normal postmenopausal females of India, who were not taking hormone replacement therapy. Minor allele frequencies of rs440446 and rs429358 were higher in osteoporotic females (0.31, 0.18) than osteopenic (0.29, 0.15) and females having normal bone mass (0.16, 0.07). Disease association analysis revealed a susceptibility haplotype CGTC (in order of rs440446, rs769450, rs429358, rs7412) and the carriers of this haplotype has higher risk ofosteopenia (OR 3.53, 95% CI 1.21-11.0, P=0.017) and osteoporosis (OR 3.61, 95% CI 1.53-9.48, P=0.002) after adjusting the confounding effect of age, BMI and years since menopause. Females who possess either one copy or two copies of the haplotype have lesser BMD values of lumbar spine (0.88 and 0.85 g/cm(2)) and femoral neck (0.84 and 0.82 g/cm(2)) than those females who possess zero copy (0.9 and 0.87 g/cm(2), respectively). CONCLUSIONS: The present study exposed a susceptibility haplotype CGTC, within APOE gene, which was found to be associated with BMD and risk of osteopenia andosteoporosis in postmenopausal females of India.">
+	<sentence ID="1023_0" START="0" END="146">
+		<snp ID="0" START="33" END="49" TEXT="apolipoprotein E"/>
+		<phenotype ID="0" START="111" END="146" text="osteoporosis"/>
+		<modality_marker  START="138" END="145" text="unclear"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,5 @@
+T1	SNP 42 56	APOE epsilon 4
+T2	Phenotype 93 95	AD
+T3	Modality_Marker 23 31	reported
+T4	Modality_Marker 68 76	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T2

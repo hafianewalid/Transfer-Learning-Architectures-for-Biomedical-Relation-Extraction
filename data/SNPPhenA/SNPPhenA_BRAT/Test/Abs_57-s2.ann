@@ -1,0 +1,4 @@
+T1	SNP 23 32	Val158Met
+T2	Phenotype 113 124	hot flashes
+T3	Modality_Marker 80 86	more f
+R1	weak_confidence_association Arg1:T1 Arg2:T2

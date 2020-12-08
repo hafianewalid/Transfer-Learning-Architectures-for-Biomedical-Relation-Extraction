@@ -1,0 +1,7 @@
+T1	SNP 43 49	rs6152
+T2	SNP 52 61	rs1204038
+T3	SNP 67 76	rs1337082
+T4	Phenotype 129 147	endometrial cancer
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

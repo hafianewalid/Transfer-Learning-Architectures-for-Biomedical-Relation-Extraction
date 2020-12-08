@@ -1,0 +1,16 @@
+T1	Chemical 27 39	nitric oxide 
+T2	Gene_or_protein 92 97	c-Fos 
+T3	Chemical 75 82	lithium 
+T5	Gene_or_protein 100 104	ICER 
+T6	Chemical 158 170	nitric oxide 
+T7	Chemical 213 225	nitric oxide 
+T8	Chemical 229 236	lithium 
+T9	Pharmacodynamic_phenotype 75 115	lithium -induced c-Fos / ICER expression
+T11	Pharmacodynamic_phenotype 229 275	lithium -induced activation of adrenal medulla
+T4	Pharmacokinetic_phenotype 92 115	c-Fos / ICER expression
+T10	Pharmacodynamic_phenotype 246 275	activation of adrenal medulla
+R2	influences Arg1:T1 Arg2:T9	
+R3	isAssociatedWith Arg1:T6 Arg2:T11	
+R1	causes Arg1:T3 Arg2:T4	
+R4	causes Arg1:T8 Arg2:T10	
+#1	AnnotatorNotes R3	hyp

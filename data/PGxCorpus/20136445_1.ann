@@ -1,0 +1,8 @@
+T1	Pharmacodynamic_phenotype 36 75	hydrogen peroxide -induced p53 activity 
+T2	Chemical 36 53	hydrogen peroxide 
+T3	Gene_or_protein 63 66	p53 
+T4	Chemical 19 32	polyphenolics
+T5	Pharmacodynamic_phenotype 63 75	p53 activity
+R1	causes Arg1:T2 Arg2:T5	
+R2	influences Arg1:T4 Arg2:T1	
+#1	AnnotatorNotes R2	hyp

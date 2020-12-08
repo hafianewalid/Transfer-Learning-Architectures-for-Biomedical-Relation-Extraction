@@ -1,0 +1,4 @@
+T1	SNP 83 92	rs7856774
+T2	Phenotype 54 58	LOAD
+T3	Modality_Marker 114 122	possible
+R1	weak_confidence_association Arg1:T1 Arg2:T2

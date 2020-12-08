@@ -1,0 +1,13 @@
+T1	Chemical 114 123	lapatinib 
+T2	Gene_or_protein 127 131	HER2 
+T3	Gene_or_protein 0 36	Immunoglobulin G fragment C receptor
+T4	Limited_variation 0 50	Immunoglobulin G fragment C receptor polymorphisms
+T5	Pharmacodynamic_phenotype 55 123	efficacy of preoperative chemotherapy plus trastuzumab and lapatinib
+T6	Chemical 98 109	trastuzumab
+T7	Disease 127 155	HER2 -positive breast cancer
+T8	Chemical 80 92	chemotherapy
+T9	Chemical 80 123	chemotherapy plus trastuzumab and lapatinib
+T10	Phenotype 127 141	HER2 -positive
+R1	isAssociatedWith Arg1:T4 Arg2:T5	
+R2	treats Arg1:T9 Arg2:T7	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,4 @@
+T1	SNP 24 39	TCF7L2 variants
+T2	Phenotype 79 81	DM
+T3	Modality_Marker 11 18	suggest
+R1	weak_confidence_association Arg1:T1 Arg2:T2

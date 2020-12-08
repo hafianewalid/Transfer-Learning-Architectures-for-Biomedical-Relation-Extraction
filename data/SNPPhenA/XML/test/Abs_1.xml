@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1001" TEXT="Of note, however, GALNT2 rs2144300 (previously associated with high-density lipoprotein cholesterol levels in EA) had multiple potentially novel PheWAS associations, with hypertension related phenotypes in AA and with serum calcium levels and coronary artery disease phenotypes in EA.">
+	<sentence ID="1001_0" START="0" END="284">
+		<snp ID="0" START="25" END="34" TEXT="rs2144300"/>
+		<phenotype ID="0" START="243" END="284" text="coronary artery disease"/>
+		<modality_marker  START="63" END="67" text="high"/>
+		<modality_marker  START="127" END="138" text="potentially"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

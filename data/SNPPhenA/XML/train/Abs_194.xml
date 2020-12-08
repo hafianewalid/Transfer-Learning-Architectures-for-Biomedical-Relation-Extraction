@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1106" TEXT="Although the advent of atypical, second-generation antipsychotics (SGAs) has resulted in reduced likelihood of akathisia, this adverse effect remains a problem. It is known that extrapyramidal adverse effects are associated with increased drug occupancy of the dopamine 2 receptors (DRD2). The A1 alleleof the DRD2/ANKK1, rs1800497, is associated with decreased striatal DRD2 density. The aim of this study was to identify whether the A1(T) allele ofDRD2/ANKK1 was associated with akathisia (as measured by Barnes Akathisia Rating Scale) in a clinical sample of 234 patients who were treated with antipsychotic drugs. Definite akathisia (a score ≥ 2 in the global clinical assessment of akathisia) was significantly less common in subjects who were prescribed SGAs (16.8%) than those prescribed FGAs (47.6%), p &lt; 0.0001. Overall, 24.1% of A1+ patients (A1A2/A1A1) who were treated with SGAs hadakathisia, compared to 10.8% of A1- (thus, A2A2) patients. A1+ patients who were administered SGAs also had higher global clinical assessment of akathisia scores than the A1- subjects (p = 0.01). SGAs maintained their advantage over FGAs regarding akathisia, even in A1+ patients who were treated with SGAs. These results strongly suggested that A1+ variants of the DRD2/ANKK1 Taq1A allele do confer an associated risk for akathisia inpatients who were treated with SGAs, and these variants may explain inconsistencies found across prior studies, when comparing FGAs and SGAs.">
+	<sentence ID="1106_0" START="1202" END="1470">
+		<snp ID="0" START="1260" END="1276" TEXT="DRD2/ANKK1 Taq1A"/>
+		<phenotype ID="0" START="1317" END="1470" text="akathisia"/>
+		<modality_marker  START="1216" END="1224" text="strongly"/>
+		<modality_marker  START="1225" END="1234" text="suggested"/>
+		<modality_marker  START="1413" END="1418" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

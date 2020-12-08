@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1199" TEXT="BACKGROUND: Rumination is a multidimensional trait which is a proven risk factor in the vulnerability to depression. The aim to identify the main risk genes for depression in addition to the gene-environment interactions pointed to the importance of intermediate phenotypes, like rumination, to improve our understanding of the biological mechanisms of depression. Catechol-O-Methyltransferase (COMT) gene is extensively investigated in depression with contradictory results but its association with rumination, as an intermediate phenotype in depression, has not been investigated yet. METHODS: In our study, four tagging SNPs in the COMT gene (rs933271, rs740603, rs4680, rs4646316) were genotyped in a nonclinical Hungarian sample (n=939). We investigated the association between the COMT gene and rumination scores measured by the Ruminative Response Scale using haplotype trend regression. RESULTS: We found a significant association between COMT haplotypes and rumination scores (p=0.013) but no significant association was apparent between the functional Val158Met polymorphism (rs4680) and rumination in any genetic model. CONCLUSIONS: Variations in the COMT gene exert complex effects on susceptibility to depression involving intermediate phenotypes, such as rumination and also impulsivity, as we previously demonstrated. Both rumination and impulsivity represent maladaptive cognitive styles that can lead to depressive state by influencing the response to negative life events and life stressors. In conclusion, our findings provide evidence that in addition to other genes,   COMT also has a significant role in the development of depression, and demonstrate that analysing the complex phenotype associations of genes by haplotype tagging is a powerful method.">
+	<sentence ID="1199_0" START="1510" END="1774">
+		<snp ID="0" START="1590" END="1594" TEXT="COMT"/>
+		<phenotype ID="0" START="1645" END="1774" text="depression"/>
+		<modality_marker  START="1513" END="1523" text="conclusion"/>
+		<modality_marker  START="1529" END="1537" text="findings"/>
+		<modality_marker  START="1546" END="1554" text="evidence"/>
+		<modality_marker  START="1575" END="1580" text="other"/>
+		<modality_marker  START="1661" END="1672" text="demonstrate"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

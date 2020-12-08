@@ -1,0 +1,19 @@
+T3	Chemical 221 265	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine 
+T4	Chemical 268 272	MPTP 
+T6	Disease 328 345	Parkinson disease 
+T1	Gene_or_protein 24 30	Ranbp2
+T2	Genomic_variation 24 49	Ranbp2 haploinsufficiency
+T5	Phenotype 76 156	manifestations linked to tyrosine -hydroxylase ( TH ( + ) ) dopaminergic neurons
+T7	Gene_or_protein 125 133	TH ( + )
+T8	Gene_or_protein 101 122	tyrosine -hydroxylase
+T9	Chemical 279 302	parkinsonian neurotoxin
+T10	Phenotype 161 185;76 100	glial cells of the brain manifestations linked to
+T11	Phenotype 190 196;76 100	retina manifestations linked to
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	influences Arg1:T3 Arg2:T6	
+R3	influences Arg1:T2 Arg2:T5	
+R4	isEquivalentTo Arg1:T7 Arg2:T8	
+R5	influences Arg1:T2 Arg2:T10	
+R6	influences Arg1:T2 Arg2:T11	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R5	hyp

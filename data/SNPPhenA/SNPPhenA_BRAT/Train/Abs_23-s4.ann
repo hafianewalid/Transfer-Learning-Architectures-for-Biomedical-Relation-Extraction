@@ -1,0 +1,8 @@
+T1	SNP 38 44	rs4680
+T2	Phenotype 101 106	NSCLC
+T3	Phenotype 119 122	ADC
+T4	Modality_Marker 18 23	found
+T5	Modality_Marker 130 138	suggests
+T6	Modality_Marker 153 156	may
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3

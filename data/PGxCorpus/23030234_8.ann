@@ -1,0 +1,17 @@
+T1	Chemical 19 23	MDMA 
+T3	Gene_or_protein 183 213	serotonin reuptake transporter 
+T4	Gene_or_protein 216 220	SERT 
+T5	Pharmacodynamic_phenotype 19 37	MDMA plasma levels
+T6	Phenotype 64 78	blood pressure
+T8	Phenotype 81 91	heart rate
+T9	Phenotype 94 110	body temperature
+T10	Chemical 0 5	SSRIs
+T2	Pharmacodynamic_phenotype 148 222	pharmacodynamic interaction at the serotonin reuptake transporter ( SERT )
+T7	Pharmacodynamic_phenotype 19 23;40 56	MDMA clinical effects
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	increases Arg1:T10 Arg2:T5	
+R3	decreases Arg1:T10 Arg2:T6	
+R4	decreases Arg1:T10 Arg2:T8	
+R5	decreases Arg1:T10 Arg2:T9	
+R6	influences Arg1:T2 Arg2:T10	
+R7	decreases Arg1:T10 Arg2:T7	

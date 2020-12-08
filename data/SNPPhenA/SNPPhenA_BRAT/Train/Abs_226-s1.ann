@@ -1,0 +1,4 @@
+T1	SNP 115 130	PNPLA3 (10109G)
+T2	Phenotype 9 29	Alcoholic cirrhotics
+T3	Modality_Marker 62 74	demonstrated
+R1	strong_confidence_association Arg1:T1 Arg2:T2

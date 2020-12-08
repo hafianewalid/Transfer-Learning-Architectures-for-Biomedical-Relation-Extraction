@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1100" TEXT="RATIONALE: Prepulse inhibition (PPI) of the acoustic startle response, a measure of sensorimotor gating, can be enhanced by nicotine. Moreover, the TT genotype of the nicotinic acetylcholine receptor (nAChR) α3-subunit (CHRNA3) rs1051730 polymorphism has previously been associated with diminished PPI and nicotine dependence. OBJECTIVES: We tested whether this CHRNA3 polymorphism also modulates the nicotine-induced enhancement of PPI. METHODS: We assessed the effect of nicotine on PPI, startle reactivity, and habituation in 52 healthy nonsmoking volunteers genotyped for CHRNA3rs1051730 in a double-blind, placebo-controlled, counterbalanced, within-subjects design. Additionally, cotinine plasma levels were measured. RESULTS:Nicotine significantly enhanced PPI in TT homozygotes only and tended to worsen PPI in TC and CC carriers. Additionally, nicotine significantly reduced startle habituation. CONCLUSIONS:  The present findings imply that the effect of nicotine on sensorimotor gating is modulated by nAChR α3-subunits. Thus, genetic variation in nicotinic receptor genes might be an important connecting link between early attentional processes and smoking behavior.">
+	<sentence ID="1100_0" START="134" END="326">
+		<snp ID="0" START="227" END="237" TEXT=" rs1051730"/>
+		<phenotype ID="1" START="287" END="326" text="diminished PPI"/>
+		<phenotype ID="0" START="306" END="326" text="nicotine dependence"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

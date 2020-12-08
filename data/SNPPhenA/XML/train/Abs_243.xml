@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1161" TEXT="BACKGROUND: Tropical calcific pancreatitis (TCP) is a type of chronic pancreatitis unique to developing countries in tropical regions and one of its important features is invariable progression to diabetes, a condition called fibro-calculous pancreatic diabetes (FCPD), but the nature of diabetes in TCP is controversial. We analysed the recently reported type 2 diabetes (T2D) associated polymorphisms in the TCF7L2 gene using a case-control approach, under the hypothesis that TCF7L2 variants should show similar association if diabetes in FCPD is similar to T2D. We also investigated the interaction between the TCF7L2 variants and N34S SPINK1 and L26V CTSB mutations, since they are strong predictors of risk for TCP. METHODS: Two polymorphisms rs7903146 and rs12255372 in the TCF7L2 gene were analyzed by direct sequencing in 478 well-characterized TCP patients and 661 healthy controls of Dravidian and Indo-European ethnicities. Their association with TCP with diabetes (FCPD) and without diabetes was tested in both populations independently using chi-square test. Finally, a meta analysis was performed on all the cases and controls for assessing the overall significance irrespective of ethnicity. We dichotomized the whole cohort based on the presence or absence of N34S SPINK1 and L26V CTSB mutations and further subdivided them into TCP and FCPD patients and compared the distribution of TCF7L2 variants between them. RESULTS: The allelic and genotypic frequencies for both TCF7L2 polymorphisms, did not differ significantly between TCP patients and controls belonging to either of the ethnic groups or taken together. No statistically significant association of the SNPs was observed with TCP or FCPD or between carriers and non-carriers of N34S SPINK1 and L26V CTSB mutations. The minor allele frequency for rs7903146 was different between TCP and FCPD patients carrying the N34S SPINK1 variant but did not reach statistical significance (OR = 1.59, 95% CI = 0.93-2.70, P = 0.09), while, TCF7L2variant showed a statistically significant association between TCP and FCPD patients carrying the 26V allele (OR = 1.69, 95% CI = 1.11-2.56, P = 0.013). CONCLUSIONS: Type 2 diabetes associated TCF7L2 variants are not associated with diabetes in TCP. Since, TCF7L2 is a major susceptibility gene for T2D, it may be hypothesized that the diabetes in TCP patients may not be similar to T2D. Our data also suggests that co-existence of TCF7L2 variants and the SPINK1 and CTSB mutations, that predict susceptibility to exocrine damage, may interact to determine the onset of diabetes in TCP patients.">
+	<sentence ID="1161_0" START="1632" END="1791">
+		<snp ID="0" START="1755" END="1766" TEXT="N34S SPINK1"/>
+		<snp ID="1" START="1771" END="1780" TEXT="L26V CTSB"/>
+		<phenotype ID="0" START="1703" END="1791" text="TCP"/>
+		<phenotype ID="1" START="1710" END="1791" text="FCPD"/>
+		<modality_marker  START="1689" END="1697" text="observed"/>
+		<negation_scope  START="1632" END="1791" text="No statistically significant association of the SNPs was observed with TCP or FCPD or between carriers and non-carriers of N34S SPINK1 and L26V CTSB mutations.">
+			<negation_cue START="1632" END="1634" text="No"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1161_1" START="1996" END="2161">
+		<snp ID="2" START="2003" END="2016" TEXT="TCF7L2variant"/>
+		<phenotype ID="2" START="2072" END="2161" text="TCP"/>
+		<phenotype ID="3" START="2080" END="2161" text="FCPD"/>
+		<modality_marker  START="2017" END="2023" text="showed"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

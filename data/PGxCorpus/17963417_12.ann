@@ -1,0 +1,11 @@
+T1	Disease 75 92	diabetes mellitus 
+T2	Chemical 111 119	acarbose 
+T3	Gene_or_protein 151 162	adiponectin 
+T4	Gene_or_protein 165 171	ADIPOQ 
+T5	Phenotype 61 92	conversion to diabetes mellitus
+T6	Limited_variation 151 191	adiponectin ( ADIPOQ ) gene polymorphism
+T7	Limited_variation 30 42	polymorphism
+R2	isEquivalentTo Arg1:T4 Arg2:T3	
+R1	increases Arg1:T6 Arg2:T5	
+R3	causes Arg1:T2 Arg2:T5	
+R4	increases Arg1:T7 Arg2:T5	

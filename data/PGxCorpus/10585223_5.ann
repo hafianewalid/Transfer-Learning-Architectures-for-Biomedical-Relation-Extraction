@@ -1,0 +1,9 @@
+T1	Gene_or_protein 37 42	mdr1a 
+T2	Gene_or_protein 57 62	mdr1a 
+T3	Chemical 157 164	digoxin 
+T4	Limited_variation 37 52	mdr1a ( + / + )
+T5	Limited_variation 57 72	mdr1a ( - / - )
+T6	Pharmacokinetic_phenotype 157 177	digoxin accumulation
+T7	Pharmacokinetic_phenotype 0 33	Brain concentration-time profiles
+R1	influences Arg1:T4 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T6	

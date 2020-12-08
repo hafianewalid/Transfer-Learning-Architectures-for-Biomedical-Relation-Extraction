@@ -1,0 +1,10 @@
+T1	Phenotype 23 38	CYP3A4 activity 
+T2	Gene_or_protein 23 29	CYP3A4 
+T3	Gene_or_protein 54 60	CYP3A4 
+T4	Chemical 155 165	tacrolimus 
+T5	Gene_or_protein 189 195	CYP3A5 
+T6	Haplotype 54 71	CYP3A4 * 1 / * 1G
+T7	Pharmacokinetic_phenotype 155 182	tacrolimus pharmacokinetics
+T8	Limited_variation 97 109	polymorphism
+R1	influences Arg1:T6 Arg2:T7	
+#1	AnnotatorNotes R1	hyp

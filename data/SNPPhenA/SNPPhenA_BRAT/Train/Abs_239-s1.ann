@@ -1,0 +1,17 @@
+T1	SNP 89 99	rs12255372
+T2	SNP 108 117	rs7756992
+T3	SNP 119 128	rs7754840
+T4	SNP 136 145	rs7923837
+T5	SNP 157 166	rs4402960
+T6	SNP 171 180	rs1470579
+T7	SNP 193 203	rs10811661
+T8	SNP 219 229	rs13266634
+T9	Phenotype 48 63	type 2 diabetes
+R1	weak_confidence_association Arg1:T1 Arg2:T9
+R2	weak_confidence_association Arg1:T2 Arg2:T9
+R3	weak_confidence_association Arg1:T3 Arg2:T9
+R4	weak_confidence_association Arg1:T4 Arg2:T9
+R5	weak_confidence_association Arg1:T5 Arg2:T9
+R6	weak_confidence_association Arg1:T6 Arg2:T9
+R7	weak_confidence_association Arg1:T7 Arg2:T9
+R8	weak_confidence_association Arg1:T8 Arg2:T9

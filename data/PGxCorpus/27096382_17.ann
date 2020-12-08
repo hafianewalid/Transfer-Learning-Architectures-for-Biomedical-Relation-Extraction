@@ -1,0 +1,7 @@
+T1	Limited_variation 33 49	IL36RN mutations 
+T2	Gene_or_protein 33 39	IL36RN 
+T3	Chemical 104 122	retinoid acitretin 
+T4	Pharmacodynamic_phenotype 5 13	response
+R1	influences Arg1:T1 Arg2:T4	
+R2	isAssociatedWith Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	neg

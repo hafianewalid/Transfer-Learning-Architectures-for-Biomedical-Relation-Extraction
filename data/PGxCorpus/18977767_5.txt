@@ -1,0 +1,1 @@
+METHODS AND RESULTS : The skeletal Na(+) channel isoform ( SkM1 ) and the cardiac Na(+) channel isoform ( Nav1.5 ) were expressed in newborn rat ventricular myocyte cultures with a point mutation introduced in Nav1.5 to increase tetrodotoxin ( TTX ) sensitivity so native and expressed currents could be distinguished .

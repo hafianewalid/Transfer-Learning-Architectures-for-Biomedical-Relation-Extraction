@@ -1,0 +1,12 @@
+T1	SNP 86 95	rs2383207
+T2	SNP 97 107	rs10757278
+T3	SNP 113 122	rs1333049
+T4	SNP 218 228	rs10757274
+T5	Phenotype 131 135	MetS
+T6	Modality_Marker 19 27	revealed
+T7	Negation_Scope 210 241	not for rs10757274 (p = 0.211).
+T8	Negation_Cue 210 213	not
+R1	moderate_confidence_association Arg1:T1 Arg2:T5
+R2	moderate_confidence_association Arg1:T2 Arg2:T5
+R3	moderate_confidence_association Arg1:T3 Arg2:T5
+R4	negative_association Arg1:T4 Arg2:T5

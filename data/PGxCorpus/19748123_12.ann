@@ -1,0 +1,6 @@
+T1	Chemical 25 33	WY14,643 
+T3	Gene_or_protein 90 99	Cyclin B1 
+T4	Phenotype 71 99	mRNA expression of Cyclin B1
+T2	Phenotype 59 66;76 99	protein expression of Cyclin B1
+R1	decreases Arg1:T1 Arg2:T4	
+R2	decreases Arg1:T1 Arg2:T2	

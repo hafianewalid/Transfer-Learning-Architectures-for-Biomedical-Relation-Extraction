@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1089" TEXT="The purpose of the present study was to evaluate the association between TCF7L2 rs12255372(G/T) or rs7903146(C/T) polymorphism and breast cancerrisk, and clinico-pathologic characteristics of the patients. Genotyping of these polymorphisms was performed on 387 breast cancer patients and 252 normal and healthy women who had no history of any malignancy using polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) method in a hospital-based Malaysian population. The allele (P = 0.033) frequency of rs7903146 (T) polymorphism was significantly higher in the cancerpatients than normal individuals. No significant association was demonstrated between CT (OR(adj) = 1.386; 95% CI, 0.985-1.949) or TT (OR(adj) = 1.579; 95% CI, 0.869-2.870) genotype and breast cancer risk. However, women who were carriers of T allele (OR(adj) = 1.316; 95% CI, 1.022-1.695) or T allelegenotype (OR(adj) = 1.419; 95% CI, 1.027-1.960) showed significant increased risk of breast cancer. Women who were GT heterozygotes (OR(adj) = 1.329; 95% CI, 0.948-1.862) or TT homozygotes (OR(adj) = 1.574; 95% CI, 0.829-2.987), and carriers of T allele genotype (OR(adj) = 1.365; 95% CI, 0.989-1.883) or T allele (OR(adj) = 1.284; 95% CI, 0.995-1.657) were not associated with breast cancer risk. The rs7903146(T) allele genotype was significantly associated with nodal involvement (P = 0.003) but rs12255372 (T) allele genotype was not associated with the clinico-pathologic characteristics. In conclusion, our findings suggest that rs7903146 (T) variant may elevate the risk of breast cancer, thus could be a potential candidate for breast cancersusceptibility. The variant may also increase the metastatic potential of the tumor.">
+	<sentence ID="1089_0" START="1287" END="1482">
+		<snp ID="0" START="1291" END="1300" TEXT="rs7903146"/>
+		<snp ID="1" START="1388" END="1398" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1354" END="1482" text="nodal involvement"/>
+		<negation_scope  START="1423" END="1482" text="not associated with the clinico-pathologic characteristics.">
+			<negation_cue START="1423" END="1426" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,9 @@
+T1	Chemical 34 37	3TC
+T2	Limited_variation 117 125	rtA 181T
+T3	Gene_or_protein 117 120	rtA
+T4	Pharmacodynamic_phenotype 34 48	3TC resistance
+T5	Chemical 7 10	ADV
+T6	Chemical 171 174	ADV
+T7	Pharmacodynamic_phenotype 171 185	ADV -resistant
+T8	Limited_variation 0 68	Before ADV treatment , apart from 3TC resistance signature mutations
+R1	isAssociatedWith Arg1:T7 Arg2:T2	

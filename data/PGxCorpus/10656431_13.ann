@@ -1,0 +1,8 @@
+T1	Chemical 18 28	paclitaxel 
+T2	Phenotype 91 105	p53 deficiency 
+T3	Gene_or_protein 91 94	p53 
+T4	Phenotype 66 83	lack of G1 arrest
+T5	Pharmacodynamic_phenotype 4 28	efficiency of paclitaxel
+R1	causes Arg1:T2 Arg2:T4	
+R2	influences Arg1:T4 Arg2:T5	
+R3	influences Arg1:T2 Arg2:T5	

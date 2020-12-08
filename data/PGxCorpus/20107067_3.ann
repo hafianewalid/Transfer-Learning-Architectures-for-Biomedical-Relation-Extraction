@@ -1,0 +1,10 @@
+T1	Limited_variation 25 39	deletion of SR
+T2	Gene_or_protein 37 39	SR
+T3	Chemical 68 76	D-serine
+T4	Disease 104 117	neurotoxicity
+T5	Disease 122 128	stroke
+T6	Gene_or_protein 80 93	NMDA receptor
+T7	Disease 80 117	NMDA receptor -mediated neurotoxicity
+T8	Disease 122 128;80 103	stroke NMDA receptor -mediated
+R1	influences Arg1:T3 Arg2:T7	
+R2	influences Arg1:T3 Arg2:T8	

@@ -1,0 +1,9 @@
+T1	Gene_or_protein 29 62	endothelial nitric oxide synthase 
+T2	Disease 112 138	non-small-cell lung cancer 
+T3	Chemical 161 197	platinum -based doublet chemotherapy 
+T4	Limited_variation 8 62	polymorphisms in the endothelial nitric oxide synthase
+T5	Phenotype 83 99	overall survival
+T6	Chemical 161 169	platinum
+R1	isAssociatedWith Arg1:T4 Arg2:T2	
+R3	treats Arg1:T3 Arg2:T2	
+R2	isAssociatedWith Arg1:T4 Arg2:T5	

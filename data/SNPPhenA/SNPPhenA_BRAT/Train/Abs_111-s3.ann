@@ -1,0 +1,4 @@
+T1	SNP 37 46	rs2568494
+T2	Phenotype 81 90	emphysema
+T3	Modality_Marker 158 166	observed
+R1	strong_confidence_association Arg1:T1 Arg2:T2

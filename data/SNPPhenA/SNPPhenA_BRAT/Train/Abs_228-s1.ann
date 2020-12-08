@@ -1,0 +1,11 @@
+T1	SNP 120 133	APOE rs429358
+T2	SNP 135 146	COMT rs4680
+T3	SNP 148 159	BDNF rs6265
+T4	SNP 161 177	KIBRA rs17070145
+T5	SNP 191 200	rs6439886
+T6	Phenotype 97 118	cognitive performance
+R1	weak_confidence_association Arg1:T1 Arg2:T6
+R2	weak_confidence_association Arg1:T2 Arg2:T6
+R3	weak_confidence_association Arg1:T3 Arg2:T6
+R4	weak_confidence_association Arg1:T4 Arg2:T6
+R5	weak_confidence_association Arg1:T5 Arg2:T6

@@ -1,0 +1,9 @@
+T1	Limited_variation 30 101	( Val66Met ) polymorphism in the brain-derived neurotrophic factor gene 
+T2	Gene_or_protein 63 96	brain-derived neurotrophic factor 
+T4	Disease 107 125	alcohol dependence
+T5	Phenotype 130 146	extreme violence
+T3	Chemical 107 114	alcohol
+R2	influences Arg1:T1 Arg2:T4	
+R1	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

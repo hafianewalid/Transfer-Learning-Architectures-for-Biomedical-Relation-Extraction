@@ -1,0 +1,1 @@
+We utilised statistical methods appropriate for the categorical nature of the phenotype and familial structure of the cohort, and determined that whilst SNP rs6152 was strongly associated with baldness (P < 0.0001), the GGN triplet repeat was not (P = 0.13).

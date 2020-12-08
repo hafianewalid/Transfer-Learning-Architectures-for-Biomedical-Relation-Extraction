@@ -1,0 +1,10 @@
+T1	Phenotype 0 20	Pdyn gene deficiency 
+T2	Gene_or_protein 0 4	Pdyn 
+T3	Chemical 33 43	nalbuphine 
+T5	Gene_or_protein 113 118	c-Fos 
+T6	Pharmacodynamic_phenotype 33 99	nalbuphine -induced behavioral sensitization of locomotor activity
+T4	Phenotype 104 129	accumbal c-Fos expression
+T7	Pharmacodynamic_phenotype 53 99	behavioral sensitization of locomotor activity
+R1	increases Arg1:T1 Arg2:T6	
+R2	increases Arg1:T1 Arg2:T4	
+R3	causes Arg1:T3 Arg2:T7	

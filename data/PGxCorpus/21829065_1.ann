@@ -1,0 +1,12 @@
+T1	Limited_variation 35 60	KRAS gene mutation status 
+T2	Gene_or_protein 35 39	KRAS 
+T3	Chemical 95 105	irinotecan 
+T4	Disease 169 197	metastatic colorectal cancer 
+T5	Chemical 80 89	cetuximab
+T6	Chemical 80 105	cetuximab plus irinotecan
+T7	Pharmacodynamic_phenotype 69 105	benefit of cetuximab plus irinotecan
+T8	Chemical 122 134	chemotherapy
+R1	treats Arg1:T6 Arg2:T4	
+R2	isAssociatedWith Arg1:T1 Arg2:T7	
+R3	treats Arg1:T8 Arg2:T4	
+#1	AnnotatorNotes R2	hyp

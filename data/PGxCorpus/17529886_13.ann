@@ -1,0 +1,10 @@
+T1	Limited_variation 0 6;18 36	UGT1A7 I399 polymorphisms 
+T2	Gene_or_protein 0 6	UGT1A7 
+T3	Gene_or_protein 11 17	UGT1A9 
+T4	Chemical 89 92	MPA 
+T5	Limited_variation 11 36	UGT1A9 I399 polymorphisms
+T6	Pharmacokinetic_phenotype 89 109	MPA pharmacokinetics
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R1	neg

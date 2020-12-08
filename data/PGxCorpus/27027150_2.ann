@@ -1,0 +1,15 @@
+T1	Disease 42 50	melanoma 
+T2	Disease 65 71	tumors 
+T3	Limited_variation 103 112;82 92	mutations BRAF V600E 
+T4	Gene_or_protein 82 86	BRAF 
+T5	Limited_variation 82 86;97 112	BRAF V600K mutations 
+T6	Chemical 115 130	BRAF inhibitors 
+T7	Chemical 139 149	dabrafenib 
+R2	treats Arg1:T6 Arg2:T1	
+R1	treats Arg1:T7 Arg2:T1	
+R3	influences Arg1:T5 Arg2:T6	
+R4	influences Arg1:T3 Arg2:T6	
+R5	influences Arg1:T5 Arg2:T7	
+R6	influences Arg1:T3 Arg2:T7	
+R7	isAssociatedWith Arg1:T2 Arg2:T5	
+R8	isAssociatedWith Arg1:T2 Arg2:T3	

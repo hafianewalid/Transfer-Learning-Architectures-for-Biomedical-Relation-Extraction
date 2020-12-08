@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1057" TEXT="The authors examined relations between reproductive factors and 5 estrogen pathway gene polymorphisms (CYP17 rs743572, CYP19A1 rs10046, ERβ rs1256049, ERβ rs4986938, and COMT rs4680) among 702 Singapore Chinese female lung cancer cases and 1,578 hospital controls, of whom 433 cases (61.7%) and 1,375 controls (87.1%) were never smokers. Parity (per child, odds ratio (OR) = 0.92, 95% confidence interval (CI): 0.87, 0.97) andmenstrual cycle length (for ≥30 days vs. &lt;30 days, OR = 0.50, 95% CI: 0.32, 0.80) were inversely associated with lung cancer in never smokers, while age at first birth (for ages 21-25, 26-30, and ≥31 years vs. ≤20 years, ORs were 1.54, 2.17, and 1.30, respectively), age at menopause (for ages 49-51 and ≥52 years vs. ≤48 years, ORs were 1.37 and 1.59; P(trend) = 0.003), and reproductive period (for 31-33, 34-36, 37-39, and ≥40 years vs. ≤30 years, ORs were 1.06, 1.25, 1.45, and 1.47; P(trend) = 0.026) were positively associated. Among smokers, parity was inversely associated with lung cancer, but there was no association with other reproductive factors. The COMT rs4680 A allele was positively associated with lung cancer in never smokers (for G/A or A/A vs. G/G, OR = 1.46, 95% CI: 1.12, 1.90) but not in ever smokers. No associations were seen with other polymorphisms. These results support a risk-enhancing role of estrogens in lung carcinogenesis among never smokers.">
+	<sentence ID="1057_0" START="0" END="337">
+		<snp ID="0" START="103" END="117" TEXT="CYP17 rs743572"/>
+		<snp ID="1" START="119" END="134" TEXT="CYP19A1 rs10046"/>
+		<snp ID="2" START="136" END="149" TEXT="ERβ rs1256049"/>
+		<snp ID="3" START="151" END="164" TEXT="ERβ rs4986938"/>
+		<snp ID="4" START="175" END="181" TEXT="rs4680"/>
+		<phenotype ID="0" START="218" END="337" text="lung cancer"/>
+		<modality_marker  START="323" END="328" text="never"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1057_1" START="1087" END="1252">
+		<snp ID="5" START="1096" END="1102" TEXT="rs4680"/>
+		<phenotype ID="1" START="1143" END="1252" text="lung cancer"/>
+		<modality_marker  START="1158" END="1163" text="never"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

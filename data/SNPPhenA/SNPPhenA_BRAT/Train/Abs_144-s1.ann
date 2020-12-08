@@ -1,0 +1,49 @@
+T1	SNP 203 212	rs9939973
+T2	SNP 214 223	rs9940128
+T3	SNP 225 234	rs9922047
+T4	SNP 236 245	rs1121980
+T5	SNP 247 256	rs9939609
+T6	SNP 258 267	rs9930506
+T7	SNP 277 286	rs1495377
+T8	SNP 296 305	rs4074720
+T9	SNP 307 316	rs7901695
+T10	SNP 318 327	rs4506565
+T11	SNP 329 338	rs4132670
+T12	SNP 340 350	rs10787472
+T13	SNP 352 362	rs11196205
+T14	SNP 364 374	rs10885409
+T15	SNP 376 386	rs11196208
+T16	SNP 397 407	rs10485400
+T17	SNP 409 418	rs4897366
+T18	SNP 427 436	rs2852373
+T19	SNP 438 446	rs608489
+T20	SNP 455 463	rs445984
+T21	SNP 465 474	rs1040328
+T22	SNP 476 484	rs990074
+T23	SNP 486 495	rs2223046
+T24	SNP 497 506	rs2834970
+T25	Phenotype 540 543	T2D
+R1	moderate_confidence_association Arg1:T1 Arg2:T25
+R2	moderate_confidence_association Arg1:T2 Arg2:T25
+R3	moderate_confidence_association Arg1:T3 Arg2:T25
+R4	moderate_confidence_association Arg1:T4 Arg2:T25
+R5	moderate_confidence_association Arg1:T5 Arg2:T25
+R6	moderate_confidence_association Arg1:T6 Arg2:T25
+R7	moderate_confidence_association Arg1:T7 Arg2:T25
+R8	moderate_confidence_association Arg1:T8 Arg2:T25
+R9	moderate_confidence_association Arg1:T9 Arg2:T25
+R10	moderate_confidence_association Arg1:T10 Arg2:T25
+R11	moderate_confidence_association Arg1:T11 Arg2:T25
+R12	moderate_confidence_association Arg1:T12 Arg2:T25
+R13	moderate_confidence_association Arg1:T13 Arg2:T25
+R14	moderate_confidence_association Arg1:T14 Arg2:T25
+R15	moderate_confidence_association Arg1:T15 Arg2:T25
+R16	moderate_confidence_association Arg1:T16 Arg2:T25
+R17	moderate_confidence_association Arg1:T17 Arg2:T25
+R18	moderate_confidence_association Arg1:T18 Arg2:T25
+R19	moderate_confidence_association Arg1:T19 Arg2:T25
+R20	moderate_confidence_association Arg1:T20 Arg2:T25
+R21	moderate_confidence_association Arg1:T21 Arg2:T25
+R22	moderate_confidence_association Arg1:T22 Arg2:T25
+R23	moderate_confidence_association Arg1:T23 Arg2:T25
+R24	moderate_confidence_association Arg1:T24 Arg2:T25

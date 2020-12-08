@@ -1,0 +1,9 @@
+T1	SNP 29 38	rs7903146
+T2	Phenotype 60 64	PTDM
+T3	Phenotype 208 212	PTDM
+T4	Modality_Marker 68 77	confirmed
+T5	Modality_Marker 136 141	other
+T6	Modality_Marker 161 166	could
+T7	Modality_Marker 195 199	high
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	moderate_confidence_association Arg1:T1 Arg2:T3

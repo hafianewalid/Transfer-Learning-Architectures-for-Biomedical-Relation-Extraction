@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1242" TEXT="We previously showed that the -1131T→C polymorphism (rs662799) of the apolipoprotein A-V gene (APOA5) and the C→T polymorphism (rs6929846) of the butyrophilin, subfamily 2, member A1 gene (BTN2A1) were significantly associated with an increased serum concentration of triglycerides, a decreasedserum concentration of high density lipoprotein (HDL)-cholesterol, and the prevalence of metabolic syndrome (MetS) in Japanese individuals. The purpose of the present study was to examine whether these polymorphisms synergistically affect the prevalence of dyslipidemia and MetS in East Asianpopulations. The study populations comprised 7471 Japanese and 3529 Korean individuals in the dyslipidemia study, and 3474 Japanese and 1671Korean individuals in the MetS study. Multivariable logistic regression analysis of combined genotypes with adjustment for age, gender and diabetes mellitus revealed that rs662799 and rs6929846 significantly and synergistically affected dyslipidemia. Japanese or Korean individuals with the C allele ofAPOA5 and the T allele of BTN2A1 had a 2.05- or 1.92-fold increased risk for hypertriglyceridemia and a 1.82- or 1.56-fold increased risk for hypo-HDL-cholesterolemia, respectively, compared to those with the TT genotype of APOA5 and the CC genotype of BTN2A1. Similar analysis with adjustment for age and gender revealed that Japanese individuals, but not Korean individuals, with the C allele of APOA5 and the T allele of BTN2A1 had a 2.87-fold increased risk for MetS compared to those with the TT genotype of APOA5 and the CC genotype of BTN2A1. Genetic variants of APOA5 and BTN2A1 may synergistically affect the prevalence of dyslipidemia in East Asian populations and of MetS in Japanese individuals.">
+	<sentence ID="1242_0" START="1578" END="1735">
+		<snp ID="0" START="1598" END="1603" TEXT="APOA5"/>
+		<snp ID="1" START="1608" END="1614" TEXT="BTN2A1"/>
+		<phenotype ID="0" START="1660" END="1735" text="dyslipidemia"/>
+		<phenotype ID="1" START="1706" END="1735" text="MetS"/>
+		<modality_marker  START="1615" END="1618" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

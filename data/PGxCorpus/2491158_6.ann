@@ -1,0 +1,4 @@
+T3	Gene_or_protein 116 119	VH1 
+T2	Chemical 51 68	phosphorylcholine
+T4	Gene_or_protein 132 143	S107 family
+R1	influences Arg1:T3 Arg2:T2	

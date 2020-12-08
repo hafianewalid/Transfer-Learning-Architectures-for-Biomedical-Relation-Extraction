@@ -1,0 +1,10 @@
+T2	Gene_or_protein 0 27	beta 1 -Adrenergic receptor
+T3	Limited_variation 0 50	beta 1 -Adrenergic receptor polymorphisms Ser49Gly
+T5	Chemical 171 181	metoprolol
+T4	Limited_variation 0 41;55 65	beta 1 -Adrenergic receptor polymorphisms Arg 389Gly
+T6	Pharmacokinetic_phenotype 121 136;155 181	pharmacokinetic relationship of metoprolol
+T7	Pharmacodynamic_phenotype 139 181	pharmacodynamic relationship of metoprolol
+R1	influences Arg1:T3 Arg2:T7	
+R2	influences Arg1:T4 Arg2:T7	
+R3	influences Arg1:T3 Arg2:T6	
+R4	influences Arg1:T4 Arg2:T6	

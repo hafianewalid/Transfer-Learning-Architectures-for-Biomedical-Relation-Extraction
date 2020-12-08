@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1043" TEXT="Numerous reports have identified genetic variants associated with kidney transplant outcome, but only a few have been validated in subsequent studies. We analyzed the association of 21 previously reported genetic variants associated with acute rejection (AR), in an effort to validate these associations in our kidney transplant population. All recipients (n = 585) received Ab induction, rapid discontinuation of prednisone, and calcineurin inhibitors with either mycophenolate mofetil or sirolimus. Both univariate analysis and logistic regression were used for determining the association between the genotypes and AR. Univariate analysis detected one significant single-nucleotide polymorphism (p = 0.03), rs1801133, within the methylenetetrahydrofolate reductase (MTHFR) gene associated with AR. Logistic regression analysis identified two variants associated with AR, the 32-bp deletion within chemokine (C-C motif) receptor 5 gene rs333 and the p.222A/V variant (rs1801133) within the MTHFR gene. Although our analysis utilized a much larger cohort than used in previous reports, we were only able to detect an association with two of these variants. The lack of validation for the other 19 variants may be due to the small effect size, or that, they are not associated with AR. These results stress the need for larger cohorts for both future studies as well as for validation studies.">
+	<sentence ID="1043_0" START="622" END="800">
+		<snp ID="0" START="710" END="719" TEXT="rs1801133"/>
+		<phenotype ID="0" START="797" END="800" text="AR"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1043_1" START="801" END="1003">
+		<snp ID="1" START="900" END="943" TEXT="chemokine (C-C motif) receptor 5 gene rs333"/>
+		<snp ID="2" START="970" END="979" TEXT="rs1801133"/>
+		<phenotype ID="1" START="870" END="1003" text="AR"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

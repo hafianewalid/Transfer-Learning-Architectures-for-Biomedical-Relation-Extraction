@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1043" TEXT="A recent study found association of one microsatellite and five single nucleotide polymorphisms (SNPs) in intron 3 of the TCF7L2 gene with type 2 diabetes (T2D) in the Icelandic, Danish and American populations. The aim of the present study was to investigate if those SNPs were associated to T2D in two (family- and population-based) cohorts from northern Sweden. We genotyped four of the associated SNPs in a case-control cohort consisting of 872 T2D cases and 857 controls matched with respect to age, sex and geographical origin and in a sample of 59 extended families (148 affected and 83 unaffected individuals). Here, we report replication of association between T2D and three SNPs in the case-control (rs7901695, P=0.003; rs7901346, P=0.00002; and. rs12255372, P=0.000004) and two SNPs in the family-based  (rs7901695, P=0.01 and rs7901346, P=0.04) samples from northern Sweden. This replication strengthens the evidence for involvement of TCF7L2 in T2D.">
+	<sentence ID="1043_0" START="619" END="886">
+		<snp ID="0" START="710" END="719" TEXT="rs7901695"/>
+		<snp ID="1" START="730" END="739" TEXT="rs7901346"/>
+		<snp ID="2" START="757" END="767" TEXT="rs12255372"/>
+		<snp ID="3" START="816" END="825" TEXT="rs7901695"/>
+		<snp ID="4" START="838" END="847" TEXT="rs7901346"/>
+		<phenotype ID="0" START="670" END="886" text="T2D"/>
+		<modality_marker  START="628" END="634" text="report"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

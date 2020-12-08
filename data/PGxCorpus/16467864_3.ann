@@ -1,0 +1,7 @@
+T1	Limited_variation 9 23	AML1 mutations 
+T2	Gene_or_protein 9 13	AML1 
+T4	Disease 83 91	MDS /AML
+T3	Genomic_variation 120 139	genetic alterations
+R1	influences Arg1:T4 Arg2:T1	
+R2	influences Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

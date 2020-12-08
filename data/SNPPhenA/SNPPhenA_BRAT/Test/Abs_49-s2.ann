@@ -1,0 +1,11 @@
+T1	SNP 101 114	DRD2 by   DAT
+T2	SNP 161 173	DRD4 by COMT
+T3	Phenotype 128 143	Body Mass Index
+T4	Phenotype 177 199	self-harming behaviors
+T5	Modality_Marker 3 11	observed
+T6	Modality_Marker 76 85	predicted
+T7	Modality_Marker 120 124	seen
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

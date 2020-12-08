@@ -1,0 +1,7 @@
+T1	SNP 95 101	TCF7L2
+T2	Phenotype 153 156	T2D
+T3	Modality_Marker 30 42	observations
+T4	Modality_Marker 46 51	other
+T5	Modality_Marker 71 79	strongly
+T6	Modality_Marker 80 87	confirm
+R1	strong_confidence_association Arg1:T1 Arg2:T2

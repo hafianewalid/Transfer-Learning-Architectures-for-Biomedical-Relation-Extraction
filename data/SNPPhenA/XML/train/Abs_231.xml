@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1148" TEXT="BACKGROUND: Single nucleotide polymorphisms (SNPs) rs429358 (ε4) and rs7412 (ε2), both invoking changes in the amino-acid sequence of theapolipoprotein E (APOE) gene, have previously been tested for association with multiple sclerosis (MS) risk. However, none of these studies was sufficiently powered to detect modest effect sizes at acceptable type-I error rates. As both SNPs are only imperfectly captured on commonly used microarray genotyping platforms, their evaluation in the context of genome-wide association studies has been hindered until recently. METHODS: Wegenotyped 12 740 subjects hitherto not studied for their APOE status, imputed raw genotype data from 8739 subjects from five independent genome-wide association studies datasets using the most recent high-resolution reference panels, and extracted genotype data for 8265 subjects from previous candidate gene assessments. RESULTS: Despite sufficient power to detect associations at genome-wide significance thresholds across a range of ORs, our analyses did not support a role of rs429358 or rs7412 on MS susceptibility. This included meta-analyses of the combined data across 13 913 MS cases and 15 831 controls (OR=0.95, p=0.259, and OR 1.07, p=0.0569, for rs429358 and rs7412, respectively). CONCLUSIONS: Given the large sample size of our analyses, it is unlikely that the two APOE missense SNPs studied here exert any relevant effects on MS susceptibility.">
+	<sentence ID="1148_0" START="893" END="1090">
+		<snp ID="0" START="1051" END="1059" TEXT="rs429358"/>
+		<snp ID="1" START="1063" END="1069" TEXT="rs7412"/>
+		<phenotype ID="0" START="1073" END="1090" text="MS"/>
+		<modality_marker  START="1033" END="1040" text="support"/>
+		<negation_scope  START="1029" END="1090" text="not support a role of rs429358 or rs7412 on MS susceptibility">
+			<negation_cue START="1029" END="1032" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

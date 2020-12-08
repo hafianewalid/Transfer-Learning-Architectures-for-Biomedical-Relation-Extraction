@@ -1,0 +1,12 @@
+T1	Chemical 53 67	5-fluorouracil 
+T2	Chemical 116 137	5-fluorouracil-5-FUDR 
+T4	Gene_or_protein 219 223	DPYD 
+T5	Pharmacokinetic_phenotype 96 137	degradation rate of 5-fluorouracil-5-FUDR
+T3	Gene_or_protein 180 211	dihydropyrimidine dehydrogenase
+T6	Pharmacokinetic_phenotype 53 78	5-fluorouracil metabolism
+T7	Limited_variation 159 216	polymorphisms in the dihydropyrimidine dehydrogenase gene
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	isAssociatedWith Arg1:T7 Arg2:T6	
+R3	isAssociatedWith Arg1:T7 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

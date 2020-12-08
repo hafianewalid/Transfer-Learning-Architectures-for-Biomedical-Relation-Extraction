@@ -1,0 +1,9 @@
+T1	SNP 60 69	rs2476601
+T2	SNP 93 102	rs1800629
+T3	SNP 104 112	rs361525
+T4	SNP 130 138	rs755622
+T5	Phenotype 147 150	JIA
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

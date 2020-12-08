@@ -1,0 +1,6 @@
+T1	Limited_variation 4 15	TPH1 779A/C 
+T2	Gene_or_protein 4 8	TPH1 
+T4	Disease 102 121	nicotine dependence 
+T5	Chemical 102 110	nicotine 
+R1	influences Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,16 @@
+T1	Limited_variation 8 17	rs1260326 
+T3	Limited_variation 32 41	rs1799884 
+T5	Gene_or_protein 61 91	glucokinase regulatory protein 
+T6	Gene_or_protein 94 98	GCKR 
+T7	Gene_or_protein 105 116	glucokinase 
+T8	Gene_or_protein 119 122	GCK 
+T11	Chemical 194 197	TAG 
+T12	Chemical 202 209	glucose 
+T13	Pharmacodynamic_phenotype 194 197;210 224	TAG concentrations
+T14	Pharmacodynamic_phenotype 202 209;210 224	glucose concentrations
+R3	isEquivalentTo Arg1:T6 Arg2:T5	
+R1	isEquivalentTo Arg1:T8 Arg2:T7	
+R2	influences Arg1:T1 Arg2:T13	
+R4	influences Arg1:T1 Arg2:T14	
+R5	influences Arg1:T3 Arg2:T13	
+R6	influences Arg1:T3 Arg2:T14	

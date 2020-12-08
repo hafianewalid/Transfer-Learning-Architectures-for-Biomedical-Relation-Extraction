@@ -1,0 +1,9 @@
+T3	Chemical 64 74	ivermectin 
+T4	Phenotype 106 121	mdr1 expression 
+T5	Gene_or_protein 106 110	mdr1 
+T1	Chemical 6 16	ivermectin
+T2	Pharmacodynamic_phenotype 64 93	ivermectin -sensitive collies
+T6	Gene_or_protein 36 40	P-gp
+R1	influences Arg1:T4 Arg2:T2	
+R2	influences Arg1:T6 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

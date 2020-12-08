@@ -1,0 +1,12 @@
+T1	Limited_variation 4 47	reverse transcriptase ( RT ) mutation V118I 
+T2	Chemical 88 96	abacavir 
+T3	Disease 140 155	HIV-1 infection
+T5	Gene_or_protein 4 25	reverse transcriptase
+T6	Gene_or_protein 28 30	RT
+T4	Chemical 88 128	abacavir -based antiretroviral treatment
+T7	Chemical 131 134	ART
+T8	Pharmacodynamic_phenotype 67 84	virologic failure
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R1	isEquivalentTo Arg1:T7 Arg2:T4	
+R3	isAssociatedWith Arg1:T1 Arg2:T8	
+R4	isAssociatedWith Arg1:T4 Arg2:T8	

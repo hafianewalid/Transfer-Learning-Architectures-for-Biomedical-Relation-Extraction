@@ -1,0 +1,10 @@
+T1	Gene_or_protein 0 4	CFTR 
+T2	Chemical 106 110	cAMP 
+T4	Chemical 60 81	b-adrenergic cocktail
+T5	Gene_or_protein 126 146	muscarinic receptors
+T3	Phenotype 0 25	CFTR -dependent secretion
+T6	Phenotype 28 35	C-sweat
+R1	increases Arg1:T4 Arg2:T2	
+R2	influences Arg1:T4 Arg2:T5	
+R3	isEquivalentTo Arg1:T6 Arg2:T3	
+R4	increases Arg1:T4 Arg2:T3	

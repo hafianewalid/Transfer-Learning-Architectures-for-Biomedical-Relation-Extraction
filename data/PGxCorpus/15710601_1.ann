@@ -1,0 +1,16 @@
+T1	Chemical 0 10	Evodiamine
+T2	Phenotype 83 113	IkappaBalpha kinase activation
+T3	Gene_or_protein 83 95	IkappaBalpha
+T4	Phenotype 48 68	NF-kappaB activation
+T5	Gene_or_protein 48 57	NF-kappaB
+T6	Gene_or_protein 136 145	NF-kappaB
+T7	Phenotype 136 170;186 201	NF-kappaB -regulated antiapoptotic gene expression
+T8	Phenotype 136 156;175 201	NF-kappaB -regulated metastatic gene expression
+T10	Phenotype 218 227	apoptosis
+T11	Phenotype 245 253	invasion
+R1	decreases Arg1:T1 Arg2:T4	
+R2	decreases Arg1:T1 Arg2:T2	
+R3	decreases Arg1:T1 Arg2:T7	
+R4	decreases Arg1:T1 Arg2:T8	
+R5	increases Arg1:T1 Arg2:T10	
+R6	decreases Arg1:T1 Arg2:T11	

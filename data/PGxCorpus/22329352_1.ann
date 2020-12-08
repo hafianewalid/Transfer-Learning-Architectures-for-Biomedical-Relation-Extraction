@@ -1,0 +1,12 @@
+T1	Chemical 0 11	Thalidomide 
+T3	Disease 64 71	myeloma 
+T4	Gene_or_protein 119 154	fibroblast growth factor receptor 3 
+T6	Phenotype 105 154;77 83	expression of fibroblast growth factor receptor 3 normal
+T7	Phenotype 35 71	progression-free survival in myeloma
+T2	Disease 188 197	Leukaemia
+T8	Disease 202 210	Lymphoma
+T5	Phenotype 92 154	up-regulated expression of fibroblast growth factor receptor 3
+R1	increases Arg1:T1 Arg2:T7	
+R2	causes Arg1:T1 Arg2:T6	
+R3	causes Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R3	neg

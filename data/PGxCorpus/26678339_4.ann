@@ -1,0 +1,8 @@
+T1	Gene_or_protein 103 107	IDH1 
+T2	Disease 103 121	IDH1 mutant cancer 
+T4	Gene_or_protein 141 145	IDH1 
+T6	Limited_variation 103 114	IDH1 mutant
+T7	Phenotype 183 230	vulnerability to depletion of the coenzyme NAD+
+T8	Chemical 18 47	metabolic therapeutic targets
+T9	Gene_or_protein 226 230	NAD+
+R1	isAssociatedWith Arg1:T1 Arg2:T7	

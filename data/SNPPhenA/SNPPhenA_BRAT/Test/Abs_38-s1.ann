@@ -1,0 +1,7 @@
+T1	SNP 46 53	CCR5Δ32
+T2	Phenotype 78 80	CV
+T3	Phenotype 109 111	RA
+T4	Modality_Marker 12 16	show
+T5	Modality_Marker 19 28	potential
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

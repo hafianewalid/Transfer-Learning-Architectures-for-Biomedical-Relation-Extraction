@@ -1,0 +1,1 @@
+The sliding window haplotype trend regression test revealed that SNP rs405509 was included in all haplotypes that are significantly associated with OSA status.

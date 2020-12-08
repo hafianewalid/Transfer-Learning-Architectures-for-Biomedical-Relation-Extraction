@@ -1,0 +1,9 @@
+T1	Limited_variation 53 80	CYP2D6 genetic polymorphism 
+T2	Gene_or_protein 53 59	CYP2D6 
+T3	Chemical 108 118	flecainide 
+T4	Chemical 169 179	paroxetine 
+T5	Gene_or_protein 185 191	CYP2D6 
+T6	Pharmacokinetic_phenotype 88 118	pharmacokinetics of flecainide
+T7	Chemical 185 201	CYP2D6 inhibitor
+R1	influences Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	hyp

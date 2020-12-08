@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1058" TEXT="Smokers have a higher prevalence of major depressive episodes and depressive symptoms than the general population, but whether this association is causal, or is due to confounding or reverse causation is uncertain because of the problems inherent in some epidemiological studies. Mendelian randomization, in which a genetic variant is used as a surrogate for measuring exposure, is an approach which may be used to better understand this association. We investigated the rs1051730 single nucleotide polymorphism in the nicotine acetylcholine receptor gene cluster (CHRNA5-CHRNA3-CHRNB4), associated with smoking phenotypes, to determine whether women who continued to smoke were also more likely to report a low mood during pregnancy. We found among women who smoked pre-pregnancy, those with the 1051730 T allele smoked more and were less likely to quit smoking during pregnancy, but were also less likely to report high levels of depressed mood at 18 weeks of pregnancy (per allele OR = 0.84, 95%CI 0.72 to 0.99, p = 0.034). The association between genotype and depressed mood was limited to women who were smokers prior to pregnancy, with weak evidence of an interaction between smoking status and genotype (p = 0.07). Our results do not support a causal role of smoking on depressed mood, but are consistent with a self-medication hypothesis, whereby smoking is used to alleviate symptoms of depression. A replication study using multiple genetic variants which influence smoking via different pathways is required to confirm these findings and provide evidence that the genetic variant is reflecting the effect of quitting smoking on depressed mood, and is not directly affecting mood.  ">
+	<sentence ID="1058_0" START="451" END="734">
+		<snp ID="0" START="471" END="480" TEXT="rs1051730"/>
+		<phenotype ID="0" START="708" END="734" text="low mood"/>
+		<modality_marker  START="684" END="688" text="more"/>
+		<modality_marker  START="689" END="695" text="likely"/>
+		<modality_marker  START="699" END="705" text="report"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1058_1" START="735" END="1026">
+		<snp ID="1" START="797" END="804" TEXT="1051730"/>
+		<phenotype ID="2" START="855" END="1026" text="smoking"/>
+		<phenotype ID="1" START="932" END="1026" text="depressed mood"/>
+		<modality_marker  START="821" END="825" text="more"/>
+		<modality_marker  START="835" END="839" text="less"/>
+		<modality_marker  START="840" END="846" text="likely"/>
+		<modality_marker  START="895" END="899" text="less"/>
+		<modality_marker  START="900" END="906" text="likely"/>
+		<modality_marker  START="910" END="916" text="report"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

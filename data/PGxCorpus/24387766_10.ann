@@ -1,0 +1,7 @@
+T2	Phenotype 109 131	expression of hepcidin 
+T3	Gene_or_protein 123 131	hepcidin 
+T4	Chemical 44 66	black soyabean extract
+T5	Pharmacokinetic_phenotype 77 90	Fe metabolism
+T1	Chemical 77 79	Fe
+R1	influences Arg1:T4 Arg2:T5	
+R2	decreases Arg1:T4 Arg2:T2	

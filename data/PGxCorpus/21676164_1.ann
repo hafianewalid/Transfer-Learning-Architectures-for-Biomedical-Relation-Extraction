@@ -1,0 +1,13 @@
+T1	Gene_or_protein 0 5	HLA-B 
+T2	Pharmacodynamic_phenotype 54 78	Stevens-Johnson syndrome 
+T3	Chemical 31 44	carbamazepine 
+T4	Pharmacodynamic_phenotype 83 109	toxic epidermal necrolysis 
+T5	Disease 132 148	neuropathic pain 
+T6	Haplotype 0 12	HLA-B * 1502
+T7	Pharmacodynamic_phenotype 31 78	carbamazepine -induced Stevens-Johnson syndrome
+T8	Pharmacodynamic_phenotype 31 53;83 109	carbamazepine -induced toxic epidermal necrolysis
+R1	influences Arg1:T6 Arg2:T7	
+R2	influences Arg1:T6 Arg2:T4	
+R3	causes Arg1:T3 Arg2:T2	
+R4	influences Arg1:T6 Arg2:T8	
+R5	causes Arg1:T3 Arg2:T4	

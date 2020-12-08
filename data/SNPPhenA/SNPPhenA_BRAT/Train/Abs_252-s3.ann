@@ -1,0 +1,10 @@
+T1	SNP 21 30	rs7903146
+T2	SNP 35 45	rs12255372
+T3	Phenotype 85 87	TG
+T4	Phenotype 91 95	FCHL
+T5	Modality_Marker 11 15	show
+T6	Modality_Marker 80 84	high
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T1 Arg2:T4
+R3	strong_confidence_association Arg1:T2 Arg2:T3
+R4	strong_confidence_association Arg1:T2 Arg2:T4

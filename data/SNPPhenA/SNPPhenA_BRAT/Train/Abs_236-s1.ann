@@ -1,0 +1,9 @@
+T1	SNP 69 78	rs7903146
+T2	SNP 83 93	rs12255372
+T3	Phenotype 122 142	postprandial lipemia
+T4	Phenotype 153 172	MetS-related traits
+T5	Modality_Marker 147 152	other
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T4
+R3	neutral_association Arg1:T2 Arg2:T3
+R4	neutral_association Arg1:T2 Arg2:T4

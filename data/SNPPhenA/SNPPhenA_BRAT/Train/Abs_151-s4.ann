@@ -1,0 +1,6 @@
+T1	SNP 14 23	rs1051730
+T2	Phenotype 71 105	dependence or heaviness of smoking
+T3	Modality_Marker 32 35	may
+T4	Negation_Scope 36 106	not merely operate as a marker for dependence or heaviness of smoking.
+T5	Negation_Cue 36 39	not
+R1	negative_association Arg1:T1 Arg2:T2

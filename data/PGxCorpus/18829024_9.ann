@@ -1,0 +1,7 @@
+T1	Limited_variation 58 77	StAR gene mutations 
+T2	Gene_or_protein 58 62	StAR 
+T3	Chemical 100 109	estrogens 
+T4	Phenotype 19 28	Pregnancy
+T5	Phenotype 128 146	placental function
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T5	

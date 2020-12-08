@@ -1,0 +1,7 @@
+T1	SNP 98 105	TNFSF15
+T2	Phenotype 30 37	smoking
+T3	Phenotype 69 92	ileal (L1 + L3) disease
+T4	Phenotype 145 161	isolated colonic
+R1	moderate_confidence_association Arg1:T1 Arg2:T4
+R2	neutral_association Arg1:T1 Arg2:T2
+R3	neutral_association Arg1:T1 Arg2:T3

@@ -1,0 +1,12 @@
+T1	Chemical 27 36	Erlotinib 
+T2	Phenotype 46 82	Growth of Non-Small Cell Lung Cancer 
+T3	Disease 56 82	Non-Small Cell Lung Cancer 
+T4	Limited_variation 99 113	EGFR Mutations 
+T5	Gene_or_protein 99 103	EGFR 
+T6	Phenotype 118 136	HGF Overexpression 
+T7	Gene_or_protein 118 121	HGF 
+T8	Chemical 10 21	Onartuzumab
+T9	Chemical 10 36	Onartuzumab with Erlotinib
+R1	decreases Arg1:T9 Arg2:T2	
+R2	increases Arg1:T9 Arg2:T4	
+R3	increases Arg1:T9 Arg2:T6	

@@ -1,0 +1,5 @@
+T1	SNP 140 162	RS12255372 (TCF7L2 TT)
+T2	Phenotype 167 170	CRC
+T3	Modality_Marker 0 7	Overall
+T4	Modality_Marker 40 50	suggestive
+R1	weak_confidence_association Arg1:T1 Arg2:T2

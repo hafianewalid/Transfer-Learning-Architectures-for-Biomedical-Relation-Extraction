@@ -1,0 +1,17 @@
+T1	Phenotype 87 101	MAO-B activity
+T2	Gene_or_protein 87 92	MAO-B
+T3	Chemical 107 114	alcohol
+T4	Chemical 130 137	alcohol
+T5	Disease 107 125	alcohol dependence
+T6	Phenotype 130 168	alcohol dependence -related phenotypes
+T7	Limited_variation 15 73	gene polymorphisms encoding dopaminergic system components
+T8	Gene_or_protein 43 73	dopaminergic system components
+T9	Disease 130 148	alcohol dependence
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T7 Arg2:T5	
+R3	isAssociatedWith Arg1:T7 Arg2:T6	
+R4	isAssociatedWith Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1019" TEXT="OBJECTIVE: Warfarin is a commonly used oral anticoagulant with a narrow therapeutic index and various genetic and clinical factors that influence interpatient variability in dose requirements. This study investigated the impact of genetic and nongenetic factors on warfarin dose requirements in Egyptians. METHODS: DNA was extracted from 207 patients taking warfarin for more than 2 months and genotyped for VKORC1 (3673 G&gt;A), CYP2C9 *2*3*4*5*8, CYP4F2 (V33M; rs2108622), APOE (rs429358, rs7412), and CALU(rs339097) gene polymorphisms. Linear regression modeling was conducted to identify the genetic and nongenetic factors that independently influence warfarin dose requirements. RESULTS: VKORC1 3673 AA or GA genotype(P&lt;0.0001), one or two variant alleles of CYP2C9 gene (P=0.0004),APOE ε2 haplotype (P=0.01), and increasing age (P&lt;0.0001) were all associated with lower warfarin dose, whereas smoking (P=0.025) and pulmonary embolism (P=0.0059) showed association with higher warfarin doses. These factors explained 31% of the warfarin dose variability. This is the first independent confirmation of the association of the CALU rs339097 variant with higher warfarindose requirement, although inclusion of this single nucleotide polymorphism in the multiple regression model failed to achieve significance (P=0.066).CYP4F2 (V33M) polymorphism was not significant (P=0.314), despite its high frequency in the studied population (42%). CONCLUSIONS: The study shows that VKORC1, CYP2C9 polymorphisms, APOE ε2 variant, and several clinical/demographic variables are important determinants of warfarin dose requirements in Egyptian patients. The percentage of variability explained by these factors is lower than in those of European ancestry, but similar to the variability explained in Asians and African ancestry.">
+	<sentence ID="1019_0" START="1436" END="1638">
+		<snp ID="0" START="1470" END="1476" TEXT="VKORC1"/>
+		<snp ID="1" START="1478" END="1484" TEXT="CYP2C9"/>
+		<phenotype ID="0" START="1590" END="1638" text="warfarin"/>
+		<modality_marker  START="1436" END="1447" text="CONCLUSIONS"/>
+		<modality_marker  START="1459" END="1464" text="shows"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

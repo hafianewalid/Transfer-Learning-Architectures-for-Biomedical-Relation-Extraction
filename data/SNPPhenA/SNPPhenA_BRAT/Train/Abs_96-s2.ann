@@ -1,0 +1,4 @@
+T1	SNP 46 57	APOE/TOMM40
+T2	Phenotype 3 6	CHC
+T3	Modality_Marker 170 180	suggesting
+R1	strong_confidence_association Arg1:T1 Arg2:T2

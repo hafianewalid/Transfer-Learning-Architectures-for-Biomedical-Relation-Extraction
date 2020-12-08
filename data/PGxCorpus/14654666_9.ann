@@ -1,0 +1,11 @@
+T3	Chemical 118 121	BH4 
+T4	Pharmacodynamic_phenotype 164 177	Phe tolerance 
+T5	Chemical 164 167	Phe 
+T6	Chemical 219 222	Phe 
+T8	Limited_variation 91 113	genotype Y414C / R408W
+T7	Pharmacodynamic_phenotype 213 246	blood Phe levels < 200 micromol/L
+T9	Phenotype 47 54	3 years
+T1	Pharmacodynamic_phenotype 11 24	nonresponders
+T2	Pharmacodynamic_phenotype 74 88	clear response
+R1	increases Arg1:T3 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T7	

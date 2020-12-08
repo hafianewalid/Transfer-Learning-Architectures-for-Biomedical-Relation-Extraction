@@ -1,0 +1,7 @@
+T1	Pharmacodynamic_phenotype 47 68	dystrophin expression
+T2	Gene_or_protein 47 57	dystrophin
+T3	Chemical 8 16	PNA-AAV6
+T4	Chemical 0 3	PNA
+T5	Chemical 0 38	PNA and PNA-AAV6 , PNA-AAV8 conjugates
+T7	Chemical 19 27	PNA-AAV8
+R1	causes Arg1:T5 Arg2:T1	

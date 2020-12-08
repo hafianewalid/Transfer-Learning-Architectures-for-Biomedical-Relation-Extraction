@@ -1,0 +1,11 @@
+T1	SNP 64 70	rs4680
+T2	Phenotype 41 48	smoking
+T3	Phenotype 139 157	tobacco dependence
+T4	Modality_Marker 12 17	found
+T5	Modality_Marker 91 95	find
+T6	Negation_Scope 18 79	no association between smoking status and SNP rs4680 genotype
+T7	Negation_Cue 18 20	no
+T8	Negation_Scope 80 157	nor did we find a significant association to the degree of tobacco dependence
+T9	Negation_Cue 80 83	nor
+R1	negative_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3

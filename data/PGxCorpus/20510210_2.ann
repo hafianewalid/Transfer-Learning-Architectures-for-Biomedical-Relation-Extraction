@@ -1,0 +1,8 @@
+T1	Gene_or_protein 120 140	cytochrome P450 2C19 
+T2	Limited_variation 120 165	cytochrome P450 2C19 ( CYP2C19 ) polymorphism 
+T3	Gene_or_protein 143 150	CYP2C19 
+T4	Chemical 193 204	clopidogrel 
+T5	Pharmacodynamic_phenotype 169 204	antiplatelet effects of clopidogrel
+R1	isEquivalentTo Arg1:T3 Arg2:T1	
+R2	influences Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R2	hyp

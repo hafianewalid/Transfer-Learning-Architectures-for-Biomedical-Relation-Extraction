@@ -1,0 +1,5 @@
+T1	SNP 102 112	rs12255372
+T2	SNP 152 161	rs7903146
+T3	Phenotype 0 8	Diabetes
+R1	negative_association Arg1:T2 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T3

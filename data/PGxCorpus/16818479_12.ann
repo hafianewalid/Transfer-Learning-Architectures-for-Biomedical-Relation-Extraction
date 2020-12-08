@@ -1,0 +1,17 @@
+T1	Limited_variation 14 28	EGFR mutations 
+T2	Gene_or_protein 14 18	EGFR 
+T3	Chemical 114 124	paclitaxel 
+T4	Pharmacodynamic_phenotype 129 140;44 55	gemcitabine response to 
+T5	Chemical 102 111	platinums
+T6	Pharmacodynamic_phenotype 102 111;44 55	platinums response to
+T7	Pharmacodynamic_phenotype 114 124;44 55	paclitaxel response to
+T8	Chemical 129 140	gemcitabine
+T9	Pharmacodynamic_phenotype 44 92	response to conventional chemotherapeutic agents
+R1	influences Arg1:T1 Arg2:T7	
+R2	influences Arg1:T1 Arg2:T6	
+R3	influences Arg1:T1 Arg2:T4	
+R4	influences Arg1:T1 Arg2:T9	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	neg
+#4	AnnotatorNotes R4	neg

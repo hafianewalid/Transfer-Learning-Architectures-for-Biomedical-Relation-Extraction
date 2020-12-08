@@ -1,0 +1,13 @@
+T1	Chemical 47 59	clotrimazole 
+T2	Disease 151 163	glioblastoma 
+T3	Chemical 238 247	cisplatin 
+T5	Phenotype 69 87	cell proliferation
+T6	Limited_variation 260 273	wild-type p53
+T7	Pharmacodynamic_phenotype 218 247	antitumor effect of cisplatin
+T8	Phenotype 260 293	wild-type p53 -mediated apoptosis
+T4	Gene_or_protein 270 273	p53
+T9	Phenotype 103 124	morphological changes
+R1	decreases Arg1:T1 Arg2:T5	
+R2	increases Arg1:T1 Arg2:T7	
+R3	increases Arg1:T1 Arg2:T8	
+R4	isAssociatedWith Arg1:T5 Arg2:T9	

@@ -1,0 +1,19 @@
+T1	Chemical 0 9	Sorafenib 
+T3	Gene_or_protein 48 52	BRAF 
+T4	Disease 241 253	brain cancer 
+T5	Disease 167 179	liver cancer 
+T6	Disease 48 68	BRAF mutant melanoma
+T7	Disease 222 229;247 253	thyroid cancer
+T8	Disease 232 236;247 253	lung cancer
+T9	Limited_variation 48 59	BRAF mutant
+T10	Chemical 76 98	multi-kinase inhibitor
+T11	Disease 143 149;173 179	kidney cancer
+R1	treats Arg1:T1 Arg2:T5	
+R2	treats Arg1:T1 Arg2:T7	
+R3	treats Arg1:T1 Arg2:T4	
+R4	treats Arg1:T1 Arg2:T8	
+R5	treats Arg1:T1 Arg2:T6	
+R6	treats Arg1:T1 Arg2:T11	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp

@@ -1,0 +1,9 @@
+T1	Gene_or_protein 34 38	COMT 
+T2	Chemical 107 111	EGCG 
+T3	Limited_variation 34 58	COMT Val ( 158/108 ) Met
+T4	Pharmacokinetic_phenotype 107 122	EGCG absorption
+T5	Pharmacokinetic_phenotype 107 111;127 138	EGCG elimination
+R1	influences Arg1:T3 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R2	hyp neg
+#2	AnnotatorNotes R1	hyp neg

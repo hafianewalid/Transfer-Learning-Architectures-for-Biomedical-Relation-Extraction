@@ -1,0 +1,1 @@
+RESULTS: With multivariate generalized linear models, the association of TEF rs738499 with depressive symptoms was confirmed.

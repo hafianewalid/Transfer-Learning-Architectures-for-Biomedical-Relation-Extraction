@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1132" TEXT="METHODS: Six single nucleotide polymorphisms (SNPs) in the AURKA (rs2273535), ERBB2 (rs1136201), MDM2 (rs2279744), CDH1 (rs5030625), CDKN2A (rs11515), and TP73 (rs2273953) genes were genotyped in a consecutive cohort of 346 esophageal cancer patients, who had underwent surgical resection with curative intent.">
+	<sentence ID="1132_0" START="0" END="310">
+		<snp ID="0" START="66" END="75" TEXT="rs2273535"/>
+		<snp ID="1" START="85" END="94" TEXT="rs1136201"/>
+		<snp ID="2" START="103" END="112" TEXT="rs2279744"/>
+		<snp ID="3" START="121" END="130" TEXT="rs5030625"/>
+		<snp ID="4" START="141" END="148" TEXT="rs11515"/>
+		<snp ID="5" START="161" END="170" TEXT="rs2273953"/>
+		<phenotype ID="0" START="224" END="310" text="esophageal cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

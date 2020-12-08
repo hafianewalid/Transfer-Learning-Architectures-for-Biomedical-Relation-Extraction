@@ -1,0 +1,11 @@
+T1	SNP 143 152	rs1051730
+T2	SNP 264 273	rs1801272
+T3	Phenotype 301 321	lifetime average CPD
+T4	Phenotype 391 402	current CPD
+T5	Modality_Marker 288 296	observed
+T6	Modality_Marker 343 349	showed
+T7	Modality_Marker 350 358	evidence
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T1 Arg2:T4
+R3	strong_confidence_association Arg1:T2 Arg2:T3
+R4	strong_confidence_association Arg1:T2 Arg2:T4

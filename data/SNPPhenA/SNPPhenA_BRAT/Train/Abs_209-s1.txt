@@ -1,0 +1,1 @@
+In genotype-association SNP analysis, all NOD2 SNPs (rs5743293, rs2066844, rs2066845) and the IL23r SNP (rs11465804) showed a significant association to IBD (p < 0.03).

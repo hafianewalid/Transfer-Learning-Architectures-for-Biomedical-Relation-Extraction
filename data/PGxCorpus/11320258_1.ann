@@ -1,0 +1,9 @@
+T1	Chemical 24 31	cocaine 
+T2	Gene_or_protein 50 58;73 84	dopamine transporter 
+T4	Gene_or_protein 63 84	serotonin transporter 
+T5	Chemical 105 112	cocaine 
+T6	Genomic_variation 63 94	serotonin transporter knockouts
+T7	Genomic_variation 50 58;85 94	dopamine knockouts
+T3	Phenotype 105 129	cocaine place preference
+R1	influences Arg1:T7 Arg2:T3	
+R2	influences Arg1:T6 Arg2:T3	

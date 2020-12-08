@@ -1,0 +1,5 @@
+T1	SNP 25 34	rs1051730
+T2	Phenotype 65 110	second and third trimester fetal femur length
+T3	Phenotype 213 233	smaller birth length
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

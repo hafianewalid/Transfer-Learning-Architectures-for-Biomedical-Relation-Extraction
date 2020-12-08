@@ -1,0 +1,10 @@
+T5	Gene_or_protein 30 37	SLCO1B1 
+T6	Chemical 99 103	6-MP 
+T7	Disease 145 148	ALL 
+T8	Limited_variation 30 49	SLCO1B1 c.521 T > C 
+T1	Pharmacodynamic_phenotype 81 103	dose reduction of 6-MP
+T2	Chemical 119 131	chemotherapy
+R1	treats Arg1:T6 Arg2:T7	
+R2	influences Arg1:T8 Arg2:T1	
+R3	treats Arg1:T2 Arg2:T7	
+#1	AnnotatorNotes R2	hyp

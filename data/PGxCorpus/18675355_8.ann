@@ -1,0 +1,21 @@
+T1	Gene_or_protein 12 17	CD40L 
+T2	Gene_or_protein 62 67	LFA-1 
+T3	Gene_or_protein 81 84	CD4 
+T4	Gene_or_protein 136 141	LFA-1 
+T5	Chemical 147 157	everolimus 
+T6	Chemical 161 164	DSG 
+T7	Gene_or_protein 202 205	CD4 
+T8	Chemical 120 164	combining anti- LFA-1 with everolimus or DSG
+T9	Chemical 130 141	anti- LFA-1
+T10	Chemical 6 17	anti- CD40L
+T11	Chemical 56 67	anti- LFA-1
+T12	Gene_or_protein 89 92	CD8
+T13	Phenotype 81 84;93 113	CD4 T cell proliferation
+T14	Phenotype 89 92;93 113	CD8 T cell proliferation
+T15	Phenotype 202 226	CD4 T cell proliferation
+T16	Phenotype 33 53	T cell proliferation
+R2	decreases Arg1:T11 Arg2:T13	
+R3	decreases Arg1:T11 Arg2:T14	
+R1	decreases Arg1:T8 Arg2:T15	
+R6	decreases Arg1:T10 Arg2:T16	
+#1	AnnotatorNotes R6	neg

@@ -1,0 +1,13 @@
+T1	Gene_or_protein 0 4	CREB 
+T2	Chemical 52 59	cocaine 
+T3	Chemical 85 92	cocaine 
+T4	Phenotype 149 160	CREB levels 
+T5	Gene_or_protein 149 153	CREB 
+T6	Chemical 198 205	cocaine 
+T7	Genomic_factor 0 14	CREB antisense
+T9	Pharmacodynamic_phenotype 174 205	incentive properties of cocaine
+T8	Pharmacodynamic_phenotype 34 59	threshold dose of cocaine
+T10	Phenotype 73 112	reinstating cocaine self-administration
+R3	influences Arg1:T4 Arg2:T9	
+R1	causes Arg1:T8 Arg2:T10	
+R2	increases Arg1:T7 Arg2:T8	

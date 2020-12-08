@@ -1,0 +1,19 @@
+T1	SNP 188 194	rs7412
+T2	SNP 199 207	rs429358
+T3	SNP 223 232	rs2070895
+T4	SNP 246 255	rs1367117
+T5	SNP 277 283	rs7412
+T6	SNP 288 296	rs429358
+T7	SNP 311 320	rs2072560
+T8	Phenotype 101 103	BL
+T9	Modality_Marker 76 84	findings
+T10	Modality_Marker 117 129	consistently
+T11	SNP 336 342	rs5128
+R1	moderate_confidence_association Arg1:T1 Arg2:T8
+R2	moderate_confidence_association Arg1:T2 Arg2:T8
+R3	moderate_confidence_association Arg1:T3 Arg2:T8
+R4	moderate_confidence_association Arg1:T4 Arg2:T8
+R5	moderate_confidence_association Arg1:T5 Arg2:T8
+R6	moderate_confidence_association Arg1:T6 Arg2:T8
+R7	moderate_confidence_association Arg1:T7 Arg2:T8
+R8	moderate_confidence_association Arg1:T11 Arg2:T8

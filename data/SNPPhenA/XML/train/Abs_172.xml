@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1082" TEXT="Polycystic ovary syndrome (PCOS) is a complex genetic disease characterized by heritable reproductive and metabolic abnormalities. Genetic variants associated with the reproductive phenotype have been mapped to the fibrillin-3 (FBN3) gene and to a novel transcription factor-7-like 2 (TCF7L2) locus (rs11196236 G). The association of these genetic variants with metabolic phenotypes was investigated in 31 PCOS and 18 control women of European ancestry. The insulinogenic index during an oral glucose tolerance test (ΔI30/ΔG30) and insulin secretion rates at the maximal dose during a graded-glucose infusion (ISRmax) were used as indexes of insulin secretion. Endogenous glucose production (EGP) and insulin sensitivity (M/I) were determined during a euglycemic clamp. The disposition index (DI) was calculated using M/I and ΔI30/ΔG30 or ISRmax. Compared with noncarriers (n = 10) and control (n = 10), M/I was decreased (P = 1.1 × 10(-5)) in heterozygous and homozygous PCOS carriers (n = 14) of rs11196236 G and this variant predicted M/I (partial r(2) = 0.34, P = 0.005) in a regression analysis. Postabsorptive EGP tended to be higher (P = 0.040) in heterozygous and homozygous PCOS carriers of the FBN3-associated allele (n = 12), allele 8 of D19S884 (FBN3(+)), compared to PCOS noncarriers (n = 19). PCOS carriers of the rs12255372T (TCF7L2 Caucasian type 2 diabetes mellitus (T2D) locus) had no significant associated metabolic phenotypes. We conclude that rs11196236 GTCF7L2 variant is associated with peripheral insulin resistance in PCOS but this effect is not seen in control women. The FBN3 risk allele may be associated with changes in basal glucose homeostasis in PCOS. These findings require replication in additional PCOS cohorts.">
+	<sentence ID="1082_0" START="1448" END="1594">
+		<snp ID="0" START="1465" END="1475" TEXT="rs11196236"/>
+		<phenotype ID="1" START="1522" END="1594" text="insulin resistance"/>
+		<phenotype ID="0" START="1544" END="1594" text="PCOS"/>
+		<modality_marker  START="1572" END="1576" text="seen"/>
+		<negation_scope  START="1553" END="1594" text="this effect is not seen in control women.">
+			<negation_cue START="1568" END="1571" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1177" TEXT="Common variants of TCF7L2, encoding a beta-cell-expressed transcription factor, are strongly associated with increased risk of type 2 diabetes (T2D). We examined this association using both prospective and case-control designs. A total of 2,676 healthy European white middle-aged men from the prospective NPHSII (158 developed T2D over 15 years surveillance) were genotyped for two intronic SNPs [rs 7903146 (IVS3C&gt;T) and rs12255372 (IVS4G&gt;T)] which showed strong linkage disequilibrium (D' = 0.88, p&lt;0.001; R(2)=0.76, p&lt;0.001). The IVS5T allele frequency was 0.28 (95% CI 0.27-0.29) and 0.33 (0.28-0.39) in healthy and T2D, respectively (p=0.04). Compared to CC men, CT and TT men had an adjusted [for age, body mass index, systolic blood pressure, triglyceride and C-reactive protein levels] hazard ratio for T2D of 1.65 (1.13-2.41) and 1.87 (0.99-3.53), respectively, p&lt;0.01. The population attributable fraction for diabetes risk was 17%. In 1459, European white T2D men and women (60% male), T allele frequency was 0.36 (0.34-0.38), and compared to NPHSII healthy men the OR for T2D for the CT and TT subjects was 1.43 (1.24-1.65) and 2.11 (1.69-2.63), respectively p=&lt;0.0001. A similar effect was observed in 919 T2D Indian Asians [OR=1.50 (1.14-1.99) and 1.64 (1.03-2.63) p=0.003] and 385 Afro-Caribbean subjects [OR=1.25 (0.90-1.75) and 1.32 (0.74-2.33) p=0.17] compared to non-diabetic ethnically matched subjects from South London. Weaker associations were found for the IVS4G&gt;T in all studies. Linkage disequilibrium between the two SNPs was high in Indian Asians (D'=0.94), but much weaker in Afro-Caribbeans (D'=0.17) and haplotype frequencies differed markedly in this group. These results extend previous observations to other ethnic groups, and strongly confirm that   TCF7L2 genotype is a major risk factor for development of T2D.">
+	<sentence ID="1177_0" START="1690" END="1847">
+		<snp ID="0" START="1785" END="1791" TEXT="TCF7L2"/>
+		<phenotype ID="0" START="1843" END="1847" text="T2D"/>
+		<modality_marker  START="1720" END="1732" text="observations"/>
+		<modality_marker  START="1736" END="1741" text="other"/>
+		<modality_marker  START="1761" END="1769" text="strongly"/>
+		<modality_marker  START="1770" END="1777" text="confirm"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

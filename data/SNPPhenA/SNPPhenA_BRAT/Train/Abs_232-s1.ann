@@ -1,0 +1,15 @@
+T1	SNP 77 85	rs157581
+T2	SNP 99 108	rs2075650
+T3	SNP 160 168	rs429358
+T4	SNP 177 187	rs11668477
+T5	SNP 200 209	rs7091822
+T6	SNP 221 230	rs2227564
+T7	SNP 271 279	rs242562
+T8	Phenotype 120 153	cholesterol metabolism hypothesis
+R1	strong_confidence_association Arg1:T1 Arg2:T8
+R2	strong_confidence_association Arg1:T2 Arg2:T8
+R3	neutral_association Arg1:T3 Arg2:T8
+R4	negative_association Arg1:T4 Arg2:T8
+R5	negative_association Arg1:T5 Arg2:T8
+R6	neutral_association Arg1:T6 Arg2:T8
+R7	neutral_association Arg1:T7 Arg2:T8

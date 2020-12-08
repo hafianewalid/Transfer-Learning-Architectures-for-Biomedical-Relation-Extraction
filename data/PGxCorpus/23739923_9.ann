@@ -1,0 +1,12 @@
+T1	Phenotype 0 16	IFN-a production 
+T2	Gene_or_protein 0 5	IFN-a 
+T3	Chemical 76 97	deferoxamine mesylate 
+T8	Gene_or_protein 137 154	von Hippel-Lindau 
+T9	Gene_or_protein 157 160	VHL 
+T10	Gene_or_protein 231 234	VHL 
+T4	Limited_variation 224 234	mutant VHL
+T5	Limited_variation 127 154	wild-type von Hippel-Lindau
+T6	Disease 51 58	hypoxia
+R2	increases Arg1:T3 Arg2:T1	
+R1	isEquivalentTo Arg1:T9 Arg2:T8	
+R3	influences Arg1:T5 Arg2:T3	

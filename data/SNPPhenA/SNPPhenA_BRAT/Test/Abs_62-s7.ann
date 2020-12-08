@@ -1,0 +1,9 @@
+T1	SNP 24 32	rs165774
+T2	SNP 58 64	rs4680
+T3	Phenotype 132 145	schizophrenia
+T4	Phenotype 150 168	alcohol dependence
+T5	Modality_Marker 6 14	possible
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

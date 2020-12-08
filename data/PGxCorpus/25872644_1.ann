@@ -1,0 +1,9 @@
+T1	Limited_variation 20 41	ADORA2A polymorphisms 
+T2	Gene_or_protein 20 27	ADORA2A 
+T4	Chemical 45 53	levodopa 
+T5	Disease 77 96	Parkinson's disease 
+T3	Pharmacodynamic_phenotype 45 73	levodopa -induced dyskinesia
+T6	Disease 63 73	dyskinesia
+R1	influences Arg1:T1 Arg2:T3	
+R2	causes Arg1:T4 Arg2:T6	
+#1	AnnotatorNotes R1	hyp

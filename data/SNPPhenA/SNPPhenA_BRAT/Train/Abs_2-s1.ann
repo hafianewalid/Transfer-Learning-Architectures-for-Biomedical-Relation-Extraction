@@ -1,0 +1,3 @@
+T1	SNP 52 66	APOE genotypes
+T2	Phenotype 114 121	obesity
+R1	neutral_association Arg1:T1 Arg2:T2

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1025" TEXT="BACKGROUND: Hypertriglyceridemia (HTG) is a well-established independent risk factor for cardiovascular disease and the influence of several genetic variants in genes related with triglyceride (TG) metabolism has been described, including LPL,   APOA5 and   APOE.">
+	<sentence ID="1025_0" START="0" END="263">
+		<snp ID="0" START="239" END="242" TEXT="LPL"/>
+		<snp ID="1" START="246" END="251" TEXT="APOA5"/>
+		<snp ID="2" START="258" END="262" TEXT="APOE"/>
+		<phenotype ID="0" START="89" END="263" text="cardiovascular"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,5 @@
+T1	SNP 67 88	(SNP) A118G rs1799971
+T2	Phenotype 142 158	pain sensitivity
+T3	Modality_Marker 21 26	shown
+T4	Modality_Marker 130 133	may
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

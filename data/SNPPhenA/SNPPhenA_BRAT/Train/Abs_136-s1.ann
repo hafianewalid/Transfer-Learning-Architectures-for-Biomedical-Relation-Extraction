@@ -1,0 +1,10 @@
+T1	SNP 68 76	rs290487
+T2	SNP 107 116	rs7903146
+T3	SNP 131 139	rs290487
+T4	Phenotype 182 186	T2DM
+T5	Modality_Marker 0 11	CONCLUSIONS
+T6	Modality_Marker 47 52	model
+T7	Modality_Marker 159 162	may
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

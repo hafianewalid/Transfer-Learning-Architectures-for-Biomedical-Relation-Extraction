@@ -1,0 +1,12 @@
+T2	Gene_or_protein 29 34	GSTT1 
+T4	Chemical 112 116	APAP 
+T6	Gene_or_protein 152 157	GSTP1 
+T7	Chemical 221 225	APAP 
+T1	Limited_variation 29 63	GSTT1 homozygous deletion genotype
+T5	Disease 112 126	APAP poisoning
+T8	Limited_variation 152 185	GSTP1 homozygous variant genotype
+T10	Disease 221 234	APAP poisoned
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	causes Arg1:T8 Arg2:T10	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1167" TEXT="BACKGROUND: Recent studies have implicated variants of the transcription factor 7-like 2 (TCF7L2) gene in genetic susceptibility to type 2 diabetes mellitus in several different populations. The aim of this study was to determine whether variants of this gene are also risk factors for type 2 diabetes development in a UK-resident South Asian cohort of Punjabi ancestry. METHODS: We genotyped four single nucleotide polymorphisms (SNPs) of TCF7L2 (rs7901695, rs7903146, rs11196205 and rs12255372) in 831 subjects with diabetes and 437 control subjects. RESULTS: The minor allele of each variant was significantly associated with type 2 diabetes; the greatest risk of developing the disease was conferred by rs7903146, with an allelic odds ratio (OR) of 1.31 (95% CI: 1.11 - 1.56, p = 1.96 x 10(-3)). For each variant, disease risk associated with homozygosity for the minor allele was greater than that for heterozygotes, with the exception of rs12255372. To determine the effect on the observed associations of including young control subjects in our data set, we reanalysed the data using subsets of the control group defined by different minimum age thresholds. Increasing the minimum age of our control subjects resulted in a corresponding increase in OR for all variants of the gene (p &lt; or= 1.04 x 10(-7)). CONCLUSIONS: Our results support recent findings that TCF7L2 is an important genetic risk factor for the development of type 2 diabetes in multiple ethnic groups.">
+	<sentence ID="1167_0" START="562" END="799">
+		<snp ID="0" START="707" END="716" TEXT="rs7903146"/>
+		<phenotype ID="0" START="629" END="799" text="type 2 diabetes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

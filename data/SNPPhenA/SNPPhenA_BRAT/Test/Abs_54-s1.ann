@@ -1,0 +1,3 @@
+T1	SNP 80 89	rs1799971
+T2	Phenotype 56 66	alcoholism
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

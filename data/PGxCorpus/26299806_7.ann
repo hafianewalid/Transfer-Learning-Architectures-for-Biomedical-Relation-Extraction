@@ -1,0 +1,27 @@
+T1	Chemical 42 49	fisetin 
+T2	Chemical 54 63	sorafenib 
+T3	Gene_or_protein 69 72	RAF 
+T4	Phenotype 148 160	tumor growth 
+T6	Chemical 42 63	fisetin and sorafenib
+T5	Phenotype 113 131	cell proliferation
+T7	Phenotype 134 143	apoptosis
+T8	Chemical 69 82	RAF inhibitor
+R2	influences Arg1:T6 Arg2:T5	
+R3	influences Arg1:T6 Arg2:T7	
+R4	influences Arg1:T6 Arg2:T4	
+R1	isEquivalentTo Arg1:T8 Arg2:T2	
+R5	influences Arg1:T1 Arg2:T5	
+R6	influences Arg1:T1 Arg2:T7	
+R7	influences Arg1:T1 Arg2:T4	
+R8	influences Arg1:T2 Arg2:T5	
+R9	influences Arg1:T2 Arg2:T7	
+R10	influences Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R2	hyp
+#4	AnnotatorNotes R7	hyp
+#5	AnnotatorNotes R6	hyp
+#6	AnnotatorNotes R5	hyp
+#7	AnnotatorNotes R10	hyp
+#8	AnnotatorNotes R9	hyp
+#9	AnnotatorNotes R8	hyp

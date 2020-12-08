@@ -1,0 +1,5 @@
+T1	SNP 75 85	rs12255372
+T2	Phenotype 110 118	diabetes
+T3	Phenotype 185 198	breast cancer
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

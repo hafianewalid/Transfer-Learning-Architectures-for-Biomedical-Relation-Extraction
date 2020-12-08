@@ -1,0 +1,7 @@
+T1	SNP 4 10	Met158
+T2	Phenotype 78 88	aggressive
+T3	Phenotype 93 109	violent behavior
+T4	Phenotype 113 126	schizophrenia
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T1 Arg2:T2
+R3	strong_confidence_association Arg1:T1 Arg2:T3

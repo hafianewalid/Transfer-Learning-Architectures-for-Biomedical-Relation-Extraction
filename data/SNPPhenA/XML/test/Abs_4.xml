@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1034" TEXT="BACKGROUND: Although endometriosis may benefit from primary prevention measures, the epidemiological risk factors identified are equivocal. Two genome-wide association studies (GWAS) have been conducted for endometriosis in two different ethnic populations but results are still to be replicated consistently and across various ethnicities. To confirm the association of GWAS-derived susceptibility loci, we conducted a replication Italian case-control study and a meta-analysis. METHODS: An independent set of 305 laparoscopically-proven endometriosis patients and 2710 controls were recruited. Four SNPs-CDKN2BAS rs1333049, rs7521902 close to WNT4, rs12700667 in an inter-genic region on 7p15.2 and fibronectin 1 rs1250248-were selected for this association study. RESULTS: Rs1333049 risk allele G frequency resulted significantly higher in endometriosis patients compared with controls (OR 1.32, 95% CI 1.11 to 1.57), confirming the role of this locus also in the Caucasian population. The meta-analysis showed that rs7521902 was associated withendometriosis at a genome-wide significance (p(meta)=2.23×10(-9)) while for rs1250248, a genome-wide significant p(meta) value of 3.89×10(-9) was detected only in association with severe forms. An epistatic interaction between rs7521902 and rs1250248 (OR 1.56, p=1.19×10(-2)) was found especially in presence of ovarian disease (OR=2.15, p=3.12×10(-4)). CONCLUSIONS: We confirm WNT4, CDKN2BAS and FN1 as the first identified common loci for endometriosis.">
+	<sentence ID="1034_0" START="1242" END="1401">
+		<snp ID="0" START="1275" END="1284" TEXT="rs7521902"/>
+		<snp ID="1" START="1289" END="1298" TEXT="rs1250248"/>
+		<phenotype ID="0" START="1360" END="1401" text="ovarian"/>
+		<modality_marker  START="1328" END="1333" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

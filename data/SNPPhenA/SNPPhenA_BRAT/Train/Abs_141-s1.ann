@@ -1,0 +1,4 @@
+T1	SNP 64 73	rs9264942
+T2	Phenotype 114 117	HIV
+T3	Modality_Marker 253 260	unknown
+R1	weak_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,10 @@
+T1	Chemical 38 48	cefadroxil 
+T2	Gene_or_protein 94 99	PepT1 
+T3	Pharmacokinetic_phenotype 23 48	disposition of cefadroxil
+T4	Limited_variation 80 89;94 99	wild-type PepT1
+T5	Genomic_variation 94 108	PepT1 knockout
+T6	Pharmacokinetic_phenotype 35 48;8 18	of cefadroxil absorption
+R1	influences Arg1:T5 Arg2:T3	
+R2	influences Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

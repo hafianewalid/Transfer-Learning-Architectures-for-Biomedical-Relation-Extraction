@@ -1,0 +1,14 @@
+T1	Gene_or_protein 0 19	Cytochrome P450 2C9 
+T2	Gene_or_protein 22 28	CYP2C9 
+T3	Gene_or_protein 35 62	vitamin K epoxide reductase 
+T4	Gene_or_protein 65 71	VKORC1 
+T5	Pharmacodynamic_phenotype 103 128	acenocoumarol sensitivity 
+T6	Chemical 103 116	acenocoumarol 
+T7	Limited_variation 0 30;74 83	Cytochrome P450 2C9 ( CYP2C9 ) genotypes
+T8	Limited_variation 35 83	vitamin K epoxide reductase ( VKORC1 ) genotypes
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isEquivalentTo Arg1:T4 Arg2:T3	
+R3	influences Arg1:T7 Arg2:T5	
+R4	influences Arg1:T8 Arg2:T5	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R3	hyp

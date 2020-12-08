@@ -1,0 +1,14 @@
+T1	Chemical 26 39	acenocoumarol 
+T2	Limited_variation 130 136;148 157	CYP2C9 genotypes 
+T3	Gene_or_protein 130 136	CYP2C9 
+T4	Gene_or_protein 141 147	VKORC1 
+T5	Phenotype 61 81	underanticoagulation
+T6	Phenotype 86 105	overanticoagulation
+T7	Limited_variation 141 157	VKORC1 genotypes
+T9	Pharmacodynamic_phenotype 17 44	required acenocoumarol dose
+R3	isAssociatedWith Arg1:T6 Arg2:T7	
+R4	isAssociatedWith Arg1:T6 Arg2:T2	
+R5	isAssociatedWith Arg1:T5 Arg2:T2	
+R6	isAssociatedWith Arg1:T5 Arg2:T7	
+R2	isAssociatedWith Arg1:T9 Arg2:T2	
+R1	isAssociatedWith Arg1:T9 Arg2:T7	

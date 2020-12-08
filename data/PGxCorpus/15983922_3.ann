@@ -1,0 +1,10 @@
+T1	Chemical 28 38	lamivudine 
+T3	Pharmacodynamic_phenotype 148 169	lamivudine resistance 
+T4	Chemical 148 158	lamivudine 
+T5	Pharmacodynamic_phenotype 62 79	viral suppression
+T6	Limited_variation 106 121	M184V mutations
+R1	influences Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T1 Arg2:T6	
+R3	isAssociatedWith Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R1	contributes, despite the presence of M184V mutations and hgh-level phenotypc lamivudine resistance
+#2	AnnotatorNotes R2	hyp

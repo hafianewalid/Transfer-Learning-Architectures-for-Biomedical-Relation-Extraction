@@ -1,0 +1,9 @@
+T1	SNP 87 97	rs12255372
+T2	SNP 161 170	rs4506565
+T3	SNP 224 233	rs7903146
+T4	Phenotype 33 48	type 2 diabetes
+T5	Modality_Marker 3 11	observed
+T6	Modality_Marker 14 20	strong
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T2 Arg2:T4
+R3	strong_confidence_association Arg1:T3 Arg2:T4

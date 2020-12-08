@@ -1,0 +1,16 @@
+T2	Gene_or_protein 27 32	MnSOD 
+T3	Gene_or_protein 37 45	Cu/ZnSOD 
+T5	Phenotype 158 170	infarct size 
+T6	Disease 158 165	infarct 
+T7	Chemical 173 188	malondialdehyde 
+T8	Disease 71 81	I/R injury
+T1	Phenotype 127 155	serum creatine kinase levels
+T9	Pharmacodynamic_phenotype 173 195	malondialdehyde levels
+T10	Phenotype 202 222	apoptotic cell death
+T11	Phenotype 8 45	expression of both MnSOD and Cu/ZnSOD
+T12	Gene_or_protein 133 148	creatine kinase
+R1	influences Arg1:T11 Arg2:T8	
+R2	decreases Arg1:T11 Arg2:T1	
+R3	decreases Arg1:T11 Arg2:T5	
+R4	decreases Arg1:T11 Arg2:T9	
+R5	decreases Arg1:T11 Arg2:T10	

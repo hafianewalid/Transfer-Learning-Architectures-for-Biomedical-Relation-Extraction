@@ -1,0 +1,5 @@
+T1	SNP 91 100	rs7903146
+T2	Phenotype 105 120	androgen levels
+T3	Negation_Scope 0 207	In addition, there were no relationships between the TCF7L2 single nucleotide polymorphism rs7903146 and androgen levels (UK cases, p = 0.99; Finnish controls, p = 0.57; Finnish symptomatic cases, p = 0.80).
+T4	Negation_Cue 24 26	no
+R1	negative_association Arg1:T1 Arg2:T2

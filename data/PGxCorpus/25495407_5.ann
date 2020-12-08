@@ -1,0 +1,16 @@
+T2	Chemical 10 20	paclitaxel 
+T3	Gene_or_protein 32 38	CYP2C8 
+T4	Limited_variation 48 64	CYP2C8 rs1934951 
+T5	Gene_or_protein 48 54	CYP2C8 
+T6	Disease 86 92	anemia 
+T7	Limited_variation 99 114	ERCC1 Gln504Lys 
+T8	Gene_or_protein 99 104	ERCC1 
+T9	Disease 120 130	neuropathy 
+T1	Pharmacodynamic_phenotype 10 29	paclitaxel toxicity
+T10	Limited_variation 32 43	CYP2C8 HapC
+R1	isAssociatedWith Arg1:T4 Arg2:T6	
+R2	isAssociatedWith Arg1:T4 Arg2:T1	
+R3	isAssociatedWith Arg1:T7 Arg2:T9	
+R4	isAssociatedWith Arg1:T7 Arg2:T1	
+R5	isAssociatedWith Arg1:T10 Arg2:T1	
+R6	isAssociatedWith Arg1:T10 Arg2:T6	

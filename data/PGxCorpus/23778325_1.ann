@@ -1,0 +1,14 @@
+T3	Gene_or_protein 72 76	COX2 
+T4	Chemical 89 98	celecoxib 
+T5	Limited_variation 10 31	genetic polymorphisms
+T1	Disease 35 42	adenoma
+T2	Phenotype 35 53	adenoma recurrence
+T6	Pharmacodynamic_phenotype 58 66;89 98	toxicity celecoxib
+T7	Chemical 72 86	COX2 inhibitor
+T8	Pharmacodynamic_phenotype 58 86	toxicity in a COX2 inhibitor
+R1	influences Arg1:T5 Arg2:T2	
+R2	influences Arg1:T5 Arg2:T6	
+R3	influences Arg1:T5 Arg2:T8	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R1	hyp

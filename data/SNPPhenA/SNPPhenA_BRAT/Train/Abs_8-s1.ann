@@ -1,0 +1,19 @@
+T1	SNP 94 104	rs10757278
+T2	SNP 133 142	rs2549513
+T3	SNP 163 171	rs499818
+T4	SNP 192 201	rs2943634
+T5	SNP 229 238	rs6922269
+T6	SNP 263 271	rs429358
+T7	SNP 297 306	rs4804611
+T8	SNP 333 341	rs501120
+T9	SNP 368 373	rs268
+T10	Phenotype 54 57	CHD
+R1	strong_confidence_association Arg1:T1 Arg2:T10
+R2	strong_confidence_association Arg1:T2 Arg2:T10
+R3	strong_confidence_association Arg1:T3 Arg2:T10
+R4	strong_confidence_association Arg1:T4 Arg2:T10
+R5	strong_confidence_association Arg1:T5 Arg2:T10
+R6	strong_confidence_association Arg1:T6 Arg2:T10
+R7	strong_confidence_association Arg1:T7 Arg2:T10
+R8	strong_confidence_association Arg1:T8 Arg2:T10
+R9	strong_confidence_association Arg1:T9 Arg2:T10

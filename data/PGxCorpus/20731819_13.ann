@@ -1,0 +1,10 @@
+T2	Gene_or_protein 30 36	CYP2D6 
+T3	Chemical 184 193	tamoxifen 
+T4	Chemical 202 211	tamoxifen 
+T1	Haplotype 30 40	CYP2D6 * 4
+T5	Phenotype 163 167	BCSS
+T6	Phenotype 107 124	clinical outcomes
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	decreases Arg1:T1 Arg2:T6	
+R3	isAssociatedWith Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R3	neg

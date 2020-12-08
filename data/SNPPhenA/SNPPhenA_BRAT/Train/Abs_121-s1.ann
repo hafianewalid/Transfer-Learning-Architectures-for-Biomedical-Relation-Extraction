@@ -1,0 +1,4 @@
+T1	SNP 74 78	apoE
+T2	Phenotype 102 117	statin response
+T3	Modality_Marker 83 88	found
+R1	strong_confidence_association Arg1:T1 Arg2:T2

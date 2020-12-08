@@ -1,0 +1,8 @@
+T1	Chemical 12 38	lenalidomide / azacitidine 
+T2	Chemical 27 38	azacitidine 
+T3	Limited_variation 121 134	NPM1 mutation 
+T4	Gene_or_protein 121 125	NPM1 
+T5	Chemical 12 24	lenalidomide
+T6	Phenotype 53 88	function of cytotoxic T lymphocytes
+R2	isAssociatedWith Arg1:T4 Arg2:T1	
+R1	increases Arg1:T1 Arg2:T6	

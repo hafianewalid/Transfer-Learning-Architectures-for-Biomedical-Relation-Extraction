@@ -1,0 +1,27 @@
+T1	Gene_or_protein 118 123	ADRB2 
+T2	Limited_variation 126 135	rs1042713 
+T3	Limited_variation 142 151	rs1042714 
+T5	Gene_or_protein 187 193	SCNN1A 
+T6	Limited_variation 196 205	rs2228576 
+T7	Pharmacodynamic_phenotype 211 265	cycling performance after the inhalation of salbutamol 
+T8	Gene_or_protein 88 115	adrenergic b2-receptor gene
+T9	Gene_or_protein 158 184	epithelial Na channel gene
+T4	Chemical 255 265	salbutamol
+T10	Limited_variation 40 115	single nucleotide polymorphisms ( SNPs ) in the adrenergic b2-receptor gene
+T11	Limited_variation 158 184;40 87	epithelial Na channel gene single nucleotide polymorphisms ( SNPs ) in the
+R1	isEquivalentTo Arg1:T1 Arg2:T8	
+R7	isEquivalentTo Arg1:T5 Arg2:T9	
+R10	isAssociatedWith Arg1:T6 Arg2:T7	
+R11	isAssociatedWith Arg1:T5 Arg2:T7	
+R14	isAssociatedWith Arg1:T1 Arg2:T7	
+R15	isAssociatedWith Arg1:T2 Arg2:T7	
+R16	isAssociatedWith Arg1:T3 Arg2:T7	
+R2	isAssociatedWith Arg1:T10 Arg2:T7	
+R3	isAssociatedWith Arg1:T11 Arg2:T7	
+#1	AnnotatorNotes R14	hyp
+#2	AnnotatorNotes R15	hyp
+#3	AnnotatorNotes R16	hyp
+#4	AnnotatorNotes R11	hyp
+#5	AnnotatorNotes R10	hyp
+#6	AnnotatorNotes R2	hyp
+#7	AnnotatorNotes R3	hyp

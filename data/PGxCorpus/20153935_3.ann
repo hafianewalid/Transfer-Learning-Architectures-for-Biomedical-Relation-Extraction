@@ -1,0 +1,19 @@
+T1	Limited_variation 4 9	A118G 
+T2	Limited_variation 12 16	N40D 
+T3	Limited_variation 74 78	C77G 
+T4	Limited_variation 81 85	P26R 
+T5	Phenotype 271 311	predilection towards alcohol consumption 
+T6	Chemical 292 299	alcohol
+T7	Phenotype 207 229	physiological measures
+T8	Phenotype 241 260	behavioral measures
+T9	Phenotype 162 176	ligand binding
+R2	isEquivalentTo Arg1:T4 Arg2:T3	
+R6	isAssociatedWith Arg1:T5 Arg2:T3	
+R8	isAssociatedWith Arg1:T5 Arg2:T1	
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R4	influences Arg1:T1 Arg2:T9	
+R5	influences Arg1:T3 Arg2:T9	
+R3	isAssociatedWith Arg1:T1 Arg2:T7	
+R7	isAssociatedWith Arg1:T3 Arg2:T7	
+R9	isAssociatedWith Arg1:T1 Arg2:T8	
+R10	isAssociatedWith Arg1:T3 Arg2:T8	

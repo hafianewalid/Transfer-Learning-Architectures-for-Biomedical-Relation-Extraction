@@ -1,0 +1,5 @@
+T1	SNP 112 117	APOA5
+T2	Phenotype 162 175	antipsychotic
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 17 25	findings
+R1	weak_confidence_association Arg1:T1 Arg2:T2

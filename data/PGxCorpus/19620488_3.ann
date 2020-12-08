@@ -1,0 +1,9 @@
+T2	Gene_or_protein 32 36	HER2 
+T3	Gene_or_protein 41 46	TOP2A 
+T4	Disease 74 87	breast cancer 
+T5	Chemical 141 157	cyclophosphamide
+T1	Chemical 119 130	doxorubicin
+T6	Genomic_variation 18 36	status of the HER2
+T7	Genomic_variation 18 31;41 46	status of the TOP2A
+R5	treats Arg1:T1 Arg2:T4	
+R6	treats Arg1:T5 Arg2:T4	

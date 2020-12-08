@@ -1,0 +1,1 @@
+The minor alleles of rs7903146  T= TF(TCF7L2), rs12255372 T=TF (TCF7L2), rs1799884 (-30G/A, GCK), rs5219 (E23K,KCNJ11), rs7754840  (CDKAL1), rs4402960 (IGF2BP2), rs10830963 (MTNR1B), rs1387153  (MTNR1B) and rs1801278 (Gly972Arg, IRS1) were significantly associated with a higher risk of GDM.

@@ -1,0 +1,14 @@
+T1	Gene_or_protein 12 37	Dopamine beta-hydroxylase 
+T2	Gene_or_protein 40 43	DBH 
+T3	Chemical 55 63	dopamine 
+T4	Chemical 74 88	norepinephrine 
+T5	Chemical 130 143	catecholamine 
+T6	Pharmacokinetic_phenotype 130 154	catecholamine metabolism
+T7	Chemical 66 68	DA
+T8	Chemical 91 93	NE
+R2	isEquivalentTo Arg1:T2 Arg2:T1	
+R6	isEquivalentTo Arg1:T8 Arg2:T4	
+R7	isEquivalentTo Arg1:T7 Arg2:T3	
+R3	influences Arg1:T2 Arg2:T6	
+R1	influences Arg1:T1 Arg2:T3	
+R4	influences Arg1:T1 Arg2:T4	

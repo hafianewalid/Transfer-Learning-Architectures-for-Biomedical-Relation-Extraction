@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1157" TEXT="OBJECTIVE: Apolipoprotein E (ApoE) genotype has been associated with systemic inflammation and athero-thrombosis however the association with abdominal aortic aneurysm (AAA) has not been previously examined.">
+	<sentence ID="1157_0" START="0" END="207">
+		<snp ID="0" START="11" END="43" TEXT="Apolipoprotein E (ApoE) genotype"/>
+		<phenotype ID="0" START="69" END="207" text="systemic inflammation"/>
+		<phenotype ID="1" START="142" END="207" text="abdominal aortic aneurysm"/>
+		<negation_scope  START="121" END="207" text="the association with abdominal aortic aneurysm (AAA) has not been previously examined.">
+			<negation_cue START="178" END="181" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

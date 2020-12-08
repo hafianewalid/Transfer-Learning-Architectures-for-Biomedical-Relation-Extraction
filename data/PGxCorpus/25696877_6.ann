@@ -1,0 +1,15 @@
+T1	Chemical 36 47	clopidogrel 
+T2	Limited_variation 122 154	CYP2C19 loss-of-function alleles 
+T3	Gene_or_protein 122 129	CYP2C19 
+T4	Disease 262 282	cardiovascular death 
+T5	Disease 285 306	myocardial infarction 
+T6	Disease 312 318	stroke 
+T8	Phenotype 187 218	adverse cardiovascular outcomes
+T9	Disease 361 377	stent thrombosis
+T7	Disease 66 100	percutaneous coronary intervention
+R2	increases Arg1:T2 Arg2:T4	
+R3	increases Arg1:T2 Arg2:T5	
+R4	increases Arg1:T2 Arg2:T6	
+R5	increases Arg1:T2 Arg2:T9	
+R1	increases Arg1:T2 Arg2:T8	
+R6	influences Arg1:T2 Arg2:T1	

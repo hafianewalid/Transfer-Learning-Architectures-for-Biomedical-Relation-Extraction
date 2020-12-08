@@ -1,0 +1,9 @@
+T2	Gene_or_protein 75 79	EGFR 
+T1	Chemical 19 44	erlotinib and bevacizumab
+T3	Phenotype 54 57	PFS
+T5	Limited_variation 75 87	EGFR -mutant
+T4	Disease 75 93	EGFR -mutant NSCLC
+T6	Chemical 19 28	erlotinib
+T7	Chemical 33 44	bevacizumab
+R1	increases Arg1:T1 Arg2:T3	
+R2	influences Arg1:T5 Arg2:T1	

@@ -1,0 +1,7 @@
+T1	Chemical 35 46	amphetamine 
+T2	Phenotype 50 65	RGS2 expression 
+T3	Gene_or_protein 50 54	RGS2 
+T4	Chemical 111 122	amphetamine 
+T5	Pharmacodynamic_phenotype 15 46	effects of repeated amphetamine
+R1	influences Arg1:T5 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

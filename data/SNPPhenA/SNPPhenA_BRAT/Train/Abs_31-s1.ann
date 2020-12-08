@@ -1,0 +1,6 @@
+T1	SNP 4 15	rs7903146 T
+T2	Phenotype 57 60	BMI
+T3	Phenotype 97 112	type 2 diabetic
+T4	Modality_Marker 186 195	supported
+R1	moderate_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3

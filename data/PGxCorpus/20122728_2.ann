@@ -1,0 +1,17 @@
+T1	Limited_variation 12 40	TNF-a promoter polymorphisms 
+T2	Gene_or_protein 12 17	TNF-a 
+T3	Disease 63 79	multiple myeloma 
+T4	Disease 82 84	MM 
+T5	Chemical 227 238	thalidomide 
+T6	Chemical 243 256	dexamethasone 
+T7	Chemical 227 256	thalidomide and dexamethasone
+T8	Genomic_factor 12 26	TNF-a promoter
+T9	Phenotype 167 183	clinical outcome
+T10	Chemical 259 269	Thal + Dex
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R3	treats Arg1:T7 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T3	
+R4	isEquivalentTo Arg1:T10 Arg2:T7	
+R5	influences Arg1:T1 Arg2:T9	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R5	hyp

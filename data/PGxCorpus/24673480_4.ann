@@ -1,0 +1,11 @@
+T3	Gene_or_protein 87 93	CYP2D6 
+T1	Pharmacodynamic_phenotype 12 26	effective dose
+T2	Pharmacodynamic_phenotype 42 64	adverse drug reactions
+T4	Pharmacodynamic_phenotype 67 71	ADRs
+T5	Limited_variation 87 102	CYP2D6 genotype
+T6	Chemical 112 122	carvedilol
+R1	isEquivalentTo Arg1:T4 Arg2:T2	
+R2	influences Arg1:T5 Arg2:T6	
+R3	causes Arg1:T6 Arg2:T2	
+R4	influences Arg1:T5 Arg2:T1	
+R5	influences Arg1:T5 Arg2:T2	

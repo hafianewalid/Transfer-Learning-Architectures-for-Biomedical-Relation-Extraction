@@ -1,0 +1,11 @@
+T1	SNP 123 134	N34S SPINK1
+T2	SNP 139 148	L26V CTSB
+T3	Phenotype 71 74	TCP
+T4	Phenotype 78 82	FCPD
+T5	Modality_Marker 57 65	observed
+T6	Negation_Scope 0 159	No statistically significant association of the SNPs was observed with TCP or FCPD or between carriers and non-carriers of N34S SPINK1 and L26V CTSB mutations.
+T7	Negation_Cue 0 2	No
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T1 Arg2:T4
+R3	negative_association Arg1:T2 Arg2:T3
+R4	negative_association Arg1:T2 Arg2:T4

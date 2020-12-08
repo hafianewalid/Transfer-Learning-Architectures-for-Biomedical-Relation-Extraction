@@ -1,0 +1,7 @@
+T1	Disease 40 52	macrocytosis 
+T2	Limited_variation 67 84	ALDH-2/2 genotype 
+T3	Gene_or_protein 67 75	ALDH-2/2 
+T4	Chemical 108 120	acetaldehyde 
+T5	Pharmacokinetic_phenotype 108 133	acetaldehyde accumulation
+R1	isAssociatedWith Arg1:T2 Arg2:T1	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	

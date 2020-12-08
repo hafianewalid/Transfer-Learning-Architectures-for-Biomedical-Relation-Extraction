@@ -1,0 +1,13 @@
+T1	SNP 145 156	COMT rs4680
+T2	SNP 190 194	COMT
+T3	Phenotype 96 114	addictive behavior
+T4	Phenotype 199 206	smoking
+T5	Modality_Marker 0 11	CONCLUSIONS
+T6	Modality_Marker 76 82	highly
+T7	Modality_Marker 220 228	observed
+T8	Negation_Scope 167 228	no association between COMT and smoking behavior was observed
+T9	Negation_Cue 167 169	no
+R1	negative_association Arg1:T1 Arg2:T4
+R2	negative_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T1 Arg2:T3
+R4	neutral_association Arg1:T2 Arg2:T3

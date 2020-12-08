@@ -1,0 +1,3 @@
+T1	SNP 46 59	APOE genotype
+T2	Phenotype 80 98	cognitive function
+R1	neutral_association Arg1:T1 Arg2:T2

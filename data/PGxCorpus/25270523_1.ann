@@ -1,0 +1,8 @@
+T1	Gene_or_protein 12 38	anaplastic lymphoma kinase 
+T2	Disease 56 77	sarcomatoid carcinoma 
+T4	Chemical 119 129	crizotinib 
+T5	Genomic_variation 12 52	anaplastic lymphoma kinase translocation
+T3	Pharmacodynamic_phenotype 109 129	effect of crizotinib
+R2	isAssociatedWith Arg1:T5 Arg2:T2	
+R1	isAssociatedWith Arg1:T5 Arg2:T3	
+#2	AnnotatorNotes R1	hyp

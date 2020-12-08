@@ -1,0 +1,17 @@
+T1	Chemical 69 79	tacrolimus 
+T4	Gene_or_protein 151 157	CYP3A5 
+T5	Gene_or_protein 233 239	CYP3A5 
+T6	Gene_or_protein 295 301	CYP3A5 
+T2	Haplotype 295 305	CYP3A5 * 1
+T3	Haplotype 113 129	CYP3A5 * 3 / * 3
+T7	Haplotype 151 161	CYP3A5 * 1
+T8	Haplotype 233 249	CYP3A5 * 3 / * 3
+T9	Chemical 47 49	AZ
+T10	Pharmacodynamic_phenotype 56 79	C0 values of tacrolimus
+T11	Pharmacodynamic_phenotype 194 215	daily doses of Tac-QD
+T12	Chemical 209 215	Tac-QD
+T13	Gene_or_protein 113 119	CYP3A5
+R1	increases Arg1:T3 Arg2:T10	
+R2	decreases Arg1:T8 Arg2:T11	
+R3	influences Arg1:T7 Arg2:T10	
+R4	influences Arg1:T2 Arg2:T11	

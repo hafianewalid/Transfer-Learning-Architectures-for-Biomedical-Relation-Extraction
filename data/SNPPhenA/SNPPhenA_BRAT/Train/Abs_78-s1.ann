@@ -1,0 +1,5 @@
+T1	SNP 10 19	rs2656069
+T2	SNP 24 34	rs10851906
+T3	Phenotype 66 70	COPD
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

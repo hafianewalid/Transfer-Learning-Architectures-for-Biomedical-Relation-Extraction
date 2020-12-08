@@ -1,0 +1,107 @@
+T1	SNP 85 91	rs6265
+T2	SNP 96 104	rs988748
+T3	SNP 134 140	rs6314
+T4	SNP 159 165	rs6275
+T5	SNP 181 187	rs6265
+T6	SNP 192 198	rs4680
+T7	SNP 218 227	rs4795390
+T8	SNP 244 250	rs4680
+T9	SNP 274 283	rs1799732
+T10	SNP 285 291	rs4880
+T11	SNP 296 305	rs1152746
+T12	Phenotype 52 54	TD
+T13	Phenotype 59 79	orofacial dyskinesia
+T14	Phenotype 106 128	limb truncaldyskinesia
+T15	Phenotype 142 153	rest tremor
+T16	Phenotype 167 175	rigidity
+T17	Phenotype 200 212	bradykinesia
+T18	Phenotype 229 238	akathisia
+T19	Phenotype 252 268	tardive dystonia
+R1	weak_confidence_association Arg1:T1 Arg2:T12
+R2	weak_confidence_association Arg1:T1 Arg2:T13
+R3	neutral_association Arg1:T1 Arg2:T14
+R4	neutral_association Arg1:T1 Arg2:T15
+R5	neutral_association Arg1:T1 Arg2:T16
+R6	neutral_association Arg1:T1 Arg2:T17
+R7	neutral_association Arg1:T1 Arg2:T18
+R8	neutral_association Arg1:T1 Arg2:T19
+R9	weak_confidence_association Arg1:T2 Arg2:T12
+R10	weak_confidence_association Arg1:T2 Arg2:T13
+R11	neutral_association Arg1:T2 Arg2:T14
+R12	neutral_association Arg1:T2 Arg2:T15
+R13	neutral_association Arg1:T2 Arg2:T16
+R14	neutral_association Arg1:T2 Arg2:T17
+R15	neutral_association Arg1:T2 Arg2:T18
+R16	neutral_association Arg1:T2 Arg2:T19
+R17	neutral_association Arg1:T3 Arg2:T12
+R18	neutral_association Arg1:T3 Arg2:T13
+R19	weak_confidence_association Arg1:T3 Arg2:T14
+R20	neutral_association Arg1:T3 Arg2:T15
+R21	neutral_association Arg1:T3 Arg2:T16
+R22	neutral_association Arg1:T3 Arg2:T17
+R23	neutral_association Arg1:T3 Arg2:T18
+R24	neutral_association Arg1:T3 Arg2:T19
+R25	neutral_association Arg1:T4 Arg2:T12
+R26	neutral_association Arg1:T4 Arg2:T13
+R27	neutral_association Arg1:T4 Arg2:T14
+R28	weak_confidence_association Arg1:T4 Arg2:T15
+R29	neutral_association Arg1:T4 Arg2:T16
+R30	neutral_association Arg1:T4 Arg2:T17
+R31	neutral_association Arg1:T4 Arg2:T18
+R32	neutral_association Arg1:T4 Arg2:T19
+R33	neutral_association Arg1:T5 Arg2:T12
+R34	neutral_association Arg1:T5 Arg2:T13
+R35	neutral_association Arg1:T5 Arg2:T14
+R36	neutral_association Arg1:T5 Arg2:T15
+R37	weak_confidence_association Arg1:T5 Arg2:T16
+R38	neutral_association Arg1:T5 Arg2:T17
+R39	neutral_association Arg1:T5 Arg2:T18
+R40	neutral_association Arg1:T5 Arg2:T19
+R41	neutral_association Arg1:T6 Arg2:T12
+R42	neutral_association Arg1:T6 Arg2:T13
+R43	neutral_association Arg1:T6 Arg2:T14
+R44	neutral_association Arg1:T6 Arg2:T15
+R45	weak_confidence_association Arg1:T6 Arg2:T16
+R46	neutral_association Arg1:T6 Arg2:T17
+R47	neutral_association Arg1:T6 Arg2:T18
+R48	neutral_association Arg1:T6 Arg2:T19
+R49	neutral_association Arg1:T7 Arg2:T12
+R50	neutral_association Arg1:T7 Arg2:T13
+R51	neutral_association Arg1:T7 Arg2:T14
+R52	neutral_association Arg1:T7 Arg2:T15
+R53	neutral_association Arg1:T7 Arg2:T16
+R54	weak_confidence_association Arg1:T7 Arg2:T17
+R55	neutral_association Arg1:T7 Arg2:T18
+R56	neutral_association Arg1:T7 Arg2:T19
+R57	neutral_association Arg1:T8 Arg2:T12
+R58	neutral_association Arg1:T8 Arg2:T13
+R59	neutral_association Arg1:T8 Arg2:T14
+R60	neutral_association Arg1:T8 Arg2:T15
+R61	neutral_association Arg1:T8 Arg2:T16
+R62	neutral_association Arg1:T8 Arg2:T17
+R63	weak_confidence_association Arg1:T8 Arg2:T18
+R64	neutral_association Arg1:T8 Arg2:T19
+R65	neutral_association Arg1:T9 Arg2:T12
+R66	neutral_association Arg1:T9 Arg2:T13
+R67	neutral_association Arg1:T9 Arg2:T14
+R68	neutral_association Arg1:T9 Arg2:T15
+R69	neutral_association Arg1:T9 Arg2:T16
+R70	neutral_association Arg1:T9 Arg2:T17
+R71	neutral_association Arg1:T9 Arg2:T18
+R72	weak_confidence_association Arg1:T9 Arg2:T19
+R73	neutral_association Arg1:T10 Arg2:T12
+R74	neutral_association Arg1:T10 Arg2:T13
+R75	neutral_association Arg1:T10 Arg2:T14
+R76	neutral_association Arg1:T10 Arg2:T15
+R77	neutral_association Arg1:T10 Arg2:T16
+R78	neutral_association Arg1:T10 Arg2:T17
+R79	neutral_association Arg1:T10 Arg2:T18
+R80	weak_confidence_association Arg1:T10 Arg2:T19
+R81	neutral_association Arg1:T11 Arg2:T12
+R82	neutral_association Arg1:T11 Arg2:T13
+R83	neutral_association Arg1:T11 Arg2:T14
+R84	neutral_association Arg1:T11 Arg2:T15
+R85	neutral_association Arg1:T11 Arg2:T16
+R86	neutral_association Arg1:T11 Arg2:T17
+R87	neutral_association Arg1:T11 Arg2:T18
+R88	weak_confidence_association Arg1:T11 Arg2:T19

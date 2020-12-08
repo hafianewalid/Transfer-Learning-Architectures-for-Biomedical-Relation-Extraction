@@ -1,0 +1,12 @@
+T1	Gene_or_protein 24 29	ABCG2
+T2	Pharmacodynamic_phenotype 94 126	atorvastatin dose-dependent ADRs
+T3	Chemical 94 106	atorvastatin
+T5	Gene_or_protein 192 197	ABCG2
+T6	Limited_variation 24 36	ABCG2 421 CA
+T7	Limited_variation 192 203	ABCG2 421CC
+T4	Limited_variation 24 33;40 42	ABCG2 421 AA
+T8	Pharmacodynamic_phenotype 122 126	ADRs
+R1	increases Arg1:T6 Arg2:T2	
+R2	influences Arg1:T7 Arg2:T2	
+R3	increases Arg1:T4 Arg2:T2	
+R4	causes Arg1:T3 Arg2:T8	

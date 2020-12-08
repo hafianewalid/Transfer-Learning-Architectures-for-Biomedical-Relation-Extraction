@@ -1,0 +1,5 @@
+T1	Limited_variation 58 80	CHRNA5 coding variants 
+T2	Gene_or_protein 58 64	CHRNA5 
+T3	Chemical 115 123	nicotine 
+T5	Disease 115 134	nicotine dependence
+R1	isAssociatedWith Arg1:T1 Arg2:T5	

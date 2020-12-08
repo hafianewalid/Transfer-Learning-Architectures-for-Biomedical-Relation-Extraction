@@ -1,0 +1,6 @@
+T1	Limited_variation 64 84	SNPs in the POR gene 
+T3	Gene_or_protein 76 79	POR 
+T4	Chemical 138 146	warfarin 
+T2	Pharmacodynamic_phenotype 138 163	warfarin maintenance dose
+R1	influences Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

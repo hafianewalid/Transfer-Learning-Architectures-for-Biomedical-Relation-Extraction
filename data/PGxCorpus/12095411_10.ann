@@ -1,0 +1,7 @@
+T2	Gene_or_protein 96 111	angiotensinogen 
+T5	Phenotype 189 197	stenosis
+T1	Limited_variation 77 116	235T allele of the angiotensinogen gene
+T3	Chemical 125 136	cholesterol
+R1	increases Arg1:T1 Arg2:T5	
+R2	increases Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R2	neg

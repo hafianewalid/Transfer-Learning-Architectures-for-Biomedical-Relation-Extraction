@@ -1,0 +1,5 @@
+T1	Limited_variation 26 40	K-ras mutation 
+T2	Gene_or_protein 26 31	K-ras 
+T3	Chemical 44 53	tamoxifen 
+T4	Disease 77 90	breast cancer 
+R1	treats Arg1:T3 Arg2:T4	

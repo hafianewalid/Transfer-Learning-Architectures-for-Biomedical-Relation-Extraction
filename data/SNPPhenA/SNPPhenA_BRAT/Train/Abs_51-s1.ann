@@ -1,0 +1,9 @@
+T1	SNP 41 50	rs1898830
+T2	SNP 52 61	rs5743708
+T3	SNP 67 76	rs3804100
+T4	Phenotype 120 141	lung disease severity
+T5	Modality_Marker 77 89	demonstrated
+T6	Modality_Marker 92 102	consistent
+R1	moderate_confidence_association Arg1:T2 Arg2:T4
+R2	weak_confidence_association Arg1:T3 Arg2:T4
+R3	moderate_confidence_association Arg1:T1 Arg2:T4

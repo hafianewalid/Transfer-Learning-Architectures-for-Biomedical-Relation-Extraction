@@ -1,0 +1,5 @@
+T1	Gene_or_protein 50 56	Cyp3a5 
+T2	Chemical 91 101	Tacrolimus 
+T5	Haplotype 50 60	Cyp3a5 * 1
+T3	Pharmacodynamic_phenotype 72 101	Need More Doses of Tacrolimus
+R1	influences Arg1:T5 Arg2:T3	

@@ -1,0 +1,8 @@
+T1	Gene_or_protein 20 23	PXR 
+T2	Chemical 41 53	okadaic acid 
+T3	Chemical 127 141	pectenotoxin-2
+T4	Chemical 83 93	CiVDR/PXRa
+R1	increases Arg1:T2 Arg2:T1	
+R2	increases Arg1:T3 Arg2:T1	
+R3	isAssociatedWith Arg1:T4 Arg2:T1	
+#1	AnnotatorNotes R2	neg

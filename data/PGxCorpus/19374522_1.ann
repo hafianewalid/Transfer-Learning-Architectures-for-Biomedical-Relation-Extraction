@@ -1,0 +1,5 @@
+T2	Gene_or_protein 0 6	CYP2D6 
+T4	Chemical 56 67	risperidone 
+T1	Limited_variation 0 17	CYP2D6 genotyping
+R1	isAssociatedWith Arg1:T4 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

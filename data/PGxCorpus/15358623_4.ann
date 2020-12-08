@@ -1,0 +1,11 @@
+T1	Chemical 64 72	warfarin 
+T2	Limited_variation 104 125	VKORC1 gene mutations 
+T3	Gene_or_protein 104 110	VKORC1 
+T4	Pharmacodynamic_phenotype 187 212	anticoagulation intensity
+T5	Pharmacodynamic_phenotype 140 153	doses of drug
+T6	Pharmacodynamic_phenotype 43 58	anticoagulation
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T5	
+R3	isAssociatedWith Arg1:T6 Arg2:T1	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

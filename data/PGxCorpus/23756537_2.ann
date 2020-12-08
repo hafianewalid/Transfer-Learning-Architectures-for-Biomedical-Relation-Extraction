@@ -1,0 +1,13 @@
+T2	Gene_or_protein 45 49	MDR1 
+T3	Limited_variation 45 56	MDR1 C3435T 
+T4	Chemical 130 142	cyclosporine 
+T5	Chemical 145 148	CsA 
+T6	Disease 212 232	gingival hyperplasia 
+T7	Disease 235 237	GH 
+T8	Phenotype 202 232	degree of gingival hyperplasia
+T1	Disease 91 107	renal transplant
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	isEquivalentTo Arg1:T7 Arg2:T6	
+R3	isAssociatedWith Arg1:T3 Arg2:T8	
+R4	treats Arg1:T4 Arg2:T1	
+#1	AnnotatorNotes R3	hyp

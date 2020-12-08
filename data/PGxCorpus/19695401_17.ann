@@ -1,0 +1,8 @@
+T1	Gene_or_protein 78 82	TPMT 
+T2	Chemical 121 133	azathioprine 
+T3	Haplotype 78 87	TPMT * 3C
+T4	Pharmacodynamic_phenotype 121 159	azathioprine -induced myelosuppression
+T5	Disease 22 39	kidney transplant
+T6	Pharmacodynamic_phenotype 143 159	myelosuppression
+R1	increases Arg1:T3 Arg2:T4	
+R2	causes Arg1:T2 Arg2:T6	

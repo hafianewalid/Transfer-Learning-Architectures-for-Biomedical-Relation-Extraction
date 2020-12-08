@@ -1,0 +1,5 @@
+T1	SNP 51 60	rs1051730
+T2	Phenotype 107 131	tobacco-related diseases
+T3	Phenotype 208 219	lung cancer
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

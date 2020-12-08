@@ -1,0 +1,5 @@
+T1	SNP 33 42	rs7903146
+T2	Phenotype 47 51	PCOS
+T3	Negation_Scope 10 177	no association between rs7903146 and PCOS in the UK case-control study (Cochran-Armitage test, p = 0.51); nor with symptomatic status in the Finnish cohort (p = 0.36).
+T4	Negation_Cue 10 12	no
+R1	negative_association Arg1:T1 Arg2:T2

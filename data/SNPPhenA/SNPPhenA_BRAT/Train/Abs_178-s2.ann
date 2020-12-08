@@ -1,0 +1,9 @@
+T1	SNP 4 13	rs1051730
+T2	Phenotype 60 67	smoking
+T3	Phenotype 214 221	smoking
+T4	Modality_Marker 132 137	lower
+T5	Modality_Marker 149 156	overall
+T6	Negation_Scope 26 311	not significantly associated with smoking status or snus use (P > 0.05); the T allele was associated with lower BMI in the overall cohort (β = -0.10 kg/m(2), SE = 0.05; P = 0.03) and with smoking quantity in those in whom this was measured (n = 5,304) (β = 0.08, SE = 0.01; P < 0.0001)
+T7	Negation_Cue 26 29	not
+R1	negative_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3

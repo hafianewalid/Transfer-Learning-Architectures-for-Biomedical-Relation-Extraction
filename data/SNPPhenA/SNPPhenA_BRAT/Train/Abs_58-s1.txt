@@ -1,0 +1,1 @@
+RESULTS: EHS was significantly associated with SNP rs5770917 (P(allele) = 3.6x10(-3); OR = 1.56; 95% c.i.: 1.12-2.15) and HLA-DRB1*1501-DQB1*0602 haplotype (P(positivity) = 9.2x10(-11); OR = 3.97; 95% c.i.: 2.55-6.19).

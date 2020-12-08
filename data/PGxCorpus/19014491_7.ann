@@ -1,0 +1,27 @@
+T1	Limited_variation 115 129	SIRT1 variants 
+T2	Gene_or_protein 115 120	SIRT1 
+T4	Phenotype 168 174	weight
+T5	Phenotype 177 185	body fat
+T6	Phenotype 217 230	blood glucose
+T7	Pharmacodynamic_phenotype 233 252	insulin sensitivity
+T8	Phenotype 255 272	insulin secretion
+T9	Phenotype 277 286	liver fat
+T10	Phenotype 150 165	anthropometrics
+T3	Phenotype 189 214	metabolic characteristics
+T11	Chemical 233 240	insulin
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+R2	isAssociatedWith Arg1:T1 Arg2:T5	
+R3	isAssociatedWith Arg1:T1 Arg2:T6	
+R4	isAssociatedWith Arg1:T1 Arg2:T7	
+R5	isAssociatedWith Arg1:T1 Arg2:T8	
+R6	isAssociatedWith Arg1:T1 Arg2:T9	
+R7	isAssociatedWith Arg1:T1 Arg2:T10	
+R8	isAssociatedWith Arg1:T1 Arg2:T3	
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp
+#5	AnnotatorNotes R5	hyp
+#6	AnnotatorNotes R6	hyp
+#1	AnnotatorNotes R1	hyp
+#7	AnnotatorNotes R7	hyp
+#8	AnnotatorNotes R8	hyp

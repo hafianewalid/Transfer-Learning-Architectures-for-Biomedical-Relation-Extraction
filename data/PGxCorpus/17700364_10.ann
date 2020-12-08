@@ -1,0 +1,23 @@
+T1	Limited_variation 14 54	Single nucleotide polymorphisms of ABCA1 
+T3	Gene_or_protein 49 54	ABCA1 
+T4	Limited_variation 14 48;57 62	Single nucleotide polymorphisms of APOA5 
+T5	Gene_or_protein 65 70	APOC3 
+T6	Gene_or_protein 73 77	APOE 
+T7	Gene_or_protein 84 88	CETP 
+T10	Limited_variation 14 48;65 70	Single nucleotide polymorphisms of APOC3
+T11	Limited_variation 14 48;73 77	Single nucleotide polymorphisms of APOE
+T12	Limited_variation 14 48;84 88	Single nucleotide polymorphisms of CETP
+T13	Phenotype 127 171	high-density lipoprotein- cholesterol levels
+T14	Phenotype 103 122	plasma triglyceride
+T2	Gene_or_protein 57 62	APOA5
+T15	Chemical 179 193	antiretroviral
+R2	influences Arg1:T11 Arg2:T14	
+R3	influences Arg1:T4 Arg2:T14	
+R5	influences Arg1:T12 Arg2:T14	
+R6	influences Arg1:T1 Arg2:T13	
+R7	influences Arg1:T12 Arg2:T13	
+R8	influences Arg1:T4 Arg2:T13	
+R9	influences Arg1:T11 Arg2:T13	
+R10	influences Arg1:T10 Arg2:T13	
+R1	influences Arg1:T1 Arg2:T14	
+R4	influences Arg1:T10 Arg2:T14	

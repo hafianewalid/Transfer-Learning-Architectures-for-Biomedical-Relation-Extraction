@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1103" TEXT="We have previously demonstrated that haplotypes of three single nucleotide polymorphisms (SNPs) within the first intron of the OCA2 gene are extremely strongly associated with variation in human eye color. In the present work, we describe additional fine association mapping of eye color SNPs in theintergenic region upstream of OCA2 and within the neighboring HERC2 (hect domain and RLD2) gene. We screened an additional 92 SNPs in 300-3000 European individuals and found that a single SNP in intron 86 of HERC2, rs12913832, predicted eye color significantly better (ordinal logistic regressionR(2) = 0.68, association LOD = 444) than our previous best OCA2 haplotype. Comparison of sequence alignments of multiple species showed that this SNP lies in the center of a short highly conserved sequence and that the blue-eye-associated allele (frequency 78%) breaks up this conserved sequence, part of which forms a consensus binding site for the helicase-like transcription factor (HLTF). We were also able to demonstrate the OCA2 R419Q,rs1800407, coding SNP acts as a penetrance modifier of this new HERC2 SNP for eye color, and somewhat independently, of melanoma risk. Weconclude that the conserved region around rs12913832 represents a regulatory region controlling constitutive expression of OCA2 and that the C allele at rs12913832 leads to decreased expression of OCA2, particularly within iris melanocytes, which we postulate to be the ultimate cause of blue eye color.">
+	<sentence ID="1103_0" START="988" END="1170">
+		<snp ID="0" START="1036" END="1045" TEXT="rs1800407"/>
+		<snp ID="1" START="1100" END="1105" TEXT="HERC2"/>
+		<phenotype ID="0" START="1156" END="1170" text="melanoma"/>
+		<modality_marker  START="1009" END="1020" text="demonstrate"/>
+		<modality_marker  START="1129" END="1137" text="somewhat"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

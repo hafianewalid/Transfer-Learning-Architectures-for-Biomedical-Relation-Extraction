@@ -1,0 +1,38 @@
+T1	Limited_variation 14 24	RB1 status 
+T2	Gene_or_protein 14 17	RB1 
+T3	Pharmacodynamic_phenotype 100 109;40 51	cisplatin sensitivity 
+T4	Chemical 100 109	cisplatin 
+T5	Chemical 121 135	5-fluorouracil 
+T6	Chemical 138 148	idarubicin 
+T7	Chemical 151 161	epirubicin 
+T8	Chemical 164 171	PRIMA-1 
+T9	Chemical 182 193	fludarabine 
+T10	Chemical 198 208	PD-0332991 
+T11	Disease 243 247	TNBC 
+T12	Chemical 112 116	CDDP
+T13	Disease 55 59	TNBC
+T14	Pharmacodynamic_phenotype 121 135;40 51;66 68	5-fluorouracil sensitivity to
+T15	Pharmacodynamic_phenotype 138 148;40 51;66 68	idarubicin sensitivity to
+T16	Pharmacodynamic_phenotype 151 161;40 51;66 68	epirubicin sensitivity to
+T17	Pharmacodynamic_phenotype 164 171;40 51;66 68	PRIMA-1 sensitivity to
+T18	Pharmacodynamic_phenotype 182 193;40 51;66 68	fludarabine sensitivity to
+T19	Pharmacodynamic_phenotype 198 208;40 51;66 68	PD-0332991 sensitivity to
+T20	Chemical 69 89	multiple other drugs
+T21	Pharmacodynamic_phenotype 40 51;66 89	sensitivity to multiple other drugs
+R1	isEquivalentTo Arg1:T12 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T17	
+R3	influences Arg1:T1 Arg2:T16	
+R4	influences Arg1:T1 Arg2:T15	
+R5	influences Arg1:T1 Arg2:T14	
+R6	influences Arg1:T1 Arg2:T18	
+R7	influences Arg1:T1 Arg2:T3	
+R8	influences Arg1:T1 Arg2:T19	
+R9	influences Arg1:T1 Arg2:T21	
+#1	AnnotatorNotes R7	neg
+#2	AnnotatorNotes R5	neg
+#3	AnnotatorNotes R4	neg
+#4	AnnotatorNotes R3	neg
+#5	AnnotatorNotes R2	neg
+#6	AnnotatorNotes R6	neg
+#7	AnnotatorNotes R8	neg
+#8	AnnotatorNotes R9	neg

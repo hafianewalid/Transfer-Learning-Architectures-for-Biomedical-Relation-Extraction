@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1258" TEXT="Recently, the transcription factor 7-like 2 (TCF7L2) gene on chromosome 10q25.2 has been linked with type 2 diabetes among Caucasians, with disease associations noted for single nucleotide polymorphisms (SNPs) rs12255372 and rs7903146. To investigate mechanisms by which TCF7L2 could contribute to type 2 diabetes, we examined the effects of these SNPs on clinical and metabolic traits affecting glucose homeostasis in 256 nondiabetic female subjects (138 European Americans and 118 African Americans) aged 7-57 years. Outcomes included BMI, percent body fat, insulin sensitivity (S(i)), acute insulin response to glucose (AIR(g)), and the disposition index (DI). Homozygosity for the minor allele (TT) of SNP rs12255372 occurred in 9% of individuals and was associated with a 31% reduction in DI values in a recessive model. The at-risk allele TT was also associated with lower AIR(g) adjusted for S(i) in both ethnic groups, whereas rs12255372 genotype was not associated with measures of adiposity or with S(i).&lt;/CS&gt; &lt;CS&gt; le of rs12255372 was also associated with increased prevalence of impaired fasting glucose. Genotypes at rs7903146 were not associated with any metabolic trait. Lower S(i) and higher AIR(g) observed in the African-American compared with the European-American subgroup could not be explained by the TCF7L2 genotype. Our data suggest that the TCF7L2 gene is an important factor regulating insulin secretion, which could explain its association with type 2 diabetes.">
+	<sentence ID="1258_0" START="664" END="825">
+		<snp ID="0" START="710" END="720" TEXT="rs12255372"/>
+		<phenotype ID="0" START="794" END="825" text="DI values"/>
+		<modality_marker  START="819" END="824" text="model"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1258_1" START="927" END="1024">
+		<snp ID="1" START="935" END="945" TEXT="rs12255372"/>
+		<phenotype ID="1" START="991" END="1024" text="adiposity or with S(i)"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1258_2" START="1025" END="1116">
+		<snp ID="2" START="1031" END="1043" TEXT="rs12255372 w"/>
+		<phenotype ID="2" START="1091" END="1116" text="impaired fasting glucose"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1258_3" START="1117" END="1185">
+		<snp ID="3" START="1130" END="1139" TEXT="rs7903146"/>
+		<phenotype ID="3" START="1169" END="1185" text="metabolic trait"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

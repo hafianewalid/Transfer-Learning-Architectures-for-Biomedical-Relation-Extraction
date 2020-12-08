@@ -1,0 +1,6 @@
+T1	SNP 31 39	CYP 1A2 
+T2	Phenotype 88 99	hot flashes
+T3	Modality_Marker 65 69	more
+T4	Modality_Marker 70 76	likely
+T5	Modality_Marker 80 86	report
+R1	weak_confidence_association Arg1:T1 Arg2:T2

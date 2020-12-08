@@ -1,0 +1,6 @@
+T1	Gene_or_protein 51 54	CYP 
+T2	Gene_or_protein 104 110	CYP2D6 
+T4	Chemical 104 137	CYP2D6 metabolized drugs of abuse
+T6	Limited_variation 51 54;69 77	CYP genotype
+T3	Phenotype 51 64	CYP phenotype
+R1	influences Arg1:T6 Arg2:T4	

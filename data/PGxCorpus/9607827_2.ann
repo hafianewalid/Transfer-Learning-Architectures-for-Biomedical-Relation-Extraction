@@ -1,0 +1,11 @@
+T1	Limited_variation 62 67	Q151M 
+T2	Pharmacodynamic_phenotype 89 124	multi- dideoxynucleoside resistance 
+T3	Chemical 96 113	dideoxynucleoside 
+T4	Pharmacodynamic_phenotype 127 130	MDR
+T5	Limited_variation 2 45	set of five reverse transcriptase mutations
+T6	Disease 136 171	human immunodeficiency virus type 1
+T7	Disease 174 179	HIV-1
+R1	causes Arg1:T1 Arg2:T2	
+R2	isEquivalentTo Arg1:T4 Arg2:T2	
+R3	causes Arg1:T5 Arg2:T2	
+R4	isEquivalentTo Arg1:T7 Arg2:T6	

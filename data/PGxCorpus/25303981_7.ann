@@ -1,0 +1,6 @@
+T1	Limited_variation 41 70	DTNBP1 rs3213207 polymorphism 
+T2	Disease 125 151	methamphetamine dependence
+T3	Gene_or_protein 41 47	DTNBP1
+T5	Chemical 125 140	methamphetamine
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R1	neg

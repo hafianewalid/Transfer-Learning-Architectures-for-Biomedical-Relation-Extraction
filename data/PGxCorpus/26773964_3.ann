@@ -1,0 +1,11 @@
+T1	Limited_variation 55 74	CYP3A5 polymorphism 
+T2	Gene_or_protein 55 61	CYP3A5 
+T3	Phenotype 94 108	CYP3A activity 
+T4	Gene_or_protein 94 99	CYP3A 
+T5	Chemical 188 209	4b-hydroxycholesterol 
+T6	Pharmacodynamic_phenotype 164 209	plasma concentration of 4b-hydroxycholesterol
+T7	Disease 122 144	kidney transplantation
+R1	influences Arg1:T1 Arg2:T6	
+R2	increases Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

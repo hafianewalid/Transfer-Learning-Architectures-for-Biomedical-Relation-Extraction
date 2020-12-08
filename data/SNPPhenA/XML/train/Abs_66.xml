@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1233" TEXT="Biological and epidemiologic evidence suggest that androgen or its receptor may play a role in ovarian cancer pathogenesis. The most notable genetic factor influencing androgen receptor (AR) activity is the functional cytosine, adenine, guanine (CAG) repeat in which length is inversely proportional to itstransactivational activity. Additional genetic variation due to single nucleotide polymorphisms in the AR gene may be captured through haplotypes. We genotyped the CAG microsatellite and six haplotype-tagging single nucleotide polymorphisms (rs962458, rs6152, rs1204038, rs2361634, rs1337080, rs1337082) of the androgen receptor gene in 987 ovarian cancer cases and 1,034 controls from a study conducted in New Hampshire and easternMassachusetts between May 1992 and July 2003. We estimated haplotype frequencies and calculated odds ratios with 95% confidence intervals toevaluate the association between the haplotypes and the AR CAG microsatellite with ovarian cancer risk. We observed that carriage of two alleles with &gt; or = 22 CAG repeats was associated with an increased risk of ovarian cancer compared with carriage of two alleles with &lt;22 CAG repeats (covariate-adjusted odds ratios, 1.31; 95% confidence intervals, 1.01-1.69). Five common haplotypes in the AR gene were identified, but no association between these and ovarian cancer risk was observed. Our results suggest that possession of two long AR alleles  or = 22 CAG repeats may be associated with increased risk of ovarian cancer compared with women with two short AR alleles (&lt;22 CAG repeats).">
+	<sentence ID="1233_0" START="982" END="1241">
+		<snp ID="0" START="1038" END="1049" TEXT="CAG repeats"/>
+		<phenotype ID="0" START="1091" END="1241" text="ovarian cancer"/>
+		<modality_marker  START="985" END="993" text="observed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1233_1" START="1368" END="1568">
+		<snp ID="1" START="1428" END="1447" TEXT="or = 22 CAG repeats"/>
+		<phenotype ID="1" START="1489" END="1568" text="ovarian cancer"/>
+		<modality_marker  START="1380" END="1387" text="suggest"/>
+		<modality_marker  START="1448" END="1451" text="may"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

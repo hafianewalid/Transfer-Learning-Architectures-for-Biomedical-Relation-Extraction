@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1214" TEXT="Recently, significant associations between common variants of the transcription factor 7-like 2 gene ( TCF7L2) and type 2 diabetes have been reported. This study was designed to replicate the reported associations of the two highly correlated (r (2)=0.86) TCF7L2 single nucleotide polymorphisms rs12255372 and rs7903146 with type 2 diabetes in a case-control study of 2369 MONICA/KORA participants (678 cases/1691 controls from Augsburg, Germany). To further investigate the pathogenic mechanism underlying these associations, we extended our analyses to the metabolic syndrome (IDF, NCEP definitions) and its components in a population-based study comprising 1404 male and female KORA participants aged 55-74 years. Results of our analyses strongly confirmed the minor T alleles as risk variants for type 2 diabetes (rs7903146: OR (TvsC) [95% CI]=1.36 [1.18;1.58], p=0.00003, and rs12255372: OR (TvsG) [95% CI]=1.31 [1.13;1.51], p=0.0003). Moreover, the T allele at rs7903146 was inversely associated with log-transformed, HOMA-%B (beta=-0.07, p=0.005) as a measure of basal insulin secretion, and log-transformed fasting insulin (beta=-0.06, p=0.02). No association was found with insulin resistance (HOMA-IR) and the metabolic syndrome. These findings support replication evidence that TCF7L2 variants increase type 2 diabetes risk. TCF7L2 may primarily affect pancreatic beta cell function.">
+	<sentence ID="1214_0" START="941" END="1152">
+		<snp ID="0" START="967" END="976" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1070" END="1152" text="basal insulin secretion"/>
+		<phenotype ID="1" START="1099" END="1152" text="log-transformed fasting insulin"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

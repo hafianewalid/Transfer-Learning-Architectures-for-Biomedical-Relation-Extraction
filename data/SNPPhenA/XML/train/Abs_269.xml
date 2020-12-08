@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1189" TEXT="TCF7L2 acts as both a repressor and transactivator of genes, as directed by the Wnt signaling pathway. Recently, several highly correlated sequence variants located within a haplotype block of the TCF7L2 gene were observed to associate with type 2 diabetes in three Caucasian cohorts. We previously reported linkage of type 2 diabetes in the San Antonio Family Diabetes Study (SAFADS) cohort consisting of extended pedigrees of Mexican Americans to the region of chromosome 10q harboring TCF7L2. We therefore genotyped 11 single nucleotide polymorphisms (SNPs) from nine haplotype blocks across the gene in 545 SAFADS subjects (178 diabetic) to investigate their role in diabetes pathogenesis. We observed nominal association between four SNPs (rs10885390, rs7903146, rs12255372, and rs3814573) in three haplotype blocks and type 2 diabetes, age at diagnosis, and 2-h glucose levels (P = 0.001-0.055). Furthermore, we identified a common protective haplotype defined by these four SNPs that was significantly associated with type 2 diabetes and age at diagnosis (P = 4.2 x 10(-5), relative risk [RR] 0.69; P = 6.7 x 10(-6), respectively) and a haplotype that confers diabetes risk that contains the rare alleles at SNPs rs10885390 and rs12255372 (P = 0.02, RR 1.64). These data provide evidence that variation in the TCF7L2 genomic region may affect risk for type 2 diabetes in Mexican Americans, but the attributable risk may be lower than in Caucasian populations.">
+	<sentence ID="1189_0" START="694" END="901">
+		<snp ID="0" START="745" END="755" TEXT="rs10885390"/>
+		<snp ID="1" START="757" END="766" TEXT="rs7903146"/>
+		<snp ID="2" START="768" END="778" TEXT="rs12255372"/>
+		<snp ID="3" START="784" END="793" TEXT="rs3814573"/>
+		<phenotype ID="0" START="825" END="901" text="type 2 diabetes"/>
+		<modality_marker  START="697" END="705" text="observed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

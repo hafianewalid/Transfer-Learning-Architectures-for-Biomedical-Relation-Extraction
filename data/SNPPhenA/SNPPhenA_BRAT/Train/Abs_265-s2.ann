@@ -1,0 +1,3 @@
+T1	SNP 16 26	rs12255372
+T2	Phenotype 71 88	insulin secretion
+R1	strong_confidence_association Arg1:T1 Arg2:T2

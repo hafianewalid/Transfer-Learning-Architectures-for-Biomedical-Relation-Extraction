@@ -1,0 +1,21 @@
+T1	SNP 59 67	rs662799
+T2	SNP 77 86	Cys185Gly
+T3	SNP 88 97	rs2075291
+T4	SNP 111 120	rs1799884
+T5	SNP 145 153	rs780094
+T6	SNP 178 187	rs1260326
+T7	Phenotype 208 219	serum lipid
+T8	Phenotype 224 238	glucose levels
+T9	Modality_Marker 252 263	considering
+R1	neutral_association Arg1:T1 Arg2:T7
+R2	neutral_association Arg1:T2 Arg2:T7
+R3	neutral_association Arg1:T3 Arg2:T7
+R4	neutral_association Arg1:T4 Arg2:T7
+R5	neutral_association Arg1:T1 Arg2:T8
+R6	neutral_association Arg1:T2 Arg2:T8
+R7	neutral_association Arg1:T3 Arg2:T8
+R8	neutral_association Arg1:T4 Arg2:T8
+R9	neutral_association Arg1:T5 Arg2:T7
+R10	neutral_association Arg1:T5 Arg2:T8
+R11	neutral_association Arg1:T6 Arg2:T7
+R12	neutral_association Arg1:T6 Arg2:T8

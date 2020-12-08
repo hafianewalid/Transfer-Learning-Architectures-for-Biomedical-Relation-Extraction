@@ -1,0 +1,7 @@
+T1	SNP 143 152	rs6074022
+T2	SNP 164 174	rs10492972
+T3	SNP 187 195	rs187238
+T4	Phenotype 285 323	relapsing-remitting multiple sclerosis
+R1	neutral_association Arg1:T1 Arg2:T4
+R2	neutral_association Arg1:T2 Arg2:T4
+R3	neutral_association Arg1:T3 Arg2:T4

@@ -1,0 +1,11 @@
+T1	Disease 30 57	Dukes ' C colorectal cancer 
+T2	Disease 115 121	tumour 
+T3	Chemical 136 140	5-FU 
+T4	Limited_variation 172 191	p53 mutation status 
+T5	Gene_or_protein 172 175	p53 
+T7	Chemical 136 169	5-FU -based adjuvant chemotherapy
+T6	Phenotype 265 289	metastasis-free survival
+T8	Disease 81 99	surgical resection
+T9	Phenotype 253 260;281 289	overall survival
+R1	influences Arg1:T4 Arg2:T6	
+R2	influences Arg1:T4 Arg2:T9	

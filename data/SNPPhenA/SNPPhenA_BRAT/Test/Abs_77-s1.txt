@@ -1,0 +1,1 @@
+In contrast, haplotypes at another block tagged by rs518394 associated with prevalent MI (β=0.239, p= 2.05*10(-4)), but remarkably these are inversely associated with disease severity (β=-0.196, p=0.003).

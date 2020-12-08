@@ -1,0 +1,11 @@
+T1	SNP 119 129	rs12255372
+T2	SNP 175 184	rs7903146
+T3	Phenotype 33 47	normal glucose
+T4	Phenotype 65 80	DM/pre-diabetes
+T5	Modality_Marker 81 87	showed
+T6	Negation_Scope 166 216	not with rs7903146 (OR 1.16, CI 0.81-1.64; p=0.4).
+T7	Negation_Cue 166 169	not
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T1 Arg2:T3
+R3	negative_association Arg1:T2 Arg2:T3
+R4	negative_association Arg1:T2 Arg2:T4

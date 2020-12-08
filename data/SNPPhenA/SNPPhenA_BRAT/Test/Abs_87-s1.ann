@@ -1,0 +1,7 @@
+T1	SNP 61 68	AR StuI
+T2	Phenotype 119 122	AGA
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 31 39	suggests
+T5	Modality_Marker 82 87	might
+T6	Modality_Marker 93 102	potential
+R1	weak_confidence_association Arg1:T1 Arg2:T2

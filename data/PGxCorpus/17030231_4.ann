@@ -1,0 +1,10 @@
+T1	Gene_or_protein 66 91	beta2-adrenergic receptor 
+T2	Gene_or_protein 99 104	ADRB2 
+T5	Limited_variation 49 106	variation in the beta2-adrenergic receptor gene ( ADRB2 )
+T3	Chemical 131 182	salmeterol administered with fluticasone propionate
+T4	Pharmacodynamic_phenotype 119 182	response to salmeterol administered with fluticasone propionate
+T6	Chemical 131 141	salmeterol
+T7	Chemical 160 182	fluticasone propionate
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	influences Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes R2	hyp

@@ -1,0 +1,5 @@
+T1	Chemical 32 40	dopamine 
+T2	Gene_or_protein 68 88	dopamine transporter 
+T3	Pharmacodynamic_phenotype 18 54	extracellular dopamine concentration
+T4	Chemical 68 76	dopamine
+R2	influences Arg1:T2 Arg2:T3	

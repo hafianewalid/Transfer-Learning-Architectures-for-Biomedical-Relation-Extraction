@@ -1,0 +1,3 @@
+T1	SNP 13 22	rs7903146
+T2	Phenotype 52 67	metabolic trait
+R1	negative_association Arg1:T1 Arg2:T2

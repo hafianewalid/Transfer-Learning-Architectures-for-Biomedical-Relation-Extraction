@@ -1,0 +1,5 @@
+T1	Limited_variation 5 15	rs11676382 
+T2	Gene_or_protein 0 4	GGCX 
+T3	Chemical 60 68	warfarin 
+T4	Pharmacodynamic_phenotype 60 73	warfarin dose
+R1	influences Arg1:T1 Arg2:T4	

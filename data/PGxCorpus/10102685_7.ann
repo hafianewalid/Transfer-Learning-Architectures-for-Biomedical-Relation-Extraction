@@ -1,0 +1,8 @@
+T1	Chemical 43 46	STZ 
+T2	Chemical 26 40	streptozotocin 
+T4	Gene_or_protein 192 196	iNOS 
+T5	Phenotype 120 152	blood glucose levels > 11 mmol/l
+T3	Limited_variation 192 202	iNOS - / -
+R1	isEquivalentTo Arg1:T1 Arg2:T2	
+R5	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T3 Arg2:T2	

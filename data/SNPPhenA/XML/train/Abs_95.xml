@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1265" TEXT="OBJECTIVE: Drugs which reduce plasma low-density lipoprotein cholesterol (LDL-C) may protect against gallstone disease. Whether plasma levels of LDL-C per se predict risk of gallstone disease remains unclear. We tested the hypothesis that elevated LDL-C is a causal risk factor for symptomaticgallstone disease. METHODS: We used a Mendelian randomization approach and genotyped 63,051 individuals from a prospective cohort study of the general Danish population, including 3323 subjects with symptomatic gallstones. We selected eight genetic variants in APOE, APOB, LDLR, and PCSK9affecting LDL-C. Furthermore, studies of APOE rs429358,rs7412, (defining ε2/ε3/ε4 alleles; 12 studies) and APOB rs693 (eight studies) were included in meta-analyses, the observational hazard ratio (HR) for symptomatic gallstone disease for the fifth versus first quintile of LDL-C was 0.94 (95%confidence interval: 0.76-1.17), despite a corresponding 134% increase in LDL-C . Furthermore, although individual genetic variants in APOE, APOB, LDLR, and PCSK9 associated with stepwise increases/decreases in LDL-C of up to +59% compared with non-carriers (p &lt;0.001), none predicted the risk of symptomatic gallstone disease. Combining all variants into 10 genotypes, carriers of 9 versus ⩽3 LDL-C increasing alleles associated with 41% increased LDL-C (p &lt;0.001), but predicted a HR for symptomatic gallstone disease of 1.09 (0.70-1.69). Finally, in meta-analyses, random effects odds ratios forgallstone disease were 0.91 (0.78-1.06) for carriers of APOE ε4 versus non-carriers, and 1.25 (0.95-1.63) for APOB rs693 CT+TT versus CC. CONCLUSIONS: Results from the observational study, genetic studies, and meta-analyses suggest that elevated plasma levels of LDL-C are not causally associated with increased risk of symptomatic gallstone disease.">
+	<sentence ID="1265_0" START="598" END="956">
+		<snp ID="0" START="627" END="635" TEXT="rs429358"/>
+		<snp ID="1" START="636" END="642" TEXT="rs7412"/>
+		<snp ID="2" START="693" END="698" TEXT="rs693"/>
+		<phenotype ID="0" START="799" END="956" text="gallstone disease"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

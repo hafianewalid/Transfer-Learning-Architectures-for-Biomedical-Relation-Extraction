@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1069" TEXT="OBJECTIVE: It has been suggested that transcription factor 7-like 2 protein (TCF7L2) plays an important role in glucose metabolism by regulating the production level of glucagon-like peptide-1, a hormone which modifies glucose-dependent insulin secretion. Recently, variants of TCF7L2 gene were reported to confer an increased risk of type 2 diabetes in three different samples from European and European-origin populations. We studied whether the single nucleotide polymorphisms (SNPs) in TCF7L2 were associated with type 2 diabetes in samples from a Japanese population. METHODS: Five SNPs were genotyped in three different sample sets. Association with type 2 diabetes was investigated in each, as well as in combined sample sets. RESULTS: The SNP rs7903146 was nominally associated with type 2 diabetes in the initial (p = 0.08) and two replication sample sets (p = 0.05 and 0.06). For the combined sample set, in which we successfully genotyped 1,174 type 2 diabetes patients and 823 control subjects, rs7903146 showed a significant association with type 2 diabetes (odds ratio = 1.69 [95% CI 1.21-2.36], p = 0.002) with the same direction as the previous reports in samples from European and European-origin populations. SNPs rs7903146 and rs7901695 were in complete linkage disequilibrium. The rest of the five SNPs (rs7895340, rs11196205 and rs12255372) did not show any significant associations with type 2 diabetes. CONCLUSIONS: The consistent association between rs7903146 in TCF7L2 and type 2 diabetes in different ethnic groups, including the Japanese population, suggests that TCF7L2 is a common susceptibility gene for type 2 diabetes.">
+	<sentence ID="1069_0" START="743" END="885">
+		<snp ID="0" START="751" END="760" TEXT="rs7903146"/>
+		<phenotype ID="0" START="791" END="885" text="type 2 diabetes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1069_1" START="886" END="1226">
+		<snp ID="1" START="1007" END="1016" TEXT="rs7903146"/>
+		<phenotype ID="1" START="1055" END="1226" text="type 2 diabetes"/>
+		<modality_marker  START="1017" END="1023" text="showed"/>
+		<modality_marker  START="1161" END="1168" text="reports"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+	<sentence ID="1069_2" START="1297" END="1425">
+		<snp ID="2" START="1324" END="1333" TEXT="rs7895340"/>
+		<snp ID="3" START="1335" END="1345" TEXT="rs11196205"/>
+		<snp ID="4" START="1350" END="1360" TEXT="rs12255372"/>
+		<phenotype ID="2" START="1409" END="1425" text="type 2 diabetes"/>
+		<modality_marker  START="1370" END="1374" text="show"/>
+		<negation_scope  START="1366" END="1425" text="not show any significant associations with type 2 diabetes.">
+			<negation_cue START="1366" END="1369" text="not"/>
+		</negation_scope>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="2" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="4" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1069_3" START="1439" END="1650">
+		<snp ID="5" START="1474" END="1483" TEXT="rs7903146"/>
+		<phenotype ID="3" START="1498" END="1650" text="type 2 diabetes"/>
+		<modality_marker  START="1443" END="1453" text="consistent"/>
+		<modality_marker  START="1577" END="1585" text="suggests"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="5" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,9 @@
+T2	Gene_or_protein 80 84	XIAP 
+T3	Chemical 115 128	mithramycin A 
+T4	Phenotype 148 174	transcription of XIAP gene 
+T6	Gene_or_protein 165 169	XIAP 
+T7	Gene_or_protein 197 200	Sp1 
+T8	Phenotype 197 224	Sp1 binding to its promoter
+T1	Genomic_factor 80 93	XIAP promoter
+R1	decreases Arg1:T3 Arg2:T4	
+R2	decreases Arg1:T3 Arg2:T8	

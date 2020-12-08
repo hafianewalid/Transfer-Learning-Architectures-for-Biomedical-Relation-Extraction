@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1111" TEXT="OBJECTIVE: Angiotensin II has been shown to play an important role in various renal diseases. Genetic polymorphisms of the renin-angiotensin system have been reported to be related to the clinical outcomes in immunoglobulin A nephropathy (IgAN). We investigated the association of polymorphisms of the genes encoding major angiotensin II-forming enzymes with the development and progression of IgAN among Korean patients. METHODS: A total of 261 IgAN patients and 300 healthy controls were studied. The polymorphisms of angiotensin-converting enzyme gene (I/D, A2350G) and chymase (CMA)gene (rs1800875, rs1800876) were determined.RESULTS: No significant difference was observed in the genotype and allele frequencies of the polymorphisms between IgAN patients and controls. The frequency of AA/AG genotypes of CMA rs1800875 and CC/CT genotype of CMA rs1800876 were significantly higher in patients with progressive disease course than in those with stable course (53.2 vs. 38.6%, p = 0.029; 89.6 vs. 78.3%, p = 0.031, respectively). In the Cox regression model with adjustment for clinical risk factors, CMA rs1800875 AA/AG genotypes remained an independent risk factor(hazard ratio 2.351; p = 0.001). CONCLUSIONS: Our results suggest that the CMA rs1800875 polymorphism is associated with the progression of IgAN inKorean patients.">
+	<sentence ID="1111_0" START="1202" END="1332">
+		<snp ID="0" START="1248" END="1257" TEXT="rs1800875"/>
+		<phenotype ID="0" START="1309" END="1332" text="IgAN"/>
+		<modality_marker  START="1202" END="1213" text="CONCLUSIONS"/>
+		<modality_marker  START="1227" END="1234" text="suggest"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

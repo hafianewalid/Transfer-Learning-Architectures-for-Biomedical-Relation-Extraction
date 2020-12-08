@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1250" TEXT="BACKGROUND: Epidemiological studies support the role for a strong genetic component in the occurrence of early-onset myocardial infarction (MI), although the specific genetic variants responsible for familial clustering remain largely unknown. METHODS: The Italian study of early-onset MI is a nationwide case-control study involving 1864 case patients &lt;45 years old who were hospitalized for a first MI, and age/sex/place of origin-matched controls (n = 1864). We investigated the association between early-onset MI, lipid levels and 20 single nucleotide polymorphisms (SNPs) in the candidate genesADIPOQ, APOA5, ALOX5AP, CYBA, IL6, LPL, PECAM1, PLA2G2A and PLA2G7, chosen because of previously reported associations with CoronaryHeart Disease (CHD) or with CHD risk factors. RESULTS: Of all the SNPs investigated, APOA5-1131T&gt;C [(rs662799), minor allele frequency 0.084 (95%confidence interval (CI) 0.07-0.09)] alone showed a statistically significant association with risk of early-onset MI (p = 6.7 × 10(-5)), after Bonferroni correction, with a per C allele odds ratio of 1.44 (95% CI 1.23-1.69). In controls, APOA5-1131T&gt;C was significantly associated with raised plasmatriglyceride levels (p = 0.001), compared with non-carriers, the per C allele increase being 11.4% (95% CI 4-19%), equivalent to 0.15 mmol/L (95% CI 0.11-0.20 mmol/L). In cases, the association with early MI risk remained statistically significant after adjustment for triglycerides (p = 0.006). CONCLUSIONS: The APOA5-1131C allele, associated with higher fasting triglyceride levels, strongly affects the risk for early-onset MI, even after adjusting for triglycerides. This raises the possibility that APOA5-1131T&gt;C may affect the risk of early MI over and above effects mediated by triglycerides.">
+	<sentence ID="1250_0" START="1472" END="1646">
+		<snp ID="0" START="1489" END="1500" TEXT="APOA5-1131C"/>
+		<phenotype ID="0" START="1603" END="1646" text="MI"/>
+		<modality_marker  START="1472" END="1483" text="CONCLUSIONS"/>
+		<modality_marker  START="1525" END="1531" text="higher"/>
+		<modality_marker  START="1561" END="1569" text="strongly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

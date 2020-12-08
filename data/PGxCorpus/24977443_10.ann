@@ -1,0 +1,7 @@
+T1	Gene_or_protein 120 126	UGT1A1 
+T2	Chemical 214 224	irinorecan 
+T3	Chemical 272 282	irinotecan 
+T4	Disease 310 327	colorectal cancer 
+T5	Phenotype 120 137	UGT1A1 deficiency
+R1	treats Arg1:T3 Arg2:T4	
+R2	influences Arg1:T5 Arg2:T2	

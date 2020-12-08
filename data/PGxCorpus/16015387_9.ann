@@ -1,0 +1,9 @@
+T1	Limited_variation 20 40	KIT exon 8 mutations 
+T2	Gene_or_protein 20 23	KIT 
+T3	Chemical 164 172	imatinib 
+T4	Gene_or_protein 83 89	kinase
+T5	Phenotype 83 100	kinase activation
+T6	Pharmacodynamic_phenotype 146 172	concentrations of imatinib
+T7	Genomic_factor 20 30	KIT exon 8
+R1	causes Arg1:T1 Arg2:T5	
+R2	decreases Arg1:T3 Arg2:T5	

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1218" TEXT="The toll-like receptor (TLR) family maintains pulmonary homeostasis by pathogen recognition, clearance and regulation of inflammation. Genes affecting inflammation response play a key role in modifying Cystic fibrosis (CF) lung disease severity. We assessed the impact of single nucleotide polymorphisms (SNPs) of TLR genes (TLR1 to TLR10, CD14, lipopolyssacharide-binding protein (LBP)) on lung function in CF patients. Each SNP was tested for time-dependent effect on FEV1, using six genetic models. In addition, we investigated associations between SNP genotypes and extreme subject specific slopes of FEV1 decline. Variant alleles of polymorphisms of TLR2 rs1898830, rs5743708, and rs3804100 demonstrated a consistent association with lung disease severity (p = 0.008, p = 0.006 and p = 0.029 respectively). Patients homozygous for variant C allele of TLR5 polymorphism rs5744174 are more frequently associated with extreme fast FEV1 decline (OR: 20 (95% Confidence Interval:1.85-216.18)). Patients homozygous AA for TLR1 polymorphism rs5743551 are more frequently associated with faster decline of FEV1 compared to heterozygous genotype (OR:7.33 (95% CI:1.63-33.11). Our findings indicate that variations in TLR1, TLR2 and TLR5 genes may influence CF lung function decline. Further functional analysis is required to provide new insights into the pathogenesis of TLRs in CF lung disease severity.">
+	<sentence ID="1218_0" START="619" END="810">
+		<snp ID="0" START="660" END="669" TEXT="rs1898830"/>
+		<snp ID="1" START="671" END="680" TEXT="rs5743708"/>
+		<snp ID="2" START="686" END="695" TEXT="rs3804100"/>
+		<phenotype ID="0" START="739" END="810" text="lung disease"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1218_1" START="994" END="1170">
+		<snp ID="3" START="1039" END="1048" TEXT="rs5743551"/>
+		<phenotype ID="1" START="1103" END="1170" text="FEV1"/>
+		<modality_marker  START="1053" END="1057" text="more"/>
+		<modality_marker  START="1058" END="1068" text="frequently"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

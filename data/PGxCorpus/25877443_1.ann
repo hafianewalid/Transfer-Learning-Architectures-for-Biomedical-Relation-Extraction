@@ -1,0 +1,8 @@
+T1	Gene_or_protein 15 20	HLA-B 
+T2	Pharmacodynamic_phenotype 42 85	abacavir -induced hypersensitivity reaction 
+T3	Chemical 42 50	abacavir 
+T5	Haplotype 15 27	HLA-B * 5701
+T4	Pharmacodynamic_phenotype 60 85	hypersensitivity reaction
+R1	isAssociatedWith Arg1:T5 Arg2:T2	
+R2	causes Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

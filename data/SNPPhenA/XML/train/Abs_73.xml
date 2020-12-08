@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1241" TEXT="Multivariable logistic regression analysis of combined genotypes with adjustment for age, gender and diabetes mellitus revealed that rs662799 and rs6929846 significantly and synergistically affected dyslipidemia.">
+	<sentence ID="1241_0" START="0" END="212">
+		<snp ID="0" START="133" END="141" TEXT="rs662799"/>
+		<snp ID="1" START="146" END="155" TEXT="rs6929846"/>
+		<phenotype ID="1" START="101" END="212" text="diabetes"/>
+		<phenotype ID="0" START="199" END="212" text="dyslipidemia"/>
+		<modality_marker  START="119" END="127" text="revealed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,13 @@
+T1	Gene_or_protein 4 10	VKORC1 
+T2	Pharmacodynamic_phenotype 17 36	daily warfarin dose 
+T3	Limited_variation 108 117	rs9923231 
+T4	Limited_variation 120 129	rs9934438 
+T5	Limited_variation 134 143	rs2884737 
+T6	Chemical 23 31	warfarin
+T7	Limited_variation 167 185	wild-type genotype
+T8	Pharmacodynamic_phenotype 186 212	requiring the highest dose
+R1	isAssociatedWith Arg1:T2 Arg2:T1	
+R5	increases Arg1:T7 Arg2:T2	
+R2	influences Arg1:T3 Arg2:T2	
+R3	influences Arg1:T4 Arg2:T2	
+R4	influences Arg1:T5 Arg2:T2	

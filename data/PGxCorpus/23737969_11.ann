@@ -1,0 +1,6 @@
+T1	Gene_or_protein 43 49	UGT1A1 
+T3	Haplotype 43 53	UGT1A1 * 6
+T5	Phenotype 75 95	creatinine elevation
+T6	Phenotype 0 21	Body weight > = 40 kg
+R1	influences Arg1:T3 Arg2:T5	
+R2	influences Arg1:T6 Arg2:T5	

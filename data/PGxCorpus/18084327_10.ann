@@ -1,0 +1,7 @@
+T1	Chemical 38 45	AZD1152 
+T2	Disease 65 70	tumor 
+T3	Gene_or_protein 152 155	p53 
+T4	Disease 152 173	p53 -deficient cancer 
+T5	Phenotype 152 166	p53 -deficient
+R1	influences Arg1:T1 Arg2:T2	
+R2	influences Arg1:T1 Arg2:T4	

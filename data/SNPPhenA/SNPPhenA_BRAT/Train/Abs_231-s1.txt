@@ -1,0 +1,1 @@
+RESULTS: Despite sufficient power to detect associations at genome-wide significance thresholds across a range of ORs, our analyses did not support a role of rs429358 or rs7412 on MS susceptibility

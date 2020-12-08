@@ -1,0 +1,7 @@
+T1	Chemical 0 7	AZD9291 
+T2	Gene_or_protein 11 15	EGFR 
+T3	Disease 11 59	EGFR -mutant advanced non-small-cell lung cancer 
+T4	Limited_variation 11 23	EGFR -mutant
+R1	treats Arg1:T1 Arg2:T3	
+R2	influences Arg1:T4 Arg2:T1	
+#1	AnnotatorNotes R2	hyp

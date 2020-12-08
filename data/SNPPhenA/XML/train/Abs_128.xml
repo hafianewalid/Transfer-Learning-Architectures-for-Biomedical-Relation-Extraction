@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1033" TEXT="OBJECTIVE: Although several studies have reported an association between obstructive sleep apnea (OSA) and the chromosomal region containing the Apolipoprotein E (  ApoE) gene, findings about the exact location in the ApoE gene have been inconsistent.">
+	<sentence ID="1033_0" START="0" END="251">
+		<snp ID="0" START="165" END="169" TEXT="ApoE"/>
+		<phenotype ID="0" START="73" END="251" text="obstructive sleep apnea"/>
+		<modality_marker  START="41" END="49" text="reported"/>
+		<modality_marker  START="177" END="185" text="findings"/>
+		<modality_marker  START="186" END="191" text="about"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

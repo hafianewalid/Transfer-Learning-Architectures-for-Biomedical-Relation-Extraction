@@ -1,0 +1,21 @@
+T1	Chemical 42 50	Icotinib 
+T2	Chemical 59 69	crizotinib 
+T3	Limited_variation 92 105	EGFR mutation 
+T4	Gene_or_protein 92 96	EGFR 
+T5	Gene_or_protein 135 139	ROS1 
+T6	Limited_variation 151 164	KRAS mutation 
+T7	Gene_or_protein 151 155	KRAS 
+T8	Pharmacodynamic_phenotype 30 50	response to Icotinib
+T9	Pharmacodynamic_phenotype 30 41;59 69	response to crizotinib
+T10	Genomic_factor 135 146	ROS1 fusion
+R1	influences Arg1:T3 Arg2:T8	
+R2	influences Arg1:T3 Arg2:T9	
+R4	influences Arg1:T10 Arg2:T8	
+R5	influences Arg1:T6 Arg2:T8	
+R6	influences Arg1:T6 Arg2:T9	
+R3	influences Arg1:T10 Arg2:T2	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp
+#3	AnnotatorNotes R6	hyp neg
+#5	AnnotatorNotes R5	htp neg
+#4	AnnotatorNotes R4	hyp neg

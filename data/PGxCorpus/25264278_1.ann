@@ -1,0 +1,10 @@
+T1	Chemical 0 7	Wogonin 
+T2	Disease 48 68	myelogenous leukemia 
+T3	Phenotype 106 121	MRP1 expression 
+T4	Gene_or_protein 106 110	MRP1 
+T5	Genomic_factor 136 145	Nrf2 /ARE 
+T6	Pharmacodynamic_phenotype 17 38	multi-drug resistance
+T7	Gene_or_protein 136 140	Nrf2
+R1	decreases Arg1:T1 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T6	
+R3	decreases Arg1:T1 Arg2:T5	

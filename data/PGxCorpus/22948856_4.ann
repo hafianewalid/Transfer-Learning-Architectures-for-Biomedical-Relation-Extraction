@@ -1,0 +1,6 @@
+T1	Chemical 54 65	pridopidine 
+T2	Pharmacokinetic_phenotype 27 65	pharmacokinetic profile of pridopidine 
+T3	Gene_or_protein 125 131	CYP2D6 
+T4	Pharmacokinetic_phenotype 120 144	poor CYP2D6 metabolizers
+T5	Pharmacodynamic_phenotype 91 106	dose adjustment
+R1	influences Arg1:T4 Arg2:T2	

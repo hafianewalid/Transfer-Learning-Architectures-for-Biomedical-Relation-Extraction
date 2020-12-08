@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1130" TEXT="UNLABELLED: Background: It has been suggested that the serine/threonine kinase 15 (STK15) T91A rs2273535 polymorphism is associated with susceptibility to cancer. However, the results are conflicting. We performed this meta-analysis to derive a more precise estimation of the relationship. Methods: PubMed was searched to select studies. Case-control studies containing available genotype frequencies of the STK15 rs2273535 polymorphism were chosen, and the odds ratio (OR) with its 95% confidence interval (CI) was utilized to assess the strength of association. Results: 52 studies - including 34,057 cases and 40,839 controls - were identified. A significant effect of the STK15 rs2273535 polymorphism on cancer risk was found (AA vs. TT: OR=1.13, 95%CI=1.01-1.26, Pheterogeneity&lt;0.001; AA vs. UNASSIGNED: OR=1.12, 95%CI=1.02-1.22, Pheterogeneity&lt;0.001; TA/AA vs. TT: OR=1.06, 95%CI=1.01-1.12, Pheterogeneity&lt;0.001). Stratified analysis by cancer type revealed that the STK rs2273535 polymorphism may contribute to the risk of breast cancer (AA vs. TT: OR=1.21, 95%CI=1.01-1.44, Pheterogeneity=0.002), colorectal cancer (AA vs. UNASSIGNED: OR=1.24, 95%CI=1.05-1.47, Pheterogeneity=0.124), and esophageal cancer (AA vs. UNASSIGNED: OR=1.19, 95%CI=1.02-1.39, Pheterogeneity=0.148). Further subgroup analysis by ethnicity indicated that there was a statistically increased cancer risk in Asians (AA vs. UNASSIGNED: OR=1.20, 95%CI=1.05-1.37, Pheterogeneity=0.004). Conclusion: This meta-analysis suggests that the STK15 rs2273535 polymorphism is a candidate gene polymorphism for cancer susceptibility, especially in Asian populations.">
+	<sentence ID="1130_0" START="920" END="1281">
+		<snp ID="0" START="977" END="986" TEXT="rs2273535"/>
+		<phenotype ID="0" START="943" END="1281" text="cancer"/>
+		<phenotype ID="3" START="1030" END="1281" text="breast cancer"/>
+		<phenotype ID="1" START="1105" END="1281" text="colorectal cancer"/>
+		<phenotype ID="2" START="1196" END="1281" text="esophageal cancer"/>
+		<modality_marker  START="955" END="963" text="revealed"/>
+		<modality_marker  START="1000" END="1003" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

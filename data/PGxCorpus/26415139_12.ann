@@ -1,0 +1,7 @@
+T1	Limited_variation 15 32	CYP2B6 g.15582C>T
+T2	Gene_or_protein 15 21	CYP2B6
+T3	Chemical 43 46	EFV
+T5	Disease 90 100	HIV / AIDS
+T6	Pharmacodynamic_phenotype 36 60	plasma EFV concentration
+R1	influences Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	hyp

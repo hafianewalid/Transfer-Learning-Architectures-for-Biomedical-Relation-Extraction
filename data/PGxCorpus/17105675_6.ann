@@ -1,0 +1,24 @@
+T1	Limited_variation 33 39	A-241G 
+T2	Chemical 76 87	risperidone 
+T3	Limited_variation 363 372	rs1076562 
+T4	Limited_variation 375 380	T939C 
+T5	Chemical 443 454	risperidone 
+T6	Pharmacodynamic_phenotype 64 97	efficacy of risperidone treatment
+T7	Limited_variation 338 352	-141 C Ins/Del
+T8	Limited_variation 355 360	TaqIB
+T9	Limited_variation 385 390	TaqIA
+T10	Pharmacodynamic_phenotype 431 454	response to risperidone
+T11	Limited_variation 134 142	A allele
+T12	Limited_variation 190 198	G allele
+R1	influences Arg1:T1 Arg2:T6	
+R2	isAssociatedWith Arg1:T7 Arg2:T10	
+R3	isAssociatedWith Arg1:T8 Arg2:T10	
+R4	isAssociatedWith Arg1:T3 Arg2:T10	
+R5	isAssociatedWith Arg1:T9 Arg2:T10	
+R8	isAssociatedWith Arg1:T4 Arg2:T10	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R3	neg
+#3	AnnotatorNotes R4	neg
+#4	AnnotatorNotes R5	neg
+#5	AnnotatorNotes R1	hyp
+#6	AnnotatorNotes R8	hyp

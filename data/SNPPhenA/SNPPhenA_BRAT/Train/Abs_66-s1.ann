@@ -1,0 +1,4 @@
+T1	SNP 56 67	CAG repeats
+T2	Phenotype 109 123	ovarian cancer
+T3	Modality_Marker 3 11	observed
+R1	weak_confidence_association Arg1:T1 Arg2:T2

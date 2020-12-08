@@ -1,0 +1,5 @@
+T1	SNP 14 23	rs1800629
+T2	Phenotype 93 107	gastric cancer
+T3	Modality_Marker 0 7	Overall
+T4	Modality_Marker 138 144	models
+R1	strong_confidence_association Arg1:T1 Arg2:T2

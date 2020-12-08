@@ -1,0 +1,7 @@
+T1	Disease 37 51;69 82	HER2 -positive breast cancer 
+T2	Gene_or_protein 37 41	HER2 
+T3	Disease 37 51;86 89	HER2 -positive MBC 
+T7	Phenotype 37 51	HER2 -positive
+T4	Chemical 121 140	DM1 plus pertuzumab
+R1	treats Arg1:T4 Arg2:T1	
+R2	treats Arg1:T4 Arg2:T3	

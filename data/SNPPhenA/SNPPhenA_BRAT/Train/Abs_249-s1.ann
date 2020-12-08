@@ -1,0 +1,3 @@
+T1	SNP 145 154	rs7903146
+T2	Phenotype 67 82	type 2 diabetes
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

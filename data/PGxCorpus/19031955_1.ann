@@ -1,0 +1,14 @@
+T1	Disease 6 20	encephalopathy 
+T2	Chemical 33 36	MTX 
+T3	Chemical 63 75	methotrexate 
+T4	Limited_variation 95 138	homozygous for the MTHFR C677T polymorphism 
+T6	Gene_or_protein 114 119	MTHFR 
+T8	Pharmacokinetic_phenotype 33 46	MTX clearance
+R2	decreases Arg1:T4 Arg2:T2	
+R3	isAssociatedWith Arg1:T4 Arg2:T1	
+R1	influences Arg1:T3 Arg2:T8	
+R4	influences Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R3	after high-dose MTX therapy
+#2	AnnotatorNotes R2	after high-dose MTX therapy
+#3	AnnotatorNotes R1	hyp
+#4	AnnotatorNotes R4	hyp

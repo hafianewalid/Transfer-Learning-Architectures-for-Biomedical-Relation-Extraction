@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1061" TEXT="Catechol-O-methyltransferase (COMT) activity has been reported to be higher in African Americans (AA) than Caucasians (Cau). COMT converts 2- and 4-hydroxy (OH) estrogens to 2- and 4-methoxyestrogens, respectively, and can increase estrogenic milieu locally in tissues. To assess whether the increased incidence of preterm birth (PTB) among AA women is associated with single-nucleotide polymorphism (SNP) in the COMT gene, we examined variations in maternal and fetal COMT genes and their association with pregnancy outcomes (term vs preterm pregnancies) using 4 functional SNPs: rs4633,rs4680,rs4818, and rs6269 in both AA and Cau. We analyzed samples from 267 AA women (191 term and 76 preterm pregnancies) and 339 Cau (194 term and 145 preterm pregnancies) in this study. The results showed a significant difference (P &lt; .05) in allele and genotype frequencies between term and preterm AA and Cau women in 3 SNPs in both maternal and fetal DNA. The analysis revealed that in AA fetal COMT genes, SNP rs4818 is associated with PTB at the allele (C; P &lt; .001), genotype (C/C; P &lt; .01), and 2- (P &lt; .03) and 3 (P &lt; .04)-window haplotype levels. Multidimensionality reduction analysis also showed a significant (P &lt; .01) association between rs4818 and PTB.In conclusion, our study demonstrated that a synonymous polymorphism, rs4818 in the fetal COMT gene, is associated with PTB in AA.">
+	<sentence ID="1061_0" START="424" END="633">
+		<snp ID="0" START="581" END="587" TEXT="rs4633"/>
+		<snp ID="1" START="588" END="594" TEXT="rs4680"/>
+		<snp ID="2" START="595" END="601" TEXT="rs4818"/>
+		<snp ID="3" START="607" END="613" TEXT="rs6269"/>
+		<phenotype ID="0" START="507" END="633" text="pregnancy outcomes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1061_1" START="1256" END="1386">
+		<snp ID="4" START="1326" END="1332" TEXT="rs4818"/>
+		<phenotype ID="1" START="1376" END="1386" text="PTB"/>
+		<modality_marker  START="1259" END="1269" text="conclusion"/>
+		<modality_marker  START="1281" END="1293" text="demonstrated"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

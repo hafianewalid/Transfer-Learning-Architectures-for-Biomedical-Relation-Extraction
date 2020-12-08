@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1082" TEXT="Much evidence of an association between specific attachment styles and depression prompted us to investigate, in depressive disorders, the potential role of polymorphisms within the gene encoding the receptor of the main neurohormone involved in attachment processes, oxytocin. For this purpose, two single nucleotide polymorphisms (SNPs), 6930G&gt;A (rs53576) and 9073G&gt;A (rs2254298), within the oxytocin receptor gene (OXTR), were studied in a cohort of 185 patients with major depression (50.3%) or bipolar I or II disorders (49.7%) and 192 matched healthy controls. A positive association between the GG genotype of OXTR SNPs (6930G&gt;A or 9073G&gt;A) and unipolar depression was demonstrated. In this group, GG individuals showed high scores on Attachment Style Questionnaire factors that have been previously associated with depression. Moreover, the GG genotype was also associated with high levels of adult separation anxiety. These findings support the involvement of the oxytocinergic system in the mechanisms that underlie depression and specific adult attachment styles.">
+	<sentence ID="1082_0" START="567" END="689">
+		<snp ID="0" START="617" END="621" TEXT="OXTR"/>
+		<phenotype ID="0" START="661" END="689" text="depression"/>
+		<modality_marker  START="676" END="688" text="demonstrated"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

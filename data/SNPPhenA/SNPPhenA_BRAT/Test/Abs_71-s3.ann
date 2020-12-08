@@ -1,0 +1,4 @@
+T1	SNP 8 16	rs165599
+T2	Phenotype 113 126	schizophrenia
+T3	Modality_Marker 152 160	possibly
+R1	strong_confidence_association Arg1:T1 Arg2:T2

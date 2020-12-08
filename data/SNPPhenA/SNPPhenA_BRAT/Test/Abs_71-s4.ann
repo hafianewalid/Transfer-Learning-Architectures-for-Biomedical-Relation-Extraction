@@ -1,0 +1,5 @@
+T1	SNP 85 98	Val108/158Met
+T2	Phenotype 55 68	schizophrenia
+T3	Modality_Marker 16 19	may
+T4	Modality_Marker 125 130	other
+R1	negative_association Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	Limited_variation 52 54;62 78	AC CYP7A1 genotypes 
+T2	Gene_or_protein 62 68	CYP7A1 
+T3	Chemical 110 122	triglyceride 
+T4	Chemical 188 200	triglyceride 
+T5	Limited_variation 59 78	CC CYP7A1 genotypes
+T6	Pharmacodynamic_phenotype 110 136	triglyceride concentration
+T7	Pharmacodynamic_phenotype 188 214	triglyceride concentration
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T6	

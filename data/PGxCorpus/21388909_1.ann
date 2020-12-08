@@ -1,0 +1,8 @@
+T1	Limited_variation 20 38	ABCB1 polymorphism 
+T2	Gene_or_protein 20 25	ABCB1 
+T3	Chemical 55 71	sodium valproate 
+T4	Disease 95 103	epilepsy
+T5	Pharmacodynamic_phenotype 43 71	response to sodium valproate
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	treats Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

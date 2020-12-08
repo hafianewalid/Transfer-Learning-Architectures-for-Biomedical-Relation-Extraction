@@ -1,0 +1,7 @@
+T1	SNP 42 51	rs7903146
+T2	SNP 77 89	IDErs2251101
+T3	SNP 132 146	HHEX rs1544210
+T4	Phenotype 216 219	T2D
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	moderate_confidence_association Arg1:T3 Arg2:T4

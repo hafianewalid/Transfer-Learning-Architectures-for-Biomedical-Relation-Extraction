@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1055" TEXT="BACKGROUND: The COMT enzyme metabolizes catecholamines and thus modulates adrenergic, noradrenergic and dopaminergic signaling. A functional polymorphism in the gene encoding this enzyme, i.e. the COMT Val158Met SNP that reduces enzyme activity, has previously been linked to pain sensitivity. METHODS: We examined if the COMT Val158Met SNP could contribute to discogenic subacute low back pain and sciatica by comparing the frequency of the Val158Met genotypes of degenerative disc disease patients with healthy controls. Moreover, we examined if this SNP could predict the clinical outcome, i.e. the progression of pain and disability. RESULTS: The present data demonstrated that there were no differences in COMT genotypefrequencies between the newly diagnosed patients and controls. Analysis of pain and disability in the patients over time revealed, however, a significant or border-line significant increase in McGill sensory score and Oswestry Disability Index (ODI) score for individuals with COMT Met/Met genotype. Furthermore, significant associations between the COMT Met-allele and VAS activity score, McGill sensory score and ODI score were observed in thepatients 6 months after inclusion. CONCLUSIONS:  Although the Val158Met SNP was not a risk factor for  disc herniation, patients with Met/Met had more pain and slower recovery than those with Val/Met, which in turn also had more pain and slower recovery than those with Val/Val suggesting the SNP contributes to the progression of the symptoms of disc herniation. CONCLUSIONS: We conclude that the functional COMT Val158Met SNP contributes to long lasting low back pain, sciatica and disability after lumbar disc herniation.">
+	<sentence ID="1055_0" START="193" END="293">
+		<snp ID="0" START="202" END="211" TEXT="Val158Met"/>
+		<phenotype ID="0" START="276" END="293" text="pain sensitivity"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1055_1" START="1218" END="1288">
+		<snp ID="1" START="1231" END="1240" TEXT="Val158Met"/>
+		<phenotype ID="1" START="1272" END="1288" text="disc herniation"/>
+		<negation_scope  START="1218" END="1288" text="Although the Val158Met SNP was not a risk factor for  disc herniation,">
+			<negation_cue START="1249" END="1252" text="not"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1055_2" START="1546" END="1693">
+		<snp ID="2" START="1583" END="1592" TEXT="Val158Met"/>
+		<phenotype ID="2" START="1612" END="1693" text="long lasting low back pain"/>
+		<phenotype ID="3" START="1640" END="1693" text="sciatica"/>
+		<phenotype ID="4" START="1653" END="1693" text="disability after lumbar disc herniation"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="4" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

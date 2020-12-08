@@ -1,0 +1,6 @@
+T1	Limited_variation 19 28	rs9263726
+T2	Chemical 61 72	allopurinol
+T3	Pharmacodynamic_phenotype 82 91	SJS / TEN
+T5	Pharmacodynamic_phenotype 61 91	allopurinol -related SJS / TEN
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	causes Arg1:T2 Arg2:T3	

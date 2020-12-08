@@ -1,0 +1,1 @@
+Stratified analysis by cancer type revealed that the STK rs2273535 polymorphism may contribute to the risk of breast cancer (AA vs. TT: OR=1.21, 95%CI=1.01-1.44, Pheterogeneity=0.002), colorectal cancer (AA vs. UNASSIGNED: OR=1.24, 95%CI=1.05-1.47, Pheterogeneity=0.124), and esophageal cancer (AA vs. UNASSIGNED: OR=1.19, 95%CI=1.02-1.39, Pheterogeneity=0.148)

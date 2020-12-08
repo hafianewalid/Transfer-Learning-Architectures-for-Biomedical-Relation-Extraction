@@ -1,0 +1,17 @@
+T7	Gene_or_protein 207 235	catechol-O-methyltransferase 
+T8	Limited_variation 207 259	catechol-O-methyltransferase Val158Met polymorphisms 
+T9	Chemical 284 294	raclopride 
+T4	Phenotype 284 312	raclopride binding potential
+T1	Genomic_variation 74 128	dopamine transporter variable nucleotide tandem repeat
+T2	Limited_variation 131 152	D2 receptor Taq A1/A2
+T3	Genomic_variation 155 200	D4 receptor variable nucleotide tandem repeat
+T5	Genomic_variation 24 67	Gene variants of dopamine system components
+T6	Gene_or_protein 74 94	dopamine transporter
+T10	Gene_or_protein 131 146	D2 receptor Taq
+T11	Gene_or_protein 155 166	D4 receptor
+R2	isAssociatedWith Arg1:T4 Arg2:T8	
+R3	isAssociatedWith Arg1:T3 Arg2:T4	
+R4	isAssociatedWith Arg1:T1 Arg2:T4	
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R4	hyp
+#4	AnnotatorNotes R3	hyp

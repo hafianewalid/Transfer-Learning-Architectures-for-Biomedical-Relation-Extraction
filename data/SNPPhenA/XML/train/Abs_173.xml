@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1083" TEXT="OBJECTIVE: Variants in the transcription factor 7-like 2 (TCF7L2) gene are consistently associated with type 2 diabetes in adults, but the association of TCF7L2 with weight-related traits and body fat in humans is unclear. The aim of this study was to determine the relationship between the TCF7L2 gene(rs12255372) and obese phenotype in Mexican school-age children. METHODS: The study was performed in schools in Mexico City; 186 obese and 194 control children were studied. Fasting insulin and glucose, total cholesterol, LDL-C, HDL-C and triglycerides concentration were determined. The variantrs12255372 of the TCF7L2 gene was genotyped. We used age- and sex-adjusted linear models to test for association with metabolic measurements with this variant. RESULTS: Genotype of the TCF7L2 rs12255372 gene was associated with lower fasting plasma glucose (p = 0.001) and lower homeostasismodel assessment of insulin resistance (HOMA-R; p = 0.001) in nonobese children. Heterozygous carriers for this variant were more prevalent in leanchildren (32.5%) than in the obese group (23.7%), which resulted in a strong protective effect for the normal weight condition (OR = 0.56, 0.32-0.97). CONCLUSIONS: TCF7L2 rs12255372 polymorphism protects Mexican children from obesity. Further research in other large, population-based studies is needed to replicate these findings.">
+	<sentence ID="1083_0" START="1185" END="1268">
+		<snp ID="0" START="1205" END="1215" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1260" END="1268" text="obesity"/>
+		<modality_marker  START="1185" END="1196" text="CONCLUSIONS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

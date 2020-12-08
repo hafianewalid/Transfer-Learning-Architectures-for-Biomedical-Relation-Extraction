@@ -1,0 +1,7 @@
+T1	Chemical 31 40	lapatinib 
+T2	Chemical 45 56	vinorelbine 
+T3	Disease 90 129	HER2 -positive metastatic breast cancer 
+T4	Gene_or_protein 90 94	HER2 
+T5	Chemical 31 56	lapatinib and vinorelbine
+T6	Phenotype 90 104	HER2 -positive
+R1	treats Arg1:T5 Arg2:T3	

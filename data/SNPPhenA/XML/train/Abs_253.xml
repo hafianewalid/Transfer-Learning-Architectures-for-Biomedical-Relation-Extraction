@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1172" TEXT="OBJECTIVE: Posttransplantation diabetes mellitus (PTDM) is a major complication associated with kidney transplantation. Defects in insulin secretionplay a pivotal role in the pathogenesis of PTDM. A polymorphism in the transcription factor 7-like 2 (TCF7L2) gene was reported to be associated with type 2 diabetes and possibly associated with an insulin secretion defect. The aim of this study was to investigate the association between genetic variations in TCF7L2 and PTDM in renal allograft recipients. METHODS: A total of 511 unrelated renal allograft recipients without previously known diabetes were enrolled. Six single nucleotide polymorphisms (rs11196205, rs4506565, rs12243326, rs7903146, rs12255372, and rs7901695) were genotyped in the cohort, which consisted of 119 PTDM patients and 392 non-PTDM subjects. The genotyping of TCF7L2 polymorphisms was performed using real-timePCR. RESULTS:rs4506565,rs7901695, and rs7903146 were found to be in complete linkage disequilibrium. The rs7903146 genotype distribution was CC 94.3% and CT 5.7%. The incidence of PTDM was significantly higher in patients with the CT genotype than in patients with the CC genotype (41.4 vs. 22.2%) (odds ratio 2.474 [95% CI 1.146-5.341]; P = 0.024). The effect of this genotype remains significant after adjustment for age, sex, amount of bodyweight gain, and type of immunosuppressant (2.655 [1.168-6.038]; P = 0.020). CONCLUSIONS: These data suggest that the TCF7L2 rs7903146 genetic variation is associated with an increased risk of PTDM in renal allograft recipients.">
+	<sentence ID="1172_0" START="1421" END="1559">
+		<snp ID="0" START="1456" END="1465" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1524" END="1559" text="PTDM in renal allograft recipients"/>
+		<modality_marker  START="1432" END="1439" text="suggest"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

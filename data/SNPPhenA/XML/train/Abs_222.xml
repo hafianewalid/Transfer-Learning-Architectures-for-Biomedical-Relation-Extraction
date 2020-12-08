@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1138" TEXT="OBJECTIVE: To evaluate the association of nicotinic acetylcholine receptor (nAChR) single nucleotide polymorphism (SNP) with 7-day point prevalenceabstinence (abstinence) in randomized clinical trials of smoking cessation therapies in individuals grouped by pharmacotherapy randomization to inform the development of personalized smoking cessation therapy. METHODS: We quantified association of four SNPs at three nAChRs with abstinence in eight randomized clinical trials. Participants were 2633 outpatient treatment-seeking, self-identified European ancestry individuals smoking at least 10 cigarettes/day, recruited through advertisement, prescribed pharmacotherapy, and provided with behavioral therapy. Interventions included nicotinereplacement therapy (NRT), bupropion, varenicline, placebo (PLA), or combined NRT and bupropion, and five modes of group and individual behavioral therapy. Outcome measures tested in multivariate logistic regression were end of treatment and 6 month (6MO) abstinence, with demographic, behavioral, and genetic covariates. RESULTS: 'Risk' alleles previously associated with smoking heaviness  were significantly (P&lt;0.05) associated with reduced abstinence in the PLA pharmacotherapy group (PG) at 6MO [for rs588765, odds ratio (95% confidence interval) 0.41 (0.17-0.99)], and at end of treatment and at 6MO [for rs1051730, 0.42 (0.19-0.93) and 0.31 (0.12-0.80)], and with increased abstinence in the NRT PG at 6MO [for rs588765, 2.07 (1.11-3.87) and for rs1051730, 2.54 (1.29-4.99)]. We observed significant heterogeneity in rs1051730 effects (F=2.48, P=0.021) between PGs. CONCLUSIONS: chr15q25.1 nAChR SNP risk alleles for smoking heaviness significantly increase relapse with PLA treatment and significantly increase abstinence with NRT. These SNP-PG associations require replication in independent samples for validation, and testing in larger sample sizes to evaluate whether similar effects occur in other PGs.">
+	<sentence ID="1138_0" START="895" END="1520">
+		<snp ID="0" START="1244" END="1252" TEXT="rs588765"/>
+		<snp ID="1" START="1349" END="1359" TEXT=" rs1051730"/>
+		<snp ID="3" START="1457" END="1465" TEXT="rs588765"/>
+		<snp ID="2" START="1491" END="1501" TEXT=" rs1051730"/>
+		<phenotype ID="0" START="1112" END="1520" text="smoking heaviness  "/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

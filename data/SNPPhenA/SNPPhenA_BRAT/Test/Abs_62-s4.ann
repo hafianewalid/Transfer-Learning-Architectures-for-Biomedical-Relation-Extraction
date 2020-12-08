@@ -1,0 +1,3 @@
+T1	SNP 4 12	rs165774
+T2	Phenotype 37 55	alcohol dependence
+R1	weak_confidence_association Arg1:T1 Arg2:T2

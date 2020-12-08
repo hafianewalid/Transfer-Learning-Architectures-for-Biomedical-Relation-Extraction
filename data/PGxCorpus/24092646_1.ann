@@ -1,0 +1,14 @@
+T2	Gene_or_protein 20 24	MDR1 
+T3	Gene_or_protein 27 32	EPHX1 
+T4	Chemical 78 86	warfarin 
+T7	Gene_or_protein 37 46	protein Z
+T8	Pharmacodynamic_phenotype 64 93	modulation of warfarin dosage
+T1	Limited_variation 20 24;47 60	MDR1 gene variants
+T5	Limited_variation 27 32;47 60	EPHX1 gene variants
+T6	Limited_variation 37 60	protein Z gene variants
+R1	influences Arg1:T1 Arg2:T8	
+R2	influences Arg1:T5 Arg2:T8	
+R3	influences Arg1:T6 Arg2:T8	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R1	hyp

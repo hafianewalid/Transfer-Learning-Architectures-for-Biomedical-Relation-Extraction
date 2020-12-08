@@ -1,0 +1,11 @@
+T1	SNP 62 69	1051730
+T2	Phenotype 120 127	smoking
+T3	Phenotype 197 211	depressed mood
+T4	Modality_Marker 86 90	more
+T5	Modality_Marker 100 104	less
+T6	Modality_Marker 105 111	likely
+T7	Modality_Marker 160 164	less
+T8	Modality_Marker 165 171	likely
+T9	Modality_Marker 175 181	report
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T2

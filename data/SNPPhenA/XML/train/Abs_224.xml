@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1140" TEXT="BACKGROUND: Although more than 100 non-HLA variants have been tested for associations with juvenile idiopathic arthritis (JIA) in candidate genestudies, only a few have been replicated. We sought to replicate reported associations of single nucleotide polymorphisms (SNPs) in the PTPN22, TNFAand MIF genes in a well-characterized cohort of children with JIA. METHODS: We genotyped and analyzed 4 SNPs in 3 genes: PTPN22 C1858T (rs2476601), TNFA G-308A, G-238A (rs1800629, rs361525) and MIF G-173C (rs755622) in 647 JIA cases and 751 healthy controls. We tested for association between each variant and JIA as well as JIA subtypes. We adjusted for multiple testing using permutation procedures. We also performed a meta-analysis that combined our results with published results from JIA association studies. RESULTS: While the PTPN22 variant showed only modest association with JIA (OR = 1.29, p = 0.0309), it demonstrated a stronger association with the RF-positive polyarticular JIA subtype (OR = 2.12, p = 0.0041). The MIF variant was not associated with the JIA as a whole or with any subtype. The TNFA-238A variant was associated with JIA as a whole (OR 0.66, p = 0.0265), and demonstrated a stronger association with oligoarticular JIA (OR 0.33, p = 0.0006) that was significant after correction for multiple testing. TNFA-308A was not associated with JIA, but was nominally associated with systemic JIA (OR = 0.33, p = 0.0089) and enthesitis-related JIA (OR = 0.40, p = 0.0144). Meta-analyses confirmed significant associations between JIA and PTPN22 (OR 1.44, p &lt;0.0001) and TNFA-238A (OR 0.69, p &lt; 0.0086) variants. Subtype meta-analyses of the PTPN22 variant revealed associations between RF-positive, RF-negative, and oligoarticular JIA, that remained significant after multiple hypothesis correction (p &lt; 0.0005, p = 0.0007, and p &lt; 0.0005, respectively). CONCLUSIONS: We have confirmed associations between JIA and PTPN22 and TNFA G-308A. By performing subtype analyses, we discovered a statistically-significant association between the TNFA-238A variant and oligoarticular JIA. Our meta-analyses confirm the associations between TNFA-238A and JIA, and show that PTPN22 C1858T is associated with JIA as well as with RF-positive, RF-negative and oligoarticular JIA.">
+	<sentence ID="1140_0" START="368" END="550">
+		<snp ID="0" START="428" END="437" TEXT="rs2476601"/>
+		<snp ID="1" START="461" END="470" TEXT="rs1800629"/>
+		<snp ID="2" START="472" END="480" TEXT="rs361525"/>
+		<snp ID="3" START="498" END="506" TEXT="rs755622"/>
+		<phenotype ID="0" START="515" END="550" text="JIA"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1140_1" START="1867" END="1950">
+		<snp ID="4" START="1927" END="1933" TEXT="PTPN22"/>
+		<snp ID="5" START="1938" END="1949" TEXT="TNFA G-308A"/>
+		<phenotype ID="1" START="1919" END="1950" text="JIA"/>
+		<modality_marker  START="1867" END="1878" text="CONCLUSIONS"/>
+		<modality_marker  START="1888" END="1897" text="confirmed"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

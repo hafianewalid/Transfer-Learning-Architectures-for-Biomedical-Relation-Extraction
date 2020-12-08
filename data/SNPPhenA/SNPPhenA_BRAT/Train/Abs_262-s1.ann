@@ -1,0 +1,10 @@
+T1	SNP 29 41	rs7903146 T-
+T2	SNP 46 66	rs12255372 T-alleles
+T3	Phenotype 125 140	type 2 diabetes
+T4	Modality_Marker 15 23	reported
+T5	Modality_Marker 172 175	may
+T6	Modality_Marker 193 196	low
+T7	Negation_Scope 105 164	not associated with type 2 diabetes in a Chinese population
+T8	Negation_Cue 105 108	not
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

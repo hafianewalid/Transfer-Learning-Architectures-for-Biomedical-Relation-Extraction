@@ -1,0 +1,6 @@
+T1	Gene_or_protein 19 23	IDH1 
+T2	Chemical 54 59	NADPH 
+T3	Chemical 83 88	NADPH 
+T4	Limited_variation 11 23	mutated IDH1
+T5	Pharmacodynamic_phenotype 83 95	NADPH levels
+R1	decreases Arg1:T4 Arg2:T5	

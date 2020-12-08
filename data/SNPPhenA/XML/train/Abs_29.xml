@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1192" TEXT="Transcription factor 7-like 2 (TCF7L2) regulates genes involved in cell proliferation and differentiation. The TCF7L2 gene is located on chromosome 10q25 in a region of replicated linkage to type 2 diabetes. Recently, a microsatellite marker in intron 3 (DG10S478) and five correlated single nucleotide polymorphisms (SNPs) were identified in Icelandic individuals that showed strong association with type 2 diabetes, which was replicated in Danish and European-American cohorts. We genotyped four of the SNPs (rs7901695, rs7903146, rs11196205, and rs12255372) in Amish subjects with type 2 diabetes (n = 137), impaired glucose tolerance (IGT; n = 139), and normal glucose tolerance (NGT; n = 342). We compared genotype frequencies in subjects with type 2 diabetes with those with NGT and found marginal association for rs7901695 (P = 0.05; odds ratio [OR] 1.51); comparison between NGT control subjects and the combined type 2 diabetes/IGT case group showed strong association with rs7901695 and rs7903146 (P = 0.008-0.01; OR 1.53-1.57) and marginal association with rs11196205 and rs12255372 (P = 0.07 and P = 0.04, respectively). In an expanded set of 698 Amish subjects without diabetes, we found no association with insulin and glucose levels during a 3-h oral glucose tolerance test. We also genotyped these SNPs in nondiabetic, non-Amish subjects (n = 48), in whom intravenous glucose tolerance tests were performed, and found an association between rs7901695 and rs7903146 and insulin sensitivity (P = 0.003 and P = 0.005, respectively) and disposition index (P = 0.04 and P = 0.007, respectively). These data provide replicating evidence that variants in TCF7L2 increase the risk for type 2 diabetes and novel evidence that the variants likely influence both insulin secretion and insulin sensitivity.">
+	<sentence ID="1192_0" START="699" END="863">
+		<snp ID="0" START="820" END="829" TEXT="rs7901695"/>
+		<phenotype ID="0" START="749" END="863" text="type 2 diabetes"/>
+		<modality_marker  START="789" END="794" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1192_1" START="864" END="1132">
+		<snp ID="1" START="983" END="992" TEXT="rs7901695"/>
+		<snp ID="2" START="997" END="1006" TEXT="rs7903146"/>
+		<snp ID="3" START="1068" END="1078" TEXT="rs11196205"/>
+		<snp ID="4" START="1083" END="1093" TEXT="rs12255372"/>
+		<phenotype ID="1" START="921" END="1132" text="type 2 diabetes"/>
+		<modality_marker  START="952" END="958" text="showed"/>
+		<modality_marker  START="959" END="965" text="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1192_2" START="1290" END="1606">
+		<snp ID="5" START="1457" END="1466" TEXT="rs7901695"/>
+		<snp ID="6" START="1471" END="1480" TEXT="rs7903146"/>
+		<phenotype ID="2" START="1485" END="1606" text="insulin sensitivity"/>
+		<phenotype ID="3" START="1549" END="1606" text="disposition index"/>
+		<modality_marker  START="1428" END="1433" text="found"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="3" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="2" SNPID="6" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="8" PHENOTYPEID="3" SNPID="6" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

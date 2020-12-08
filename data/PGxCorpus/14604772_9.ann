@@ -1,0 +1,4 @@
+T1	Gene_or_protein 4 13	TNF-alpha 
+T2	Chemical 70 79	ibudilast 
+T3	Phenotype 4 33	TNF-alpha immunoreactive glia
+R1	decreases Arg1:T2 Arg2:T3	

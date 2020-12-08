@@ -1,0 +1,6 @@
+T1	SNP 13 22	rs1800875
+T2	Phenotype 73 76	CHD
+T3	Modality_Marker 31 34	may
+T4	Negation_Scope 91 129	not with chymase level in both groups.
+T5	Negation_Cue 91 94	not
+R1	weak_confidence_association Arg1:T1 Arg2:T2

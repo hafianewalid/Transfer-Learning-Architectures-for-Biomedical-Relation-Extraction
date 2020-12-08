@@ -1,0 +1,9 @@
+T1	Chemical 84 91	cocaine 
+T4	Gene_or_protein 160 169	5-HT(3A ) 
+T5	Gene_or_protein 191 200	5-HT(3A ) 
+T6	Pharmacodynamic_phenotype 42 91	effects of acute and chronic intermittent cocaine
+T3	Limited_variation 131 188	deletion of the gene for the 5-HT(3A ) - receptor subunit
+T2	Limited_variation 191 206	5-HT(3A ) - / -
+R1	isEquivalentTo Arg1:T2 Arg2:T3	
+R2	influences Arg1:T6 Arg2:T3	
+#1	AnnotatorNotes R2	hyp

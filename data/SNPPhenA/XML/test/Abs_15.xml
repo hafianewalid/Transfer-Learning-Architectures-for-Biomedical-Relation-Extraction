@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1007" TEXT="Earlier studies have shown that the single nucleotide polymorphism (SNP) A118G rs1799971 in the opioid receptor mu 1 (OPRM1) gene may affect  pain sensitivity . In the present study we investigated whether the A118G SNP could predict clinical outcome regarding progression of pain intensity and disability in patients with low back pain and sciatica after lumbar disc herniation. Patients (n = 258) with lumbar disc herniation and sciatic pain, all European-Caucasian, were recruited from two hospitals in Norway. Pain and disability were rated on a visual analog scale (VAS), by McGill Sensory Questionnaire and by Oswestry Disability Index (ODI) over a 12 months period. The data revealed a significant interaction between sex and A118G genotype regarding the pain intensity during the 12 months (VAS, p = 0.002; McGill, p = 0.021; ODI, p = 0.205, repeated-measures ANOVA). We found that */G women had a slower recovery rate than the */G men. Actually, the */G women had 2.3 times as much pain as the */G men 12 months after the disc herniation (VAS, p = 0.043, one-way ANOVA; p = 0.035, Tukey HSD). In contrast, the A/A women and A/A men seemed to have almost exactly the same recovery rate. The present data suggest that OPRM1 G allele increases the pain intensity in women, but has a protective effect in men the first year after disc herniation.">
+	<sentence ID="1007_0" START="0" END="160">
+		<snp ID="0" START="67" END="88" TEXT="(SNP) A118G rs1799971"/>
+		<phenotype ID="0" START="142" END="160" text="pain sensitivity"/>
+		<modality_marker  START="21" END="26" text="shown"/>
+		<modality_marker  START="130" END="133" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

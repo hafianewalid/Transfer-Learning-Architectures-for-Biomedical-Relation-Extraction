@@ -1,0 +1,6 @@
+T1	Chemical 31 40	serotonin 
+T2	Limited_variation 67 92	variation in the 5-HTTLPR 
+T3	Gene_or_protein 84 92	5-HTTLPR 
+T4	Pharmacokinetic_phenotype 31 51	serotonin metabolism
+R1	isAssociatedWith Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

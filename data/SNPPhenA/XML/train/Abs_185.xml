@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1096" TEXT="Premature adrenarche (PA) has been associated with increased body mass index. Our aim was to determine whether the obesity-associated variant at fat mass and obesity gene (FTO) is more frequent in PA subjects. Furthermore, we hypothesized that altered Wnt signaling due to genetic variants at transcription factor 7-like 2 (TCF7L2) could play a role in the polygenic pathogenesis of PA. We genotyped polymorphisms at FTO rs9939609 and atTCF7L2 rs7903146 and rs12255372 in 73 Finnish white prepubertal children with PA and in 97 age- and sex-matched healthy controls. In addition, we investigated the associations of these genetic variations with weight, height, circulating adrenocortical hormone levels, glucose metabolism, lipid profile, and blood pressure. The differences in the minor allele frequencies (MAFs) of rs9939609, rs7903146, and rs12255372 were not statistically significant between the PA and control groups (difference in MAFs [95% confidence interval]: -0.06 [-0.18, 0.05], 0.04 [-0.05, 0.12], and 0.01 [-0.07, 0.10]; P = .3, .4, and .8, respectively). However, the risk allele at TCF7L2 rs7903146 was more frequent in PA subjects than in controls when we restricted the analysis to the subjects with lower weight-for-height than the median of the PA subjects (weight-for-height &lt;108%, corresponding body mass index SD score &lt;0.79; difference in MAFs [95% confidence interval]: 0.12 [-0.001, 0.23]; P = .038). Risk variant at FTO rs9939609 associated with higher weight-for-height in the healthy children (P = .001). In conclusion, the minor variant at FTO rs9939609 seems to play no major role in the increased weight-for-height of PA subjects; but the risk allele at TCF7L2 rs7903146 may have a role in the pathogenesis of PA in lean subjects.">
+	<sentence ID="1096_0" START="1071" END="1279">
+		<snp ID="0" START="1106" END="1115" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1137" END="1279" text="PA"/>
+		<modality_marker  START="1120" END="1124" text="more"/>
+		<modality_marker  START="1219" END="1224" text="lower"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

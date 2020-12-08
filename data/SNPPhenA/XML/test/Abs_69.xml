@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1066" TEXT="BACKGROUND: Methamphetamine (MAMP) use is highly associated with psychiatric disorders with 12-13% of MAMP-dependent patients experiencing psychotic symptoms. Substance abuse and dependence may primarily involve the mesolimbic pathway and dopaminergic brain structures. It follows that dopaminergic genes, particularly COMT (encoding catechol-O-methyltransferase) and its val158met polymorphism (rs4680), are natural candidates for susceptibility loci to addiction. We have previously found an association with rs4680 and MAMP addiction. METHODS: We present additional genotypingof rs165599 in 423 cases and 502 controls of a Taiwanese MAMP user sample. We carried out an in-silico evaluation of rs165599 for a possible impact onmicroRNA binding or UTR stability. We also carried out a review of transcript sequences across the COMT 3'UTR. RESULTS: Genotype counts were (cases/controls): AA 94/110, AG 198/210 and GG 93/109. There were no significant allele or genotype differences between cases and controls for rs165599. However, a haplotype main effect was detected using both rs4680 and rs165599 using the χ²-test in UNPHASED. The global P-value was P=0.0044 with the effect appearing to derive from one haplotype that is underrepresented in cases: A/G for rs4680/rs165599 (haplotype P=0.001). rs165599 is a single nucleotide polymorphism located in the COMT 3' untranslated region (UTR), a noncoding transcript region subject to posttranscriptional down-regulation by mechanisms such as microRNA binding. A review of transcript sequences across the COMT 3'UTR found evidence to suggest antisense interference of COMT from the 3'UTR of the neighbouring 'Armadillo repeat gene deleted in velocardiofacial syndrome' gene.">
+	<sentence ID="1066_0" START="466" END="537">
+		<snp ID="0" START="511" END="517" TEXT="rs4680"/>
+		<phenotype ID="0" START="522" END="537" text="MAMP"/>
+		<modality_marker  START="485" END="490" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

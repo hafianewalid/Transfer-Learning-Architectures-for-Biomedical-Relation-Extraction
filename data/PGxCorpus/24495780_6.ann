@@ -1,0 +1,23 @@
+T1	Limited_variation 25 34	rs4795893 
+T2	Limited_variation 37 46	rs1024611 
+T3	Limited_variation 49 55	rs4586 
+T4	Limited_variation 60 69	rs2857657 
+T6	Gene_or_protein 99 103	CCL2 
+T7	Disease 244 257	schizophrenic 
+T8	Chemical 347 358	risperidone 
+T5	Phenotype 153 189	Positive and Negative Syndrome Scale
+T9	Phenotype 192 197	PANSS
+T10	Limited_variation 18 22	SNPs
+R1	isEquivalentTo Arg1:T9 Arg2:T5	
+R2	isAssociatedWith Arg1:T1 Arg2:T5	
+R3	isAssociatedWith Arg1:T2 Arg2:T5	
+R4	isAssociatedWith Arg1:T3 Arg2:T5	
+R5	isAssociatedWith Arg1:T4 Arg2:T5	
+R6	treats Arg1:T8 Arg2:T7	
+R7	influences Arg1:T8 Arg2:T5	
+R8	isAssociatedWith Arg1:T10 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp
+#4	AnnotatorNotes R5	hyp
+#5	AnnotatorNotes R8	hyp

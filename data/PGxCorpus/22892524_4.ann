@@ -1,0 +1,11 @@
+T1	Limited_variation 172 177	N236T 
+T2	Limited_variation 188 195	A181V/T 
+T3	Chemical 205 208	TDF 
+T4	Gene_or_protein 88 102	HBV polymerase
+T5	Limited_variation 88 116	HBV polymerase gene variants
+T6	Chemical 163 166	ADV
+T7	Pharmacodynamic_phenotype 144 166	resistance against ADV
+R1	influences Arg1:T1 Arg2:T7	
+R2	isAssociatedWith Arg1:T2 Arg2:T7	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

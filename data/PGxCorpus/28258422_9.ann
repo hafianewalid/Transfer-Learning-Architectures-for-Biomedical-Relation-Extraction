@@ -1,0 +1,7 @@
+T1	Gene_or_protein 22 26	EGFR 
+T3	Disease 166 169	ILD 
+T4	Chemical 199 211	prednisolone 
+T5	Chemical 22 31	EGFR -TKI
+T6	Pharmacodynamic_phenotype 4 31	adverse events of EGFR -TKI
+T7	Gene_or_protein 84 88	EGFR
+T8	Chemical 84 93	EGFR -TKI

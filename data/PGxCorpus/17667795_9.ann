@@ -1,0 +1,5 @@
+T1	Chemical 46 57	haloperidol 
+T2	Limited_variation 100 114	CYP2D6 alleles 
+T3	Gene_or_protein 100 106	CYP2D6 
+T4	Pharmacodynamic_phenotype 46 78	haloperidol plasma concentration
+R2	isAssociatedWith Arg1:T4 Arg2:T2	

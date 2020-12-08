@@ -1,0 +1,6 @@
+T1	Chemical 0 14	Cholestyramine 
+T2	Disease 48 62	sitosterolemia 
+T3	Gene_or_protein 65 70	ABCG5 
+T4	Genomic_variation 65 84	ABCG5 /8 deficiency
+R1	treats Arg1:T1 Arg2:T2	
+R2	causes Arg1:T4 Arg2:T2	

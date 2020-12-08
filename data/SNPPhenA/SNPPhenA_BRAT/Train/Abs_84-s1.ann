@@ -1,0 +1,7 @@
+T1	SNP 30 35	APOA5
+T2	SNP 122 130	rs662799
+T3	Phenotype 181 199	metabolic syndrome
+T4	Modality_Marker 61 66	shown
+T5	Modality_Marker 149 157	reported
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

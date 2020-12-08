@@ -1,0 +1,5 @@
+T1	SNP 35 44	rs7903146
+T2	Phenotype 66 68	PA
+T3	Modality_Marker 49 53	more
+T4	Modality_Marker 148 153	lower
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

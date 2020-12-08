@@ -1,0 +1,11 @@
+T1	Limited_variation 46 81	rs16147 of the NPY gene ( -485C>T ) 
+T3	Gene_or_protein 61 64	NPY 
+T5	Limited_variation 14 45;86 128	single nucleotide polymorphisms rs7687423 of the NPY receptor Y1 ( NPY1R ) 
+T9	Gene_or_protein 121 126	NPY1R 
+T10	Chemical 169 184	methamphetamine 
+T11	Disease 200 209	psychosis 
+T12	Gene_or_protein 103 118	NPY receptor Y1
+T6	Disease 169 195	methamphetamine dependence
+T2	Limited_variation 14 81	single nucleotide polymorphisms rs16147 of the NPY gene ( -485C>T )
+T4	Limited_variation 86 95	rs7687423
+R1	isEquivalentTo Arg1:T9 Arg2:T12	

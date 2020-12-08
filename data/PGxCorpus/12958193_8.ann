@@ -1,0 +1,7 @@
+T2	Gene_or_protein 46 53	CYP3a13 
+T3	Chemical 57 70	dexamethasone 
+T4	Gene_or_protein 89 108	pregnane X receptor 
+T1	Pharmacodynamic_phenotype 33 70	induction of CYP3a13 by dexamethasone
+T5	Genomic_variation 89 113	pregnane X receptor null
+R2	influences Arg1:T5 Arg2:T1	
+R1	influences Arg1:T3 Arg2:T2	

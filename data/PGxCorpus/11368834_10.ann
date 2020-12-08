@@ -1,0 +1,10 @@
+T1	Limited_variation 25 35	CCK -45C>T 
+T2	Gene_or_protein 25 28	CCK 
+T4	Gene_or_protein 40 45	CCKBR 
+T5	Limited_variation 40 55	CCKBR Val125Ile 
+T6	Chemical 98 105	alcohol 
+T7	Disease 98 116	alcohol dependence
+R1	influences Arg1:T5 Arg2:T7	
+R2	influences Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R1	neg

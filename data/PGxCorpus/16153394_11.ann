@@ -1,0 +1,10 @@
+T1	Chemical 10 21	terbutaline 
+T2	Gene_or_protein 52 60	beta2-AR 
+T4	Haplotype 100 133	haplotype A ( Arg 16Gln27Thr164 )
+T5	Haplotype 171 203	haplotype B ( Gly16Gln27Thr164 )
+T6	Haplotype 247 279	haplotype C ( Gly16Glu27Thr164 )
+T7	Pharmacodynamic_phenotype 32 60	desensitizes venous beta2-AR
+R1	causes Arg1:T1 Arg2:T7	
+R2	influences Arg1:T6 Arg2:T2	
+R3	increases Arg1:T4 Arg2:T2	
+R4	increases Arg1:T5 Arg2:T2	

@@ -1,0 +1,13 @@
+T1	Pharmacodynamic_phenotype 46 79	co-trimoxazole -induced SJS / TEN 
+T2	Chemical 46 60	co-trimoxazole 
+T4	Gene_or_protein 106 111	HLA-B 
+T5	Gene_or_protein 122 127	HLA-C 
+T6	Gene_or_protein 142 147	HLA-C 
+T7	Haplotype 106 119	HLA-B * 15:02
+T8	Haplotype 122 135	HLA-C * 06:02
+T9	Haplotype 142 155	HLA-C * 08:01
+T10	Pharmacodynamic_phenotype 70 79	SJS / TEN
+R2	isAssociatedWith Arg1:T1 Arg2:T7	
+R4	isAssociatedWith Arg1:T1 Arg2:T5	
+R6	isAssociatedWith Arg1:T1 Arg2:T9	
+R1	causes Arg1:T2 Arg2:T10	

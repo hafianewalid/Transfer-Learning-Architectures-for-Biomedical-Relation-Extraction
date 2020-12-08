@@ -1,0 +1,35 @@
+T1	Limited_variation 39 64	F508del - CFTR homozygous 
+T2	Gene_or_protein 49 53	CFTR 
+T3	Disease 39 67	F508del - CFTR homozygous CF 
+T4	Chemical 83 117	combination of cysteamine and EGCG 
+T5	Chemical 113 117	EGCG 
+T6	Gene_or_protein 127 132	BECN1 
+T7	Phenotype 143 156	SQSTM1 levels 
+T8	Gene_or_protein 143 149	SQSTM1 
+T9	Phenotype 170 183	CFTR function 
+T10	Gene_or_protein 170 174	CFTR 
+T11	Chemical 253 261	chloride 
+T12	Gene_or_protein 336 351	TNF / TNF-alpha 
+T14	Disease 354 359	tumor 
+T16	Gene_or_protein 390 422	chemokine [C-X-C motif] ligand 8 
+T20	Gene_or_protein 382 387	CXCL8 
+T21	Phenotype 459 462;473 487	TNF protein levels 
+T22	Gene_or_protein 459 462	TNF 
+T23	Gene_or_protein 467 472	CXCL8 
+T25	Chemical 98 108	cysteamine
+T26	Pharmacodynamic_phenotype 253 285	chloride concentrations in sweat
+T27	Phenotype 127 132;150 156	BECN1 levels
+T28	Phenotype 323 351;425 436	abundance of TNF / TNF-alpha transcripts
+T13	Gene_or_protein 354 375	tumor necrosis factor
+T15	Phenotype 323 335;382 387;425 436	abundance of CXCL8 transcripts
+T17	Phenotype 467 487	CXCL8 protein levels
+R2	decreases Arg1:T4 Arg2:T7	
+R3	increases Arg1:T4 Arg2:T9	
+R1	influences Arg1:T4 Arg2:T27	
+R4	decreases Arg1:T4 Arg2:T26	
+R5	isEquivalentTo Arg1:T13 Arg2:T12	
+R6	isEquivalentTo Arg1:T16 Arg2:T20	
+R7	decreases Arg1:T4 Arg2:T15	
+R8	decreases Arg1:T4 Arg2:T28	
+R9	decreases Arg1:T4 Arg2:T17	
+R10	decreases Arg1:T4 Arg2:T21	

@@ -1,0 +1,1 @@
+Comparison between allele and genotype frequencies of these SNPs in patients and controls showed marginal association for rs7903146 and rs290487 with type 2 diabetes (p = 0.063, OR 1.982, 95% CI 1.128-3.485; p = 0.071, OR 1.237, 95% CI 0.983-1.557, respectively).

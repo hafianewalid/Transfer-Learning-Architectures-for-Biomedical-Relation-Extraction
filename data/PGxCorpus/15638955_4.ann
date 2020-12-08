@@ -1,0 +1,17 @@
+T1	Gene_or_protein 18 50	epidermal growth factor receptor 
+T2	Gene_or_protein 53 57	EGFR 
+T4	Disease 255 281	non-small-cell lung cancer 
+T5	Disease 284 289	NSCLC 
+T6	Chemical 105 168	inhibitors of the tyrosine kinase ( TK ) domain of the receptor
+T7	Gene_or_protein 141 143	TK
+T8	Gene_or_protein 123 138	tyrosine kinase
+T9	Chemical 65 86	monoclonal antibodies
+T10	Pharmacodynamic_phenotype 217 237	antitumor activities
+R1	isEquivalentTo Arg1:T4 Arg2:T5	
+R2	isEquivalentTo Arg1:T2 Arg2:T1	
+R3	decreases Arg1:T6 Arg2:T1	
+R5	treats Arg1:T6 Arg2:T4	
+R7	isEquivalentTo Arg1:T7 Arg2:T8	
+R8	decreases Arg1:T9 Arg2:T1	
+R4	influences Arg1:T9 Arg2:T10	
+R9	influences Arg1:T6 Arg2:T10	

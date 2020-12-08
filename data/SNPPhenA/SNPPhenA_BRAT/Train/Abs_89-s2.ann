@@ -1,0 +1,3 @@
+T1	SNP 8 18	rs12255372
+T2	Phenotype 64 86	adiposity or with S(i)
+R1	negative_association Arg1:T1 Arg2:T2

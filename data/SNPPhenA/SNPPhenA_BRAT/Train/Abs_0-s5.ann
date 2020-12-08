@@ -1,0 +1,8 @@
+T1	SNP 26 35	rs1051730
+T2	Phenotype 58 102	lower third trimester estimated fetal weight
+T3	Phenotype 179 191	birth weight
+T4	Modality_Marker 58 63	lower
+T5	Modality_Marker 80 89	estimated
+T6	Modality_Marker 150 156	tended
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

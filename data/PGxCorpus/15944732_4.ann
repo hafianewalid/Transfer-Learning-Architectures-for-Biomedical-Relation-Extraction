@@ -1,0 +1,9 @@
+T1	Gene_or_protein 59 69	HER2 / neu 
+T3	Chemical 95 102	S-27609 
+T5	Disease 153 168	mammary tumours 
+T6	Chemical 82 91	Imiquimod
+T2	Phenotype 153 168;189 198	mammary tumours incidence
+T7	Chemical 21 102	DNA vaccine encoding a portion of rat HER2 / neu with either Imiquimod or S-27609
+T8	Chemical 220 235	DNA vaccination
+R1	treats Arg1:T7 Arg2:T5	
+R2	decreases Arg1:T7 Arg2:T2	

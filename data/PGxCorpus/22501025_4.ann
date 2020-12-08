@@ -1,0 +1,7 @@
+T1	Chemical 108 115	alcohol 
+T2	Limited_variation 138 157	variation in GABRA2 
+T3	Gene_or_protein 151 157	GABRA2 
+T4	Pharmacodynamic_phenotype 97 115	effects of alcohol
+T6	Phenotype 43 61	differences in SRs
+R2	isAssociatedWith Arg1:T6 Arg2:T2	
+#1	AnnotatorNotes R2	hyp

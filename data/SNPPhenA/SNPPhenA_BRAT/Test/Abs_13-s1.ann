@@ -1,0 +1,9 @@
+T1	SNP 113 122	rs2519152
+T2	SNP 185 194	rs1799971
+T3	Phenotype 22 26	ADHD
+T4	Phenotype 54 58	SUDs
+T5	Modality_Marker 60 66	showed
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T2 Arg2:T3
+R3	moderate_confidence_association Arg1:T1 Arg2:T4
+R4	moderate_confidence_association Arg1:T2 Arg2:T4

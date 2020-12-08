@@ -1,0 +1,9 @@
+T1	SNP 180 188	rs588765
+T2	SNP 286 295	rs1051730
+T3	SNP 393 401	rs588765
+T4	SNP 428 437	rs1051730
+T5	Phenotype 49 66	smoking heaviness
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T4 Arg2:T5
+R4	weak_confidence_association Arg1:T3 Arg2:T5

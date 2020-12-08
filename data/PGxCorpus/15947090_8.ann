@@ -1,0 +1,20 @@
+T1	Limited_variation 19 34	CYP2C9 genotype 
+T2	Gene_or_protein 19 25	CYP2C9 
+T3	Chemical 64 74	S-warfarin 
+T4	Chemical 85 93	warfarin 
+T5	Chemical 166 177	R- warfarin 
+T6	Pharmacokinetic_phenotype 64 74;94 103	S-warfarin clearance
+T8	Pharmacokinetic_phenotype 166 187	R- warfarin clearance
+T9	Pharmacokinetic_phenotype 79 103	total warfarin clearance
+T7	Phenotype 0 3	Age
+T10	Phenotype 6 12	height
+T11	Phenotype 119 122	age
+T12	Phenotype 127 136	body size
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T1 Arg2:T9	
+R4	influences Arg1:T10 Arg2:T6	
+R3	influences Arg1:T10 Arg2:T9	
+R5	influences Arg1:T7 Arg2:T9	
+R6	influences Arg1:T7 Arg2:T6	
+R7	influences Arg1:T11 Arg2:T8	
+R8	influences Arg1:T12 Arg2:T8	

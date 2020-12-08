@@ -1,0 +1,1 @@
+RESULTS : Neither the mean AUC ( 0-infinity ) ( geometric mean ratio : 1.01 ; 95 % CI : 0.93-1 .1 , P = 0.88 ) nor the mean C ( max ) ( geometric mean ratio : 1.05 ; 95 % CI : 0.94-1 .2 , P = 0.35 ) of repaglinide were statistically significantly different in the group carrying the CYP2C8 * 3 mutant allele compared with wild-types .

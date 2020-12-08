@@ -1,0 +1,10 @@
+T1	Chemical 33 40	AZD7762 
+T2	Gene_or_protein 97 100	p53 
+T5	Chemical 45 53	olaparib
+T6	Chemical 18 53	combination of AZD7762 and olaparib
+T7	Disease 97 125	p53 mutant pancreatic cancer
+T8	Limited_variation 97 107	p53 mutant
+T9	Phenotype 75 93	radiosensitization
+T10	Genomic_factor 150 158	isogenic
+T11	Disease 150 165	isogenic cancer
+R1	causes Arg1:T6 Arg2:T9	

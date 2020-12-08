@@ -1,0 +1,1 @@
+RESULTS: The family-based association test (FBAT) revealed a significant genetic association between autism and two of the SNPs tested (rs2254298 A: Z = 2.287, p = .0222; rs53576 A: Z = 2.573, p = .0101).

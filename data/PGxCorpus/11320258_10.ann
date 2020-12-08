@@ -1,0 +1,12 @@
+T1	Gene_or_protein 4 13	serotonin 
+T2	Chemical 28 35	cocaine 
+T3	Gene_or_protein 46 49	DAT 
+T4	Chemical 104 111	cocaine 
+T5	Gene_or_protein 132 135	DAT 
+T6	Gene_or_protein 138 142	SERT 
+T7	Genomic_variation 46 58	DAT knockout
+T9	Genomic_variation 132 158	DAT / SERT double knockout
+T8	Phenotype 4 42	serotonin dependence of cocaine reward
+T10	Phenotype 104 128	cocaine place preference
+R1	isAssociatedWith Arg1:T8 Arg2:T7	
+R2	isAssociatedWith Arg1:T9 Arg2:T10	

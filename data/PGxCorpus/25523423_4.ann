@@ -1,0 +1,8 @@
+T1	Gene_or_protein 47 69	APPswe , PSEN1dE985Dbo 
+T2	Gene_or_protein 72 79	APP/PS1 
+T3	Disease 97 99	AD 
+T4	Chemical 158 170	Bryostatin-1 
+T5	Phenotype 182 200	cognitive deficits 
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	treats Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes R2	hyp

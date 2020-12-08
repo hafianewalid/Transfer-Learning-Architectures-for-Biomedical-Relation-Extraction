@@ -1,0 +1,4 @@
+T1	Gene_or_protein 0 9	Cyclin D1 
+T2	Chemical 73 82	celecoxib 
+T3	Gene_or_protein 36 39	Ras
+R1	decreases Arg1:T2 Arg2:T1	

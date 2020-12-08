@@ -1,0 +1,14 @@
+T1	Haplotype 31 47	UGT1A haplotypes
+T2	Chemical 95 112	SN-38 glucuronide
+T3	Pharmacodynamic_phenotype 127 137	toxicities
+T4	Disease 168 174	cancer
+T5	Chemical 197 207	irinotecan
+T6	Pharmacokinetic_phenotype 56 123	area under concentration curve ratio ( SN-38 glucuronide / SN -38 )
+T7	Chemical 115 121	SN -38
+T8	Chemical 244 256	chemotherapy
+T9	Gene_or_protein 31 36	UGT1A
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+R3	treats Arg1:T5 Arg2:T4	
+R2	isAssociatedWith Arg1:T1 Arg2:T3	
+#2	AnnotatorNotes R1	hyp
+#1	AnnotatorNotes R2	hyp

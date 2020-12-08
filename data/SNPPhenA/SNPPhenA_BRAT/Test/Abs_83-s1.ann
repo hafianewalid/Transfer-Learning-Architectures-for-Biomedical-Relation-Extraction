@@ -1,0 +1,4 @@
+T1	SNP 50 54	OXTR
+T2	Phenotype 94 104	depression
+T3	Modality_Marker 109 121	demonstrated
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

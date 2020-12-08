@@ -1,0 +1,1 @@
+Stepwise multiple regression analysis revealed that the risk allele (C) for SNP rs5770917 was significantly associated with decreased CPT1B mRNA expression (P = 1.0 × 10(-9)), and the CPT1B expression was higher in the narcolepsy patients than in the controls (P = 0.005).

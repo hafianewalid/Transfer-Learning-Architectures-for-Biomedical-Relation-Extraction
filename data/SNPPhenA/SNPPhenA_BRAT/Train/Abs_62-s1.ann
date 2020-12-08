@@ -1,0 +1,8 @@
+T1	SNP 14 22	Xq11-q12
+T2	SNP 85 94	rs1352015
+T3	Phenotype 51 54	AGA
+T4	Modality_Marker 26 34	strongly
+T5	Modality_Marker 74 79	found
+T6	Modality_Marker 128 134	showed
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

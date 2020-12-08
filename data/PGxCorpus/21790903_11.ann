@@ -1,0 +1,11 @@
+T1	Limited_variation 141 162	polymorphisms in CNR1 
+T2	Gene_or_protein 158 162	CNR1 
+T3	Chemical 238 245	cocaine 
+T4	Disease 238 255	cocaine addiction
+T5	Disease 56 58	CD
+T6	Disease 70 84	drugs of abuse
+T7	Pharmacodynamic_phenotype 180 218	susceptibility to substance dependence
+R1	causes Arg1:T1 Arg2:T4	
+R2	causes Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hypo

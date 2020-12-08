@@ -1,0 +1,5 @@
+T1	SNP 19 27	rs662799
+T2	Phenotype 51 55	MetS
+T3	Modality_Marker 141 147	almost
+T4	Modality_Marker 148 159	disappeared
+R1	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T1	SNP 54 63	rs4988235
+T2	Phenotype 124 143	lactase persistence
+R1	weak_confidence_association Arg1:T1 Arg2:T2

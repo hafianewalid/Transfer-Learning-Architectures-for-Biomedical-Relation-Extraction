@@ -1,0 +1,8 @@
+T1	SNP 56 64	rs290487
+T2	SNP 79 88	rs7903146
+T3	Phenotype 159 183	type 2 diabetes mellitus
+T4	Phenotype 185 189	T2DM
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T4
+R3	neutral_association Arg1:T2 Arg2:T3
+R4	neutral_association Arg1:T2 Arg2:T4

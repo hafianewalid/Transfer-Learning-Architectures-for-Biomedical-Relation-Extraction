@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1062" TEXT="BACKGROUND: The mechanisms underlying the development of impulse control disorders (ICDs) like compulsive gambling, buying, sexual, and eatingbehaviors in Parkinson's disease (PD) are debated. We assessed whether allelic variants of dopamine D2 receptors (DRD2), catechol-O-methyltransferase (COMT) and dopamine transporter (DAT) were associated with the development of ICDs in PD. METHODS: We enrolled 89 idiopathic PDpatients (48 without ICDs and 41 with ICDs). All patients were screened with the Minnesota Impulsive Disorders Interview (MIDI) and fulfilled DSM-IV criteria for the ICD positive cohort. Differences in the frequency of the genotypes between ICDs and non-ICDs groups were assessed using the χ(2) test. RESULTS: Genotyping was performed for variants of the DRD2 Taq1A (rs1800497), COMT Val(158)Met (rs4680), DAT1 (3' UTR 40bp VNTR).  Variants ofDRD2 Taq1A , COMT and DAT1 were not associated with the risk of developing ICDs. CONCLUSIONS: In our study, there were no differences in the frequency of variant of DRD2 Taq1A, COMT and DAT1 between the two groups. Polymorphisms of dopaminergic genes do not play a relevant role in the development of ICD in PD suggesting that ICD originate from inability to filter inappropriate behaviors triggered by dopaminergic therapy.">
+	<sentence ID="1062_0" START="851" END="942">
+		<snp ID="0" START="862" END="874" TEXT="DRD2 Taq1A ,"/>
+		<snp ID="1" START="875" END="879" TEXT="COMT"/>
+		<snp ID="2" START="884" END="888" TEXT="DAT1"/>
+		<phenotype ID="0" START="937" END="942" text="ICDs"/>
+		<negation_scope  START="851" END="942" text="Variants ofDRD2 Taq1A , COMT and DAT1 were not associated with the risk of developing ICDs.">
+			<negation_cue START="894" END="897" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

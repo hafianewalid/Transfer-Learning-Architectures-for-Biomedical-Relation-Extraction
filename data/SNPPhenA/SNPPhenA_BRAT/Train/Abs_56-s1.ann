@@ -1,0 +1,5 @@
+T1	SNP 20 29	rs1051730
+T2	Phenotype 111 128	smoking cessation
+T3	Modality_Marker 92 97	shown
+T4	Modality_Marker 188 193	clear
+R1	weak_confidence_association Arg1:T1 Arg2:T2

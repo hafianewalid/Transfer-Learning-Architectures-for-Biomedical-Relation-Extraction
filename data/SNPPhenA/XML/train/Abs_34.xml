@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1198" TEXT="OBJECTIVE: A strong association between susceptibility to type 2 diabetes and common variants of transcription factor 7-like 2 (TCF7L2), encoding an enteroendocrine transcription factor involved in glucose homeostasis, has been reported in three different populations (Iceland, Denmark and USA) by Grant et al. We aimed to replicate these findings in a Dutch cohort. METHODS: We analysed the genotypes of two intronic single nucleotide polymorphisms (SNPs) in TCF7L2 gene in 502 unrelated type 2 diabetes patients and in a set of healthy controls (n = 920). The two SNPs showed almost complete linkage disequilibrium (D' = 0.91). RESULTS: We were able to replicate the previously reported association in our Breda cohort. The minor alleles of both variants were significantly over-represented in cases (odds ratio [OR] 1.29, 95% CI 1.09-1.52, [Formula: see text] for rs12255372; OR 1.41, 95% CI 1.19-1.66, [Formula: see text] for rs7903146). In addition, TCF7L2 haplotypes were analysed for association with the disease. The analysis of haplotypes did not reveal any strong association beyond that expected from analysing individual SNPs. The TT haplotype carrying the minor alleles was more frequent among cases (OR 1.38, [Formula: see text]). CONCLUSIONS: Our data strongly confirm that variants of the TCF7L2 gene contribute to the risk of type 2 diabetes. The population-attributable risk from this factor in the Dutch type 2 diabetes population is 10%.">
+	<sentence ID="1198_0" START="1258" END="1359">
+		<snp ID="0" START="1289" END="1311" TEXT="variants of the TCF7L2"/>
+		<phenotype ID="0" START="1343" END="1359" text="type 2 diabetes"/>
+		<modality_marker  START="1267" END="1275" text="strongly"/>
+		<modality_marker  START="1276" END="1283" text="confirm"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

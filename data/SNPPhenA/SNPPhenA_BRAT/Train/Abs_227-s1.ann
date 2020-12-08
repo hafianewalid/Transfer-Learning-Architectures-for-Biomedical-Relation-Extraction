@@ -1,0 +1,7 @@
+T1	SNP 140 145	ABCA7
+T2	SNP 147 158	rs115550680
+T3	Phenotype 347 356	Alzheimer
+T4	Modality_Marker 52 58	models
+T5	Modality_Marker 116 124	observed
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

@@ -1,0 +1,12 @@
+T3	Gene_or_protein 89 95	VKORC1 
+T4	Chemical 241 249	warfarin 
+T5	Phenotype 338 346	bleeding 
+T2	Limited_variation 0 134	Homozygosity for the -1639 G>A single nucleotide functional promoter polymorphism of the VKORC1 gene ( genotype AA ; 14 5 % of cases )
+T1	Pharmacodynamic_phenotype 181 210	time to therapeutic INR > = 2
+T7	Pharmacodynamic_phenotype 234 254	stable warfarin dose
+T8	Phenotype 297 305	INRs > 5
+T6	Limited_variation 411 422	GG genotype
+R1	increases Arg1:T2 Arg2:T5	
+R2	increases Arg1:T2 Arg2:T8	
+R3	decreases Arg1:T2 Arg2:T1	
+R4	decreases Arg1:T2 Arg2:T7	

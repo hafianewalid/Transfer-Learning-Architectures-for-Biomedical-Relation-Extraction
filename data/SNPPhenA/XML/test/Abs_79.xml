@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1077" TEXT="Oxytocin is crucially involved in the onset and maintenance of labor. We investigated the association between oxytocin receptor gene polymorphisms and preterm birth. The presence of four common oxytocin receptor gene polymorphisms (rs2254298, rs53576, rs2228485 and rs237911) was evaluated in one hundred women with preterm birth and one hundred healthy women using restriction fragment length polymorphism genotyping. No association was found between the presence of any individual oxytocin receptor gene polymorphism and preterm birth. In haplotype analysis, the haplotype combination of rs2254298 A allele, rs2228485 C allele and rs237911 G allele was found to be significantly associated with an increased risk of preterm birth (OR=3.2 [CI 1.04-9.8], p=0.043). In conclusion our findings suggest that a combination of three oxytocin receptor gene polymorphisms is associated with an increased risk for preterm birth. We propose further studies investigating the role of oxytocin receptor gene polymorphisms and preterm birth.">
+	<sentence ID="1077_0" START="538" END="764">
+		<snp ID="0" START="590" END="599" TEXT="rs2254298"/>
+		<snp ID="1" START="610" END="619" TEXT="rs2228485"/>
+		<snp ID="2" START="633" END="641" TEXT="rs237911"/>
+		<phenotype ID="0" START="718" END="764" text="preterm birth"/>
+		<modality_marker  START="655" END="660" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1040" TEXT="This study was conducted to establish the contribution of genetic host factors in the susceptibility to community acquired pneumonia (CAP) in the Russian population. Patients with CAP (n=334), volunteers without a previous history of CAP, constantly exposed to infectious agents, control A group (n=141) and a second control group B consisted of healthy persons (n=314) were included in the study. All subjects were genotyped for 13 polymorphic variants in the genes of xenobiotics detoxification CYP1A1 (rs2606345, rs4646903, and rs1048943), GSTM1 (Ins/del), GSTT1 (Ins/del), ABCB1 rs1045642); immune and inflammation response IL-6 (rs1800795), TNF-a (rs1800629), MBL2 (rs7096206), CCR5 (rs333), NOS3 (rs1799983), angiotensin-converting enzyme ACE (rs4340), and occlusive vascular disease/hyperhomocysteinemia MTHFR (rs1801133). Seven polymorphic variants in genes CYP1A1, GSTM1, ABCB1, NOS3, IL6, CCR5 and ACE were associated with CAP. For two genes CYP1A1 and GSTM1 associations remained significant after correction for multiple comparisons. Multiple analysis by the number of all risk genotypes showed a highly significant association with CAP (P=2.4×10(-7), OR=3.03, 95% CI 1.98-4.64) with the threshold for three risk genotypes. Using the ROC-analysis, the AUC value for multi-locus model was estimated as 68.38.">
+	<sentence ID="1040_0" START="830" END="937">
+		<snp ID="0" START="866" END="872" TEXT="CYP1A1"/>
+		<snp ID="1" START="874" END="879" TEXT="GSTM1"/>
+		<snp ID="2" START="881" END="886" TEXT="ABCB1"/>
+		<snp ID="3" START="888" END="892" TEXT="NOS3"/>
+		<snp ID="4" START="894" END="897" TEXT="IL6"/>
+		<snp ID="5" START="899" END="903" TEXT="CCR5"/>
+		<snp ID="6" START="908" END="911" TEXT="ACE"/>
+		<phenotype ID="0" START="933" END="937" text="CAP"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1041" TEXT="OBJECTIVE: We aimed to replicate the association of the rs290487 (IVS3C/T) and rs7903146 (IVS3C/T) polymorphisms of transcription factor 7-like 2 (TCF7L2) and type 2 diabetes mellitus (T2DM) in Han Chinese people in Henan province, China.">
+	<sentence ID="1041_0" START="0" END="238">
+		<snp ID="0" START="56" END="64" TEXT="rs290487"/>
+		<snp ID="1" START="79" END="88" TEXT="rs7903146"/>
+		<phenotype ID="0" START="159" END="238" text="type 2 diabetes mellitus"/>
+		<phenotype ID="1" START="185" END="238" text="T2DM"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

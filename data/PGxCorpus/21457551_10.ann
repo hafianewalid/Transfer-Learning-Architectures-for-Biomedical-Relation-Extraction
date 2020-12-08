@@ -1,0 +1,10 @@
+T1	Chemical 48 56	estrogen
+T2	Disease 118 131	breast cancer
+T3	Limited_variation 186 195	rs4149013
+T4	Gene_or_protein 199 206	SLCO1B1
+T5	Chemical 59 68	progestin
+T6	Chemical 39 76	combined estrogen - progestin therapy
+T7	Chemical 79 82	EPT
+T8	Phenotype 112 114	OR
+R4	isEquivalentTo Arg1:T7 Arg2:T6	
+R1	isAssociatedWith Arg1:T3 Arg2:T8	

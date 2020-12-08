@@ -1,0 +1,7 @@
+T1	Chemical 31 37	folate 
+T2	Disease 60 80	hyperhomocysteinemia 
+T3	Disease 98 102	ESRD 
+T5	Limited_variation 137 172	677C-->T mutation in the MTHFR gene 
+T7	Gene_or_protein 162 167	MTHFR 
+R1	causes Arg1:T5 Arg2:T2	
+#1	AnnotatorNotes R1	hyp neg

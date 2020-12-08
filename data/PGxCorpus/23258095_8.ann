@@ -1,0 +1,10 @@
+T1	Chemical 69 72	PEG 
+T3	Gene_or_protein 75 81	IFNa-2 
+T4	Disease 112 115	HCC 
+T5	Limited_variation 147 156	IL28B SNP 
+T6	Gene_or_protein 147 152	IL28B 
+T7	Disease 184 187	CHC 
+T8	Chemical 69 83	PEG - IFNa-2 a
+R1	decreases Arg1:T8 Arg2:T4	
+R2	influences Arg1:T5 Arg2:T8	
+#1	AnnotatorNotes R2	neg

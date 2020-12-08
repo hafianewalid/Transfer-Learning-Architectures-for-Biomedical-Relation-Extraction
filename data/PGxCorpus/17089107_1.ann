@@ -1,0 +1,8 @@
+T2	Gene_or_protein 10 16	CYP2D6 
+T3	Pharmacodynamic_phenotype 51 62	hypersomnia 
+T4	Chemical 25 41	H1-antihistamine 
+T1	Haplotype 10 21	CYP2D6 * 10
+T5	Pharmacodynamic_phenotype 25 62	H1-antihistamine -induced hypersomnia
+R1	influences Arg1:T1 Arg2:T5	
+R2	causes Arg1:T4 Arg2:T3	
+#1	AnnotatorNotes R1	hyp

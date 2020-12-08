@@ -1,0 +1,13 @@
+T2	Phenotype 85 105	TPMT enzyme activity 
+T3	Gene_or_protein 85 89	TPMT 
+T4	Chemical 157 173	6-mercaptopurine 
+T5	Pharmacodynamic_phenotype 33 70	thioguanine nucleotide concentrations
+T1	Phenotype 14 17	sex
+T6	Chemical 33 44	thioguanine
+T7	Pharmacodynamic_phenotype 149 173	dose of 6-mercaptopurine
+R1	influences Arg1:T1 Arg2:T5	
+R2	influences Arg1:T1 Arg2:T2	
+R3	influences Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	neg

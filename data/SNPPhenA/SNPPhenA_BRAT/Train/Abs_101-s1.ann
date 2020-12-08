@@ -1,0 +1,11 @@
+T1	SNP 62 71	rs2075650
+T2	SNP 83 91	rs429358
+T3	Phenotype 109 114	bvFTD
+T4	Phenotype 143 146	PPA
+T5	Modality_Marker 97 105	observed
+T6	Negation_Scope 136 146	not in PPA
+T7	Negation_Cue 136 139	not
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	negative_association Arg1:T2 Arg2:T4

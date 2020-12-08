@@ -1,0 +1,6 @@
+T1	Limited_variation 42 74	polymorphisms of the GABRA2 gene 
+T3	Gene_or_protein 63 69	GABRA2 
+T4	Gene_or_protein 88 109	GABA ( A ) a2-subunit 
+T5	Chemical 130 137	ethanol 
+T2	Disease 130 148	ethanol dependence
+R1	isAssociatedWith Arg1:T1 Arg2:T2	

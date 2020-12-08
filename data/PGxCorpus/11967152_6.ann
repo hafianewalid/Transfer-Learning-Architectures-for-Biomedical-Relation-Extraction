@@ -1,0 +1,10 @@
+T1	Chemical 65 68	CPP 
+T3	Gene_or_protein 141 153	alpha CaMKII
+T4	Limited_variation 141 169	alpha CaMKII ( T286A + / - )
+T2	Limited_variation 99 101	WT
+T5	Phenotype 180 214	hippocampal long-term potentiation
+T6	Phenotype 217 220	LTP
+R2	decreases Arg1:T1 Arg2:T5	
+R1	influences Arg1:T2 Arg2:T1	
+R3	influences Arg1:T4 Arg2:T1	
+R4	isEquivalentTo Arg1:T6 Arg2:T5	

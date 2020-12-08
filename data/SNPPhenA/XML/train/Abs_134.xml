@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1040" TEXT="BACKGROUND: Two single-nucleotide polymorphisms, rs1051730 and rs16969968, located within the nicotinic acetylcholine receptor gene cluster on chromosome 15q25 locus, are associated with heaviness of smoking, risk for lung cancer, and other smoking-related health outcomes.">
+	<sentence ID="1040_0" START="0" END="273">
+		<snp ID="0" START="49" END="58" TEXT="rs1051730"/>
+		<snp ID="1" START="63" END="73" TEXT="rs16969968"/>
+		<phenotype ID="1" START="200" END="273" text="smoking"/>
+		<phenotype ID="0" START="218" END="273" text="lung cancer"/>
+		<modality_marker  START="235" END="240" text="other"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

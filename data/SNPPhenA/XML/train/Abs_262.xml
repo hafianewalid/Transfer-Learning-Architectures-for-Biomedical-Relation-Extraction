@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1182" TEXT="OBJECTIVE: Genetic polymorphisms of the transcription factor 7-like 2 (TCF7L2) gene is one of the few validated genetic variants with large effects on the risk of type 2 diabetes in the populations of European ancestry. In this study, we aimed to explore the effect of the TCF7L2 polymorphisms in a Han Chinese population. METHODS: We genotyped 20 single nucleotide polymorphisms (SNPs) across the TCF7L2 gene in 1,520 unrelated subjects from a Han Chinese population in Taiwan. The associations of SNPs and haplotypes with type 2 diabetes and linkage disequilibrium (LD) structure of the TCF7L2 gene were analyzed. RESULTS: The previously reported SNPs rs7903146 T- and rs12255372 T-alleles of the TCF7L2 gene were rare and were not associated with type 2 diabetes in a Chinese population, which may attribute to the low frequencies of these two SNPs. SNP rs290487 located in an LD block close to the 3' end of the gene was associated with type 2 diabetes (allele-specific P = 0.0021; permuted P = 0.03). The odds ratio was 1.36 for the CT genotype (95% CI 1.08-1.71; P = 0.0063) and 1.51 for the CC genotype (1.10 -2.07; P = 0.0085) compared with the TT genotype, corresponding to a population attributable risk fraction of 18.7%. The haplotypes composed of rs290487 were also significantly associated with type 2 diabetes (global P = 0.012). CONCLUSIONS: We identified a novel risk-conferring genetic variant of TCF7L2 for type 2 diabetes in a Chinese population. Our data suggested that the TCF7L2 genetic polymorphisms are major determinants for risk of type 2 diabetes in the Chinese population.">
+	<sentence ID="1182_0" START="625" END="852">
+		<snp ID="0" START="654" END="666" TEXT="rs7903146 T-"/>
+		<snp ID="1" START="671" END="691" TEXT="rs12255372 T-alleles"/>
+		<phenotype ID="0" START="750" END="852" text="type 2 diabetes"/>
+		<modality_marker  START="640" END="648" text="reported"/>
+		<modality_marker  START="797" END="800" text="may"/>
+		<modality_marker  START="818" END="821" text="low"/>
+		<negation_scope  START="730" END="789" text="not associated with type 2 diabetes in a Chinese population">
+			<negation_cue START="730" END="733" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1182_1" START="853" END="1005">
+		<snp ID="2" START="857" END="865" TEXT="rs290487"/>
+		<phenotype ID="1" START="941" END="1005" text="type 2 diabetes"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

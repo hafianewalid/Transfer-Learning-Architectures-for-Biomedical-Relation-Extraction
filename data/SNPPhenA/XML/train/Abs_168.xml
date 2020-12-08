@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1077" TEXT="The transcription factor 7-like 2 (TCF7L2) gene is part of the Wnt/β-catenin signaling pathway and plays a critical role in cell development and growthregulation. TCF7L2 variants rs12255372 and rs7903146 have been associated with risk of Type 2 diabetes. Few epidemiological studies have examined the association between TCF7L2 and breast cancer risk. We investigated the associations between 25 TCF7L2 single nucleotide polymorphisms (SNPs) and breast cancer in Hispanic and non-Hispanic white (NHW) women from the 4-Corner's Breast Cancer Study, the San Francisco Bay Area Breast CancerStudy, and the Mexico Breast Cancer Study. A total of 4,703 Hispanic (2,093 cases, 2,610 controls) and 3,031 NHW (1,431 cases, 1,600 controls)women were included. Odds ratios (OR) and 95 % confidence intervals (CI) were calculated using logistic regression to estimate the association between the TCF7L2 SNPs and breast cancer risk. We also examined effect modification by self-reported ethnicity, genetic admixture, and diabetes history. After adjusting for multiple comparisons, four TCF7L2 SNPs were significantly associated with breast cancer overall: rs7903146 (OR(TT) 1.24; 95 % CI 1.03-1.49), rs3750805 (OR(AT/TT) 1.15; 95 % CI 1.03-1.28), rs7900150 (OR(AA) 1.23; 95 % 1.07-1.42), and rs1225404(OR(CC) 0.82; 95 % 0.70-0.94). Among women with a history of diabetes, the TT genotype of rs3750804 increased breast cancer risk (OR, 2.46; 95 % CI 1.28-4.73).  However, there was no association among women without a diabetes history (OR, 1.06; 95 % CI 0.85-1.32). We did not find significant interactions by ethnicity or by genetic admixture. Findings support an association between TCF7L2 and breast cancer and history of diabetes modifies this association for specific variants.">
+	<sentence ID="1077_0" START="1320" END="1447">
+		<snp ID="0" START="1379" END="1388" TEXT="rs3750804"/>
+		<phenotype ID="0" START="1350" END="1447" text="diabetes"/>
+		<phenotype ID="1" START="1399" END="1447" text="breast cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

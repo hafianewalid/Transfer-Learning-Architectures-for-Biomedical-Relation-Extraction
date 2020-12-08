@@ -1,0 +1,6 @@
+T1	Gene_or_protein 37 40	TRb 
+T2	Chemical 74 82	nicotine 
+T3	Phenotype 86 114	hippocampus-dependent memory
+T4	Pharmacodynamic_phenotype 58 82	effect of acute nicotine
+R2	influences Arg1:T1 Arg2:T4	
+R1	influences Arg1:T4 Arg2:T3	

@@ -1,0 +1,16 @@
+T1	Limited_variation 14 29	CYP2D6 genotype 
+T2	Gene_or_protein 14 20	CYP2D6 
+T3	Chemical 101 111	flecainide 
+T4	Disease 155 187	supraventricular tachyarrhythmia 
+T5	Phenotype 57 68	body weight
+T6	Phenotype 71 74	age
+T7	Phenotype 77 80	sex
+T8	Pharmacokinetic_phenotype 101 128	flecainide pharmacokinetics
+T9	Phenotype 87 90	Scr
+T10	Pharmacokinetic_phenotype 40 43	IMs
+R2	influences Arg1:T1 Arg2:T8	
+R1	influences Arg1:T5 Arg2:T8	
+R3	influences Arg1:T6 Arg2:T8	
+R4	influences Arg1:T7 Arg2:T8	
+R5	influences Arg1:T9 Arg2:T8	
+R6	isAssociatedWith Arg1:T1 Arg2:T10	

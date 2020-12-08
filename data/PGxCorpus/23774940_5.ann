@@ -1,0 +1,24 @@
+T2	Pharmacodynamic_phenotype 50 59	SJS / TEN 
+T3	Chemical 37 40	NVP 
+T5	Gene_or_protein 123 128	ABCB1 
+T7	Gene_or_protein 133 139	ABCC10 
+T8	Gene_or_protein 166 172	CYP2B6 
+T9	Gene_or_protein 175 181	CYP3A4 
+T11	Gene_or_protein 186 192	CYP3A5 
+T13	Pharmacodynamic_phenotype 37 59	NVP -induced SJS / TEN
+T1	Limited_variation 186 217	CYP3A5 cytochrome gene variants
+T6	Limited_variation 175 181;193 217	CYP3A4 cytochrome gene variants
+T10	Limited_variation 166 172;193 217	CYP2B6 cytochrome gene variants
+T14	Limited_variation 133 157;209 217	ABCC10 transporter genes variants
+T15	Limited_variation 123 128;140 157;209 217	ABCB1 transporter genes variants
+R6	causes Arg1:T3 Arg2:T2	
+R1	isAssociatedWith Arg1:T13 Arg2:T6	
+R2	isAssociatedWith Arg1:T13 Arg2:T10	
+R3	isAssociatedWith Arg1:T13 Arg2:T14	
+R4	isAssociatedWith Arg1:T13 Arg2:T15	
+R5	isAssociatedWith Arg1:T13 Arg2:T1	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp
+#5	AnnotatorNotes R5	hyp

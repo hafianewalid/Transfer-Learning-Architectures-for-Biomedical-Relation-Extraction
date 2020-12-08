@@ -1,0 +1,1 @@
+To identify other metabolic therapeutic targets , we systematically profiled metabolites in endogenous IDH1 mutant cancer cells after mutant IDH1 inhibition and discovered a profound vulnerability to depletion of the coenzyme NAD+ .

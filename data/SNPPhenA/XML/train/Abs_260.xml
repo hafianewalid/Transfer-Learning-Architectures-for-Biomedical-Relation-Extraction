@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1180" TEXT="OBJECTIVE: In a population-based cohort of elderly men with well-defined phenotypes and biochemical markers related to type 2 diabetes mellitus, we analysed two single nucleotide polymorphisms (SNPs), rs7903146 and rs12255372, in the transcription factor 7-like 2 gene (TCF7L2), which are associated with an increased risk of type 2 diabetes mellitus. METHODS: The 1,142 subjects were from the population-based Uppsala Longitudinal Study of Adult Men cohort study (see http://www.pubcare.uu.se/ULSAM/, last accessed in May 2007). Insulin sensitivity was assessed using a euglycaemic-hyperinsulinaemic clamp; fasting intact and 32-33 split proinsulin, immunoreactive insulin and specific insulin were measured in plasma samples. The SNPs rs7903146 and rs12255372 were genotyped using a fluorescent homogeneous single base extension assay. The SNP genotypes were analysed against diabetes prevalence at age 70 using logistic regression and against quantitative biochemical measures using linear regression analysis. RESULTS: We replicated the association with type 2 diabetes mellitus for both SNPs in this cohort of elderly males. The highest significant odds ratio (2.15, 95% CI 1.20-3.85) was found for SNP rs7903146. The odds ratio for SNP rs12255372 was 1.69 (95% CI 1.20-2.39). Both TCF7L2 SNPs ( rs7903146 and rs12255372)were found to be significantly associated with plasma proinsulin when adjusting for insulin sensitivity, both in the whole cohort and when the diabetic subjects were excluded. Analysis for fasting plasma insulin or insulin sensitivity did not give significant results. CONCLUSIONS: The association between the risk alleles of the two SNPs studied and levels of proinsulin in plasma, identified when adjusting for insulin sensitivity using euglycaemic-hyperinsulinaemic clamp measurements in this study, is an important novel finding.">
+	<sentence ID="1180_0" START="145" END="351">
+		<snp ID="0" START="201" END="210" TEXT="rs7903146"/>
+		<snp ID="1" START="215" END="225" TEXT="rs12255372"/>
+		<phenotype ID="0" START="326" END="351" text="type 2 diabetes mellitus"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1180_1" START="1282" END="1501">
+		<snp ID="2" START="1301" END="1310" TEXT="rs7903146"/>
+		<snp ID="3" START="1315" END="1325" TEXT="rs12255372"/>
+		<phenotype ID="1" START="1373" END="1501" text="plasma proinsulin"/>
+		<modality_marker  START="1331" END="1336" text="found"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

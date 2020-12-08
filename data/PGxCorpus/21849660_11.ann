@@ -1,0 +1,15 @@
+T1	Chemical 13 19	Statin 
+T2	Phenotype 102 105	RFS 
+T3	Phenotype 111 113	OS 
+T4	Disease 131 153	stage III colon cancer 
+T5	Limited_variation 170 190	KRAS mutation status 
+T6	Gene_or_protein 170 174	KRAS 
+T7	Phenotype 96 99	DFS
+T8	Chemical 50 62	chemotherapy
+R1	increases Arg1:T1 Arg2:T7	
+R2	increases Arg1:T1 Arg2:T2	
+R3	increases Arg1:T1 Arg2:T3	
+R4	isAssociatedWith Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	neg

@@ -1,0 +1,6 @@
+T1	Gene_or_protein 0 6	CYP2A6 
+T2	Gene_or_protein 11 16	CYP3A 
+T3	Chemical 35 44	letrozole 
+T4	Pharmacokinetic_phenotype 35 55	letrozole metabolism
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T4	

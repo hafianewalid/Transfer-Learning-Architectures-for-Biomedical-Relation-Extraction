@@ -1,0 +1,9 @@
+T1	SNP 133 141	rs662799
+T2	SNP 146 155	rs6929846
+T3	Phenotype 101 109	diabetes
+T4	Phenotype 199 211	dyslipidemia
+T5	Modality_Marker 119 127	revealed
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T2 Arg2:T4
+R3	strong_confidence_association Arg1:T1 Arg2:T3
+R4	strong_confidence_association Arg1:T2 Arg2:T3

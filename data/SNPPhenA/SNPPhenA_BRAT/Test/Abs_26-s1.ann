@@ -1,0 +1,6 @@
+T1	SNP 49 61	102T/C OPRM1
+T2	Phenotype 214 218	T2DM
+T3	Modality_Marker 33 39	reveal
+T4	Modality_Marker 157 164	suggest
+T5	Modality_Marker 167 176	potential
+R1	weak_confidence_association Arg1:T1 Arg2:T2

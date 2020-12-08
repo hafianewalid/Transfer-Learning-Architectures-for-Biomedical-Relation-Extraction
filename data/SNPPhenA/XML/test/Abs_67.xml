@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1064" TEXT="Low serum folate levels previously have been associated with negative symptom risk in schizophrenia, as has the hypofunctional 677C&gt;T variant of theMTHFR gene. This study examined whether other missense polymorphisms in folate-regulating enzymes, in concert with MTHFR, influence negative symptoms in schizophrenia, and whether total risk allele load interacts with serum folate status to further stratify negative symptom risk. Medicatedoutpatients with schizophrenia (n = 219), all of European origin and some included in a previous report, were rated with the Positive and NegativeSyndrome Scale. A subset of 82 patients also underwent nonfasting serum folate testing, Patients were genotyped for the MTHFR 677C&gt;T rs1801133 ,  MTHFR 1298A&gt;C rs1801131, MTR 2756A&gt;G  rs1805087 , MTRR 203A&gt;G rs1801394, FOLH1 484T&gt;C rs202676, RFC 80A&gt;G rs1051266 , and COMT675G&gt;A rs4680 polymorphisms . All genotypes were entered into a linear regression model to determine significant predictors of negative symptoms, and risk scores were calculated based on total risk allele dose. Four variants, MTHFR 677T, MTR 2756A, FOLH1 484C, and COMT 675A, emerged as significant independent predictors of negative symptom severity, accounting for significantly greater variance in negative symptoms than MTHFR 677C&gt;T alone. Total allele dose across the 4 variants predicted negative symptom severity only among patients with low folate levels. These findings indicate that multiple genetic variants within the folate metabolic pathway contribute to negative symptoms of schizophrenia . A relationship between folate level and negative symptom severity among patients with greater genetic vulnerability is biologically plausible and suggests the utility of folate supplementation in these patients.">
+	<sentence ID="1064_0" START="600" END="885">
+		<snp ID="0" START="717" END="728" TEXT="rs1801133 ,"/>
+		<snp ID="1" START="730" END="753" TEXT="MTHFR 1298A&gt;C rs1801131"/>
+		<snp ID="2" START="768" END="779" TEXT="rs1805087 ,"/>
+		<snp ID="3" START="792" END="801" TEXT="rs1801394"/>
+		<snp ID="4" START="816" END="824" TEXT="rs202676"/>
+		<snp ID="5" START="836" END="847" TEXT="rs1051266 ,"/>
+		<snp ID="6" START="863" END="869" TEXT="rs4680"/>
+		<phenotype ID="0" START="639" END="885" text="nonfasting serum folate"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

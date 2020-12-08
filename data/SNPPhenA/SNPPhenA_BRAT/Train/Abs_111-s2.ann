@@ -1,0 +1,10 @@
+T1	SNP 10 19	rs2568494
+T2	SNP 24 33	rs1051730
+T3	Phenotype 60 92	post-bronchodilator FEV1 percent
+T4	Phenotype 110 143	pre-bronchodilator FEV1/FVC ratio
+T5	Modality_Marker 96 105	predicted
+T6	Modality_Marker 177 185	observed
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

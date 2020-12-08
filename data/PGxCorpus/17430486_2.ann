@@ -1,0 +1,4 @@
+T2	Gene_or_protein 0 5	CYP3A 
+T3	Chemical 37 40	TAC 
+T4	Pharmacokinetic_phenotype 37 51	TAC metabolism
+R1	influences Arg1:T2 Arg2:T4	

@@ -1,0 +1,9 @@
+T1	SNP 35 39	APOE
+T2	Phenotype 58 69	serum HDL-C
+T3	Phenotype 71 79	APO-CIII
+T4	Phenotype 84 97	triglycerides
+T5	Negation_Scope 11 97	no associations between APOE polymorphisms and serum HDL-C, APO-CIII and triglycerides
+T6	Negation_Cue 11 13	no
+R1	negative_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3
+R3	negative_association Arg1:T1 Arg2:T4

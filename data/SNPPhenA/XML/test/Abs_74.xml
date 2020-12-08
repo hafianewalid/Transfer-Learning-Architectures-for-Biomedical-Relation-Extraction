@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1072" TEXT="Childhood obesity is a worldwide health concern with a multifaceted and sometimes confounding etiology. Dairy products have been implicated as both pro- and anti-obesogenic, perhaps due to the confounding relationship between dairy, lactose consumption, and potential genetic predisposition. We aimed to understand how lactase persistence influenced obesity-related traits by observing the relationships among lactose consumption, a singlenucleotide polymorphism (SNP) near the lactase (LCT) gene and body composition parameters in a sample of multiethnic children (n = 296, 7-12 years old). We hypothesized that individuals with the lactase persistence(LP) allele of the LCT SNP (rs4988235) would exhibit a greater degree of adiposity and that this relationship would be mediated by lactose consumption. Body composition variables were measured using dual X-ray absorptiometry and a registered dietitian assessed dietary intake of lactose. Statistical models were adjusted for sex, age, pubertal stage, ethnic group, genetic admixture,socio-economic status, and total energy intake. Our findings indicate a positive, significant association between the LP allele and body mass index(p = 0.034), fat mass index (FMI) (p = 0.043), and waist circumference (p = 0.008), with associations being stronger in males than in females. Our results also reveal that lactose consumption is positively and nearly significantly associated with FMI.">
+	<sentence ID="1072_0" START="592" END="804">
+		<snp ID="0" START="681" END="690" TEXT="rs4988235"/>
+		<phenotype ID="1" START="634" END="804" text="lactase persistence(LP)"/>
+		<phenotype ID="0" START="726" END="804" text="adiposity"/>
+		<modality_marker  START="595" END="607" text="hypothesized"/>
+		<modality_marker  START="692" END="697" text="would"/>
+		<modality_marker  START="763" END="768" text="would"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

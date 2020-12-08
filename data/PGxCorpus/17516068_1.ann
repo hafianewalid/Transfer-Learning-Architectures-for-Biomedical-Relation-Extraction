@@ -1,0 +1,9 @@
+T1	Chemical 36 48	capecitabine 
+T2	Disease 67 112	HER2 -overexpressing metastatic breast cancer 
+T3	Gene_or_protein 67 71	HER2 
+T5	Chemical 20 48	trastuzumab and capecitabine
+T6	Chemical 20 31	trastuzumab
+T4	Phenotype 67 87	HER2 -overexpressing
+T7	Disease 121 134	Breast Cancer
+R2	treats Arg1:T5 Arg2:T2	
+#1	AnnotatorNotes R2	hyp

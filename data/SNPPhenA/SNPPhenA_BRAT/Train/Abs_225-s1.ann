@@ -1,0 +1,9 @@
+T1	SNP 17 39	TNF-α -857C>T genotype
+T2	Phenotype 150 154	ESCC
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 44 49	found
+T5	Modality_Marker 56 66	predictive
+T6	Modality_Marker 96 100	more
+T7	Modality_Marker 101 107	likely
+T8	Modality_Marker 111 118	predict
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

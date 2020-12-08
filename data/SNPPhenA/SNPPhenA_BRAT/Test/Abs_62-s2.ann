@@ -1,0 +1,7 @@
+T1	SNP 128 136	rs165774
+T2	SNP 141 147	rs4680
+T3	Phenotype 17 30	schizophrenia
+T4	Modality_Marker 36 40	more
+T5	Modality_Marker 55 61	likely
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T2 Arg2:T3

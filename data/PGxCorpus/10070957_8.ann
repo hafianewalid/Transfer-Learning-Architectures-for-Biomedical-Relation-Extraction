@@ -1,0 +1,20 @@
+T1	Limited_variation 41 55	A2/A2 genotype 
+T3	Chemical 83 90	estrone 
+T4	Chemical 116 125	estradiol 
+T5	Chemical 151 163	testosterone 
+T6	Chemical 188 203	androstenedione 
+T7	Chemical 229 251	dehydroepiandrosterone 
+T8	Chemical 281 311	dehydroepiandrosterone sulfate 
+T9	Limited_variation 363 377	A1/A1 genotype 
+T2	Pharmacodynamic_phenotype 73 90	levels of estrone
+T10	Pharmacodynamic_phenotype 116 125;73 82	estradiol levels of
+T11	Pharmacodynamic_phenotype 151 163;73 82	testosterone levels of
+T12	Pharmacodynamic_phenotype 188 203;73 82	androstenedione levels of
+T13	Pharmacodynamic_phenotype 229 251;73 82	dehydroepiandrosterone levels of
+T14	Pharmacodynamic_phenotype 281 311;73 82	dehydroepiandrosterone sulfate levels of
+R1	increases Arg1:T1 Arg2:T10	
+R2	increases Arg1:T1 Arg2:T2	
+R3	increases Arg1:T1 Arg2:T14	
+R4	increases Arg1:T1 Arg2:T13	
+R5	increases Arg1:T1 Arg2:T12	
+R6	increases Arg1:T1 Arg2:T11	

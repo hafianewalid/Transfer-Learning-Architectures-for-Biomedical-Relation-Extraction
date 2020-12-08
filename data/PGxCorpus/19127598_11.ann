@@ -1,0 +1,10 @@
+T1	Phenotype 44 66	COX-2 mRNA suppression 
+T2	Gene_or_protein 44 49	COX-2 
+T3	Phenotype 69 89	p21 mRNA stimulation 
+T4	Gene_or_protein 69 72	p21 
+T5	Chemical 100 110	isoflavone 
+T6	Pharmacodynamic_phenotype 94 117	serum isoflavone levels
+T7	Genomic_factor 44 54	COX-2 mRNA
+T8	Genomic_factor 69 77	p21 mRNA
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+R2	isAssociatedWith Arg1:T3 Arg2:T6	

@@ -1,0 +1,10 @@
+T1	SNP 77 86	rs4506565
+T2	SNP 88 97	rs7903146
+T3	SNP 99 109	rs12243326
+T4	SNP 111 121	rs12255372
+T5	Phenotype 298 302	T2DM
+T6	Modality_Marker 142 154	demonstrated
+R1	strong_confidence_association Arg1:T1 Arg2:T5
+R2	strong_confidence_association Arg1:T2 Arg2:T5
+R3	strong_confidence_association Arg1:T3 Arg2:T5
+R4	strong_confidence_association Arg1:T4 Arg2:T5

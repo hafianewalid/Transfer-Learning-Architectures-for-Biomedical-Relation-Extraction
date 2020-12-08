@@ -1,0 +1,5 @@
+T1	SNP 5 14	rs2373115
+T2	Phenotype 50 69	Alzheimer's disease
+T3	Negation_Scope 27 105	not modify the risk of Alzheimer's disease in Spanish APOE epsilon 4 carriers.
+T4	Negation_Cue 27 30	not
+R1	negative_association Arg1:T1 Arg2:T2

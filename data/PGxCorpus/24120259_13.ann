@@ -1,0 +1,11 @@
+T1	Limited_variation 34 49	CYP3A5 genotype 
+T2	Gene_or_protein 34 40	CYP3A5 
+T3	Pharmacodynamic_phenotype 137 145	toxicity 
+T4	Chemical 173 183	tacrolimus 
+T5	Chemical 93 120	immunosuppressive treatment
+T6	Pharmacodynamic_phenotype 164 192	doses of tacrolimus required
+T7	Disease 248 265	kidney transplant
+R1	influences Arg1:T1 Arg2:T6	
+R2	treats Arg1:T4 Arg2:T3	
+R5	influences Arg1:T1 Arg2:T3	
+R3	treats Arg1:T4 Arg2:T7	

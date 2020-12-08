@@ -1,0 +1,12 @@
+T1	Chemical 14 21	AZD6244 
+T2	Chemical 0 11	Selumetinib 
+T3	Chemical 24 35	ARRY-142886 
+T4	Gene_or_protein 77 83	MEK1/2 
+T7	Gene_or_protein 175 179	KRAS 
+T9	Limited_variation 175 186	KRAS mutant
+T5	Chemical 0 11;128 157	Selumetinib in combination with docetaxel
+T8	Disease 175 212	KRAS mutant pretreated advanced NSCLC
+R2	decreases Arg1:T2 Arg2:T4	
+R1	treats Arg1:T5 Arg2:T8	
+R3	isEquivalentTo Arg1:T1 Arg2:T2	
+R4	isEquivalentTo Arg1:T3 Arg2:T2	

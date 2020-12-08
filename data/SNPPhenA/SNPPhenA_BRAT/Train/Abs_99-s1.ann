@@ -1,0 +1,72 @@
+T1	SNP 73 81	rs708272
+T2	SNP 86 95	rs1800775
+T3	SNP 137 176	apolipoprotein E (APOE) gene SNP rs7412
+T4	SNP 217 225	rs708272
+T5	SNP 227 236	rs1800775
+T6	SNP 242 251	rs3764261
+T7	SNP 288 293	rs693
+T8	SNP 328 334	rs7412
+T9	SNP 402 412	rs10865710
+T10	SNP 444 453	rs1800775
+T11	SNP 503 513	rs35136575
+T12	Phenotype 117 132	higher serum TC
+T13	Phenotype 182 205	lower TC concentrations
+T14	Phenotype 299 317	higher serum HDL-C
+T15	Phenotype 418 429	lower LDL-C
+T16	Phenotype 459 471	higher LDL-C
+T17	Modality_Marker 519 524	lower
+R1	weak_confidence_association Arg1:T1 Arg2:T12
+R2	weak_confidence_association Arg1:T1 Arg2:T13
+R3	weak_confidence_association Arg1:T1 Arg2:T14
+R4	weak_confidence_association Arg1:T1 Arg2:T15
+R5	weak_confidence_association Arg1:T1 Arg2:T16
+R6	weak_confidence_association Arg1:T2 Arg2:T12
+R7	weak_confidence_association Arg1:T2 Arg2:T13
+R8	weak_confidence_association Arg1:T2 Arg2:T14
+R9	weak_confidence_association Arg1:T2 Arg2:T15
+R10	weak_confidence_association Arg1:T2 Arg2:T16
+R11	weak_confidence_association Arg1:T3 Arg2:T12
+R12	weak_confidence_association Arg1:T3 Arg2:T13
+R13	weak_confidence_association Arg1:T3 Arg2:T14
+R14	weak_confidence_association Arg1:T3 Arg2:T15
+R15	weak_confidence_association Arg1:T3 Arg2:T16
+R16	weak_confidence_association Arg1:T4 Arg2:T12
+R17	weak_confidence_association Arg1:T4 Arg2:T13
+R18	weak_confidence_association Arg1:T4 Arg2:T14
+R19	weak_confidence_association Arg1:T4 Arg2:T15
+R20	weak_confidence_association Arg1:T4 Arg2:T16
+R21	weak_confidence_association Arg1:T5 Arg2:T12
+R22	weak_confidence_association Arg1:T5 Arg2:T13
+R23	weak_confidence_association Arg1:T5 Arg2:T14
+R24	weak_confidence_association Arg1:T5 Arg2:T15
+R25	weak_confidence_association Arg1:T5 Arg2:T16
+R26	weak_confidence_association Arg1:T6 Arg2:T12
+R27	weak_confidence_association Arg1:T6 Arg2:T13
+R28	weak_confidence_association Arg1:T6 Arg2:T14
+R29	weak_confidence_association Arg1:T6 Arg2:T15
+R30	weak_confidence_association Arg1:T6 Arg2:T16
+R31	weak_confidence_association Arg1:T7 Arg2:T12
+R32	weak_confidence_association Arg1:T7 Arg2:T13
+R33	weak_confidence_association Arg1:T7 Arg2:T14
+R34	weak_confidence_association Arg1:T7 Arg2:T15
+R35	weak_confidence_association Arg1:T7 Arg2:T16
+R36	weak_confidence_association Arg1:T8 Arg2:T12
+R37	weak_confidence_association Arg1:T8 Arg2:T13
+R38	weak_confidence_association Arg1:T8 Arg2:T14
+R39	weak_confidence_association Arg1:T8 Arg2:T15
+R40	weak_confidence_association Arg1:T8 Arg2:T16
+R41	weak_confidence_association Arg1:T9 Arg2:T12
+R42	weak_confidence_association Arg1:T9 Arg2:T13
+R43	weak_confidence_association Arg1:T9 Arg2:T14
+R44	weak_confidence_association Arg1:T9 Arg2:T15
+R45	weak_confidence_association Arg1:T9 Arg2:T16
+R46	weak_confidence_association Arg1:T10 Arg2:T12
+R47	weak_confidence_association Arg1:T10 Arg2:T13
+R48	weak_confidence_association Arg1:T10 Arg2:T14
+R49	weak_confidence_association Arg1:T10 Arg2:T15
+R50	weak_confidence_association Arg1:T10 Arg2:T16
+R51	neutral_association Arg1:T11 Arg2:T12
+R52	neutral_association Arg1:T11 Arg2:T13
+R53	neutral_association Arg1:T11 Arg2:T14
+R54	neutral_association Arg1:T11 Arg2:T15
+R55	neutral_association Arg1:T11 Arg2:T16

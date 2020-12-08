@@ -1,0 +1,5 @@
+T2	Chemical 0 9	Nebivolol 
+T3	Gene_or_protein 55 77	estrogen receptor beta 
+T1	Phenotype 20 46	endothelial cell stiffness
+R1	decreases Arg1:T2 Arg2:T1	
+R2	influences Arg1:T2 Arg2:T3	

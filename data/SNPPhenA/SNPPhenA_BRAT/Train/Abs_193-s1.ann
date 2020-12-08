@@ -1,0 +1,7 @@
+T1	SNP 129 138	rs1799732
+T2	SNP 152 158	rs6276
+T3	SNP 243 252	rs1800497
+T4	Phenotype 41 60	withdrawal syndrome
+R1	neutral_association Arg1:T1 Arg2:T4
+R2	neutral_association Arg1:T2 Arg2:T4
+R3	neutral_association Arg1:T3 Arg2:T4

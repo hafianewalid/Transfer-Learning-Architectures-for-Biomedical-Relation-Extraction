@@ -1,0 +1,4 @@
+T1	SNP 77 85	rs738499
+T2	Phenotype 91 101	depressive
+T3	Modality_Marker 115 124	confirmed
+R1	strong_confidence_association Arg1:T1 Arg2:T2

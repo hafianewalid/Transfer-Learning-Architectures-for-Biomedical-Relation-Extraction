@@ -1,0 +1,13 @@
+T1	Disease 13 26	Breast cancer 
+T2	Phenotype 51 74	reduced CYP2D6 activity 
+T3	Gene_or_protein 59 65	CYP2D6 
+T4	Chemical 135 144	tamoxifen 
+T5	Pharmacodynamic_phenotype 96 112	endoxifen levels
+T6	Chemical 96 105	endoxifen
+T7	Phenotype 41 47;59 74	absent CYP2D6 activity
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T2 Arg2:T4	
+R3	influences Arg1:T7 Arg2:T5	
+R4	influences Arg1:T7 Arg2:T4	
+R5	isAssociatedWith Arg1:T1 Arg2:T7	
+R6	isAssociatedWith Arg1:T1 Arg2:T2	

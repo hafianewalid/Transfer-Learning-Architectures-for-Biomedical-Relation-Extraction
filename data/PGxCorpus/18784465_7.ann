@@ -1,0 +1,10 @@
+T1	Chemical 49 57	abacavir 
+T2	Chemical 60 70	lamivudine 
+T3	Chemical 77 86	efavirenz 
+T4	Gene_or_protein 108 113	HLA-B 
+T5	Gene_or_protein 153 158	HLA-B 
+T6	Chemical 191 200	tenofovir 
+T7	Chemical 203 216	emtricitabine 
+T8	Chemical 223 232	efavirenz 
+T9	Limited_variation 108 120	HLA-B * 5701
+T10	Limited_variation 153 165	HLA-B * 5701

@@ -1,0 +1,11 @@
+T2	Gene_or_protein 44 49	HLA-B 
+T3	Haplotype 44 56	HLA-B * 5701
+T5	Phenotype 136 163	quality-adjusted life years
+T1	Chemical 10 35	Abacavir -based treatment
+T4	Phenotype 101 116	life expectancy
+T6	Chemical 10 18	Abacavir
+T7	Phenotype 189 202	lifetime cost
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T5	
+R3	influences Arg1:T3 Arg2:T1	
+R4	influences Arg1:T1 Arg2:T7	

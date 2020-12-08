@@ -1,0 +1,11 @@
+T1	Disease 14 19	NSCLC 
+T3	Gene_or_protein 59 63	EGFR 
+T4	Pharmacodynamic_phenotype 104 125	response to gefitinib 
+T5	Chemical 116 125	gefitinib 
+T2	Limited_variation 59 69	EGFR L858R
+T6	Phenotype 36 43	smoking
+R2	treats Arg1:T5 Arg2:T1	
+R1	decreases Arg1:T2 Arg2:T4	
+R3	decreases Arg1:T6 Arg2:T4	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R3	hyp

@@ -1,0 +1,14 @@
+T1	Disease 85 99	adenocarcinoma 
+T3	Gene_or_protein 131 135	EGFR 
+T4	Chemical 205 234	platinum doublet chemotherapy 
+T2	Limited_variation 131 151	EGFR mutation status
+T5	Phenotype 274 291	clinical outcomes
+T6	Phenotype 296 315	recurrence patterns
+T7	Chemical 205 213	platinum
+T8	Limited_variation 329 344	mutation status
+R1	isAssociatedWith Arg1:T2 Arg2:T5	
+R2	treats Arg1:T4 Arg2:T1	
+R3	isAssociatedWith Arg1:T2 Arg2:T6	
+R4	isAssociatedWith Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R1	hyp

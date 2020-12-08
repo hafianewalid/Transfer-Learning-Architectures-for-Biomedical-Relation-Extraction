@@ -1,0 +1,11 @@
+T1	Chemical 0 9	Phenytoin 
+T2	Chemical 30 33	LPV 
+T3	Phenotype 48 64	CYP3A4 induction 
+T4	Gene_or_protein 48 54	CYP3A4 
+T5	Chemical 115 118	RTV 
+T6	Pharmacokinetic_phenotype 30 43	LPV clearance
+R1	influences Arg1:T1 Arg2:T3	
+R3	increases Arg1:T1 Arg2:T6	
+R5	influences Arg1:T5 Arg2:T6	
+R2	influences Arg1:T3 Arg2:T6	
+#1	AnnotatorNotes R5	neg

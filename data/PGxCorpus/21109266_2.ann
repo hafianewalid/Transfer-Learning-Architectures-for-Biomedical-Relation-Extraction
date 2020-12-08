@@ -1,0 +1,9 @@
+T1	Disease 0 13	Pompe disease 
+T2	Gene_or_protein 66 69	GAA 
+T3	Chemical 103 110	glucose 
+T4	Gene_or_protein 45 63	acid a-glucosidase
+T5	Chemical 89 97	glycogen
+T6	Phenotype 31 63	deficiency of acid a-glucosidase
+R1	isEquivalentTo Arg1:T2 Arg2:T4	
+R4	influences Arg1:T4 Arg2:T5	
+R2	causes Arg1:T6 Arg2:T1	

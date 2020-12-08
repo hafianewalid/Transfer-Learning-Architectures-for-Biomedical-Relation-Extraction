@@ -1,0 +1,15 @@
+T1	Gene_or_protein 71 75	HER2
+T2	Chemical 104 113	lapatinib
+T3	Gene_or_protein 154 158	HER2
+T5	Gene_or_protein 223 227	HER2
+T6	Gene_or_protein 28 68	human epidermal growth factor receptor 2
+T7	Chemical 0 11	Trastuzumab
+T8	Gene_or_protein 119 151	epidermal growth factor receptor
+T9	Chemical 119 184	epidermal growth factor receptor / HER2 tyrosine kinase inhibitor
+T11	Disease 223 258	HER2 -overexpressing breast cancers
+T10	Chemical 28 97	human epidermal growth factor receptor 2 ( HER2 ) monoclonal antibody
+T12	Phenotype 223 243	HER2 -overexpressing
+R1	isEquivalentTo Arg1:T1 Arg2:T6	
+R2	treats Arg1:T7 Arg2:T11	
+R3	treats Arg1:T2 Arg2:T11	
+R4	treats Arg1:T9 Arg2:T11	

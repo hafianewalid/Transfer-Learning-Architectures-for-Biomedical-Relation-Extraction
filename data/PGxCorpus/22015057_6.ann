@@ -1,0 +1,169 @@
+T2	Chemical 101 110	sunitinib 
+T3	Limited_variation 162 171	rs2305948 
+T4	Gene_or_protein 153 159	VEGFR2 
+T5	Limited_variation 176 185	rs1870377 
+T6	Limited_variation 199 207	rs307826 
+T7	Gene_or_protein 190 196	VEGFR3 
+T8	Limited_variation 210 218	rs448012 
+T9	Limited_variation 225 233	rs307821 
+T10	Gene_or_protein 238 245	PDGFR-a 
+T11	Limited_variation 248 258	rs35597368 
+T12	Limited_variation 272 281	rs2010963 
+T13	Gene_or_protein 263 269	VEGF-A 
+T14	Limited_variation 284 292	rs699947 
+T15	Limited_variation 299 308	rs1570360 
+T16	Gene_or_protein 313 316	IL8 
+T17	Limited_variation 319 328	rs1126647 
+T18	Gene_or_protein 333 339	CYP3A4 
+T19	Limited_variation 342 351	rs2740574 
+T20	Gene_or_protein 356 362	CYP3A5 
+T21	Limited_variation 365 373	rs776746 
+T22	Limited_variation 386 395	rs1045642 
+T23	Gene_or_protein 378 383	ABCB1 
+T24	Limited_variation 398 407	rs1128503 
+T25	Limited_variation 414 423	rs2032582 
+T26	Gene_or_protein 432 437	ABCB2 
+T27	Limited_variation 440 449	rs2231142 
+T28	Phenotype 12 27	RECIST response
+T29	Phenotype 30 55	progression-free survival
+T30	Phenotype 58 61	PFS
+T31	Phenotype 66 82	overall survival
+T32	Pharmacodynamic_phenotype 89 110	toxicity of sunitinib
+T1	Limited_variation 123 136	polymorphisms
+R1	isEquivalentTo Arg1:T30 Arg2:T29	
+R2	isAssociatedWith Arg1:T28 Arg2:T3	
+R3	isAssociatedWith Arg1:T28 Arg2:T5	
+R4	isAssociatedWith Arg1:T28 Arg2:T6	
+R5	isAssociatedWith Arg1:T28 Arg2:T8	
+R6	isAssociatedWith Arg1:T28 Arg2:T9	
+R7	isAssociatedWith Arg1:T28 Arg2:T11	
+R8	isAssociatedWith Arg1:T28 Arg2:T12	
+R9	isAssociatedWith Arg1:T28 Arg2:T14	
+R10	isAssociatedWith Arg1:T28 Arg2:T15	
+R11	isAssociatedWith Arg1:T28 Arg2:T17	
+R12	isAssociatedWith Arg1:T28 Arg2:T19	
+R13	isAssociatedWith Arg1:T28 Arg2:T21	
+R14	isAssociatedWith Arg1:T28 Arg2:T22	
+R15	isAssociatedWith Arg1:T28 Arg2:T24	
+R16	isAssociatedWith Arg1:T28 Arg2:T25	
+R17	isAssociatedWith Arg1:T28 Arg2:T27	
+R18	isAssociatedWith Arg1:T29 Arg2:T3	
+R19	isAssociatedWith Arg1:T29 Arg2:T5	
+R20	isAssociatedWith Arg1:T29 Arg2:T6	
+R21	isAssociatedWith Arg1:T29 Arg2:T8	
+R22	isAssociatedWith Arg1:T29 Arg2:T9	
+R23	isAssociatedWith Arg1:T29 Arg2:T11	
+R24	isAssociatedWith Arg1:T29 Arg2:T12	
+R25	isAssociatedWith Arg1:T29 Arg2:T14	
+R26	isAssociatedWith Arg1:T29 Arg2:T15	
+R27	isAssociatedWith Arg1:T29 Arg2:T17	
+R28	isAssociatedWith Arg1:T29 Arg2:T19	
+R29	isAssociatedWith Arg1:T29 Arg2:T21	
+R30	isAssociatedWith Arg1:T29 Arg2:T22	
+R31	isAssociatedWith Arg1:T29 Arg2:T24	
+R32	isAssociatedWith Arg1:T29 Arg2:T25	
+R33	isAssociatedWith Arg1:T29 Arg2:T27	
+R34	isAssociatedWith Arg1:T31 Arg2:T3	
+R35	isAssociatedWith Arg1:T31 Arg2:T5	
+R36	isAssociatedWith Arg1:T31 Arg2:T6	
+R37	isAssociatedWith Arg1:T31 Arg2:T8	
+R38	isAssociatedWith Arg1:T31 Arg2:T9	
+R39	isAssociatedWith Arg1:T31 Arg2:T11	
+R40	isAssociatedWith Arg1:T31 Arg2:T12	
+R41	isAssociatedWith Arg1:T31 Arg2:T14	
+R42	isAssociatedWith Arg1:T31 Arg2:T15	
+R43	isAssociatedWith Arg1:T31 Arg2:T17	
+R44	isAssociatedWith Arg1:T31 Arg2:T19	
+R45	isAssociatedWith Arg1:T31 Arg2:T21	
+R46	isAssociatedWith Arg1:T31 Arg2:T22	
+R47	isAssociatedWith Arg1:T31 Arg2:T24	
+R48	isAssociatedWith Arg1:T31 Arg2:T25	
+R49	isAssociatedWith Arg1:T31 Arg2:T27	
+R50	isAssociatedWith Arg1:T32 Arg2:T3	
+R51	isAssociatedWith Arg1:T32 Arg2:T5	
+R52	isAssociatedWith Arg1:T32 Arg2:T6	
+R53	isAssociatedWith Arg1:T32 Arg2:T8	
+R54	isAssociatedWith Arg1:T32 Arg2:T9	
+R55	isAssociatedWith Arg1:T32 Arg2:T11	
+R56	isAssociatedWith Arg1:T32 Arg2:T12	
+R57	isAssociatedWith Arg1:T32 Arg2:T14	
+R58	isAssociatedWith Arg1:T32 Arg2:T15	
+R59	isAssociatedWith Arg1:T32 Arg2:T17	
+R60	isAssociatedWith Arg1:T32 Arg2:T19	
+R61	isAssociatedWith Arg1:T32 Arg2:T21	
+R62	isAssociatedWith Arg1:T32 Arg2:T22	
+R63	isAssociatedWith Arg1:T32 Arg2:T24	
+R64	isAssociatedWith Arg1:T32 Arg2:T25	
+R65	isAssociatedWith Arg1:T32 Arg2:T27	
+R66	isAssociatedWith Arg1:T28 Arg2:T1	
+R67	isAssociatedWith Arg1:T29 Arg2:T1	
+R68	isAssociatedWith Arg1:T31 Arg2:T1	
+R69	isAssociatedWith Arg1:T32 Arg2:T1	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp
+#4	AnnotatorNotes R5	hyp
+#5	AnnotatorNotes R6	hyp
+#6	AnnotatorNotes R7	hyp
+#7	AnnotatorNotes R8	hyp
+#8	AnnotatorNotes R9	hyp
+#9	AnnotatorNotes R10	hyp
+#10	AnnotatorNotes R11	hyp
+#11	AnnotatorNotes R12	hyp
+#12	AnnotatorNotes R13	hyp
+#13	AnnotatorNotes R14	hyp
+#14	AnnotatorNotes R15	hyp
+#15	AnnotatorNotes R16	hyp
+#16	AnnotatorNotes R17	hyp
+#17	AnnotatorNotes R18	hyp
+#18	AnnotatorNotes R19	hyp
+#19	AnnotatorNotes R20	hyp
+#20	AnnotatorNotes R21	hyp
+#21	AnnotatorNotes R22	hyp
+#22	AnnotatorNotes R23	hyp
+#23	AnnotatorNotes R24	hyp
+#24	AnnotatorNotes R25	hyp
+#25	AnnotatorNotes R26	hyp
+#26	AnnotatorNotes R27	hyp
+#27	AnnotatorNotes R28	hyp
+#28	AnnotatorNotes R29	hyp
+#29	AnnotatorNotes R30	hyp
+#30	AnnotatorNotes R31	hyp
+#31	AnnotatorNotes R32	hyp
+#32	AnnotatorNotes R33	hyp
+#33	AnnotatorNotes R34	hyp
+#34	AnnotatorNotes R35	hyp
+#35	AnnotatorNotes R36	hyp
+#36	AnnotatorNotes R37	hyp
+#37	AnnotatorNotes R38	hyp
+#38	AnnotatorNotes R39	hyp
+#39	AnnotatorNotes R40	hyp
+#40	AnnotatorNotes R41	hyp
+#41	AnnotatorNotes R42	hyp
+#42	AnnotatorNotes R43	hyp
+#43	AnnotatorNotes R44	hyp
+#44	AnnotatorNotes R45	hyp
+#45	AnnotatorNotes R46	hyp
+#46	AnnotatorNotes R47	hyp
+#47	AnnotatorNotes R48	hyp
+#48	AnnotatorNotes R49	hyp
+#49	AnnotatorNotes R50	hyp
+#50	AnnotatorNotes R51	hyp
+#51	AnnotatorNotes R52	hyp
+#52	AnnotatorNotes R53	hyp
+#53	AnnotatorNotes R54	hyp
+#54	AnnotatorNotes R55	hyp
+#55	AnnotatorNotes R56	hyp
+#56	AnnotatorNotes R57	hyp
+#57	AnnotatorNotes R58	hyp
+#58	AnnotatorNotes R59	hyp
+#59	AnnotatorNotes R60	hyp
+#60	AnnotatorNotes R61	hyp
+#61	AnnotatorNotes R62	hyp
+#62	AnnotatorNotes R63	hyp
+#63	AnnotatorNotes R64	hyp
+#64	AnnotatorNotes R65	hyp
+#65	AnnotatorNotes R66	hyp
+#66	AnnotatorNotes R67	hyp
+#67	AnnotatorNotes R68	hyp
+#68	AnnotatorNotes R69	hyp

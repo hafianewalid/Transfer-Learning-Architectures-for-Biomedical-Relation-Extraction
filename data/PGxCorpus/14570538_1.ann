@@ -1,0 +1,10 @@
+T1	Limited_variation 11 31;45 58	dopamine transporter polymorphisms 
+T2	Gene_or_protein 11 31	dopamine transporter 
+T4	Gene_or_protein 11 19;36 44	dopamine receptor
+T5	Limited_variation 36 58	receptor polymorphisms
+T6	Chemical 85 94	bupropion
+T3	Phenotype 62 79	smoking cessation
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

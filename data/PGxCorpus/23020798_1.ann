@@ -1,0 +1,21 @@
+T1	Limited_variation 0 22	Polymorphisms in ERCC1
+T2	Gene_or_protein 17 22	ERCC1
+T3	Gene_or_protein 25 29	GSTs
+T4	Gene_or_protein 32 34	TS
+T5	Gene_or_protein 39 44	MTHFR
+T6	Phenotype 53 88	clinical outcomes of gastric cancer
+T8	Limited_variation 0 16;32 34	Polymorphisms in TS
+T9	Limited_variation 0 16;39 44	Polymorphisms in MTHFR
+T10	Limited_variation 0 16;25 29	Polymorphisms in GSTs
+T11	Chemical 111 145	platinum /5-Fu -based chemotherapy
+T7	Disease 74 88	gastric cancer
+T12	Chemical 111 125	platinum /5-Fu
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T10 Arg2:T6	
+R3	influences Arg1:T8 Arg2:T6	
+R4	influences Arg1:T9 Arg2:T6	
+R5	treats Arg1:T11 Arg2:T7	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R2	hyp
+#4	AnnotatorNotes R1	hyp

@@ -1,0 +1,13 @@
+T3	Gene_or_protein 59 63	SkM1 
+T6	Gene_or_protein 106 112	Nav1.5 
+T7	Gene_or_protein 210 216	Nav1.5 
+T8	Pharmacodynamic_phenotype 229 261	tetrodotoxin ( TTX ) sensitivity 
+T10	Chemical 229 241	tetrodotoxin 
+T11	Chemical 244 247	TTX 
+T12	Limited_variation 181 195;210 216	point mutation Nav1.5
+T1	Gene_or_protein 26 56	skeletal Na(+) channel isoform
+T2	Gene_or_protein 74 103	cardiac Na(+) channel isoform
+R1	increases Arg1:T12 Arg2:T8	
+R2	isEquivalentTo Arg1:T3 Arg2:T1	
+R3	isEquivalentTo Arg1:T6 Arg2:T2	
+R4	isEquivalentTo Arg1:T11 Arg2:T10	

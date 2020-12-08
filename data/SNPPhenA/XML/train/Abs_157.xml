@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1065" TEXT="Transcription factor 7-like 2 (TCF7L2) regulates genes involved in cell proliferation and differentiation. The TCF7L2 gene is located on chromosome 10q25 in a region of replicated linkage to type 2 diabetes. Recently, a microsatellite marker in intron 3 DG10S478 and five correlated single nucleotide polymorphisms (SNPs) were identified in Icelandic individuals that showed strong association with type 2 diabetes, which was replicated in Danish and European-American cohorts.  We genotyped four of the SNPs (rs7901695, rs7903146, rs11196205, and rs12255372) in Amish subjects with type 2 diabetes (n = 137), impaired glucose tolerance (IGT; n = 139), and normal glucose tolerance (NGT; n = 342).  We compared genotype frequencies in subjects with type 2 diabetes with those with NGT and found marginal association for rs7901695 (P = 0.05; odds ratio [OR] 1.51);  comparison between NGT control subjects and the combined type 2 diabetes/IGT case group showed &lt;/ModMar&gt;strong&lt;/ModMar&gt; association with rs7901695 and rs7903146 (P = 0.008-0.01; OR 1.53-1.57) and marginal association with rs11196205 and rs12255372 (P = 0.07 and P = 0.04, respectively). In an expanded set of 698 Amish subjects without diabetes, we found no association with insulin and glucose levels during a 3-h oral glucose tolerance test. We also genotyped these SNPs in nondiabetic, non-Amish subjects (n = 48), in whom intravenous glucose tolerance tests were performed, and found an association between rs7901695 and rs7903146 and insulin sensitivity (P = 0.003 and P = 0.005, respectively) and disposition index (P = 0.04 and P = 0.007, respectively). These data provide replicating evidence that variants in TCF7L2 increase the risk for type 2 diabetes and novel evidence that the variants likely influence both insulin secretion and insulin sensitivity.">
+	<sentence ID="1065_0" START="208" END="477">
+		<snp ID="0" START="254" END="262" TEXT="DG10S478"/>
+		<phenotype ID="0" START="399" END="477" text="type 2 diabetes"/>
+		<modality_marker  START="368" END="374" text="showed"/>
+		<modality_marker  START="375" END="381" text="strong"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1065_1" START="479" END="697">
+		<snp ID="1" START="510" END="519" TEXT="rs7901695"/>
+		<snp ID="2" START="521" END="530" TEXT="rs7903146"/>
+		<snp ID="3" START="532" END="542" TEXT="rs11196205"/>
+		<snp ID="4" START="548" END="558" TEXT="rs12255372"/>
+		<phenotype ID="1" START="583" END="697" text="type 2 diabetes"/>
+		<phenotype ID="2" START="610" END="697" text="impaired glucose tolerance"/>
+		<phenotype ID="3" START="657" END="697" text="normal glucose tolerance"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="6" PHENOTYPEID="3" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="7" PHENOTYPEID="1" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="8" PHENOTYPEID="2" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="9" PHENOTYPEID="3" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="10" PHENOTYPEID="1" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="11" PHENOTYPEID="2" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="12" PHENOTYPEID="3" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1065_2" START="699" END="863">
+		<snp ID="5" START="820" END="829" TEXT="rs7901695"/>
+		<phenotype ID="4" START="749" END="863" text="type 2 diabetes"/>
+		<modality_marker  START="789" END="794" text="found"/>
+		<modality_marker  START="795" END="803" text="marginal"/>
+		<pair PAIRID="16" PHENOTYPEID="4" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1065_3" START="865" END="1151">
+		<snp ID="6" START="1002" END="1011" TEXT="rs7901695"/>
+		<snp ID="7" START="1016" END="1025" TEXT="rs7903146"/>
+		<snp ID="8" START="1087" END="1097" TEXT="rs11196205"/>
+		<snp ID="11" START="1102" END="1112" TEXT="rs12255372"/>
+		<phenotype ID="5" START="922" END="1151" text="type 2 diabetes/IGT"/>
+		<modality_marker  START="953" END="959" text="showed"/>
+		<modality_marker  START="1061" END="1069" text="marginal"/>
+		<pair PAIRID="17" PHENOTYPEID="5" SNPID="6" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="18" PHENOTYPEID="5" SNPID="7" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="19" PHENOTYPEID="5" SNPID="8" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="21" PHENOTYPEID="5" SNPID="11" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1065_4" START="1309" END="1625">
+		<snp ID="9" START="1476" END="1485" TEXT="rs7901695"/>
+		<snp ID="10" START="1490" END="1499" TEXT="rs7903146"/>
+		<phenotype ID="8" START="1403" END="1625" text="glucose tolerance"/>
+		<phenotype ID="6" START="1504" END="1625" text="insulin sensitivity"/>
+		<phenotype ID="7" START="1568" END="1625" text="disposition index"/>
+		<modality_marker  START="1447" END="1452" text="found"/>
+		<pair PAIRID="20" PHENOTYPEID="6" SNPID="10" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="22" PHENOTYPEID="8" SNPID="9" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="23" PHENOTYPEID="6" SNPID="9" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="24" PHENOTYPEID="7" SNPID="9" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="25" PHENOTYPEID="8" SNPID="10" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="26" PHENOTYPEID="7" SNPID="10" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

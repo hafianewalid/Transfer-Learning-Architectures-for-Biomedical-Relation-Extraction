@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1091" TEXT="Genes 7CF7L2 and SLC30A8, encoding transcription factor-4 and transmembrane zinc transporter-8, respectively, play an important role in the regulation of development, proliferation, and pancreatic beta cell function. In the present study we examined polymorphic markers of genes rs12255372[NT_03359.12:g33557428G --&gt; T] of 7CF7L2 gene and rs13266634 [NP_776250.2:p.R325W] of SLC30A8 in groups of Russians with type 2 diabetes (T2D) (n = 588) and healthy normoglycemic controles (n = 597). Significant association of allele T(rs12255372) and allele R (rs13266634) with a higher risk of T2D development has been found (OR = 1.37 and 1.22, respectively). Adjustment for the effect of potential nongenetic risk factors resulted in a further increase in the OR values, from 1.54 (P = 0.24) to 1.89 (P = 0.046) for homozygous carriers of the T allele and from 1.29 (P = 0.035) to 1.35 (P = 0.019) in the individuals homozygous for the R allele. The patients homozygous for predisposing allele T (rs12255372) or R (rs13266634) had significantly lower insulinconcentrations in the blood 2 h after glucose tolerance test (GTT) as well as lower values of HOMA-beta, beta cell homeostasis indicator compared to the carriers of other genotypes. Thus, we have shown that the rs12255372 and rs13266634 markers are independent genetic T2D risk factors in a Russian population.">
+	<sentence ID="1091_0" START="1233" END="1361">
+		<snp ID="0" START="1262" END="1272" TEXT="rs12255372"/>
+		<snp ID="1" START="1277" END="1287" TEXT="rs13266634"/>
+		<phenotype ID="0" START="1320" END="1361" text="T2D"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

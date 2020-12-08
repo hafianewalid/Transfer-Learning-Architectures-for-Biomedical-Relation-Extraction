@@ -1,0 +1,12 @@
+T1	SNP 102 108	-16934
+T2	SNP 110 119	rs4696480
+T3	SNP 122 131	Arg753Gln
+T4	SNP 133 142	rs5743708
+T5	SNP 156 165	rs5743704
+T6	Phenotype 36 51	liver cirrhosis
+T7	Modality_Marker 9 16	Overall
+R1	neutral_association Arg1:T1 Arg2:T6
+R2	neutral_association Arg1:T2 Arg2:T6
+R3	neutral_association Arg1:T3 Arg2:T6
+R4	neutral_association Arg1:T4 Arg2:T6
+R5	neutral_association Arg1:T5 Arg2:T6

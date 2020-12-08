@@ -1,0 +1,14 @@
+T1	Haplotype 24 40	ABCB1 haplotypes 
+T2	Gene_or_protein 24 29	ABCB1 
+T3	Gene_or_protein 159 173	P-glycoprotein 
+T4	Chemical 216 225	verapamil 
+T5	Pharmacokinetic_phenotype 86 126	central nervous system drug distribution
+T6	Pharmacokinetic_phenotype 129 147	brain distribution
+T7	Chemical 153 183	model P-glycoprotein substrate
+T8	Chemical 190 215	calcium channel inhibitor
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T1 Arg2:T6	
+R3	isAssociatedWith Arg1:T4 Arg2:T5	
+R4	isAssociatedWith Arg1:T4 Arg2:T6	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

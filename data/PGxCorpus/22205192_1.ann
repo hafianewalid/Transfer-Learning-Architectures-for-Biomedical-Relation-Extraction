@@ -1,0 +1,6 @@
+T1	Chemical 76 83	codeine 
+T2	Gene_or_protein 110 129	cytochrome P450 2D6 
+T3	Gene_or_protein 132 138	CYP2D6 
+T4	Limited_variation 110 149	cytochrome P450 2D6 ( CYP2D6 ) genotype
+R1	isEquivalentTo Arg1:T3 Arg2:T2	
+R2	influences Arg1:T4 Arg2:T1	

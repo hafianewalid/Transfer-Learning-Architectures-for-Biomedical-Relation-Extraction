@@ -1,0 +1,8 @@
+T1	Phenotype 46 67	expression of KROX-24 
+T2	Gene_or_protein 60 67	KROX-24 
+T3	Chemical 92 98	MK-801 
+T5	Gene_or_protein 173 176	FOS 
+T6	Gene_or_protein 181 184	JUN 
+T4	Phenotype 135 176	expression pattern similar to that of FOS
+T7	Phenotype 135 172;181 184	expression pattern similar to that of JUN
+R1	decreases Arg1:T3 Arg2:T1	

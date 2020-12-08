@@ -1,0 +1,9 @@
+T2	Gene_or_protein 27 33	CYP2B6 
+T3	Disease 101 125	chronic myeloid leukemia 
+T4	Chemical 148 156	imatinib 
+T5	Limited_variation 0 41	Functional polymorphism of CYP2B6 G15631T
+T6	Pharmacodynamic_phenotype 77 97	cytogenetic response
+T7	Pharmacodynamic_phenotype 61 72;89 97	hematologic response
+R1	isAssociatedWith Arg1:T5 Arg2:T7	
+R2	isAssociatedWith Arg1:T5 Arg2:T6	
+R3	treats Arg1:T4 Arg2:T3	

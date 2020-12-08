@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1045" TEXT="Natural killer (NK) cells require interaction of inhibitory surface receptors with human leukocyte antigen (HLA) ligands during development to acquire functional competence in a process termed &quot;licensing.&quot; The quantity of HLA required for this process is unknown. Two polymorphisms affecting HLA-Csurface expression (rs9264942 and rs67384697) have recently been identified, and shown to influence progression of HIV infection. We typed a cohort of healthy donors for the two HLA-C-related polymorphisms, KIR2DL1 and KIR2DL3, and their respective HLA-C ligands and analyzed how HLA ligandsinfluenced licensing status of killer cell immunoglobulin-like receptor (KIR)+ NK cells in terms of degranulation and cytokine production in response to HLA-deficient target cells. The presence of respective HLA class I ligands increased the function of KIR2DL1+ and KIR2DL3+ NK cells in a dose-dependent manner. In contrast, neither of the HLA-C-related polymorphisms nor the quantity of cell surface HLA-C had any significant effect on NK cell function. Interestingly, HLA-Cw7-an HLA-C allele with low surface expression-licensed KIR2DL3+ NK cells more strongly than any other KIR2DL3 ligand. The quantity of cell surface HLA-C does not appear to influence licensing of NK cells, and the HLA-C-related polymorphisms presumably influence HIV progression through factors unrelated to NK cell education.">
+	<sentence ID="1045_0" START="264" END="426">
+		<snp ID="0" START="317" END="326" TEXT="rs9264942"/>
+		<snp ID="1" START="331" END="341" TEXT="rs67384697"/>
+		<phenotype ID="0" START="412" END="426" text="HIV"/>
+		<modality_marker  START="378" END="383" text="shown"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

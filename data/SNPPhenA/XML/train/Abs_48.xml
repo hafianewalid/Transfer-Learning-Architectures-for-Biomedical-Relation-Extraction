@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1213" TEXT="OBJECTIVE: The dopaminergic system plays an important role in the prefrontal cortex (PFC) and is believed to mediate cognitive dysfunction (CD) inbipolar disorder (BD). The enzyme catechol-O-methyltransferase (COMT) is involved in the catabolism of dopamine in the PFC, and an association betweenCOMT single nucleotide polymorphisms (SNPs) and BD has been reported. COMT SNPs have also been associated with executive and working memory performance in healthy subjects, patients with schizophrenia, and euthymic BD patients. The objective of this study was to investigate the association between COMT SNPs and acute CD during BD mood episodes. METHODS: Seventy-two symptomatic, medication-free subjects with bipolar I disorder (BD-I) and 76 healthy controls were evaluated using neuropsychological tests, and genotyped for COMT SNPs rs4680 and rs165599. RESULTS: Patientsundergoing mania and mixed episodes carrying the COMT allele G had better performance on executive function, memory, verbal fluency, and intelligencetests. Moreover, an interaction was detected between the COMT allele G and the Young Mania Rating Scale in BD CD. CONCLUSIONS: Allele G fromCOMT SNPs rs4680 and rs165599 may represent reliable state-dependent predictors of global CD during manic and mixed episodes in BD. Further studies in larger samples are necessary to confirm these findings.">
+	<sentence ID="1213_0" START="1146" END="1290">
+		<snp ID="0" START="1169" END="1175" TEXT="rs4680"/>
+		<snp ID="1" START="1180" END="1188" TEXT="rs165599"/>
+		<phenotype ID="0" START="1249" END="1290" text="CD"/>
+		<phenotype ID="1" START="1287" END="1290" text="BD"/>
+		<modality_marker  START="1228" END="1238" text="predictors"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,1 @@
+The rs1051730 variant was not significantly associated with smoking status or snus use (P > 0.05); the T allele was associated with lower BMI in the overall cohort (β = -0.10 kg/m(2), SE = 0.05; P = 0.03) and with smoking quantity in those in whom this was measured (n = 5,304) (β = 0.08, SE = 0.01; P < 0.0001)

@@ -1,0 +1,19 @@
+T1	Limited_variation 14 25	mutant EGFR 
+T2	Gene_or_protein 21 25	EGFR 
+T3	Chemical 46 54	icotinib 
+T6	Disease 111 127	tumor metastasis 
+T7	Pharmacodynamic_phenotype 39 68	higher icotinib concentration
+T4	Phenotype 90 93	PFS
+T5	Phenotype 98 100	OS
+R1	decreases Arg1:T1 Arg2:T6	
+R2	decreases Arg1:T7 Arg2:T6	
+R3	increases Arg1:T1 Arg2:T4	
+R4	increases Arg1:T1 Arg2:T5	
+R5	increases Arg1:T7 Arg2:T4	
+R6	increases Arg1:T7 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R4	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R2	hyp
+#5	AnnotatorNotes R6	hyp
+#6	AnnotatorNotes R5	hyp

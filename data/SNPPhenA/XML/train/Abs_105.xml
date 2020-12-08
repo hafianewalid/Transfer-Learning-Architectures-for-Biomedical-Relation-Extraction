@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1008" TEXT="APOE genotype is associated with the risk of Alzheimer's disease. In the present study, we investigated whether APOE genotype was associated with cognitive function in predominantly middle-aged persons. In a population-based cohort of 4,135 persons aged 35 to 82 years (mean age (SD), 55 (12) years), cognitive function was measured with the Ruff Figural Fluency Test (RFFT; worst score, 0 points; best score, 175 points). APOE genotype(rs429358 and rs7412) was determined by polymerase chain reaction. The mean RFFT score (SD) of the total cohort was 69 (26) points. Unadjusted, the mean RFFT score in homozygous APOE ε4 carriers was 4.66 points lower than in noncarriers (95% confidence interval, -9.84 to 0.51; p = 0.08). After adjustment for age and other risk factors, the mean RFFT score in homozygous APOE ε4 carriers was 5.24 points lower than in noncarriers (95%confidence interval, -9.41 to -1.07; p = 0.01). The difference in RFFT score was not dependent on age. There was no difference in RFFT score between heterozygous APOE ε4 carriers and noncarriers. The results indicated that homozygous APOE ε4 carriers aged 35 years or older had worse cognitive function than heterozygous carriers and noncarriers.">
+	<sentence ID="1008_0" START="66" END="202">
+		<snp ID="0" START="112" END="125" TEXT="APOE genotype"/>
+		<phenotype ID="0" START="146" END="202" text="cognitive function"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1008_1" START="1067" END="1217">
+		<snp ID="1" START="1105" END="1112" TEXT="APOE ε4"/>
+		<phenotype ID="1" START="1155" END="1217" text="cognitive function"/>
+		<modality_marker  START="1079" END="1088" text="indicated"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

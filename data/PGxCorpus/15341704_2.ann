@@ -1,0 +1,7 @@
+T1	Chemical 0 8	Warfarin 
+T2	Disease 84 106	thromboembolic disease 
+T3	Gene_or_protein 137 143	CYP2C9 
+T4	Chemical 30 43	anticoagulant
+T5	Gene_or_protein 157 183	hepatic microsomal enzymes
+R1	treats Arg1:T1 Arg2:T2	
+R2	influences Arg1:T3 Arg2:T1	

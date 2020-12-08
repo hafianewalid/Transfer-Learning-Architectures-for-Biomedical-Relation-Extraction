@@ -1,0 +1,25 @@
+T1	Chemical 13 41	dimethyl histone H3 lysine 4 
+T3	Gene_or_protein 61 65	RARa 
+T5	Gene_or_protein 89 93	PU.1 
+T6	Gene_or_protein 133 138	RUNX1 
+T7	Gene_or_protein 181 184	MLL 
+T8	Gene_or_protein 187 190	AF9 
+T9	Gene_or_protein 215 218	MLL 
+T10	Gene_or_protein 221 224	AF4 
+T12	Pharmacodynamic_phenotype 351 367	ATRA sensitivity 
+T13	Chemical 351 355	ATRA 
+T14	Gene_or_protein 371 374	MLL 
+T15	Gene_or_protein 377 380	AF4 
+T2	Chemical 44 51	H3K4me2
+T4	Genomic_factor 89 128	PU.1 upstream regulatory region ( URE )
+T16	Genomic_factor 133 166	RUNX1 +24 / +25 intronic enhancer
+T18	Gene_or_protein 258 288	lysine -specific demethylase 1
+T19	Genomic_factor 61 86	RARa gene-promoter region
+T11	Pharmacodynamic_phenotype 4 53	level of dimethyl histone H3 lysine 4 ( H3K4me2 )
+T17	Phenotype 371 390	MLL - AF4 -positive
+T20	Phenotype 181 200	MLL - AF9 -positive
+T21	Phenotype 215 234	MLL - AF4 -positive
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R4	isAssociatedWith Arg1:T18 Arg2:T12	
+R2	increases Arg1:T20 Arg2:T11	
+R3	influences Arg1:T21 Arg2:T11	

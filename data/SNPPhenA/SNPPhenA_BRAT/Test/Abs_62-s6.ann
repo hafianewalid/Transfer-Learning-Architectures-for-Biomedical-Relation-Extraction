@@ -1,0 +1,8 @@
+T1	SNP 12 27	rs165774/rs4680
+T2	Phenotype 70 88	alcohol dependence
+T3	Phenotype 149 166	alcohol-dependent
+T4	Modality_Marker 44 52	revealed
+T5	Modality_Marker 117 123	almost
+T6	Modality_Marker 134 138	more
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

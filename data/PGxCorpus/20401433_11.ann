@@ -1,0 +1,14 @@
+T1	Gene_or_protein 29 34	ADH1C 
+T3	Gene_or_protein 43 48	ADH1B 
+T4	Gene_or_protein 65 70	ADH1C 
+T5	Gene_or_protein 85 90	ADH1B 
+T6	Chemical 117 124	alcohol 
+T7	Haplotype 29 38	ADH1C * 1
+T8	Haplotype 43 52	ADH1B * 1
+T9	Disease 117 135	alcohol dependence
+T2	Haplotype 65 80	ADH1C * 1 / * 1
+T10	Haplotype 85 100	ADH1B * 1 / * 1
+R1	increases Arg1:T7 Arg2:T9	
+R2	increases Arg1:T8 Arg2:T9	
+R3	increases Arg1:T2 Arg2:T9	
+R4	increases Arg1:T10 Arg2:T9	

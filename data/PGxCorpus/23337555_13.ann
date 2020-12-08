@@ -1,0 +1,24 @@
+T1	Limited_variation 32 47	alleles for CFH 
+T2	Gene_or_protein 44 47	CFH 
+T3	Gene_or_protein 50 55	ARMS2 
+T4	Gene_or_protein 58 63	HTRA1 
+T5	Disease 104 107	AMD 
+T6	Gene_or_protein 149 183	vascular endothelial growth factor 
+T7	Limited_variation 32 43;58 63	alleles for HTRA1
+T8	Limited_variation 32 43;50 55	alleles for ARMS2
+T9	Limited_variation 32 43;70 72	alleles for C3
+T10	Gene_or_protein 70 72	C3
+T12	Pharmacodynamic_phenotype 131 191	response to anti- vascular endothelial growth factor therapy
+T11	Chemical 143 191	anti- vascular endothelial growth factor therapy
+R1	influences Arg1:T1 Arg2:T5	
+R2	influences Arg1:T9 Arg2:T5	
+R3	influences Arg1:T8 Arg2:T5	
+R4	influences Arg1:T7 Arg2:T5	
+R5	influences Arg1:T1 Arg2:T12	
+R6	influences Arg1:T9 Arg2:T12	
+R7	influences Arg1:T7 Arg2:T12	
+R8	influences Arg1:T8 Arg2:T12	
+#5	AnnotatorNotes R5	neg
+#6	AnnotatorNotes R6	neg
+#7	AnnotatorNotes R7	neg
+#8	AnnotatorNotes R8	neg

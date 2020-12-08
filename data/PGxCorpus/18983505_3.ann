@@ -1,0 +1,14 @@
+T1	Chemical 68 78	paroxetine 
+T4	Gene_or_protein 104 125	serotonin transporter 
+T5	Gene_or_protein 133 139	SLC6A4 
+T6	Phenotype 180 197	platelet function
+T7	Limited_variation 104 163	serotonin transporter gene ( SLC6A4 ) promoter polymorphism
+T2	Limited_variation 166 174	5-HTTLPR
+T8	Genomic_factor 104 130;142 150	serotonin transporter gene promoter
+T3	Pharmacodynamic_phenotype 43 78	dose-response effects of paroxetine
+R4	isEquivalentTo Arg1:T5 Arg2:T4	
+R1	isEquivalentTo Arg1:T2 Arg2:T7	
+R3	influences Arg1:T7 Arg2:T6	
+R2	influences Arg1:T3 Arg2:T6	
+#2	AnnotatorNotes R3	hyp
+#1	AnnotatorNotes R2	hyp

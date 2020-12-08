@@ -1,0 +1,6 @@
+T1	SNP 168 177	Val158Met
+T2	Phenotype 57 69	preeclampsia
+T3	Phenotype 237 249	preeclampsia
+T4	Modality_Marker 213 219	higher
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1187" TEXT="OBJECTIVE: The transcription factor 7-like 2 gene (TCF7L2) has been shown to be strongly associated with an increased risk of type 2 diabetes in white populations. To further investigate the involvement of TCF7L2 in conferring susceptibility to type 2 diabetes, we examined the association of TCF7L2 polymorphisms with type 2 diabetes in a Japanese population. METHODS: We analysed four SNPs (rs12255372, rs7903146, rs7901695 and rs11196205) and one tetranucleotide repeat polymorphism (DG10S478) in 1,630 Japanese subjects with type 2 diabetes and 1,064 control subjects. RESULTS: All investigated polymorphisms were significantly associated with type 2 diabetes, and rs12255372 showed the strongest association (T vs G, chi2 = 9.20, p = 0.0024, odds ratio = 1.70, 95% CI = 1.20-2.41), although the frequency of the risk allele in our population was much lower than that in white populations. The microsatellite polymorphism showed an almost complete linkage disequilibrium to rs1255372 when the alleles with longer repeats (+8, +12) were considered as minor alleles and showed an association with type 2 diabetes (chi2 = 5.34, p = 0.021, odds ratio = 1.50, 95% CI = 1.06-2.12). CONCLUSIONS: These results indicate that TCF7L2 might be a strong candidate for conferring susceptibility to type 2 diabetes across different ethnicities.">
+	<sentence ID="1187_0" START="573" END="786">
+		<snp ID="0" START="669" END="679" TEXT="rs12255372"/>
+		<phenotype ID="0" START="648" END="786" text="type 2 diabetes"/>
+		<modality_marker  START="680" END="686" text="showed"/>
+		<modality_marker  START="691" END="700" text="strongest"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

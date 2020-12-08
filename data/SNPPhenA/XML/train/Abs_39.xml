@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1203" TEXT="UNLABELLED: AIMS AND HYPOTHESIS: India has the greatest number of diabetic subjects in any one country, but the genetic basis of type 2 diabetes mellitus in India is poorly understood. Common non-coding variants in the transcription factor 7-like 2 gene (TCF7L2) have recently been strongly associated with increased risk of type 2 diabetes in European populations. We investigated whether TCF7L2 variants are also associated with type 2 diabetes mellitus in the Indian population. METHODS: We genotyped type 2 diabetes patients (n = 955) and ethnically matched control subjects (n = 399) by sequencing three single nucleotide polymorphisms (SNPs) (rs7903146, rs12255372 and rs4506565) in TCF7L2. RESULTS: We observed a strong association type 2 diabetes with all the polymorphisms, including rs12255372 (odds ratio [OR] 1.50 [95% CI = 1.24-1.82], p = 4.0 x 10(-5)), rs4506565 (OR 1.48 [95% CI = 1.24-1.77], p = 2.0 x 10(-5)) and rs7903146 (OR 1.46 [95% CI = 1.22-1.75], p = 3.0 x 10(-5)). All three variants showed increased relative risk when homozygous rather than heterozygous, with the strongest risk for rs12255372 (OR 2.28 [95% CI = 1.40-3.72] vs OR 1.43 [95% CI = 1.11-1.83]). We found no association of the TCF7L2 genotypes with age at diagnosis, BMI or WHR, but the risk genotype at rs12255372 was associated with higher fasting plasma glucose (p = 0.001), higher 2-h plasma glucose (p = 0.0002) and higher homeostasis model assessment of insulin resistance (HOMA-R; p = 0.012) in non-diabetic subjects. CONCLUSIONS: Our study in Indian subjects replicates the strong association of TCF7L2 variants with type 2 diabetes in other populations. It also provides evidence that variations in TCF7L2 may play a crucial role in the pathogenesis of type 2 diabetes by influencing both insulin secretion and insulin resistance. TCF7L2 is an important gene for determining susceptibility to type 2 diabetes mellitus and it transgresses the boundaries of ethnicity.">
+	<sentence ID="1203_0" START="706" END="989">
+		<snp ID="0" START="793" END="803" TEXT="rs12255372"/>
+		<snp ID="1" START="867" END="876" TEXT="rs4506565"/>
+		<snp ID="2" START="930" END="939" TEXT="rs7903146"/>
+		<phenotype ID="0" START="739" END="989" text="type 2 diabetes"/>
+		<modality_marker  START="709" END="717" text="observed"/>
+		<modality_marker  START="720" END="726" text="strong"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1203_1" START="1185" END="1513">
+		<snp ID="3" START="1293" END="1303" TEXT="rs12255372"/>
+		<phenotype ID="1" START="1324" END="1513" text="higher fasting plasma glucose"/>
+		<phenotype ID="2" START="1367" END="1513" text="higher 2-h plasma glucose"/>
+		<phenotype ID="3" START="1410" END="1513" text="higher homeostasis"/>
+		<phenotype ID="4" START="1449" END="1513" text="insulin resistance"/>
+		<negation_scope  START="1194" END="1513" text="no association of the TCF7L2 genotypes with age at diagnosis, BMI or WHR, but the risk genotype at rs12255372 was associated with higher fasting plasma glucose (p = 0.001), higher 2-h plasma glucose (p = 0.0002) and higher homeostasis model assessment of insulin resistance (HOMA-R; p = 0.012) in non-diabetic subjects.">
+			<negation_cue START="1194" END="1196" text="no"/>
+		</negation_scope>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="4" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

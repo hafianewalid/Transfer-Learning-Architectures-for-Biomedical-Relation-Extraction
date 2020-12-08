@@ -1,0 +1,8 @@
+T1	Gene_or_protein 4 11	CYP2C19 
+T2	Disease 140 163	coronary artery disease 
+T3	Chemical 174 185	clopidogrel 
+T4	Haplotype 4 15	CYP2C19 * 2
+T6	Disease 74 76	ST
+T5	Disease 87 111	coronary stent placement
+R1	increases Arg1:T4 Arg2:T6	
+R2	treats Arg1:T3 Arg2:T2	

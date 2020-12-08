@@ -1,0 +1,7 @@
+T1	SNP 40 58	APOE gene variants
+T2	Phenotype 87 95	diabetes
+T3	Phenotype 123 134	psychiatric
+T4	Modality_Marker 12 19	support
+T5	Modality_Marker 100 108	possibly
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T1 Arg2:T2

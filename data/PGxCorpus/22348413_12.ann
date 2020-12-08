@@ -1,0 +1,6 @@
+T1	Chemical 28 35	statins 
+T2	Gene_or_protein 40 46	CYP3A4 
+T3	Pharmacokinetic_phenotype 5 35	interactions affecting statins
+T4	Chemical 63 75	transporters
+R1	causes Arg1:T2 Arg2:T3	
+R2	influences Arg1:T4 Arg2:T3	

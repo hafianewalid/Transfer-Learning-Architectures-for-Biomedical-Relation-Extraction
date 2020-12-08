@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1232" TEXT="We genotyped the CAG microsatellite and six haplotype-tagging single nucleotide polymorphisms (rs962458, rs6152, rs1204038, rs2361634, rs1337080, rs1337082) of the androgen receptor gene in 987 ovarian cancer cases and 1,034 controls from a study conducted in New Hampshire and eastern Massachusetts between May 1992 and July 2003.">
+	<sentence ID="1232_0" START="0" END="331">
+		<snp ID="0" START="95" END="103" TEXT="rs962458"/>
+		<snp ID="1" START="105" END="111" TEXT="rs6152"/>
+		<snp ID="2" START="113" END="122" TEXT="rs1204038"/>
+		<snp ID="3" START="124" END="133" TEXT="rs2361634"/>
+		<snp ID="4" START="135" END="144" TEXT="rs1337080"/>
+		<snp ID="5" START="146" END="155" TEXT="rs1337082"/>
+		<phenotype ID="0" START="194" END="331" text="ovarian cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

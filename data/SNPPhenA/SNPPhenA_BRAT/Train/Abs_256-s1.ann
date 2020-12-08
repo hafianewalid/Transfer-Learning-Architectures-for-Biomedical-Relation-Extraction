@@ -1,0 +1,6 @@
+T1	SNP 38 53	rs12255372(G/T)
+T2	SNP 58 72	rs7903146(C/T)
+T3	Phenotype 115 123	diabetic
+T4	Modality_Marker 105 111	higher
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

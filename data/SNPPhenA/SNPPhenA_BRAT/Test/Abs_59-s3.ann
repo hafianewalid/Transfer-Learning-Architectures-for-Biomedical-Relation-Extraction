@@ -1,0 +1,7 @@
+T1	SNP 37 46	Val158Met
+T2	Phenotype 66 92	long lasting low back pain
+T3	Phenotype 94 102	sciatica
+T4	Phenotype 107 146	disability after lumbar disc herniation
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3
+R3	weak_confidence_association Arg1:T1 Arg2:T4

@@ -1,0 +1,3 @@
+T1	SNP 60 65	APOA1
+T2	Phenotype 108 111	FCH
+R1	weak_confidence_association Arg1:T1 Arg2:T2

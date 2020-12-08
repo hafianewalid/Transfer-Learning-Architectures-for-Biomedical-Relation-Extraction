@@ -1,0 +1,4 @@
+T1	SNP 30 34	ApoE
+T2	Phenotype 86 88	RA
+T3	Modality_Marker 0 11	CONCLUSIONS
+R1	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T3	Gene_or_protein 20 25	BICD1 
+T4	Chemical 82 92	creatinine 
+T5	Pharmacodynamic_phenotype 82 107	creatinine concentrations
+T1	Limited_variation 10 55	rs2630578 BICD1 gene polymorphism CC genotype
+T2	Limited_variation 129 131	CC
+T6	Limited_variation 136 138	GC
+R1	decreases Arg1:T1 Arg2:T5	

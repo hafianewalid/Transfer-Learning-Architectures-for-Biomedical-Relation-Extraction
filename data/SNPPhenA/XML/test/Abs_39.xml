@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1033" TEXT="OBJECTIVE: Genetics play a major role in the etiology of schizophrenia (SZ). Catechol-O-methyltransferase (COMT) is one of the promising candidate genes for SZ. A nonsynonymous single-nucleotide polymorphism (SNP), rs4680, causing a Valine (Val) to Methionine (Met) substitution, has been widely studied in relation to psychiatric phenotypes, including SZ, but with conflicting results. We conducted a two-stage study to examine the association of COMT polymorphisms with SZ in the Han Chinese population. RESULTS: Association analysis of nine SNPs in 768 patients and 1348 controls failed to detect any positive markers or haplotypes. Then, we tested rs4680 in a validation sample of 963 patients and 992 controls, and no significant association was observed, but the cases significantly deviated from Hardy-Weinberg equilibrium (p=5.7e-4). There was no association of rs4680 with SZ in the combined sample (n=4071, p=0.110, odds ratio=1.08). CONCLUSIONS: Our results do not support the association of COMT with SZ in the Han Chinese population.">
+	<sentence ID="1033_0" START="842" END="943">
+		<snp ID="1" START="870" END="876" TEXT="rs4680"/>
+		<phenotype ID="0" START="882" END="943" text="SZ"/>
+		<negation_scope  START="852" END="943" text="no association of rs4680 with SZ in the combined sample (n=4071, p=0.110, odds ratio=1.08).">
+			<negation_cue START="852" END="854" text="no"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1033_1" START="957" END="1046">
+		<snp ID="0" START="1003" END="1007" TEXT="COMT"/>
+		<phenotype ID="1" START="1013" END="1046" text="SZ"/>
+		<modality_marker  START="976" END="983" text="support"/>
+		<negation_scope  START="972" END="1046" text="not support the association of COMT with SZ in the Han Chinese population.">
+			<negation_cue START="972" END="975" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

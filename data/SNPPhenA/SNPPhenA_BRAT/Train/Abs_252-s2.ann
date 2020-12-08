@@ -1,0 +1,8 @@
+T1	SNP 13 22	rs7903146
+T2	SNP 27 37	rs12255372
+T3	Phenotype 65 69	FCHL
+T4	Phenotype 139 141	TG
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	moderate_confidence_association Arg1:T2 Arg2:T4

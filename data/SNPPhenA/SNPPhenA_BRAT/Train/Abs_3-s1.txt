@@ -1,0 +1,1 @@
+Inside this region of 16.3 kb, LD (r2 = 0.14) between TOMM40 rs157590 and APOE rs429358 was observed in PPA, but not in bvFTD and in controls.

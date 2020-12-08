@@ -1,0 +1,9 @@
+T1	Chemical 50 58	warfarin 
+T2	Pharmacodynamic_phenotype 137 157	warfarin stable dose 
+T3	Gene_or_protein 182 188	VKORC1 
+T4	Gene_or_protein 193 199	CYP2C9 
+T5	Limited_variation 162 188	genetic variants in VKORC1
+T6	Limited_variation 162 181;193 199	genetic variants in CYP2C9
+T7	Chemical 137 145	warfarin
+R1	isAssociatedWith Arg1:T2 Arg2:T6	
+R2	isAssociatedWith Arg1:T2 Arg2:T6	

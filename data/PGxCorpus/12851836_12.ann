@@ -1,0 +1,9 @@
+T1	Limited_variation 38 51	DPYD mutation 
+T2	Gene_or_protein 38 42	DPYD 
+T3	Phenotype 68 88	lack of DPD activity 
+T4	Gene_or_protein 76 79	DPD 
+T5	Disease 180 186	cancer 
+T6	Chemical 225 229	5-FU 
+T7	Limited_variation 167 176	mutations
+R2	isAssociatedWith Arg1:T3 Arg2:T1	
+R1	isAssociatedWith Arg1:T5 Arg2:T7	

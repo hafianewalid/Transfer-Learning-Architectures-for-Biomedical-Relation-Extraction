@@ -1,0 +1,5 @@
+T1	Gene_or_protein 63 67	POG1
+T2	Genomic_variation 14 23;63 67	knockdown POG1
+T3	Pharmacodynamic_phenotype 111 136	cytotoxicity of sunitinib
+T4	Chemical 127 136	sunitinib
+R1	increases Arg1:T2 Arg2:T3	

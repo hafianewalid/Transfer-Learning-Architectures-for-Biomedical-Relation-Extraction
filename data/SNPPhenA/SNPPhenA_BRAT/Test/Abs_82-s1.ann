@@ -1,0 +1,8 @@
+T1	SNP 71 78	rs53576
+T2	SNP 93 102	rs2254298
+T3	Phenotype 199 209	depression
+T4	Phenotype 221 228	bipolar
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T1 Arg2:T4
+R3	neutral_association Arg1:T2 Arg2:T3
+R4	neutral_association Arg1:T2 Arg2:T4

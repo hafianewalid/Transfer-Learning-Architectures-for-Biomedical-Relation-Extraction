@@ -1,0 +1,10 @@
+T2	Chemical 103 117	sulphonylureas 
+T3	Chemical 120 130	biguanides 
+T4	Gene_or_protein 133 150	alpha glucosidase 
+T5	Chemical 168 186	thiazolidinediones 
+T6	Disease 225 238	hyperglycemia 
+T1	Chemical 133 161	alpha glucosidase inhibitors
+R1	decreases Arg1:T2 Arg2:T6	
+R2	decreases Arg1:T3 Arg2:T6	
+R3	decreases Arg1:T1 Arg2:T6	
+R4	decreases Arg1:T5 Arg2:T6	

@@ -1,0 +1,12 @@
+T1	Chemical 0 10	Bucindolol
+T2	Limited_variation 79 162	polymorphisms in the primary target ( b ( 1 ) adrenergic receptor [ AR ] Arg389 Gly
+T3	Gene_or_protein 125 144	adrenergic receptor
+T4	Pharmacodynamic_phenotype 0 10;54 62	Bucindolol efficacy
+T5	Limited_variation 189 280;79 99	a secondary target modifier ( a ( 2C ) AR Ins [ wild-type ( Wt ) ] 322-325 deletion [ Del ] polymorphisms in the
+T6	Chemical 16 25	b-blocker
+T7	Chemical 28 47	sympatholytic agent
+T8	Gene_or_protein 147 149	AR
+T9	Gene_or_protein 228 230	AR
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T5 Arg2:T4	
+R3	isEquivalentTo Arg1:T8 Arg2:T3	

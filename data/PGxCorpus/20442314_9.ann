@@ -1,0 +1,6 @@
+T1	Gene_or_protein 15 22	Bcr-Abl 
+T2	Chemical 111 119	imatinib 
+T3	Phenotype 62 96	death activated by spindle defects
+T4	Phenotype 15 40	Bcr-Abl -expressing cells
+R2	treats Arg1:T2 Arg2:T3	
+R1	decreases Arg1:T4 Arg2:T3	

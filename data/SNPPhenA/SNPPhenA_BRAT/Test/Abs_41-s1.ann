@@ -1,0 +1,4 @@
+T1	SNP 0 13	TNF-α -857C>T
+T2	Phenotype 190 199	carcinoma
+T3	Modality_Marker 26 36	predictive
+R1	weak_confidence_association Arg1:T1 Arg2:T2

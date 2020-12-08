@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1113" TEXT="BACKGROUND: The association of apolipoprotein E (APOE) genotypes with bone mineral density (BMD) and risk of osteoporosis have remained unclear. The influence of APOE gene polymorphisms on BMD as genetic mediators of osteoporosis risk needs to be explored in Indian postmenopausal females where this disease is rising rampantly. RESULTS: The present study investigated the role and relevance of four pertinent APOE single nucleotidepolymorphisms: 5'UTR G/C (rs440446), Int2 G/A (rs769450), Exon4 T/C (rs429358), Exon4C/T (rs7412) in DEXA verified 133 osteoporotic, 57 osteopenic and 83 normal postmenopausal females of India, who were not taking hormone replacement therapy. Minor allele frequencies of rs440446 and rs429358were higher in osteoporotic females (0.31, 0.18) than osteopenic (0.29, 0.15) and females having normal bone mass (0.16, 0.07). Disease association analysis revealed a susceptibility haplotype CGTC (in order of rs440446, rs769450, rs429358, rs7412) and the carriers of this haplotype has higher risk of osteopenia (OR 3.53, 95% CI 1.21-11.0, P=0.017) and osteoporosis (OR 3.61, 95% CI 1.53-9.48, P=0.002) after adjusting the confounding effect of age, BMI and years since menopause. Females who possess either one copy or two copies of the haplotype have lesser BMD values of lumbar spine (0.88 and 0.85 g/cm(2)) and femoral neck (0.84 and 0.82 g/cm(2)) than those females who possess zero copy (0.9 and 0.87 g/cm(2), respectively). CONCLUSIONS: The present study exposed a susceptibility haplotype CGTC, within APOE gene, which was found to be associated with BMD and risk of osteopenia andosteoporosis in postmenopausal females of India.">
+	<sentence ID="1113_0" START="852" END="1206">
+		<snp ID="0" START="935" END="943" TEXT="rs440446"/>
+		<snp ID="1" START="945" END="953" TEXT="rs769450"/>
+		<snp ID="2" START="955" END="963" TEXT="rs429358"/>
+		<snp ID="3" START="965" END="971" TEXT="rs7412"/>
+		<phenotype ID="0" START="1027" END="1206" text="osteopenia"/>
+		<modality_marker  START="881" END="889" text="revealed"/>
+		<modality_marker  START="1012" END="1018" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

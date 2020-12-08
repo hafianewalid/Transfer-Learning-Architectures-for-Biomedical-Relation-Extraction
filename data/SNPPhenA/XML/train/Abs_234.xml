@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1151" TEXT="BACKGROUND: TCF7L2 is the strongest type 2 diabetes (T2D) locus identified to date, and evidence suggests it plays an important role in insulin synthesis, processing, and secretion. Dietary factors that increase the insulin demand might enhance the risk of T2D associated with TCF7L2 variants. OBJECTIVE: The objective was to determine whether the risk of T2D associated with TCF7L2 is modified by the glycemic load (GL), glycemic index (GI), cereal fiber content, and total carbohydrate content of the diet. METHODS: T2D cases (n = 1140) and controls (n = 1915) from the Nurses' Health Study were genotyped for TCF7L2 (rs12255372). Dietary intake was assessed with a semiquantitative food-frequency questionnaire. RESULTS: Significant differences in odds ratios (ORs) of T2D associated with the TCF7L2 genotype between high and low strata of GL (P = 0.03) and GI (P = 0.05) were suggested. Compared with the GG genotype, multivariate-adjusted ORs (95% CI) of T2D associated with the TT genotype were 2.71 (1.64, 4.46) and 2.69 (1.64, 4.43) among individuals in the highest tertile of GL and GI, respectively. Corresponding ORs (95% CIs) among individuals in the lowest tertiles of GL and GI were 1.66 (0.95, 2.88) and 1.82 (1.11, 3.01). The risk of T2D associated with the TCF7L2 single nucleotide polymorphism did not significantly differ by cereal fiber or carbohydrate intake. CONCLUSIONS: Carbohydrate quality and quantity modified risk of T2D associated with   TCF7L2, which suggests that changes in risk attributable to the TCF7L2 variant are magnified under conditions of increased insulin demand.">
+	<sentence ID="1151_0" START="1394" END="1605">
+		<snp ID="0" START="1467" END="1473" TEXT="TCF7L2"/>
+		<phenotype ID="0" START="1445" END="1605" text="T2D"/>
+		<modality_marker  START="1481" END="1489" text="suggests"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

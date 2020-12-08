@@ -1,0 +1,10 @@
+T1	Chemical 52 60	nicotine 
+T2	Chemical 70 77	alcohol 
+T3	Gene_or_protein 116 122	CYP2E1 
+T5	Haplotype 116 127	CYP2E1 * 1D
+T6	Disease 39 60	dependent on nicotine
+T7	Disease 39 51;70 77	dependent on alcohol
+T4	Chemical 246 254	nicotine
+T8	Disease 233 254	dependent on nicotine
+R7	isAssociatedWith Arg1:T5 Arg2:T7	
+R8	isAssociatedWith Arg1:T5 Arg2:T6	

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1126" TEXT="Cigarette smoking is the major environmental risk factor for chronic obstructive pulmonary disease (COPD). Genome-wide association studies have provided compelling associations for three loci with COPD. In this study, we aimed to estimate direct, i.e., independent from smoking, and indirect effects of those loci on COPD development using mediation analysis. We included a total of 3,424 COPD cases and 1,872 unaffected controls with data on two smoking-related phenotypes: lifetime average smoking intensity and cumulative exposure to tobacco smoke (pack years). Our analysis revealed that effects of two linked variants(rs1051730 and rs8034191) in the AGPHD1/CHRNA3 cluster on   COPD development are significantly, yet not entirely, mediated by the smoking-related phenotypes. Approximately 30% of the total effect of variants in the AGPHD1/CHRNA3 cluster on COPD development was mediated by pack years. Simultaneous analysis of modestly (r (2) = 0.21) linked markers in CHRNA3 and IREB2 revealed that an even larger (~42%) proportion of the total effect of the CHRNA3 locus on COPD was mediated by pack years after adjustment for an IREB2 single nucleotide polymorphism. This study confirms the existence of direct effects of the AGPHD1/CHRNA3, IREB2, FAM13A and HHIP loci on COPD development. While the association of the AGPHD1/CHRNA3 locus with COPD is significantly mediated by smoking-related phenotypes, IREB2 appears to affect COPD independently of smoking.">
+	<sentence ID="1126_0" START="565" END="778">
+		<snp ID="0" START="623" END="632" TEXT="rs1051730"/>
+		<snp ID="1" START="637" END="646" TEXT="rs8034191"/>
+		<phenotype ID="0" START="682" END="778" text="COPD"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

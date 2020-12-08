@@ -1,0 +1,11 @@
+T2	Gene_or_protein 40 44	CRBP 
+T4	Pharmacokinetic_phenotype 116 122	uptake
+T1	Gene_or_protein 4 37	cellular retinol -binding protein
+T3	Pharmacokinetic_phenotype 127 137	metabolism
+T5	Chemical 53 62	vitamin A
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isAssociatedWith Arg1:T1 Arg2:T5	
+R3	influences Arg1:T1 Arg2:T4	
+R4	influences Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R3	hyp

@@ -1,0 +1,1 @@
+RESULTS : Two single-nucleotide polymorphisms were significantly associated with alcohol dependence in European Americans using the Nyholt corrected p value of .007 : rs886003 ( b = -.212 , p = .0002 ) and rs17862325 ( b = -.234 , p < .0001 ) , but not in African Americans , likely because of the lower power to detect association in this group .

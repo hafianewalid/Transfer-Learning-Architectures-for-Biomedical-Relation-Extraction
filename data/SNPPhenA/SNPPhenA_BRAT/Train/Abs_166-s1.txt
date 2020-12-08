@@ -1,0 +1,1 @@
+The four tested TCF7L2 variants were in linkage disequilibrium, and 4-locus (rs4506565, rs7903146, rs12243326, rs12255372) haplotype analysis demonstrated that haplotype 1111 was negatively associated (Pc<0.001), while haplotypes 2222 (Pc=0.008) and 2211 (Pc=0.020) were positively associated with T2DM risk, after controlling for a number of covariates.

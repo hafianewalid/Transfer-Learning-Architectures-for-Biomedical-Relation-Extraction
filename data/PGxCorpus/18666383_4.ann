@@ -1,0 +1,5 @@
+T1	Limited_variation 27 48	polymorphisms of TPMT 
+T3	Gene_or_protein 44 48	TPMT 
+T4	Chemical 94 104	thiopurine 
+T2	Pharmacodynamic_phenotype 64 104	clinical impact on the use of thiopurine
+R1	influences Arg1:T1 Arg2:T2	

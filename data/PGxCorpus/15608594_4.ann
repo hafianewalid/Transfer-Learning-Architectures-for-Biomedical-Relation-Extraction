@@ -1,0 +1,5 @@
+T1	Limited_variation 47 65	A118G polymorphism 
+T2	Chemical 115 122	alcohol 
+T3	Pharmacodynamic_phenotype 85 122	sensitivity to the effects of alcohol
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R1	hyp

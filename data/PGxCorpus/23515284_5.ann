@@ -1,0 +1,9 @@
+T1	Chemical 0 3	PTH 
+T2	Chemical 72 74	Pi 
+T3	Chemical 102 104	Pi 
+T4	Limited_variation 108 110	DD 
+T5	Limited_variation 78 80	Wt
+T6	Pharmacodynamic_phenotype 66 74	serum Pi
+T7	Pharmacodynamic_phenotype 96 104	serum Pi
+R1	decreases Arg1:T1 Arg2:T6	
+R2	decreases Arg1:T1 Arg2:T7	

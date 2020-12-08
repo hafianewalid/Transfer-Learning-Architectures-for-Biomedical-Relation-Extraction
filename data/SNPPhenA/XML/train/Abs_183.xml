@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1094" TEXT="BACKGROUND: Single nucleotide polymiorphisms (SNPs) rs7903146 and rs12255372 located within TCF7L2 gene have been identified as the strongest common genetic risk factors for development of type 2 diabetes(T2D). We hypothesized that these genetic variants might increase the risk of T2D through regulation of alternative splicing or expression level of TCF7L2 in human adipose tissue. RESULTS: Expression of 13 assays detecting alternatively splicedforms of TCF7L2 was measured by quantitative reverse-transcriptase PCR (qRT-PCR) in paired biopsies of omental and subcutaneous adipose tissue from 159 obese individuals (BMI 54.6+/-12.2 kg/m(2)). TCF7L2 expression in both types of adipose tissue was not associated with SNPs rs7903146 andrs12255372, T2D status and blood levels of glucose or glycosylated hemoglobin (HbA1c). Expression of assays &quot;ex12-13&quot;, &quot;ex12-14&quot; and &quot;ex13-13a&quot; detecting C-terminal alternative exons of TCF7L2 was higher in subcutaneous compared to omental adipose tissue by 1.46 fold (p = 6.5x10(-15)), 1.41 fold(p = 1.4x10(-9)) and 1.26 fold (p = 4.7x10(-6)) in the control group and by 1.86 fold (p = 1.7x10(-4)), 1.77 fold (p = 7.3x10(-4)) and 1.58 fold (p = 6.1x10(-4)) in the T2D group. A pathway enrichment analysis on transcripts significantly co-expressed with TCF7L2 in a microarray set combined with individual expression assays, suggested tissue-specific roles of TCF7L2 splicing forms in regulation of transcription, signal transduction and cell adhesion. CONCLUSIONS: Expression of TCF7L2 alternatively spliced forms may have different functional roles in omental and subcutaneous adipose tissue but is not associated with SNPs rs7903146 and rs12255372 or T2D status.">
+	<sentence ID="1094_0" START="0" END="210">
+		<snp ID="0" START="52" END="61" TEXT="rs7903146"/>
+		<snp ID="1" START="66" END="76" TEXT="rs12255372"/>
+		<phenotype ID="0" START="189" END="210" text="type 2 diabetes"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

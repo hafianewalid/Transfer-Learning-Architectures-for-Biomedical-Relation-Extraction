@@ -1,0 +1,5 @@
+T1	SNP 31 53	variants of the TCF7L2
+T2	Phenotype 85 100	type 2 diabetes
+T3	Modality_Marker 9 17	strongly
+T4	Modality_Marker 18 25	confirm
+R1	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Limited_variation 7 55	genetic variants of microsomal epoxide hydrolase 
+T2	Gene_or_protein 27 55	microsomal epoxide hydrolase 
+T3	Chemical 63 71	warfarin 
+T5	Gene_or_protein 111 130	cytochrome P450 2C9 
+T6	Pharmacodynamic_phenotype 63 89	warfarin dose requirements
+T4	Pharmacodynamic_phenotype 101 130	effect of cytochrome P450 2C9
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T4 Arg2:T6	

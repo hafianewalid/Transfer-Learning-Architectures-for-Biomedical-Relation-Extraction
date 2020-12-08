@@ -1,0 +1,6 @@
+T1	SNP 19 25	TCF7L2
+T2	Phenotype 74 82	diabetes
+T3	Phenotype 102 128	impaired glucose tolerance
+T4	Modality_Marker 26 30	seem
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	SNP 96 102	APOE*4
+T2	Phenotype 181 184	CRC
+T3	Modality_Marker 0 5	Lower
+T4	Modality_Marker 111 118	suggest
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

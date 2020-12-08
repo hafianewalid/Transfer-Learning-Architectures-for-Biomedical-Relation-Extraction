@@ -1,0 +1,10 @@
+T1	Chemical 47 58	clopidogrel 
+T2	Limited_variation 113 129	CYP2C19 genotype 
+T3	Gene_or_protein 113 120	CYP2C19 
+T4	Chemical 133 144	clopidogrel 
+T5	Pharmacokinetic_phenotype 133 161	clopidogrel pharmacokinetics
+T6	Pharmacodynamic_phenotype 133 144;164 180	clopidogrel pharmacodynamics
+T7	Pharmacodynamic_phenotype 133 144;185 202	clopidogrel clinical response
+R1	influences Arg1:T2 Arg2:T6	
+R2	influences Arg1:T2 Arg2:T7	
+R3	influences Arg1:T2 Arg2:T5	

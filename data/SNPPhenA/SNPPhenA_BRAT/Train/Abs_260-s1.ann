@@ -1,0 +1,5 @@
+T1	SNP 56 65	rs7903146
+T2	SNP 70 80	rs12255372
+T3	Phenotype 181 205	type 2 diabetes mellitus
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

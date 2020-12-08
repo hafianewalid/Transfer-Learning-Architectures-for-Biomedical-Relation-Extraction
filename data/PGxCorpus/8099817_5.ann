@@ -1,0 +1,9 @@
+T1	Phenotype 32 61	expression of preprodynorphin 
+T2	Gene_or_protein 46 61	preprodynorphin 
+T3	Gene_or_protein 72 77	c-fos 
+T4	Chemical 131 138	cocaine 
+T5	Phenotype 32 45;72 77	expression of c-fos
+T6	Phenotype 131 158	cocaine self-administration
+R1	increases Arg1:T6 Arg2:T1	
+R2	increases Arg1:T6 Arg2:T5	
+#1	AnnotatorNotes R2	neg

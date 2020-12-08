@@ -1,0 +1,8 @@
+T1	SNP 36 42	rs4680
+T2	SNP 80 88	rs181696
+T3	Phenotype 110 113	ADC
+T4	Phenotype 118 121	SQC
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

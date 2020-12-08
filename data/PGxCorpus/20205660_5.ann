@@ -1,0 +1,16 @@
+T3	Gene_or_protein 131 161	thiopurine S-methyltransferase 
+T7	Limited_variation 112 128;39 82	xanthine oxidase genetic polymorphisms of genes encoding for
+T8	Limited_variation 131 161;39 82	thiopurine S-methyltransferase genetic polymorphisms of genes encoding for
+T9	Limited_variation 164 200;39 82	inosine triphosphate pyrophosphatase genetic polymorphisms of genes encoding for
+T10	Limited_variation 203 241;39 82	hypoxanthine phosphoribosyltransferase genetic polymorphisms of genes encoding for
+T11	Limited_variation 39 109	genetic polymorphisms of genes encoding for glutathione S -tranferases
+T12	Gene_or_protein 83 109	glutathione S -tranferases
+T13	Gene_or_protein 112 128	xanthine oxidase
+T14	Gene_or_protein 164 200	inosine triphosphate pyrophosphatase
+T15	Gene_or_protein 203 241	hypoxanthine phosphoribosyltransferase
+T16	Gene_or_protein 244 279	inosine monophosphate dehydrogenase
+T17	Pharmacodynamic_phenotype 284 304	multidrug resistance
+T18	Gene_or_protein 284 313	multidrug resistance proteins
+T19	Limited_variation 244 279;39 82	inosine monophosphate dehydrogenase genetic polymorphisms of genes encoding for
+T20	Limited_variation 284 313;39 82	multidrug resistance proteins genetic polymorphisms of genes encoding for
+T1	Chemical 284 293	multidrug

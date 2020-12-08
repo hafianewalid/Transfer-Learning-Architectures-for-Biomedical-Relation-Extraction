@@ -1,0 +1,9 @@
+T1	SNP 66 75	rs2254298
+T2	SNP 77 84	rs53576
+T3	SNP 86 95	rs2228485
+T4	SNP 100 108	rs237911
+T5	Phenotype 150 163	preterm birth
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

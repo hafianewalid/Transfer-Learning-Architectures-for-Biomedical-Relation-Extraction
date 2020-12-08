@@ -1,0 +1,4 @@
+T1	SNP 0 10	rs12255372
+T2	Phenotype 70 88	insulin resistance
+T3	Modality_Marker 16 22	showed
+R1	weak_confidence_association Arg1:T1 Arg2:T2

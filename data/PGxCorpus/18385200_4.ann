@@ -1,0 +1,7 @@
+T1	Phenotype 0 5;15 29	C-MYC protein levels 
+T2	Gene_or_protein 0 5	C-MYC 
+T3	Gene_or_protein 10 14	DHFR 
+T4	Chemical 125 128	MTX 
+T7	Phenotype 10 29	DHFR protein levels
+T8	Chemical 191 208	four-drug regimen
+T9	Chemical 125 144	MTX -based protocol

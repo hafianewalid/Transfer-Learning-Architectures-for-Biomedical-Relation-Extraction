@@ -1,0 +1,15 @@
+T1	SNP 117 128	rs1801133 ,
+T2	SNP 130 153	MTHFR 1298A>C rs1801131
+T3	SNP 168 179	rs1805087 ,
+T4	SNP 192 201	rs1801394
+T5	SNP 216 224	rs202676
+T6	SNP 236 247	rs1051266 ,
+T7	SNP 263 269	rs4680
+T8	Phenotype 39 62	nonfasting serum folate
+R1	neutral_association Arg1:T1 Arg2:T8
+R2	neutral_association Arg1:T2 Arg2:T8
+R3	neutral_association Arg1:T3 Arg2:T8
+R4	neutral_association Arg1:T4 Arg2:T8
+R5	neutral_association Arg1:T5 Arg2:T8
+R6	neutral_association Arg1:T6 Arg2:T8
+R7	neutral_association Arg1:T7 Arg2:T8

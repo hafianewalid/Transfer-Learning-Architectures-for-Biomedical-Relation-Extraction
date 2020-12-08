@@ -1,0 +1,13 @@
+T1	Disease 14 17	APL
+T2	Gene_or_protein 40 43	PML
+T3	Gene_or_protein 53 57	bcr1
+T5	Gene_or_protein 64 67	WT1
+T7	Genomic_variation 40 59	PML / RARa ( bcr1 )
+T4	Genomic_variation 188 213	t ( 2 ; 3 ) ( p25 ; q21 )
+T8	Genomic_variation 218 245	t ( 15 ; 17 ) ( q22 ; q21 )
+T6	Gene_or_protein 97 121	Fms-like tyrosine kinase
+T9	Genomic_variation 97 159	Fms-like tyrosine kinase -internal tandem duplication mutation
+T10	Gene_or_protein 46 50	RARa
+T11	Phenotype 26 73	overexpressed PML / RARa ( bcr1 ) and WT1 genes
+R1	isAssociatedWith Arg1:T1 Arg2:T11	
+R2	isAssociatedWith Arg1:T5 Arg2:T1	

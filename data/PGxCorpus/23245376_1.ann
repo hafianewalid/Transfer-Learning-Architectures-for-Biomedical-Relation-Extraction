@@ -1,0 +1,8 @@
+T1	Limited_variation 29 39	NRXN3 SNPs 
+T2	Gene_or_protein 29 34	NRXN3 
+T3	Disease 45 76	borderline personality disorder 
+T5	Disease 45 113	borderline personality disorder phenotypes in heroin dependent cases
+T4	Chemical 91 97	heroin
+T6	Disease 91 107	heroin dependent
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R1	hyp

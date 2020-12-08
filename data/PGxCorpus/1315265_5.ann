@@ -1,0 +1,7 @@
+T1	Chemical 151 164	dexamethasone 
+T2	Gene_or_protein 187 190	Fos 
+T3	Gene_or_protein 61 84	glucocorticoid receptor
+T5	Phenotype 187 194	Fos -LI
+T6	Chemical 124 148	synthetic glucocorticoid
+R1	causes Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R1	hyp

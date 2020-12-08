@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1081" TEXT="Type 2 diabetes (T2DM) is a complex disease resulting from the contribution of both environmental and genetic factors. Recently, the list of genes implicated in the susceptibility to T2DM has substantially grown, also as a consequence of the great development of the genome-wide association studies in the last decade. Common polymorphisms in TCF7L2 gene have shown to have a strong effect with respect to many other involved genes. The aims of our study were to confirm the role of TCF7L2 in the susceptibility to T2DM in the Italian population and to investigate whether TCF7L2 genotypes also contribute to the clinical phenotypes variability and to diabetic complications development. Three TCF7L2 polymorphisms (rs7903146, rs7901695 andrs12255372) have been analyzed by allelic discrimination assays in a cohort of 154 Italian patients with T2DM and 171 healthy controls. A case-controlassociation study and a genotype-phenotype correlation study have been carried out.  Consistent with previous studies, all three SNPs showed a strong association with susceptibility to T2DM, both at genotypic (P = 0.003, P = 0.004 and P = 0.012) and at allelic level (P = 0.0004, P = 0.0004 and P = 0.003). Moreover, we observed associations between TCF7L2 variants and the following diabetic complications: diabetic retinopathy,cardiovascular disease and coronary artery disease. We also found a strong correlation between the rs7903146 and the presence of cardiovascular autonomic neuropathy (P = 0.02 with a high OR = 8.28). In conclusion, our study, in addition to confirming the involvement of TCF7L2 gene in the T2DM susceptibility, has shown that TCF7L2 genetic variability also contributes to the development of diabetic complications such as retinopathy and cardiovascular autonomic neuropathy.">
+	<sentence ID="1081_0" START="1371" END="1517">
+		<snp ID="0" START="1418" END="1427" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1448" END="1517" text="cardiovascular autonomic neuropathy"/>
+		<modality_marker  START="1379" END="1384" text="found"/>
+		<modality_marker  START="1387" END="1393" text="strong"/>
+		<modality_marker  START="1501" END="1505" text="high"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

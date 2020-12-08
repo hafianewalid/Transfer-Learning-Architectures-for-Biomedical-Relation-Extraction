@@ -1,0 +1,7 @@
+T1	Limited_variation 26 44	DRD2 polymorphisms 
+T2	Gene_or_protein 26 30	DRD2 
+T4	Pharmacodynamic_phenotype 113 153	response to dopamine -agonists treatment
+T5	Chemical 125 153	dopamine -agonists treatment
+T6	Pharmacodynamic_phenotype 122 153;94 108	to dopamine -agonists treatment susceptibility
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T6	

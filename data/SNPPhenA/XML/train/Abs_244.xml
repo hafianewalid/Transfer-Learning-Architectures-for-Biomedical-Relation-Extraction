@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1162" TEXT="BACKGROUND: The rs7903146 and rs12255372 variants of TCF7L2 have been strongly associated with type 2 diabetes (T2D) risk in most populations studied to date. Meta-analysis of 27 different studies has resulted in a global OR of 1.46 [1.42-1.51] (rs7903146 variant). Thus far, despite a high incidence of T2D, the role of this variant in Arabs has not been established. METHODS: We performed a case-control association study using 522 Saudi T2D patients (WHO criteria), and 346 controls (age &gt; 60; fasting plasma glucose &lt; 7 mmol/L). Genotyping was performed by pyrosequencing. Statistical analyses were performed using SPSS version 13.0 for Windows (SPSS, Chicago, IL, USA). RESULTS: For rs7903146, the T allele frequency of the cases (0.415) was not different from that observed in the controls (0.405). The crude odds ratio (OR) was 1.04 with a 95% CI of 0.86-1.27 (P = 0.675). For rs12255372, the T allele frequency of the cases (0.368) was not different from that observed in the controls (0.355). Retrospective power calculations based upon an OR of 1.46 reported in a comprehensive meta-analysis of TCF7L2 risk, indicated this study was sufficiently powered (96.92%; alpha = 0.05) to detect an effect of similar magnitude to that reported for rs7903146. CONCLUSIONS: Our study is consistent with weak or no association of T2D in Arabs with the two TCF7L2 variants, however it cannot rule out an effect of other SNPs in this gene. Future studies in this population are required to confirm our findings and may indicate the presence of yet to be defined genetic risk factors for T2D.">
+	<sentence ID="1162_0" START="12" END="158">
+		<snp ID="0" START="16" END="25" TEXT="rs7903146"/>
+		<snp ID="1" START="30" END="40" TEXT="rs12255372"/>
+		<phenotype ID="0" START="95" END="158" text="type 2 diabetes (T2D)"/>
+		<modality_marker  START="70" END="78" text="strongly"/>
+		<modality_marker  START="125" END="129" text="most"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

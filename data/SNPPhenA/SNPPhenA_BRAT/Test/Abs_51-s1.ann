@@ -1,0 +1,23 @@
+T1	SNP 190 199	rs1800871
+T2	SNP 213 222	rs1800872
+T3	SNP 269 278	rs1799964
+T4	SNP 290 301	A rs1800630
+T5	SNP 316 325	rs1799724
+T6	SNP 339 348	rs1800750
+T7	SNP 362 371	rs1800629
+T8	SNP 389 397	rs361525
+T9	SNP 458 468	rs12119179
+T10	SNP 486 496	rs11209032
+T11	SNP 518 526	rs924080
+T12	Phenotype 23 25	BD
+R1	neutral_association Arg1:T1 Arg2:T12
+R2	neutral_association Arg1:T2 Arg2:T12
+R3	neutral_association Arg1:T3 Arg2:T12
+R4	neutral_association Arg1:T4 Arg2:T12
+R5	neutral_association Arg1:T5 Arg2:T12
+R6	neutral_association Arg1:T6 Arg2:T12
+R7	neutral_association Arg1:T7 Arg2:T12
+R8	neutral_association Arg1:T8 Arg2:T12
+R9	neutral_association Arg1:T9 Arg2:T12
+R10	neutral_association Arg1:T10 Arg2:T12
+R11	neutral_association Arg1:T11 Arg2:T12

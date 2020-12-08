@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1053" TEXT="BACKGROUND: BACKGROUND: Earlier studies have indicated that the fat mass and obesity-associated gene (FTO) is not only associated with BMI and weight but also with appetite and dietary intake. OBJECTIVE: We investigated if the FTO rs9939609 associates with food preferences in healthy adults with no cancer,cardiovascular disease, or diabetes. Additionally, we challenged the question if the associations are modified by obesity status (BMI ≤25 or &gt;25 kg/m(2)). METHODS: The analyses are made with 22,799 individuals from the Swedish population-based Malmö Diet and Cancer Cohort Study, who were born between 1923 and 1945. To investigate food preference, 27 food groups conducted from a modified diet history method including a 7-day registration of cooked meals and cold beverages were used in the analyses. Bonferroni correction was used to correct for multiple testing, resulting in a cut-off value for significance level of p&lt;0.002. RESULTS: We observed that the obesity susceptible A-allele carriers reported a higher consumption of biscuits and pastry but lower consumption of soft drinks (P for trend &lt;0.0001 for both) as compared to TT genotype carriers. In contrast to our hypothesis, the results did not significantly differ depending on obesity status except for consumption of juice, where only, the overweight individuals with A-allele had a higher consumption as compared to TT carriers (P for interaction=0.04). CONCLUSIONS: Our results indicate that the FTO A-allele may associate with certainfood preference and in particular with certain energy-dense foods.">
+	<sentence ID="1053_0" START="193" END="343">
+		<snp ID="0" START="231" END="240" TEXT="rs9939609"/>
+		<phenotype ID="0" START="300" END="343" text="cancer"/>
+		<phenotype ID="1" START="307" END="343" text="cardiovascular"/>
+		<phenotype ID="2" START="334" END="343" text="diabetes"/>
+		<negation_scope  START="297" END="343" text="no cancer,cardiovascular disease, or diabetes.">
+			<negation_cue START="297" END="299" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1003" TEXT="BACKGROUND: The association between polymorphisms on 15q25.1 and lung cancer has been widely evaluated; however, the studies have yielded contradictory results. We sought to investigate this inconsistency by performing a comprehensive meta-analysis on two polymorphisms (CHRNA3 gene:rs1051730 and AGPHD1 gene: rs8034191) on 15q25.1. METHODS: Data were extracted from 15 and 14 studies on polymorphisms rs1051730 and rs8034191 involving 12301/14000 and 14075/12873 lung cancer cases/controls, respectively. The random-effects model was applied, addressingheterogeneity and publication bias. RESULTS: The two polymorphisms followed Hardy-Weinberg equilibrium for all studies (P&gt;0.05). For rs1051730-G/A, carriers of A allele had a 36% increased risk for lung cancer (95% confidence interval [CI]: 1.27-1.46; P&lt;0.0005), without heterogeneity (P = 0.258) or publication bias (P(Egger) = 0.462). For rs8034191-T/C, the allelic contrast indicated that C allele conferred a 23% increased risk for lung cancer (95% CI: 1.08-1.4; P = 0.002), with significant heterogeneity (P&lt;0.0005), without publication bias (P(Egger) = 0.682). Subgroup analyses suggested that the between-study heterogeneity was derived from ethnicity, study design, matched information, and lung cancer subtypes. For example, the association of polymorphisms rs1051730 and rs8034191 with lung cancer was heterogeneous between Caucasians (OR = 1.32 and 1.22; 95% CI: 1.25-1.44 and 1.05-1.42; P&lt;0.0005 and 0.008, respectively) and East Asians (OR = 1.51 and 1.03; 95% CI: 0.76-3 and 0.47-2.27; P = 0.237 and 0.934, respectively) under theallelic model, and this association was relatively strengthened under the dominant model. There was no observable publication bias for both polymorphisms. CONCLUSIONS: Our findings demonstrated that CHRNA3 gene rs1051730-A allele and AGPHD1 gene rs8034191-T allele might be risk-conferring factors for the development of lung cancer in Caucasians, but not in East-Asians.">
+	<sentence ID="1003_0" START="1275" END="1687">
+		<snp ID="0" START="1321" END="1330" TEXT="rs1051730"/>
+		<snp ID="1" START="1335" END="1344" TEXT="rs8034191"/>
+		<phenotype ID="0" START="1350" END="1687" text="lung cancer"/>
+		<modality_marker  START="1606" END="1611" text="model"/>
+		<modality_marker  START="1681" END="1686" text="model"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

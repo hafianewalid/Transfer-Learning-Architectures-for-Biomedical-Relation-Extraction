@@ -1,0 +1,9 @@
+T1	Limited_variation 4 13	rs8099917
+T2	Chemical 80 88	PEG -IFN
+T3	Pharmacodynamic_phenotype 64 104	response to the PEG -IFN / RBV treatment
+T4	Disease 120 139	chronic hepatitis C
+T6	Chemical 91 94	RBV
+T7	Chemical 80 94	PEG -IFN / RBV
+R1	influences Arg1:T1 Arg2:T3	
+R2	treats Arg1:T7 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

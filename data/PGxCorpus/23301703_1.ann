@@ -1,0 +1,11 @@
+T1	Chemical 18 24	GZD824
+T2	Gene_or_protein 111 144	breakpoint cluster region-Abelson
+T3	Gene_or_protein 147 154	Bcr-Abl
+T4	Pharmacodynamic_phenotype 178 243	clinically acquired mutation -induced resistance against imatinib
+T5	Chemical 235 243	imatinib
+T6	Pharmacodynamic_phenotype 216 243	resistance against imatinib
+T7	Limited_variation 198 206	mutation
+R1	isEquivalentTo Arg1:T3 Arg2:T2	
+R2	influences Arg1:T1 Arg2:T2	
+R3	decreases Arg1:T1 Arg2:T4	
+R4	causes Arg1:T7 Arg2:T6	

@@ -1,0 +1,11 @@
+T1	Limited_variation 49 61	ATM mutation 
+T2	Gene_or_protein 49 52	ATM 
+T3	Chemical 184 201	alkylating agents 
+T4	Chemical 206 220	purine analogs 
+T6	Genomic_variation 32 44	11q deletion
+T8	Phenotype 131 147	overall survival
+T5	Disease 65 68	CLL
+T9	Chemical 184 220	alkylating agents and purine analogs
+R1	treats Arg1:T9 Arg2:T5	
+R3	decreases Arg1:T6 Arg2:T8	
+R5	decreases Arg1:T1 Arg2:T8	

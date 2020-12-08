@@ -1,0 +1,7 @@
+T1	Phenotype 4 23	expression of Bcl-2 
+T2	Gene_or_protein 18 23	Bcl-2 
+T3	Chemical 61 66	CoCl2 
+T4	Phenotype 150 164	Bax expression 
+T5	Gene_or_protein 150 153	Bax 
+R1	increases Arg1:T3 Arg2:T1	
+R2	decreases Arg1:T3 Arg2:T4	

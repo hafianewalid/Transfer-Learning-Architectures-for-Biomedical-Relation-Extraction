@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1000" TEXT="OBJECTIVE: Maternal smoking during pregnancy is associated with fetal growth retardation. We examined whether a common genetic variant atchromosome 15q25 rs1051730, which is known to be involved in nicotine metabolism, modifies the associations of maternal smoking with fetal growth characteristics. METHODS: This study was performed in 3,563 European mothers participating in a population-based prospective cohort study from earlypregnancy onwards. Smoking was assessed by postal questionnaires and fetal growth characteristics were measured by ultrasound examinations in each trimester of pregnancy. RESULTS: Among mothers who did not smoke during pregnancy (82.9%), maternal rs1051730 was not consistently associated with any fetal growth characteristic. Among mothers who continued smoking during pregnancy (17.1%), maternal rs1051730 was not associated with head circumference.  The T-allele of maternal rs1051730 was associated with a smaller second and third trimester fetal femur length [differences -0.23 mm (95%CI -0.45 to -0.00) and -0.41 mm (95%CI -0.69 to -0.13), respectively] and a smaller birth length [difference -2.61 mm (95%CI -5.32 to 0.11)].  The maternal  T-allele of rs1051730 was associated with a lower third trimester estimated fetal weight [difference -33 grams (95%CI -55 to -10)], and tended to be associated with birth weight [difference -38 grams (95%CI -89 to 13)]. This association persisted after adjustment for smoking quantity. CONCLUSIONS:  Our results suggest that maternal rs1051730 genotype modifies the associations of maternal smoking during pregnancy with impairedfetal growth in length and weight. These results should be considered as hypothesis generating and indicate the need for large-scale genome wide association studies focusing on gene--fetal smoke exposure interactions.">
+	<sentence ID="1000_0" START="90" END="299">
+		<snp ID="0" START="154" END="163" TEXT="rs1051730"/>
+		<phenotype ID="0" START="198" END="299" text="nicotine metabolism"/>
+		<phenotype ID="1" START="270" END="299" text="fetal growth characteristics"/>
+		<modality_marker  START="174" END="179" text="known"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1000_1" START="611" END="757">
+		<snp ID="1" START="678" END="687" TEXT="rs1051730"/>
+		<phenotype ID="2" START="729" END="757" text="fetal growth characteristic"/>
+		<modality_marker  START="696" END="708" text="consistently"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1000_2" START="758" END="882">
+		<snp ID="2" START="829" END="838" TEXT="rs1051730"/>
+		<phenotype ID="3" START="863" END="882" text="head circumference"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1000_3" START="884" END="1162">
+		<snp ID="3" START="909" END="918" TEXT="rs1051730"/>
+		<phenotype ID="4" START="949" END="1162" text="second and third trimester fetal femur length"/>
+		<phenotype ID="5" START="1097" END="1162" text="smaller birth length"/>
+		<pair PAIRID="4" PHENOTYPEID="4" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="5" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1000_4" START="1164" END="1463">
+		<snp ID="4" START="1190" END="1199" TEXT="rs1051730"/>
+		<phenotype ID="6" START="1222" END="1463" text="lower third trimester estimated fetal weight [difference -33 grams (95%CI -55 to -10)]"/>
+		<phenotype ID="7" START="1343" END="1463" text="birth weight"/>
+		<modality_marker  START="1222" END="1227" text="lower"/>
+		<modality_marker  START="1244" END="1253" text="estimated"/>
+		<modality_marker  START="1314" END="1320" text="tended"/>
+		<pair PAIRID="6" PHENOTYPEID="6" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="7" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1000_5" START="1478" END="1641">
+		<snp ID="5" START="1512" END="1521" TEXT="rs1051730"/>
+		<phenotype ID="8" START="1599" END="1641" text="impairedfetal growth in length and weight"/>
+		<modality_marker  START="1490" END="1497" text="suggest"/>
+		<pair PAIRID="8" PHENOTYPEID="8" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

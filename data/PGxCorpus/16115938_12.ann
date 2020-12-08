@@ -1,0 +1,8 @@
+T3	Disease 88 93	tumor 
+T4	Disease 132 138	cancer 
+T5	Chemical 7 61	antisense PKA RIalpha and CpG immunomer in combination
+T6	Chemical 33 46	CpG immunomer
+T1	Chemical 88 116	tumor -targeted therapeutics
+T2	Chemical 7 28	antisense PKA RIalpha
+R3	treats Arg1:T5 Arg2:T4	
+R1	treats Arg1:T1 Arg2:T4	

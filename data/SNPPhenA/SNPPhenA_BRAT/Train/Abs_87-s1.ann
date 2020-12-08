@@ -1,0 +1,11 @@
+T1	SNP 112 119	HindIII
+T2	SNP 121 126	S447X
+T3	SNP 128 131	D9N
+T4	SNP 136 141	N291S
+T5	Phenotype 77 86	TG levels
+T6	Modality_Marker 0 11	CONCLUSIONS
+T7	Modality_Marker 25 31	showed
+R1	strong_confidence_association Arg1:T1 Arg2:T5
+R2	strong_confidence_association Arg1:T2 Arg2:T5
+R3	strong_confidence_association Arg1:T3 Arg2:T5
+R4	strong_confidence_association Arg1:T4 Arg2:T5

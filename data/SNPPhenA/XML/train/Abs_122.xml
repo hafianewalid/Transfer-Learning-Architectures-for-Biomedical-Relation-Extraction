@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1027" TEXT="BACKGROUND: Myocardial infarction (MI) is a leading cause of death globally, but specific genetic variants that influence MI and MI risk factors have not been assessed on a global basis. RESULTS: We included 8795 individuals of European, South Asian, Arab, Iranian, and Nepalese origin from the INTERHEART case-control study that genotyped 1536 single-nucleotide polymorphisms (SNPs) from 103 genes. One hundred and two SNPs were nominally associated with MI, but the statistical significance did not remain after adjustment for multiple testing. A subset of 940 SNPs from 69 genes were tested against MI risk factors. One hundred and sixty-three SNPs were nominally associated with a MI risk factor and 13 remained significant after adjusting for multiple testing. Of these 13, 11 were associated with apolipoprotein (Apo) B/A1 levels: 8 SNPs from 3 genes were associated with Apo B, and 3 cholesteryl ester transfer protein SNPs were associated with Apo A1. Seven of 8 of the SNPs associated with Apo B levels were nominally associated with MI (P&lt;0.05), whereas none of the 3 cholesteryl ester transfer protein SNPs were associated with MI (P&gt; or =0.17). Of the 3 SNPs most significantly associated with MI, rs7412, which defines the Apo E2 isoform, was associated with both a lower Apo B/A1 ratio (P=1.0x10(-7)) and lower MI risk (P=0.0004). Two low-density lipoprotein receptor variants, 1 intronic (rs6511720) and 1 in the 3' untranslated region (rs1433099) were both associated with a lower Apo B/A1 ratio (P&lt;1.0x10(-5)) and a lower risk of MI (P=0.004 and P=0.003, respectively). CONCLUSIONS: Thirteen common SNPs were associated with MI risk factors. Importantly, SNPs associated with Apo B levels were associated with MI, whereas SNPs associated with Apo A1 levels were not. The Apo E isoform, and 2 common low-density lipoprotein receptor variants (rs1433099 and rs6511720) influence MI risk in this multiethnic sample.">
+	<sentence ID="1027_0" START="1157" END="1344">
+		<snp ID="0" START="1210" END="1216" TEXT="rs7412"/>
+		<phenotype ID="0" START="1325" END="1344" text="MI"/>
+		<modality_marker  START="1171" END="1175" text="most"/>
+		<modality_marker  START="1279" END="1284" text="lower"/>
+		<modality_marker  START="1319" END="1324" text="lower"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

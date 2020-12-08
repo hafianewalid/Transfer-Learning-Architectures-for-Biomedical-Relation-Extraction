@@ -1,0 +1,1 @@
+For the combined sample set, in which we successfully genotyped 1,174 type 2 diabetes patients and 823 control subjects, rs7903146 showed a significant association with type 2 diabetes (odds ratio = 1.69 [95% CI 1.21-2.36], p = 0.002) with the same direction as the previous reports in samples from European and European-origin populations.

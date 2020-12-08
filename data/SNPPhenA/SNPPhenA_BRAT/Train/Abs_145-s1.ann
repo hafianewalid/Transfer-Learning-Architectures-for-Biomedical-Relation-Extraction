@@ -1,0 +1,6 @@
+T1	SNP 108 117	rs1051730
+T2	SNP 118 128	rs16969968
+T3	Phenotype 63 74	lung cancer
+T4	Modality_Marker 32 41	indicated
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T2 Arg2:T3

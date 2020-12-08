@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1018" TEXT="RESULTS: VKORC1 3673 AA or GA genotype (P&lt;0.0001), one or two variant alleles of CYP2C9 gene (P=0.0004),   APOE ε2 haplotype (P=0.01), and increasing age (P&lt;0.0001) were all associated with lower warfarin dose, whereas smoking (P=0.025) and pulmonary embolism (P=0.0059) showed association with higher warfarin doses.">
+	<sentence ID="1018_0" START="9" END="317">
+		<snp ID="0" START="107" END="111" TEXT="APOE"/>
+		<phenotype ID="0" START="219" END="317" text="smoking"/>
+		<phenotype ID="1" START="241" END="317" text="pulmonary embolism"/>
+		<modality_marker  START="170" END="173" text="all"/>
+		<modality_marker  START="190" END="195" text="lower"/>
+		<modality_marker  START="271" END="277" text="showed"/>
+		<modality_marker  START="295" END="301" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

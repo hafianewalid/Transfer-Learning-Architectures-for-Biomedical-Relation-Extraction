@@ -1,0 +1,6 @@
+T1	SNP 46 50	COMT
+T2	Phenotype 56 58	SZ
+T3	Modality_Marker 19 26	support
+T4	Negation_Scope 15 89	not support the association of COMT with SZ in the Han Chinese population.
+T5	Negation_Cue 15 18	not
+R1	negative_association Arg1:T1 Arg2:T2

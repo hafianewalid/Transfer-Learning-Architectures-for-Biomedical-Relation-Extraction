@@ -1,0 +1,14 @@
+T1	Gene_or_protein 3 9	CYP3A5 
+T2	Gene_or_protein 32 38	CYP3A5 
+T3	Gene_or_protein 325 331	CYP3A5 
+T4	Limited_variation 363 387	CYP3A5 genetic variation 
+T5	Gene_or_protein 363 369	CYP3A5 
+T6	Chemical 406 416	tacrolimus 
+T7	Haplotype 3 13	CYP3A5 * 1
+T8	Pharmacokinetic_phenotype 80 89	clearance
+T9	Pharmacokinetic_phenotype 406 439	tacrolimus chronopharmacokinetics
+T10	Phenotype 32 49	CYP3A5 expressers
+T11	Phenotype 325 346	CYP3A5 non-expressers
+R1	decreases Arg1:T7 Arg2:T8	
+R2	influences Arg1:T4 Arg2:T9	
+#1	AnnotatorNotes R2	neg

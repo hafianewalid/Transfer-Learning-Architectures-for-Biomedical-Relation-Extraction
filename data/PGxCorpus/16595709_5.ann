@@ -1,0 +1,8 @@
+T1	Limited_variation 26 40	UGT1A9 I399C>T 
+T2	Gene_or_protein 26 32	UGT1A9 
+T3	Chemical 109 115	SN-38G 
+T4	Chemical 89 106	SN-38-glucuronide 
+T5	Pharmacodynamic_phenotype 79 117	change in SN-38-glucuronide ( SN-38G )
+T6	Limited_variation 11 19	variants
+R1	isEquivalentTo Arg1:T3 Arg2:T4	
+R2	isAssociatedWith Arg1:T1 Arg2:T5	

@@ -1,0 +1,12 @@
+T2	Gene_or_protein 14 18	KRAS 
+T3	Chemical 83 92	erlotinib 
+T4	Limited_variation 14 26	KRAS -mutant
+T5	Chemical 97 109	chemotherapy
+T6	Chemical 83 109	erlotinib and chemotherapy
+T7	Pharmacodynamic_phenotype 47 64	clinical outcomes
+T8	Disease 14 32	KRAS -mutant NSCLC
+R3	isAssociatedWith Arg1:T3 Arg2:T8	
+R2	decreases Arg1:T4 Arg2:T7	
+R1	treats Arg1:T6 Arg2:T8	
+R4	isAssociatedWith Arg1:T6 Arg2:T7	
+#1	AnnotatorNotes R1	neg

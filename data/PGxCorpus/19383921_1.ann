@@ -1,0 +1,11 @@
+T1	Gene_or_protein 0 29	Poly(ADP-ribose) polymerase-1 
+T4	Gene_or_protein 82 85	p53 
+T5	Phenotype 128 141	tumor relapse 
+T7	Chemical 162 173	carboplatin 
+T8	Chemical 0 39	Poly(ADP-ribose) polymerase-1 inhibitor
+T9	Disease 74 108	Brca2 / p53 -mutant mammary tumors
+T6	Limited_variation 74 93	Brca2 / p53 -mutant
+T2	Gene_or_protein 74 79	Brca2
+T3	Disease 128 133	tumor
+R1	decreases Arg1:T8 Arg2:T9	
+R2	influences Arg1:T8 Arg2:T5	

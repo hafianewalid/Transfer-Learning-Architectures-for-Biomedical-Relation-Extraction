@@ -1,0 +1,21 @@
+T1	SNP 120 131	rs104893875
+T2	SNP 142 148	A1442P
+T3	SNP 160 166	IVS9 i
+T4	SNP 175 180	A350V
+T5	SNP 193 208	P268S rs2066842
+T6	SNP 210 225	R702W rs2066844
+T7	SNP 234 243	rs2066845
+T8	SNP 254 263	rs2066847
+T9	SNP 285 295	rs34778348
+T10	Phenotype 87 104	neurodegeneration
+T11	Modality_Marker 11 24	our knowledge
+T12	Modality_Marker 59 64	known
+R1	weak_confidence_association Arg1:T1 Arg2:T10
+R2	weak_confidence_association Arg1:T5 Arg2:T10
+R3	weak_confidence_association Arg1:T6 Arg2:T10
+R4	weak_confidence_association Arg1:T7 Arg2:T10
+R5	weak_confidence_association Arg1:T8 Arg2:T10
+R6	weak_confidence_association Arg1:T9 Arg2:T10
+R7	weak_confidence_association Arg1:T2 Arg2:T10
+R8	weak_confidence_association Arg1:T3 Arg2:T10
+R9	weak_confidence_association Arg1:T4 Arg2:T10

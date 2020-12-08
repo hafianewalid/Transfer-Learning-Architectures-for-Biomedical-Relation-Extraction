@@ -1,0 +1,21 @@
+T1	Gene_or_protein 109 114	HLA-B 
+T4	Chemical 180 188	abacavir 
+T5	Gene_or_protein 191 221	thiopurine S-methyltransferase 
+T6	Gene_or_protein 224 228	TPMT 
+T8	Chemical 251 261	thiopurine 
+T10	Gene_or_protein 277 283	CYP2C9 
+T11	Gene_or_protein 288 294	VKORC1 
+T12	Chemical 345 353	warfarin 
+T14	Haplotype 109 121	HLA-B * 5701
+T2	Pharmacodynamic_phenotype 141 188	hypersensitivity to the antiretroviral abacavir
+T3	Pharmacodynamic_phenotype 251 270	thiopurine toxicity
+T7	Pharmacodynamic_phenotype 317 353	dosing of the anticoagulant warfarin
+T9	Limited_variation 191 241	thiopurine S-methyltransferase ( TPMT ) genotyping
+T13	Limited_variation 288 305	VKORC1 genotyping
+T15	Limited_variation 277 283;295 305	CYP2C9 genotyping
+T16	Chemical 331 344	anticoagulant
+R1	influences Arg1:T14 Arg2:T2	
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R3	influences Arg1:T9 Arg2:T3	
+R4	influences Arg1:T13 Arg2:T7	
+R5	influences Arg1:T15 Arg2:T7	

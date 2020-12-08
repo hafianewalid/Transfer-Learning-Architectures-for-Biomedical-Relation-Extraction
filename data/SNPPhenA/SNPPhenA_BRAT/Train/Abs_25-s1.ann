@@ -1,0 +1,8 @@
+T1	SNP 56 69	ApoE genotype
+T2	Phenotype 74 77	AAA
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 16 21	found
+T5	Modality_Marker 25 35	consistent
+T6	Negation_Scope 22 77	no consistent association between ApoE genotype and AAA
+T7	Negation_Cue 22 24	no
+R1	negative_association Arg1:T1 Arg2:T2

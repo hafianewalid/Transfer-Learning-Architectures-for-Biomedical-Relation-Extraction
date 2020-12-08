@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1080" TEXT="The aim of this study was to investigate whether a set of single nucleotide polymorphisms (SNPs) within cyclooxygenase-2 (COX-2, rs5275 and rs20417) and oxytocin receptor (OXTR, rs53576 and rs2254298) genes was associated with antidepressant treatment resistance, response or remission.">
+	<sentence ID="1080_0" START="0" END="286">
+		<snp ID="3" START="129" END="135" TEXT="rs5275"/>
+		<snp ID="0" START="140" END="147" TEXT="rs20417"/>
+		<snp ID="1" START="178" END="185" TEXT="rs53576"/>
+		<snp ID="2" START="190" END="199" TEXT="rs2254298"/>
+		<phenotype ID="0" START="227" END="286" text="antidepressant treatment resistance"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

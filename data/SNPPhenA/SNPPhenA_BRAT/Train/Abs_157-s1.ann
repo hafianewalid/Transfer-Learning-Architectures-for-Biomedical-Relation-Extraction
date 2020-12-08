@@ -1,0 +1,5 @@
+T1	SNP 46 54	DG10S478
+T2	Phenotype 191 206	type 2 diabetes
+T3	Modality_Marker 160 166	showed
+T4	Modality_Marker 167 173	strong
+R1	strong_confidence_association Arg1:T1 Arg2:T2

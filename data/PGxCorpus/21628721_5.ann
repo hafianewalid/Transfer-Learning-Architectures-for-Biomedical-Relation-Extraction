@@ -1,0 +1,7 @@
+T2	Gene_or_protein 22 29	CYP2C19 
+T4	Chemical 231 242	clopidogrel 
+T1	Haplotype 22 33	CYP2C19 * 2
+T6	Phenotype 49 66	platelet function
+T3	Disease 283 300	coronary stenting
+R1	influences Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

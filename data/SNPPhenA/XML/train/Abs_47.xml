@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1212" TEXT="Previous studies have associated mu-opioid receptor (OPRM1) genotype with pain and analgesia responses in postoperative and patient populations. This study investigates the role of catechol-O-methyltransferase (COMT) and OPRM1 genotypes in acute postoperative pain scores, opioid use, and opioid-induced sedation after surgical procedures for orthopedic trauma in an otherwise healthy patient population. Verbal pain/sedation scores, opioid use, andphysiologic responses in the immediate postoperative period were examined for association with genetic variants in Caucasians genotyped for OPRM1single nucleotide polymorphisms (SNPs) A118G and C17T and COMT SNPs. The OPRM1 A118G genotype was associated with patients' postoperative Numerical Pain scale (NPS) ratings at 15 min in the postanesthesia care unit (PACU) (p = .01) and patients'sedation scores at 15 min in the PACU (p = .02).COMT genotype rs4818 was associated with opioid consumption in the first 45 min in the PACU (p = .04). NPS ratings at 45 min were also higher in the group of patients with A/A genotype of rs4680 than in patients with the other two genotypes at this SNP (p = .03). Our haplotype trend analysis identified a  COMT haplotype &quot;GCGG&quot; significantly associated with NPS at 15 min (p = .0013), amount of opioids consumed in the first 45 min (p = .0024), and heart rate at 45 min in the PACU (p = .017). The results indicate that genetic variations in COMT contribute to the acute postoperative pain andanalgesia responses and physiologic responses in this group of otherwise healthy postoperative orthopedic trauma patients.">
+	<sentence ID="1212_0" START="663" END="887">
+		<snp ID="0" START="673" END="678" TEXT="A118G"/>
+		<phenotype ID="0" START="718" END="887" text="postoperative Numerical Pain scale (NPS)"/>
+		<phenotype ID="1" START="839" END="887" text="sedation scores"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1212_1" START="887" END="989">
+		<snp ID="1" START="901" END="907" TEXT="rs4818"/>
+		<phenotype ID="2" START="928" END="989" text="opioid consumption"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1212_2" START="1151" END="1381">
+		<snp ID="2" START="1194" END="1215" TEXT="COMT haplotype &quot;GCGG&quot;"/>
+		<phenotype ID="3" START="1246" END="1381" text="NPS at 15 min (p = .0013)"/>
+		<phenotype ID="4" START="1273" END="1381" text="amount of opioids consumed in the first 45 min (p = .0024)"/>
+		<phenotype ID="5" START="1337" END="1381" text="heart rate at 45 min in the PACU (p = .017)"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="4" PHENOTYPEID="4" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="5" PHENOTYPEID="5" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

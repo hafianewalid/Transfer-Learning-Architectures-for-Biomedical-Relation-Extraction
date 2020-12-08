@@ -1,0 +1,5 @@
+T1	SNP 19 32	-1131C allele
+T2	Phenotype 140 144	MetS
+T3	Modality_Marker 3 13	conclusion
+T4	Modality_Marker 33 36	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2

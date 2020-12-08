@@ -1,0 +1,11 @@
+T1	Phenotype 40 61	STAT3 phosphorylation 
+T2	Gene_or_protein 40 45	STAT3 
+T3	Chemical 113 120	matrine 
+T4	Phenotype 0 35	Apoptosis-related molecular changes
+T5	Phenotype 66 92	transcriptional activities
+R1	isAssociatedWith Arg1:T3 Arg2:T1	
+R2	isAssociatedWith Arg1:T3 Arg2:T4	
+R3	isAssociatedWith Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp

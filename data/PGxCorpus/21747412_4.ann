@@ -1,0 +1,8 @@
+T1	Limited_variation 38 52	MTHFR genotype 
+T2	Gene_or_protein 38 43	MTHFR 
+T3	Chemical 69 72	MTX 
+T4	Disease 124 127	ALL 
+T5	Disease 153 156	ALL 
+T6	Pharmacodynamic_phenotype 69 79	MTX dosage
+R1	influences Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	hypo

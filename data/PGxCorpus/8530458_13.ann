@@ -1,0 +1,15 @@
+T1	Chemical 25 39	streptozotocin 
+T3	Genomic_factor 126 138	FAS promoter 
+T5	Chemical 0 7	Insulin
+T6	Gene_or_protein 75 78	CAT
+T7	Phenotype 75 87	CAT activity
+T8	Phenotype 92 107	CAT mRNA levels
+T9	Gene_or_protein 92 95	CAT
+T4	Disease 25 50	streptozotocin - diabetic
+T2	Gene_or_protein 126 129	FAS
+T10	Genomic_factor 92 100	CAT mRNA
+R1	treats Arg1:T5 Arg2:T4	
+R2	increases Arg1:T5 Arg2:T7	
+R3	increases Arg1:T5 Arg2:T8	
+R4	influences Arg1:T3 Arg2:T8	
+R5	influences Arg1:T3 Arg2:T7	

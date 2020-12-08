@@ -1,0 +1,4 @@
+T1	SNP 13 17	APOE
+T2	Phenotype 63 72	longevity
+T3	Modality_Marker 0 11	CONCLUSIONS
+R1	strong_confidence_association Arg1:T1 Arg2:T2

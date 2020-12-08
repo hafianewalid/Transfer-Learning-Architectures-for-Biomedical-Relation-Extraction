@@ -1,0 +1,7 @@
+T1	Limited_variation 0 16;30 51	VKORC1 - 1639G/A Genetic Polymorphisms
+T2	Gene_or_protein 0 6	VKORC1
+T3	Limited_variation 0 8;21 51	VKORC1 - 1173 C/T Genetic Polymorphisms
+T4	Chemical 88 96	Warfarin
+T5	Pharmacodynamic_phenotype 88 113	Warfarin Maintenance Dose
+R1	influences Arg1:T3 Arg2:T5	
+R2	influences Arg1:T1 Arg2:T5	

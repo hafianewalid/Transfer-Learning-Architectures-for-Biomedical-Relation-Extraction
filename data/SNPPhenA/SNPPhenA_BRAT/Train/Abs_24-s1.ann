@@ -1,0 +1,7 @@
+T1	SNP 11 43	Apolipoprotein E (ApoE) genotype
+T2	Phenotype 69 90	systemic inflammation
+T3	Phenotype 142 167	abdominal aortic aneurysm
+T4	Negation_Scope 121 207	the association with abdominal aortic aneurysm (AAA) has not been previously examined.
+T5	Negation_Cue 178 181	not
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	neutral_association Arg1:T1 Arg2:T3

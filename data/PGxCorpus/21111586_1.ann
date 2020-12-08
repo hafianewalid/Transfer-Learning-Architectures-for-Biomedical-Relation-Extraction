@@ -1,0 +1,10 @@
+T1	Chemical 2 20	methylene chloride 
+T2	Phenotype 82 105	activation of caspase-3 
+T3	Gene_or_protein 96 105	caspase-3 
+T4	Disease 122 135	breast cancer 
+T5	Phenotype 60 69	apoptosis
+T6	Chemical 33 51	Saururus chinensis
+T7	Disease 109 117;129 135	prostate cancer
+R2	influences Arg1:T2 Arg2:T5	
+R1	causes Arg1:T6 Arg2:T5	
+R3	causes Arg1:T6 Arg2:T2	

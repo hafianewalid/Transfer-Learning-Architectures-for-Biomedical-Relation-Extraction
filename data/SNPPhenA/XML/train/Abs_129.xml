@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1034" TEXT="OBJECTIVE: Although several studies have reported an association between obstructive sleep apnea (OSA) and the chromosomal region containing theApolipoprotein E (ApoE) gene, findings about the exact location in the ApoE gene have been inconsistent. The objective of our study was thus to determine the allele, genotype, and haplotype frequencies at several single nucleotide polymorphisms (SNPs) in the region of ApoE and test their association with OSA status in children. METHODS: Caucasian children, ranging in age from 2 to 21 years, with polysomnographic evidence of OSA (&gt;1 obstructive apneaor obstructive hypopnea episodes per hour of sleep) were recruited in the case group. Our race- and gender-matched control group was recruited from a population-based cohort of children enrolled in the Princeton School District Study. RESULTS: Comparison of allele and genotype frequencies between cases (n=92) and controls (n=92) revealed significant differences for SNPs rs405509 and rs7412. Multivariate logistic regression analysis with age andbody mass index (BMI) as covariates revealed a significant association between OSA status and SNPs rs157580, rs405509, rs769455 and rs7412. The sliding window haplotype trend regression test revealed that SNP rs405509 was included in all haplotypes that are significantly associated with OSA status. CONCLUSIONS: We conclude that polymorphisms involving more than one locus in the ApoE gene and its regulatory region are associated with OSA in children. Further studies replicating these findings in different populations are needed as are studies involving fine mapping of this region.">
+	<sentence ID="1034_0" START="1185" END="1344">
+		<snp ID="0" START="1254" END="1262" TEXT="rs405509"/>
+		<phenotype ID="0" START="1333" END="1344" text="OSA"/>
+		<modality_marker  START="1236" END="1244" text="revealed"/>
+		<modality_marker  START="1279" END="1282" text="all"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

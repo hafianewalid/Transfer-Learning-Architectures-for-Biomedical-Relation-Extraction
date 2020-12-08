@@ -1,0 +1,5 @@
+T1	SNP 26 35	rs7903146
+T2	Phenotype 129 152	basal insulin secretion
+T3	Phenotype 158 189	log-transformed fasting insulin
+R1	moderate_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

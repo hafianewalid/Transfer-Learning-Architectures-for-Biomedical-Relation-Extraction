@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1088" TEXT="Genetic variation in the androgen receptor (AR) gene may be associated with endometrial cancer risk based on the role of AR in regulating androgenlevels. However, endometrial cancer studies reported inconsistent associations for a CAG repeat polymorphism in exon 1. Only one of these studies measured haplotype-tagging single nucleotide polymorphisms (htSNP) in AR and found statistically nonsignificant, decreased associations withendometrial cancer risk. In a population-based case-control study of 497 cases and 1,024 controls, we examined the CAG repeat polymorphism and six htSNPs (rs962458, rs6152, rs1204038, rs2361634, rs1337080, and rs1337082), which cover an estimated 80% of the known common variation in AR among Caucasian populations. CAG repeat length was not significantly associated with endometrial cancer [odds ratio per unit increase in the average number of repeats, 1.02 (95% confidence interval, 0.97-1.08); P(trend) = 0.29]. Minor alleles in three correlated ht SNPs (rs6152, ,rs1204038, and rs1337082; r(2) &gt;0.6) were associated with increased risk for endometrial cancer. The strongest association was observed for rs6152, with the odds ratios (95% confidence interval) being 1.13 (0.89-1.44) for heterozygous and 2.40 (1.28-4.51) for homozygous minor genotypes (P(trend) = 0.02) compared with homozygous major allele genotype. However, these associations were not statistically significant after permutation adjustment for multiple comparisons (P(trend) &gt; 0.09). Haplotype analyses did not reveal any additional associations with endometrial cancer. Results from our study, taken together with previously published studies, provide little evidence of a consistent association between common genetic variation in AR and endometrial cancer risk.">
+	<sentence ID="1088_0" START="948" END="1096">
+		<snp ID="0" START="991" END="997" TEXT="rs6152"/>
+		<snp ID="1" START="1000" END="1009" TEXT="rs1204038"/>
+		<snp ID="2" START="1015" END="1024" TEXT="rs1337082"/>
+		<phenotype ID="0" START="1077" END="1096" text="endometrial cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

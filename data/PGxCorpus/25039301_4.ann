@@ -1,0 +1,9 @@
+T3	Gene_or_protein 98 103	OPRM1 
+T4	Limited_variation 98 109	OPRM1 A118G 
+T5	Pharmacodynamic_phenotype 132 152	responses to alcohol
+T1	Chemical 51 58	ethanol
+T2	Chemical 169 176	alcohol
+T7	Chemical 145 152	alcohol
+R1	isAssociatedWith Arg1:T4 Arg2:T5	
+R2	isAssociatedWith Arg1:T4 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

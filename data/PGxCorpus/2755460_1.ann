@@ -1,0 +1,4 @@
+T1	Phenotype 0 29	Proenkephalin gene expression 
+T2	Gene_or_protein 0 13	Proenkephalin 
+T3	Chemical 68 77	estradiol 
+R1	influences Arg1:T3 Arg2:T1	

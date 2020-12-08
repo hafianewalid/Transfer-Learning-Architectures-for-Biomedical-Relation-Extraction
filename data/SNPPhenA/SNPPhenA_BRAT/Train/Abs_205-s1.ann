@@ -1,0 +1,4 @@
+T1	SNP 17 26	rs1815739
+T2	Phenotype 148 161	muscle damage
+T3	Modality_Marker 103 106	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2

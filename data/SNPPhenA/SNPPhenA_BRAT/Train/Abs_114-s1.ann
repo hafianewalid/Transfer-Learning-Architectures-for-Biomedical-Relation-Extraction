@@ -1,0 +1,9 @@
+T1	SNP 98 102	APOE
+T2	Phenotype 210 217	smoking
+T3	Phenotype 232 250	pulmonary embolism
+T4	Modality_Marker 161 164	all
+T5	Modality_Marker 181 186	lower
+T6	Modality_Marker 262 268	showed
+T7	Modality_Marker 286 292	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	moderate_confidence_association Arg1:T1 Arg2:T3

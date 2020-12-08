@@ -1,0 +1,5 @@
+T1	Chemical 23 39	cyclophosphamide 
+T2	Gene_or_protein 117 120	H-2 
+T3	Gene_or_protein 124 129	YAC-1 
+T4	Phenotype 104 129	cell surface H-2 on YAC-1
+R1	decreases Arg1:T1 Arg2:T4	

@@ -1,0 +1,12 @@
+T1	Disease 65 84	anaplastic lymphoma 
+T2	Chemical 104 114	crizotinib 
+T3	Disease 184 210	non-small cell lung cancer 
+T4	Disease 226 232	tumors 
+T5	Gene_or_protein 242 246	EML4 
+T6	Gene_or_protein 249 252	ALK 
+T8	Genomic_variation 242 267	EML4 / ALK translocations
+T9	Chemical 65 101	anaplastic lymphoma kinase inhibitor
+T10	Pharmacodynamic_phenotype 148 161	response rate
+R2	influences Arg1:T8 Arg2:T10	
+R1	treats Arg1:T2 Arg2:T3	
+R4	isAssociatedWith Arg1:T4 Arg2:T8	

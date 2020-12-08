@@ -1,0 +1,7 @@
+T1	Limited_variation 15 31	SLC6A12 variants 
+T2	Gene_or_protein 15 22	SLC6A12 
+T3	Chemical 37 44	aspirin 
+T4	Disease 37 63	aspirin -intolerant asthma
+T5	Disease 57 63	asthma
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

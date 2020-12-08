@@ -1,0 +1,12 @@
+T1	Limited_variation 68 148	polymorphisms in genes involved in cholesterol homeostasis and statin metabolism 
+T3	Chemical 103 114	cholesterol 
+T4	Gene_or_protein 159 165	CYP3A4 
+T5	Gene_or_protein 170 176	CYP3A5 
+T6	Chemical 131 137	statin
+T7	Pharmacodynamic_phenotype 28 47	response to statins
+T8	Chemical 40 47	statins
+T2	Pharmacokinetic_phenotype 103 126	cholesterol homeostasis
+T9	Pharmacokinetic_phenotype 131 148	statin metabolism
+R1	isAssociatedWith Arg1:T7 Arg2:T1	
+R2	isAssociatedWith Arg1:T7 Arg2:T4	
+R3	isAssociatedWith Arg1:T7 Arg2:T5	

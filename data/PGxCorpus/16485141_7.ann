@@ -1,0 +1,8 @@
+T1	Phenotype 32 48;96 105	high- nic o tine consumers
+T2	Chemical 80 88	nicotine
+T4	Gene_or_protein 115 121	CYP2A5
+T5	Chemical 179 187	nicotine
+T6	Gene_or_protein 237 243	CYP2A5
+T3	Chemical 42 43	o
+T7	Phenotype 144 147;195 204	low consumers
+R1	increases Arg1:T1 Arg2:T4	

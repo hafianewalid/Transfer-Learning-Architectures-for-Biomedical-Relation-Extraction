@@ -1,0 +1,6 @@
+T1	Gene_or_protein 79 83	DPYD 
+T2	Limited_variation 79 83;93 102	DPYD c.2846A>T 
+T3	Disease 159 165	cancer 
+T4	Chemical 179 196	fluoropyrimidines 
+T5	Haplotype 79 88	DPYD * 2A
+R1	treats Arg1:T4 Arg2:T3	

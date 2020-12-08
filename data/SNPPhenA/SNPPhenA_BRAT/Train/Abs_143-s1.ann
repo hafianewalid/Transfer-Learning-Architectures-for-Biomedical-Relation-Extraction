@@ -1,0 +1,5 @@
+T1	SNP 104 113	rs9939609
+T2	Phenotype 91 103	obesity-risk
+T3	Phenotype 214 244	postprandial appetitereduction
+R1	weak_confidence_association Arg1:T1 Arg2:T2	
+R2	weak_confidence_association Arg1:T1 Arg2:T3	

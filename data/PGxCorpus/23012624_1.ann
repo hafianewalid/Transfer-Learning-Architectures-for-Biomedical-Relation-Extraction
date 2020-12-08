@@ -1,0 +1,13 @@
+T1	Limited_variation 24 33;9 13	genotypes ITPA 
+T2	Gene_or_protein 9 13	ITPA 
+T3	Limited_variation 18 33	IL28B genotypes 
+T4	Gene_or_protein 18 23	IL28B 
+T5	Chemical 79 107	peginterferon plus ribavirin
+T6	Disease 37 56	chronic hepatitis C
+T7	Chemical 79 92	peginterferon
+T8	Chemical 98 107	ribavirin
+R1	treats Arg1:T5 Arg2:T6	
+R2	influences Arg1:T1 Arg2:T6	
+R3	influences Arg1:T3 Arg2:T6	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp

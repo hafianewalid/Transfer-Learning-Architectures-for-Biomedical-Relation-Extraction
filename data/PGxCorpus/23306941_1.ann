@@ -1,0 +1,10 @@
+T1	Chemical 134 147	peginterferon
+T2	Chemical 152 161	ribavirin
+T3	Limited_variation 190 202	IL28B allele
+T4	Disease 83 94	hepatitis C
+T5	Limited_variation 83 111	hepatitis C virus genotype 1
+T6	Phenotype 14 42	sustained virologic response
+R1	treats Arg1:T1 Arg2:T5	
+R2	treats Arg1:T2 Arg2:T5	
+R3	influences Arg1:T3 Arg2:T2	
+R4	influences Arg1:T3 Arg2:T1	

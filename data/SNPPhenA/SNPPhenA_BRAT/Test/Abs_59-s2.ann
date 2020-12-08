@@ -1,0 +1,5 @@
+T1	SNP 13 22	Val158Met
+T2	Phenotype 54 69	disc herniation
+T3	Negation_Scope 0 70	Although the Val158Met SNP was not a risk factor for  disc herniation,
+T4	Negation_Cue 31 34	not
+R1	negative_association Arg1:T1 Arg2:T2

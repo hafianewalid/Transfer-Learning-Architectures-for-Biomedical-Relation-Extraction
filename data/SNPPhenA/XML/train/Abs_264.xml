@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1184" TEXT="Polymorphisms within the transcription factor 7-like 2 gene (TCF7L2) have been associated with type 2 diabetes (T2D) in several recent studies. We characterized three of these polymorphisms (rs12255372, rs7903146 and the microsatellite DG10S478) in an admixed sample of 286 patients with T2D and 275 controls from Mexico City. We also analyzed three samples representative of the relevant parental populations: Native Americans from the state of Guerrero (Mexico), Spanish from Valencia and Nigerians (Bini from the Edo region). In order to minimize potential confounding because of the presence of population stratification in the sample, we evaluated the association of the three TCF7L2 polymorphisms with T2D by using the program admixmap to fit a logistic regression model incorporating individual ancestry, sex, age, body mass index and education. The markers rs12255372, rs7903146 and DG10S478 are in tight disequilibrium in the Mexican sample. We observed a significant association between the single-nucleotide polymorphism (SNP) rs12255372 and the microsatellite DG10S478 with T2D in the Mexican sample [rs12255372, odds ratio (OR) = 1.78, p = 0.017; DG10S478, OR = 1.62, p = 0.041]. The SNP rs7903146 shows similar trends, but its association with T2D is not as strong (OR = 1.39, p = 0.152). Analysis of the parental samples, as well as other available data, indicates that there are substantial population frequency differences for these polymorphisms: The frequencies of the T2D risk factors are more than 20% higher in European and West African populations than in East Asian and Native American populations.">
+	<sentence ID="1184_0" START="951" END="1111">
+		<snp ID="0" START="1038" END="1048" TEXT="rs12255372"/>
+		<snp ID="1" START="1072" END="1080" TEXT="DG10S478"/>
+		<phenotype ID="0" START="1086" END="1111" text="T2D"/>
+		<modality_marker  START="954" END="962" text="observed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1184_1" START="1193" END="1302">
+		<snp ID="2" START="1201" END="1210" TEXT="rs7903146"/>
+		<phenotype ID="1" START="1258" END="1302" text="T2D"/>
+		<modality_marker  START="1211" END="1216" text="shows"/>
+		<modality_marker  START="1272" END="1278" text="strong"/>
+		<negation_scope  START="1265" END="1302" text="not as strong (OR = 1.39, p = 0.152).">
+			<negation_cue START="1265" END="1268" text="not"/>
+		</negation_scope>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

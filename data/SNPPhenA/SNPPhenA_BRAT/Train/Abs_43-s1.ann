@@ -1,0 +1,7 @@
+T1	SNP 47 51	COMT
+T2	Phenotype 66 69	CSI
+T3	Phenotype 73 77	ICAI
+T4	Negation_Scope 11 77	no significant associations between COMT genotypes and CSI or ICAI
+T5	Negation_Cue 11 13	no
+R1	negative_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3

@@ -1,0 +1,8 @@
+T1	Phenotype 12 43	induction of 15-PGDH expression 
+T2	Gene_or_protein 25 32	15-PGDH 
+T3	Chemical 62 83	15-keto-PGE2 analogue 
+T4	Disease 135 182	endotoxin-associated liver inflammation /injury 
+R1	treats Arg1:T3 Arg2:T4	
+R3	influences Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R1	hyp

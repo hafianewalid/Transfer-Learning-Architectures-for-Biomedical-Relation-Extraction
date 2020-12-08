@@ -1,0 +1,9 @@
+T1	Chemical 44 56	posaconazole 
+T2	Chemical 97 100	IPA 
+T3	Gene_or_protein 148 153	Cyp51 
+T4	Limited_variation 197 212	Cyp51 mutations 
+T5	Gene_or_protein 197 202	Cyp51 
+T6	Chemical 224 229	azole 
+T7	Pharmacodynamic_phenotype 224 240	azole resistance
+T8	Limited_variation 148 163	Cyp51 wild-type
+R1	causes Arg1:T4 Arg2:T6	

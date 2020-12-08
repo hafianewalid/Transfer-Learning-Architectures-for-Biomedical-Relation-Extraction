@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1149" TEXT="The distributions of SNPs relating to the amyloid cascade hypothesis (TOMM40 rs157581 G and TOMM40 rs2075650 G), to the cholesterol metabolism hypothesis (ApoE rs429358 C, LDLR rs11668477 G and CH25H rs7091822 T and PLAU rs2227564 CT) and to the tau hypothesis (MAPT/STH rs242562 GG) in aMCI were significantly different than those in normal controls.">
+	<sentence ID="1149_0" START="0" END="351">
+		<snp ID="0" START="77" END="85" TEXT="rs157581"/>
+		<snp ID="1" START="99" END="108" TEXT="rs2075650"/>
+		<snp ID="2" START="160" END="168" TEXT="rs429358"/>
+		<snp ID="3" START="177" END="187" TEXT="rs11668477"/>
+		<snp ID="4" START="200" END="209" TEXT="rs7091822"/>
+		<snp ID="6" START="221" END="230" TEXT="rs2227564"/>
+		<snp ID="5" START="271" END="279" TEXT="rs242562"/>
+		<phenotype ID="0" START="120" END="351" text="cholesterol metabolism hypothesis"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="6" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

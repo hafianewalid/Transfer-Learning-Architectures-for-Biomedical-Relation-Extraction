@@ -1,0 +1,7 @@
+T1	SNP 20 26	rs4680
+T2	SNP 31 39	rs165774
+T3	Phenotype 90 103	schizophrenia
+T4	Negation_Scope 0 130	Association of both rs4680 and rs165774 withsubstance dependence, a common comorbidity of schizophrenia has not been investigated.
+T5	Negation_Cue 108 111	not
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T2 Arg2:T3

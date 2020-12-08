@@ -1,0 +1,5 @@
+T1	SNP 60 79	or = 22 CAG repeats
+T2	Phenotype 121 135	ovarian cancer
+T3	Modality_Marker 12 19	suggest
+T4	Modality_Marker 80 83	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2

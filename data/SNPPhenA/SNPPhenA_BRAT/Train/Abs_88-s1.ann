@@ -1,0 +1,5 @@
+T1	SNP 45 50	ApoA5
+T2	Phenotype 119 122	CVD
+T3	Modality_Marker 14 21	suggest
+T4	Modality_Marker 65 68	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2

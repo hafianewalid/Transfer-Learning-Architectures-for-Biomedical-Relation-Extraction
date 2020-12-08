@@ -1,0 +1,21 @@
+T1	Chemical 56 67	doxorubicin 
+T2	Chemical 70 81	oxaliplatin 
+T3	Chemical 86 98	methotrexate 
+T4	Disease 112 129	stomach carcinoma 
+T5	Gene_or_protein 159 166	BCL2L12 
+T6	Gene_or_protein 169 172	BAX 
+T8	Gene_or_protein 179 184	BCL-2 
+T7	Phenotype 159 166;185 204	BCL2L12 expression profiles
+T9	Phenotype 169 172;185 204	BAX expression profiles
+T10	Phenotype 179 204	BCL-2 expression profiles
+T11	Chemical 254 266	chemotherapy
+T12	Phenotype 212 266	molecular signaling pathways triggered by chemotherapy
+T13	Pharmacodynamic_phenotype 26 67	growth suppressive effects of doxorubicin
+T14	Pharmacodynamic_phenotype 26 52;70 81	growth suppressive effects oxaliplatin
+T15	Pharmacodynamic_phenotype 26 52;86 98	growth suppressive effects methotrexate
+R1	treats Arg1:T3 Arg2:T4	
+R2	treats Arg1:T1 Arg2:T4	
+R3	treats Arg1:T2 Arg2:T4	
+R4	influences Arg1:T7 Arg2:T12	
+R5	influences Arg1:T9 Arg2:T12	
+R6	influences Arg1:T10 Arg2:T12	

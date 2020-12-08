@@ -1,0 +1,8 @@
+T3	Gene_or_protein 52 55	GP2 
+T2	Limited_variation 15 26;42 75	mutation of N -linked GP2 glycosylation sites
+T1	Phenotype 106 118;138 143	antigenicity of GP
+T4	Phenotype 123 143	immunogenicity of GP
+T5	Gene_or_protein 141 143	GP
+T6	Genomic_factor 52 75	GP2 glycosylation sites
+R1	influences Arg1:T2 Arg2:T1	
+R2	influences Arg1:T2 Arg2:T4	

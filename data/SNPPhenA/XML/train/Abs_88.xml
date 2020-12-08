@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1257" TEXT="Several polymorphisms in the ApoA5 gene emerged as important candidate genes in triglyceride metabolism. The aim of this study was to determine the associations between ApoA5 polymorphisms, plasma triglyceride concentrations and the presence of cardiovascular disease (CVD) in three ethnic origins. Genotypes for 15 single nucleotide polymorphisms (SNPs) were determined in 659 older adults (mean age 71+/-7 years) who immigrated to Israel or whose ancestors originated from East Europe (Ashkenazi), North Africa, Asia (Sephardic) or Yemen (Yemenite). The minor alleles of the four commonSNPs (rs662799, rs651821, rs2072560 and rs2266788) are associated with an increase of 27-38% in triglyceride concentration among Ashkenazi and Yemenite Jews compared with the major alleles, but not among those of Sephardic origin. Conversely, among the Sephardic group, the presence of theminor allele in SNP rs3135506 compared with the major allele was associated with an increase of 34% in triglyceride concentration. The four SNPs were in significant linkage disequilibrium (D'=0.96-0.99), resulting in three haplotypes H1, H2 and H3, representing 98-99% of the population. Haplotype H2 was significantly associated with triglyceride concentration among Ashkenazi and Yemenite but not among Sephardic Jews. Conversely, haplotype H3 was associated with triglyceride concentration in Sephardic but not in Ashkenazi and Yemenite Jews. Ashkenazi carriers of H2 haplotype had a CVD odds ratio of 2.19 (95% CI: 1.05-4.58) compared with H1 (the most frequent), after adjustment for all other risk factors. These results suggest that different SNPs in ApoA5 polymorphisms may be associated with triglyceride concentration and CVD in each of these ethnic origins.">
+	<sentence ID="1257_0" START="1590" END="1745">
+		<snp ID="0" START="1635" END="1640" TEXT="ApoA5"/>
+		<phenotype ID="0" START="1709" END="1745" text="CVD"/>
+		<modality_marker  START="1604" END="1611" text="suggest"/>
+		<modality_marker  START="1655" END="1658" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

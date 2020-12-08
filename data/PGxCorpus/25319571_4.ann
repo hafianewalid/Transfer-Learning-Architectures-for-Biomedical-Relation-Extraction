@@ -1,0 +1,12 @@
+T1	Chemical 56 86	(S)-3,5-dihydroxyphenylglycine 
+T2	Gene_or_protein 175 179	Drd1 
+T3	Gene_or_protein 192 196	Drd2 
+T4	Chemical 89 93	DHPG
+T5	Chemical 34 86	group I mGluR agonist (S)-3,5-dihydroxyphenylglycine
+T6	Disease 113 116	LTD
+T7	Limited_variation 152 161;175 185	wild-type Drd1 -eGFP
+T8	Limited_variation 164 185	hemizygous Drd1 -eGFP
+T9	Limited_variation 152 161;192 202	wild-type Drd2 -eGFP
+T10	Limited_variation 164 174;192 202	hemizygous Drd2 -eGFP
+R1	isEquivalentTo Arg1:T4 Arg2:T1	
+R2	causes Arg1:T5 Arg2:T6	

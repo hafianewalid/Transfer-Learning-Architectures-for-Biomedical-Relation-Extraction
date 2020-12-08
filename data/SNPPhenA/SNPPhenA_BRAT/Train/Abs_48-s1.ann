@@ -1,0 +1,9 @@
+T1	SNP 23 29	rs4680
+T2	SNP 34 42	rs165599
+T3	Phenotype 103 105	CD
+T4	Phenotype 141 143	BD
+T5	Modality_Marker 82 92	predictors
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

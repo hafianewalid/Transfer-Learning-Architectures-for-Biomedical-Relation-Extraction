@@ -1,0 +1,10 @@
+T1	SNP 145 151	CYP1B1
+T2	SNP 152 156	COMT
+T3	SNP 162 167	MnSOD
+T4	Phenotype 54 67	breast cancer
+T5	Modality_Marker 12 19	suggest
+T6	Modality_Marker 78 81	may
+T7	Modality_Marker 122 126	high
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1032" TEXT="BACKGROUND: The aim of our study was to analyze the influence of the CCR5Δ32 polymorphism in the risk of cardiovascular (CV) events and subclinical atherosclerosis among patients with rheumatoid arthritis (RA). METHODS: A total of 645 patients fulfilling the American Rheumatism Association 1987 revised classification criteria for RA were studied. Patients were genotyped for the CCR5 rs333 polymorphism using predesigned TaqMan assays. Also, HLA DRB1 genotyping was performed using molecular-based methods. Carotid intima-media thickness, flow-mediated endothelium-dependent dilatation (FMD) and endothelium-independent vasodilatation, which were used as surrogate markers of subclinical atherosclerosis, were measured in a subgroup of patients with no clinical CV disease. RESULTS: A lower frequency of carriers of the CCR5Δ32 allele among patients with CV events (3.4% versus 11.3%, P = 0.025, odds ratio 0.28, 95% confidence interval (95% CI) 0.06 to 0.89) was observed. However, after adjusting for gender, age at time of RA diagnosis, and the presence of shared epitope, rheumatoid factor and classic CV risk factors in the Cox regression analysis, this reduction of CV events in CCR5Δ32 allele carriers was slightly outside the range of significance (P = 0.097; hazard ratio 0.37 (95% CI 0.12 to 1.19)). Carriers of the CCR5Δ32 deletion also showed higher FMD values than the remaining patients (CCR5/CCR5Δ32 patients: 7.03% ± 6.61% versus CCR5/CCR5 patients: 5.51% ± 4.66%). This difference was statistically significant when analysis of covariance was performed (P = 0.024). CONCLUSIONS: Our results show a potential influence of the CCR5Δ32 deletion on the risk of CV disease among patients with RA. This may be due to a protective effect of this allelic variant against the development of vascular endothelial dysfunction.">
+	<sentence ID="1032_0" START="1598" END="1710">
+		<snp ID="0" START="1644" END="1651" TEXT="CCR5Δ32"/>
+		<phenotype ID="0" START="1676" END="1710" text="CV"/>
+		<phenotype ID="1" START="1707" END="1710" text="RA"/>
+		<modality_marker  START="1610" END="1614" text="show"/>
+		<modality_marker  START="1617" END="1626" text="potential"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

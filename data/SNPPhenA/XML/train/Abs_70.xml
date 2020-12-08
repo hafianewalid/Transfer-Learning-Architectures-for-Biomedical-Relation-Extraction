@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1238" TEXT="Meanwhile, hypertriglyceridemia was more prevalent in both male and female obese rs662799 minor allele carriers at baseline (males, P=0.034, females, P=0.007).Conclusion:This study highlights the gender-specific and weight-sensitive effects of APOA5 rs662799 on central obesity in Taiwanese individuals, and that these effects are dyslipidemia-independent and weight-loss responsive.">
+	<sentence ID="1238_0" START="159" END="383">
+		<snp ID="0" START="250" END="258" TEXT="rs662799"/>
+		<phenotype ID="0" START="270" END="383" text="obesity"/>
+		<modality_marker  START="159" END="169" text="Conclusion"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

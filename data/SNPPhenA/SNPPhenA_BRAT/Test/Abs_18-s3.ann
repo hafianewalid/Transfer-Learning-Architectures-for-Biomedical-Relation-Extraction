@@ -1,0 +1,6 @@
+T1	SNP 9 15	rs4680
+T2	Phenotype 56 83	declarative episodic memory
+T3	Phenotype 105 127	schizophrenic subjects
+T4	Modality_Marker 38 43	found
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

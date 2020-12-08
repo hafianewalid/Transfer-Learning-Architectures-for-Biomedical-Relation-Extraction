@@ -1,0 +1,29 @@
+T1	Chemical 24 28	CRAd 
+T3	Gene_or_protein 166 171	TRAIL 
+T4	Gene_or_protein 174 177	DR5 
+T5	Gene_or_protein 180 189	caspase-3 
+T6	Gene_or_protein 194 203	caspase-8 
+T2	Phenotype 152 171;204 208	expression of TRAIL mRNA
+T7	Phenotype 152 165;174 177;204 208	expression of DR5 mRNA
+T8	Phenotype 152 165;180 189;204 208	expression of caspase-3 mRNA
+T9	Phenotype 152 165;194 208	expression of caspase-8 mRNA
+T10	Phenotype 75 93	cell proliferation
+T11	Phenotype 105 119	cell apoptosis
+T12	Genomic_factor 194 208	caspase-8 mRNA
+T13	Genomic_factor 180 189;204 208	caspase-3 mRNA
+T14	Genomic_factor 174 177;204 208	DR5 mRNA
+T15	Genomic_factor 166 171;204 208	TRAIL mRNA
+T16	Phenotype 152 171;213 221	expression of TRAIL proteins
+T17	Phenotype 152 165;174 177;213 221	expression of DR5 proteins
+T18	Phenotype 152 165;180 189;213 221	expression of caspase-3 proteins
+T19	Phenotype 152 165;194 203;213 221	expression of caspase-8 proteins
+R1	increases Arg1:T1 Arg2:T2	
+R2	increases Arg1:T1 Arg2:T7	
+R3	increases Arg1:T1 Arg2:T8	
+R4	increases Arg1:T1 Arg2:T9	
+R5	decreases Arg1:T1 Arg2:T10	
+R6	increases Arg1:T1 Arg2:T11	
+R7	increases Arg1:T1 Arg2:T16	
+R8	increases Arg1:T1 Arg2:T17	
+R9	increases Arg1:T1 Arg2:T19	
+R10	increases Arg1:T1 Arg2:T18	

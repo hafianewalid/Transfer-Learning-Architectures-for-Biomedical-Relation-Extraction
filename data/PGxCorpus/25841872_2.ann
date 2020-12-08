@@ -1,0 +1,7 @@
+T1	Chemical 7 16	Ezetimibe 
+T3	Gene_or_protein 133 139	NPC1L1 
+T5	Gene_or_protein 100 130	Niemann-Pick C1-Like protein 1 
+T7	Pharmacodynamic_phenotype 25 85	plasma levels of low-density lipoprotein ( LDL ) cholesterol
+R1	isEquivalentTo Arg1:T3 Arg2:T5	
+R4	decreases Arg1:T1 Arg2:T7	
+R7	decreases Arg1:T1 Arg2:T5	

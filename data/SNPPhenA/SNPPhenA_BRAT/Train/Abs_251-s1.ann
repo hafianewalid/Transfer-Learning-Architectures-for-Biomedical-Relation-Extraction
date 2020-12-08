@@ -1,0 +1,16 @@
+T1	SNP 21 30	rs7903146
+T2	SNP 32 42	rs11196205
+T3	SNP 48 58	rs12255372
+T4	SNP 247 257	rs11196218
+T5	SNP 262 270	rs290487
+T6	Phenotype 96 111	type 2 diabetes
+T7	Modality_Marker 59 65	showed
+T8	Modality_Marker 271 277	showed
+T9	Negation_Scope 239 304	neither rs11196218 nor rs290487 showed a significant association.
+T10	Negation_Cue 239 246	neither
+T11	Negation_Cue 258 261	nor
+R1	strong_confidence_association Arg1:T1 Arg2:T6
+R2	strong_confidence_association Arg1:T2 Arg2:T6
+R3	strong_confidence_association Arg1:T3 Arg2:T6
+R4	negative_association Arg1:T4 Arg2:T6
+R5	negative_association Arg1:T5 Arg2:T6

@@ -1,0 +1,6 @@
+T1	SNP 48 57	rs7104980
+T2	Phenotype 170 172	EH
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 58 61	can
+T5	Modality_Marker 145 150	might
+R1	weak_confidence_association Arg1:T1 Arg2:T2

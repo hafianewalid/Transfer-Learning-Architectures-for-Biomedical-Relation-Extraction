@@ -1,0 +1,6 @@
+T1	SNP 21 26	OPRM1
+T2	Phenotype 36 40	ADHD
+T3	Phenotype 45 48	SUD
+T4	Modality_Marker 61 66	could
+R1	moderate_confidence_association Arg1:T1 Arg2:T2
+R2	moderate_confidence_association Arg1:T1 Arg2:T3

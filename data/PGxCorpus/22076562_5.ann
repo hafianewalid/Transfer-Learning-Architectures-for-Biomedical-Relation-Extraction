@@ -1,0 +1,5 @@
+T1	Chemical 38 50	lansoprazole 
+T2	Phenotype 97 113	CYP2C19 activity 
+T3	Gene_or_protein 97 104	CYP2C19 
+R1	isAssociatedWith Arg1:T2 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

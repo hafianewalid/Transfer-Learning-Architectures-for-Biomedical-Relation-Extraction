@@ -1,0 +1,14 @@
+T1	Chemical 34 37	Oxa
+T4	Gene_or_protein 180 183	XPD
+T5	Gene_or_protein 148 153	GSTpi
+T6	Limited_variation 148 167	GSTpi 105 Val / Val
+T7	Limited_variation 180 190	XPD 751Lys
+T8	Phenotype 78 103	progression-free survival
+T9	Pharmacodynamic_phenotype 34 54	Oxa pharmacodynamics
+T10	Pharmacodynamic_phenotype 120 127	outcome
+R1	influences Arg1:T6 Arg2:T9	
+R3	influences Arg1:T7 Arg2:T9	
+R5	influences Arg1:T6 Arg2:T8	
+R6	influences Arg1:T7 Arg2:T8	
+R7	influences Arg1:T6 Arg2:T10	
+R2	influences Arg1:T7 Arg2:T10	

@@ -1,0 +1,22 @@
+T2	Gene_or_protein 64 68	PDYN 
+T3	Gene_or_protein 73 78	OPRK1 
+T4	Chemical 92 99	alcohol 
+T6	Phenotype 309 341	intensity of depressive symptoms 
+T7	Disease 322 341	depressive symptoms 
+T9	Disease 92 110	alcohol -dependent
+T1	Limited_variation 16 59;73 78	single nucleotide polymorphisms ( SNPs ) in OPRK1
+T5	Limited_variation 16 68	single nucleotide polymorphisms ( SNPs ) in the PDYN
+T8	Disease 286 296	depression
+T10	Phenotype 168 184	negative craving
+R1	isAssociatedWith Arg1:T5 Arg2:T10	
+R2	isAssociatedWith Arg1:T5 Arg2:T8	
+R3	isAssociatedWith Arg1:T5 Arg2:T6	
+R4	isAssociatedWith Arg1:T1 Arg2:T10	
+R5	isAssociatedWith Arg1:T1 Arg2:T8	
+R6	isAssociatedWith Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R6	hyp
+#3	AnnotatorNotes R2	hyp
+#4	AnnotatorNotes R5	hyp
+#5	AnnotatorNotes R1	hyp
+#6	AnnotatorNotes R4	hyp

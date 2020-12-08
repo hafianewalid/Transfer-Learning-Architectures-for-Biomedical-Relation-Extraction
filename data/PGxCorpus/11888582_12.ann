@@ -1,0 +1,11 @@
+T1	Chemical 18 26	abacavir
+T3	Gene_or_protein 69 74	HLA-B
+T4	Disease 144 160	hypersensitivity
+T6	Haplotype 69 81	HLA-B * 5701
+T7	Gene_or_protein 84 90	HLA-DR
+T8	Haplotype 99 107	HLA-DQ 3
+T2	Haplotype 84 92	HLA-DR 7
+T5	Gene_or_protein 99 105	HLA-DQ
+R1	influences Arg1:T6 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T4	
+R3	influences Arg1:T8 Arg2:T4	

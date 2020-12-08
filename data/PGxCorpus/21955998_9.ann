@@ -1,0 +1,18 @@
+T1	Chemical 89 92	BSC 
+T2	Gene_or_protein 107 111	EGFR 
+T3	Chemical 101 120;137 140	anti- EGFR mAb with BSC 
+T4	Disease 243 264	wild-type KRAS tumors 
+T5	Gene_or_protein 253 257	KRAS 
+T7	Chemical 73 85	chemotherapy
+T8	Chemical 101 133	anti- EGFR mAb with chemotherapy
+T9	Phenotype 161 172;183 190	progression of mCRC
+T10	Phenotype 177 190	death of mCRC
+T6	Limited_variation 243 257	wild-type KRAS
+T11	Chemical 101 115	anti- EGFR mAb
+T12	Disease 186 190	mCRC
+R1	decreases Arg1:T3 Arg2:T10	
+R2	decreases Arg1:T3 Arg2:T9	
+R3	decreases Arg1:T8 Arg2:T9	
+R4	decreases Arg1:T8 Arg2:T10	
+R5	influences Arg1:T6 Arg2:T8	
+R6	influences Arg1:T6 Arg2:T3	

@@ -1,0 +1,14 @@
+T1	Chemical 41 49	warfarin 
+T2	Gene_or_protein 175 181	VKORC1 
+T3	Gene_or_protein 248 254	CYP2C9 
+T4	Gene_or_protein 259 265	VKORC1 
+T6	Pharmacodynamic_phenotype 41 54	warfarin dose
+T7	Phenotype 134 140	weight
+T8	Limited_variation 175 190	VKORC1 genotype
+T9	Phenotype 235 241	weight
+T5	Limited_variation 248 274	CYP2C9 and VKORC1 genotype
+T10	Phenotype 229 232	age
+T11	Phenotype 96 99	age
+R2	influences Arg1:T7 Arg2:T6	
+R3	influences Arg1:T8 Arg2:T6	
+R1	influences Arg1:T11 Arg2:T6	

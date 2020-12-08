@@ -1,0 +1,7 @@
+T1	SNP 141 152	COMT rs4680
+T2	SNP 154 169	ZDHHC8 rs175174
+T3	Phenotype 64 71	22q11DS
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3
+T4	SNP 181 190	rs5992403
+R3	weak_confidence_association Arg1:T4 Arg2:T3	

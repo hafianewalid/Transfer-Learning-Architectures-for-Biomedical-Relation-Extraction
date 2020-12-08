@@ -1,0 +1,6 @@
+T1	Gene_or_protein 19 22	Jun 
+T3	Chemical 84 95	amphetamine 
+T4	Chemical 137 148	haloperidol 
+T5	Gene_or_protein 27 37	35-kDa FRA
+R1	increases Arg1:T3 Arg2:T1	
+R2	increases Arg1:T3 Arg2:T5	

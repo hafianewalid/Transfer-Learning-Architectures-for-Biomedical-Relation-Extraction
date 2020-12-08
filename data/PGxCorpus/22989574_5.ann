@@ -1,0 +1,15 @@
+T1	Chemical 0 10	Crizotinib 
+T2	Gene_or_protein 43 46	ALK 
+T3	Disease 74 79	tumor 
+T4	Gene_or_protein 110 113	ALK 
+T5	Gene_or_protein 51 54	MET
+T6	Gene_or_protein 118 121	MET
+T10	Chemical 51 64	MET inhibitor
+T7	Chemical 43 46;55 64	ALK inhibitor
+T8	Limited_variation 96 113	alteration in ALK
+T9	Limited_variation 118 121;96 109	MET alteration in
+R1	treats Arg1:T1 Arg2:T3	
+R7	decreases Arg1:T1 Arg2:T5	
+R2	causes Arg1:T9 Arg2:T3	
+R3	causes Arg1:T8 Arg2:T3	
+R4	decreases Arg1:T1 Arg2:T2	

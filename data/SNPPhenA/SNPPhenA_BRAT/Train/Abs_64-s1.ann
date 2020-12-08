@@ -1,0 +1,3 @@
+T1	SNP 123 129	rs6152
+T2	Phenotype 86 94	baldness
+R1	strong_confidence_association Arg1:T1 Arg2:T2

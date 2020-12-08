@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1041" TEXT="OBJECTIVE: The selection of the most appropriate treatment for several diseases relies on a number of factors such as environment, age, gender, and nutrition. Additionally, the contribution of different genetic polymorphisms to treatment efficacy has been largely recognized. The lack of information on the pharmacogenetic profile of our population prompted us to analyze the frequency of polymorphisms known to be relevant to achieve treatment efficacy with different therapeutic agents in viral infectious diseases, such as Hepatitis C and AIDS. RESULTS: The allelic frequencies for the wild-type variant of the genes analyzed were cytochrome P450 2B6 (CYP2B6; rs3745274; 516G) 0.618 (95% confidence interval [CI]: 0.523, 0.711), chemokine coreceptor 5 (CCR5; rs333) 0.961 (95% CI: 0.942, 0.98), histocompatibility complex P5 (HCP5; rs2395029; 335T) 0.971 (95% CI: 0.937, 1), and interleukin 28B (IL28B; rs12979860; 12007005C) 0.656 (95% CI: 0.564, 0.747), respectively. CONCLUSIONS: Our data indicate that the genetic profile of the population studied is similar to that reported for other Caucasian populations, with only slight differences for CYP2B6. Noteworthy, the considerable number of patients carrying CYP2B6 (516T) and IL28B (12007005T) alleles underlies the importance of considering pharmacogenetic testing before starting drug therapy protocols to prevent toxicity and/or lack of effectiveness in AIDS or hepatitis C virus infections.">
+	<sentence ID="1041_0" START="1157" END="1450">
+		<snp ID="0" START="1214" END="1227" TEXT="CYP2B6 (516T)"/>
+		<snp ID="1" START="1232" END="1249" TEXT="IL28B (12007005T)"/>
+		<phenotype ID="0" START="1413" END="1450" text="AIDS"/>
+		<phenotype ID="1" START="1421" END="1450" text="hepatitis C"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

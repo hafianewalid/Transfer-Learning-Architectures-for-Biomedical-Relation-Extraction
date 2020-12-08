@@ -1,0 +1,4 @@
+T1	Limited_variation 9 33	variants in the ATM gene 
+T3	Gene_or_protein 25 28	ATM 
+T4	Pharmacodynamic_phenotype 120 150	adverse radiotherapy responses
+R1	isAssociatedWith Arg1:T1 Arg2:T4	

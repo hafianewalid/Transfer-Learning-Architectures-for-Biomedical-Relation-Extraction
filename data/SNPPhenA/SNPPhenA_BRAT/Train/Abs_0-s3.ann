@@ -1,0 +1,3 @@
+T1	SNP 71 80	rs1051730
+T2	Phenotype 105 123	head circumference
+R1	negative_association Arg1:T1 Arg2:T2

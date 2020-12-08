@@ -1,0 +1,9 @@
+T1	Gene_or_protein 0 5	Beta2 
+T2	Chemical 42 50	nicotine 
+T3	Pharmacodynamic_phenotype 66 80	supersensitive
+T4	Limited_variation 0 11	Beta2 - / -
+T5	Pharmacodynamic_phenotype 99 108	tolerance
+R1	isAssociatedWith Arg1:T4 Arg2:T3	
+R2	isAssociatedWith Arg1:T2 Arg2:T3	
+R3	isAssociatedWith Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes R1	neg

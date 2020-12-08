@@ -1,0 +1,7 @@
+T1	Chemical 0 9	Bupropion
+T4	Gene_or_protein 53 80	cytochrome P450 ( CYP ) 2B6
+T2	Phenotype 141 151	expression
+T3	Pharmacokinetic_phenotype 156 165	catalysis
+R2	influences Arg1:T4 Arg2:T1	
+R1	isAssociatedWith Arg1:T2 Arg2:T4	
+R3	isAssociatedWith Arg1:T3 Arg2:T4	

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1038" TEXT="We have previously shown that a quantitative-trait locus linked to the OCA2 region of 15q accounts for 74% of variation in human eye color. We conducted additional genotyping to clarify the role of the   OCA2 locus in the inheritance of eye color and other pigmentary traits associated with skin-cancer risk inwhite populations. Fifty-eight synonymous and nonsynonymous exonic single-nucleotide polymorphisms (SNPs) and tagging SNPs were typed in a collection of 3,839 adolescent twins, their siblings, and their parents. The highest association for blue/nonblue eye color was found with three OCA2 SNPs:rs7495174 T/C, rs6497268 G/T, and rs11855019 T/C (P values of 1.02x10(-61), 1.57x10(-96), and 4.45x10(-54), respectively) in intron 1. These three SNPsare in one major haplotype block, with TGT representing 78.4% of alleles. The TGT/TGT diplotype found in 62.2% of samples was the major genotype seen to modify eye color, with a frequency of 0.905 in blue or green compared with only 0.095 in brown eye color. This genotype was also at highest frequency in subjects with light brown hair and was more frequent in fair and medium skin types, consistent with the TGT haplotype acting as a recessive modifier of lighter pigmentary phenotypes. Homozygotes for rs11855019 C/C were predominantly without freckles and had lower mole counts. The minor population impact of the nonsynonymous coding-region polymorphisms Arg305Trp and Arg419Gln associated with nonblue eyes and the tight linkage of the major TGT haplotype within the intron 1 of OCA2 with blue eye color and lighter hair and skin tones suggest that differences within the 5' proximal regulatory control region of the OCA2 gene alter expression or messenger RNA-transcript levels and may be responsible for these associations.">
+	<sentence ID="1038_0" START="140" END="327">
+		<snp ID="0" START="204" END="208" TEXT="OCA2"/>
+		<phenotype ID="1" START="237" END="327" text="eye color"/>
+		<phenotype ID="0" START="291" END="327" text="skin-cancer"/>
+		<modality_marker  START="251" END="256" text="other"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

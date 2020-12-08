@@ -1,0 +1,15 @@
+T1	Disease 22 28	tumour 
+T2	Gene_or_protein 76 80	BRAF 
+T3	Disease 76 98	BRAF -mutated melanoma 
+T4	Pharmacodynamic_phenotype 111 149	response to treatment with vemurafenib 
+T6	Gene_or_protein 195 199	BRAF 
+T7	Phenotype 203 223	melanoma maintenance 
+T8	Phenotype 22 39	tumour regression
+T9	Phenotype 44 61	improved survival
+T11	Limited_variation 76 89	BRAF -mutated
+T10	Chemical 138 149	vemurafenib
+T5	Disease 203 211	melanoma
+R1	isAssociatedWith Arg1:T6 Arg2:T7	
+R2	influences Arg1:T4 Arg2:T9	
+R3	influences Arg1:T4 Arg2:T8	
+R4	treats Arg1:T10 Arg2:T3	

@@ -1,0 +1,11 @@
+T1	Phenotype 18 48	ESR1 promoter hypermethylation 
+T2	Gene_or_protein 18 22	ESR1 
+T3	Phenotype 53 70	low ER expression 
+T4	Gene_or_protein 57 59	ER 
+T5	Chemical 160 169	tamoxifen 
+T6	Phenotype 92 143	atypia in Random Periareolar Fine Needle Aspiration
+T7	Genomic_factor 18 31	ESR1 promoter
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T3 Arg2:T6	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

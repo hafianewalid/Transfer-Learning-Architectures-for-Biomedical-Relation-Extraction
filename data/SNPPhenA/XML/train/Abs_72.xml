@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1240" TEXT="Atherosclerosis, a major cause of ischemic stroke, may be associated with variability of triglyceride (TG) levels. Apolipoprotein A5 (APOA5) genetic polymorphisms are associated with altered TG levels. The objective of this study was to investigate the coding region polymorphisms S19W (rs3135506) and G185C (rs2075291) and the promoter region polymorphism -1131T&gt;C (rs662799) of the APOA5 gene as risk factors for ischemic stroke in Turkish population. Study group consisted of 272 ischemic stroke patients and 123 controls. Genotypes were determined by real-time polymerase chain reaction(PCR) for S19W and PCR-restriction fragment length polymorphism analysis (PCR-RFLP) for -1131T&gt;C and G185C. 19W allele frequency was 0.090 in stroke patients and 0.062 in controls (P = 0.191). Minor allele frequencies of -1131T&gt;C and G185C in patients were 0.106 and 0.004, respectively, and were nearly the same in controls. Total cholesterol and LDL-cholesterol levels were significantly higher for stroke patients having at least one 19W allelecompared to non-carriers. A significant difference was also found for LDL-cholesterol levels of stroke patients; higher in -1131C allele carriers compared to wild type patients. There was a trend for higher frequency of ischemic stroke among -1131C allele carrier hypertensive, diabetic or obese subjects compared to non-carriers. However, APOA5 genotypes were not associated with the risk of ischemic stroke by logistic regression analysis. The present study demonstrated that carrying rare alleles of APOA5 S19W, -1131T&gt;C and G185C alone do not constitute a risk for ischemic stroke in the studied Turkish subjects.">
+	<sentence ID="1240_0" START="1479" END="1654">
+		<snp ID="0" START="1540" END="1550" TEXT="APOA5 S19W"/>
+		<phenotype ID="0" START="1615" END="1654" text="stroke"/>
+		<modality_marker  START="1497" END="1509" text="demonstrated"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

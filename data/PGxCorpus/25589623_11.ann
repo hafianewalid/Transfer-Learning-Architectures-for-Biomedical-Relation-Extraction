@@ -1,0 +1,4 @@
+T1	Limited_variation 0 10	rs11085735 
+T2	Phenotype 27 30	RFS 
+T3	Chemical 42 51	tamoxifen 
+R1	isAssociatedWith Arg1:T1 Arg2:T2	

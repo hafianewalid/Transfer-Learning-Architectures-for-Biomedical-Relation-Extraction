@@ -1,0 +1,13 @@
+T1	Gene_or_protein 15 20	ABCB1 
+T2	Gene_or_protein 23 29	CYP3A4 
+T4	Gene_or_protein 40 46	CYP3A5 
+T5	Chemical 90 100	tacrolimus 
+T6	Haplotype 23 35	CYP3A4 * 18B
+T7	Haplotype 40 50	CYP3A5 * 3
+T8	Pharmacokinetic_phenotype 70 100	pharmacokinetics of tacrolimus
+R1	isAssociatedWith Arg1:T1 Arg2:T8	
+R2	isAssociatedWith Arg1:T6 Arg2:T8	
+R3	isAssociatedWith Arg1:T7 Arg2:T8	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp

@@ -1,0 +1,16 @@
+T1	Chemical 50 57	ITF2357
+T2	Limited_variation 111 124	JAK2 (V617F )
+T3	Gene_or_protein 192 196	JAK2
+T4	Gene_or_protein 111 115	JAK2
+T5	Gene_or_protein 136 142	pSTAT5
+T6	Gene_or_protein 147 153	pSTAT3
+T7	Limited_variation 182 196	wild-type JAK2
+T8	Limited_variation 182 191;200 204	wild-type STAT
+T9	Gene_or_protein 200 204	STAT
+R1	decreases Arg1:T1 Arg2:T2	
+R2	decreases Arg1:T1 Arg2:T5	
+R3	decreases Arg1:T1 Arg2:T6	
+R4	influences Arg1:T1 Arg2:T7	
+R5	influences Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R4	neg
+#2	AnnotatorNotes R5	neg

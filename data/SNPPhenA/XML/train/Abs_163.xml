@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1072" TEXT="In recent years, it has been widely accepted that transcription factor 7-like 2 (TCF7L2) is associated with type 2 diabetes mellitus (T2DM) in multiple ethnic groups, especially its single nucleotide polymorphisms of rs7903146C/T, rs12255372G/T and rs290487T/C.">
+	<sentence ID="1072_0" START="0" END="261">
+		<snp ID="0" START="217" END="229" TEXT="rs7903146C/T"/>
+		<snp ID="1" START="231" END="244" TEXT="rs12255372G/T"/>
+		<phenotype ID="0" START="133" END="261" text="(T2DM)"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

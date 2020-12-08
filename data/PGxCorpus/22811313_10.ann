@@ -1,0 +1,11 @@
+T1	Chemical 6 14	androgen 
+T2	Limited_variation 100 114	FMR1 genotypes 
+T3	Gene_or_protein 100 104	FMR1 
+T4	Chemical 163 175	testosterone 
+T5	Pharmacodynamic_phenotype 6 29	androgen concentrations
+T6	Phenotype 55 64	pregnancy
+T7	Limited_variation 140 155	normal genotype
+T8	Phenotype 208 227	pregnancy potential
+R1	isAssociatedWith Arg1:T5 Arg2:T6	
+R2	influences Arg1:T4 Arg2:T8	
+#1	AnnotatorNotes R1	neg

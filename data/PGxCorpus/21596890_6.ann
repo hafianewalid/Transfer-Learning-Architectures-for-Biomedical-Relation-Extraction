@@ -1,0 +1,9 @@
+T1	Chemical 17 21	CDCA
+T2	Gene_or_protein 42 49	C /EBPb
+T3	Phenotype 81 96	phosphorylation
+T4	Phenotype 99 119	nuclear accumulation
+T5	Phenotype 126 136	expression
+R1	influences Arg1:T1 Arg2:T2	
+R3	increases Arg1:T1 Arg2:T4	
+R4	increases Arg1:T1 Arg2:T5	
+R2	increases Arg1:T1 Arg2:T3	

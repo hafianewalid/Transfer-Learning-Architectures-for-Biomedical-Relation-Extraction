@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1168" TEXT="OBJECTIVE: Apolipoprotein E (ApoE) genotype has been associated with systemic inflammation and athero-thrombosis however the association withabdominal aortic aneurysm (AAA) has not been previously examined. We assessed the association between ApoE genotype with AAA presence and growth, and serum C-reactive protein (CRP). METHODS: Serum concentrations of CRP (in 1358 men) and 6 single nucleotide polymorphisms (SNPs) forApoE (in 1711 men) were examined in subjects from the Health In Men Study. 640 men with small AAAs were followed by ultrasound surveillance for a mean of 4.1 years. RESULTS: There was no association between ApoE genotype and AAA presence. Men heterozygote for the ApoE p.Arg176Cys polymorphism had slower AAA growth, odds ratio for AAA progression&gt; or =median 0.41, 95% confidence intervals 0.21-0.80, p=0.01. Men heterozygotefor the ApoE g.50093756A&gt;G polymorphism had slightly more rapid AAA growth, odds ratio for AAA progression&gt; or =median 1.48, 95% confidence intervals 1.02-2.14, p=0.04. None of the ApoE SNPs were associated with AAA growth however taking into account multiple testing. Two SNPs in ApoEwere associated with serum CRP under a co-dominant model, ApoE p.Cys130Arg (SNP ID rs429358), p=0.00003 and ApoE g.50114786A&gt;G (SNP ID rs4420638), p=0.00013. Adjusting for other risk factors plus serum creatinine the varepsilon4 allele was associated with lower serum CRP under a dominant model, coefficient 0.089, p=0.002. CONCLUSIONS: We found no consistent association between ApoE genotype and AAA. We confirmed an association between ApoE genotype and serum CRP.">
+	<sentence ID="1168_0" START="1457" END="1535">
+		<snp ID="0" START="1513" END="1526" TEXT="ApoE genotype"/>
+		<phenotype ID="0" START="1531" END="1535" text="AAA"/>
+		<modality_marker  START="1457" END="1468" text="CONCLUSIONS"/>
+		<modality_marker  START="1473" END="1478" text="found"/>
+		<modality_marker  START="1482" END="1492" text="consistent"/>
+		<negation_scope  START="1479" END="1534" text="no consistent association between ApoE genotype and AAA">
+			<negation_cue START="1479" END="1481" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

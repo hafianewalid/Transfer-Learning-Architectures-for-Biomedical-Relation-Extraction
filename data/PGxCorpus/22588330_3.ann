@@ -1,0 +1,22 @@
+T2	Chemical 54 66	nitric oxide
+T3	Chemical 71 89	prostaglandin E(2)
+T4	Phenotype 147 201	expression of inducible nitric oxide synthase ( iNOS )
+T5	Gene_or_protein 161 192	inducible nitric oxide synthase
+T6	Gene_or_protein 195 199	iNOS
+T7	Gene_or_protein 225 230	COX-2
+T8	Gene_or_protein 206 222	cyclooxygenase 2
+T9	Chemical 27 30	LDF
+T10	Phenotype 147 160;206 232	expression of cyclooxygenase 2 ( COX-2 )
+T1	Pharmacodynamic_phenotype 41 66;90 100	LPS -induced nitric oxide production
+T11	Pharmacodynamic_phenotype 71 100	prostaglandin E(2) production
+T12	Chemical 41 44	LPS
+T13	Pharmacodynamic_phenotype 41 53;71 100	LPS -induced prostaglandin E(2) production
+T14	Pharmacodynamic_phenotype 54 66;90 100	nitric oxide production
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R3	isEquivalentTo Arg1:T7 Arg2:T8	
+R4	decreases Arg1:T9 Arg2:T4	
+R5	decreases Arg1:T9 Arg2:T10	
+R7	causes Arg1:T12 Arg2:T11	
+R1	decreases Arg1:T9 Arg2:T1	
+R6	decreases Arg1:T9 Arg2:T13	
+R8	isAssociatedWith Arg1:T12 Arg2:T14	

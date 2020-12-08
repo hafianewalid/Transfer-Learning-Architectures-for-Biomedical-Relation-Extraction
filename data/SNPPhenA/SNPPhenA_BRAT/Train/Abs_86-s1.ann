@@ -1,0 +1,11 @@
+T1	SNP 240 243	LPL
+T2	SNP 245 250	APOA5
+T3	SNP 255 259	APOE
+T4	Phenotype 12 32	Hypertriglyceridemia
+T5	Phenotype 89 103	cardiovascular
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T1 Arg2:T5
+R3	strong_confidence_association Arg1:T2 Arg2:T4
+R4	strong_confidence_association Arg1:T2 Arg2:T5
+R5	strong_confidence_association Arg1:T3 Arg2:T4
+R6	strong_confidence_association Arg1:T3 Arg2:T5

@@ -1,0 +1,5 @@
+T1	SNP 35 44	rs7903146
+T2	Phenotype 59 74	type 2 diabetes
+T3	Modality_Marker 4 14	consistent
+T4	Modality_Marker 138 146	suggests
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

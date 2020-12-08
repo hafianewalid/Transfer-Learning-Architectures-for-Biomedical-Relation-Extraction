@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1000" TEXT="OBJECTIVE: To examine the effects of genetic polymorphisms in cytochrome P450, subfamily 1, polypeptide 1 (C1P1B1) on primary open-angleglaucoma (POAG). METHODS: A systematic literature search was performed, and random-effects meta-analyses were used to evaluate genetic polymorphisms in CYP1B1 with POAG. A gene-based analysis was conducted to investigate the cumulative effects of genetic polymorphisms in CYP1B1. RESULTS: A total of six studies from published papers were included in our analysis. Random-effects meta-analyses failed to detect any significant association of POAG with genetic polymorphisms in CYP1B1, including rs180040, rs1056836, rs10012, rs1056827, rs1056837, and rs2567206. The gene-based analysis indicated that the cumulative effect of genetic polymorphisms in CYP1B1 is not associated with POAG (p&gt;0.50). CONCLUSIONS: We did not find any evidence of strong association of POAG with CYP1B1 genetic polymorphisms and their cumulative effect.">
+	<sentence ID="1000_0" START="416" END="697">
+		<snp ID="0" START="631" END="639" TEXT="rs180040"/>
+		<snp ID="1" START="641" END="650" TEXT="rs1056836"/>
+		<snp ID="2" START="652" END="659" TEXT="rs10012"/>
+		<snp ID="3" START="661" END="670" TEXT="rs1056827"/>
+		<snp ID="4" START="672" END="681" TEXT="rs1056837"/>
+		<snp ID="5" START="687" END="696" TEXT="rs2567206"/>
+		<phenotype ID="0" START="578" END="697" text="POAG"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

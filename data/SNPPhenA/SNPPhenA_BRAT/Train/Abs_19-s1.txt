@@ -1,0 +1,1 @@
+As expected, the most strongly  associated SNP was the APOE ɛ4 rs429358 variant (HR=2.47 [1.58, 3.87], p=7.52×10(-5)), although variants within the more recently implicated SORL1 and RUNX1 genes were also strongly associated with DAD in DS (HR=0.54 [0.37, 0.80], p=0.002 and HR=1.61 [1.15, 2.26], p=0.006 respectively).

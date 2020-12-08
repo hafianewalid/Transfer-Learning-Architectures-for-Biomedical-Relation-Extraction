@@ -1,0 +1,15 @@
+T1	Limited_variation 19 42	polymorphisms of CYP3A4 
+T2	Gene_or_protein 36 42	CYP3A4 
+T3	Gene_or_protein 45 51	CYP3A5 
+T4	Gene_or_protein 56 60	MDR1 
+T5	Chemical 64 76	cyclosporine 
+T7	Limited_variation 11 35;45 51	genetic polymorphisms of CYP3A5
+T8	Limited_variation 11 35;56 60	genetic polymorphisms of MDR1
+T11	Pharmacokinetic_phenotype 64 93	cyclosporine pharmacokinetics
+T12	Disease 100 121	renal transplantation
+R1	influences Arg1:T1 Arg2:T11	
+R2	influences Arg1:T8 Arg2:T11	
+R3	influences Arg1:T7 Arg2:T11	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R2	hyp

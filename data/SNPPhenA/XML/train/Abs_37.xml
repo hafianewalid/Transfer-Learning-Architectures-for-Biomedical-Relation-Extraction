@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1201" TEXT="BACKGROUND: The catechol-O-methyltransferase (COMT) modulates dopaminergic neurotransmission in the prefrontal cortex as well as in the mesolimbic reward system. Since the reward system mediates addictive behavior, the COMT gene is a strong candidate gene regarding the pathophysiology of tobacco dependence and smoking behavior. Because of rather conflicting results in previous studies, the purpose of the present study was to test for association between a functional genetic variant in the COMT gene (single nucleotide polymorphism [SNP] rs4680) and tobacco smoking behavior. METHODS: In a population-based case-control multicenter study designed for tobacco addiction research, a total of 551 current smokers of European ancestry and 548 age-matched healthy volunteers (never-smokers) were genotyped for SNP rs4680 and extensively characterized concerning their smoking behavior. RESULTS: We found no association between smoking status and SNP rs4680 genotype nor did we find a significant association to the degree of tobacco dependence. CONCLUSIONS: Although prefrontal cortical and ventral striatal activity are highly relevant for addictive behavior, and under partial control of COMT rs4680 genotype, no association between   COMT and smoking behavior was observed. Other genetic variants may account for the high heritability of behavioral smoking phenotypes..">
+	<sentence ID="1201_0" START="1057" END="1275">
+		<snp ID="0" START="1189" END="1200" TEXT="COMT rs4680"/>
+		<snp ID="1" START="1236" END="1240" TEXT="COMT"/>
+		<phenotype ID="0" START="1140" END="1275" text="addictive behavior"/>
+		<phenotype ID="1" START="1245" END="1275" text="smoking behavior"/>
+		<modality_marker  START="1120" END="1126" text="highly"/>
+		<modality_marker  START="1266" END="1274" text="observed"/>
+		<negation_scope  START="1211" END="1275" text="no association between   COMT and smoking behavior was observed.">
+			<negation_cue START="1211" END="1213" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

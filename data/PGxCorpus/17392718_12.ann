@@ -1,0 +1,11 @@
+T1	Chemical 24 33	talinolol 
+T2	Phenotype 82 97	MDR1 expression 
+T3	Gene_or_protein 82 86	MDR1 
+T4	Chemical 10 13	SJW
+T5	Chemical 116 119	SJW
+T6	Gene_or_protein 163 177	P-glycoprotein
+T7	Pharmacokinetic_phenotype 24 37	talinolol AUC
+R2	increases Arg1:T4 Arg2:T2	
+R3	causes Arg1:T5 Arg2:T6	
+R1	decreases Arg1:T4 Arg2:T7	
+#1	AnnotatorNotes R3	hyp

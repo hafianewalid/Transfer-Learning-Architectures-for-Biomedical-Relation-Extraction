@@ -1,0 +1,1 @@
+In conditional logistic regression, there was no association between the number of alleles with CAG repeat length >or=21 (or >or=22) and risk of CVD, myocardial infarctions or ischemic stroke.

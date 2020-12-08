@@ -1,0 +1,7 @@
+T1	SNP 92 101	rs7903146
+T2	Phenotype 144 170	impaired glucose tolerance
+T3	Phenotype 174 182	diabetes
+T4	Modality_Marker 107 111	more
+T5	Modality_Marker 112 118	likely
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,15 @@
+T1	Limited_variation 56 70	VEGF genotypes 
+T2	Gene_or_protein 56 60	VEGF 
+T3	Disease 88 116	metastatic colorectal cancer 
+T4	Chemical 127 137	irinotecan 
+T6	Chemical 163 174	bevacizumab
+T7	Chemical 127 174	irinotecan -based chemotherapy plus bevacizumab
+T5	Phenotype 189 191	RR
+T8	Phenotype 196 198	OS
+T9	Chemical 127 157	irinotecan -based chemotherapy
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T1 Arg2:T8	
+R3	influences Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp

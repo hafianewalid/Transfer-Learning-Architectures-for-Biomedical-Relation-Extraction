@@ -1,0 +1,6 @@
+T3	Gene_or_protein 77 108	UDP-glucuronosyltransferase 1A1 
+T2	Chemical 118 128	irinotecan
+T5	Pharmacodynamic_phenotype 118 137	irinotecan toxicity
+T1	Limited_variation 8 113	polymorphism in the phenobarbital -responsive enhancer module of the UDP-glucuronosyltransferase 1A1 gene
+R1	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R1	hyp

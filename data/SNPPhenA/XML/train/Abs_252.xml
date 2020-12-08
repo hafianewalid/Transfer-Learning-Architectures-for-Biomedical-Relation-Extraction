@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1171" TEXT="OBJECTIVE: Common DNA variants of the transcription factor 7-like 2 gene (TCF7L2) are associated with type 2 diabetes. Familial combined hyperlipidaemia (FCHL) is characterised by hypertriacylglycerolaemia, hypercholesterolaemia, or both. Additionally, disturbances in glucose metabolism are commonly seen in FCHL. Therefore, we hypothesised that TCF7L2 may contribute to the genetic susceptibility for this common dyslipidaemia. METHODS: We investigated the effect of the TCF7L2 variants, rs7903146 and rs12255372, on FCHL and its component traits triacylglycerol (TG), total cholesterol (TC) and apolipoprotein B (ApoB) in 759 individuals from 55 Mexican families. As a replication sample, 719 individuals from 60 Finnish FCHL families were analysed. We also used quantitative RT-PCR to evaluate the transcript levels of TCF7L2 in 47 subcutaneous fat biopsies from unrelated Mexican FCHL and normolipidaemic participants. RESULTS: Significant evidence for association was observed for high TG for the T alleles of rs7903146 and rs12255372 (p = 0.005 and p = 0.01) in Mexican FCHL families,No evidence for association was observed for FCHL, TC, ApoB or glucose in Mexicans. When testing rs7903146 and rs12255372 for replication in Finnish FCHL families, these single nucleotide polymorphisms were associated with TG (p = 0.01 and p = 0.007). Furthermore, we observed statistically significant decreases in the mRNA levels (p = 0.0002) of TCF7L2 in FCHL- and TG-affected individuals. TCF7L2 expression was not altered by the SNP genotypes. CONCLUSIONS: These data show that rs7903146 and rs12255372 are significantly associated with high TG in FCHL families from two different populations. In addition, significantly decreased expression of TCF7L2 was observed in TG- and FCHL-affected individuals.">
+	<sentence ID="1171_0" START="933" END="1174">
+		<snp ID="0" START="1016" END="1025" TEXT="rs7903146"/>
+		<snp ID="1" START="1030" END="1040" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1077" END="1174" text="FCHL"/>
+		<phenotype ID="1" START="1136" END="1174" text="FCHL"/>
+		<phenotype ID="2" START="1142" END="1174" text="TC"/>
+		<phenotype ID="3" START="1146" END="1174" text="ApoB or glucose"/>
+		<modality_marker  START="974" END="982" text="observed"/>
+		<modality_marker  START="987" END="991" text="high"/>
+		<modality_marker  START="1123" END="1131" text="observed"/>
+		<negation_scope  START="1091" END="1174" text="No evidence for association was observed for FCHL, TC, ApoB or glucose in Mexicans.">
+			<negation_cue START="1091" END="1093" text="No"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="6" PHENOTYPEID="2" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="7" PHENOTYPEID="3" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1171_1" START="1175" END="1342">
+		<snp ID="2" START="1188" END="1197" TEXT="rs7903146"/>
+		<snp ID="3" START="1202" END="1212" TEXT="rs12255372"/>
+		<phenotype ID="4" START="1240" END="1342" text="FCHL"/>
+		<phenotype ID="5" START="1314" END="1342" text="TG"/>
+		<pair PAIRID="8" PHENOTYPEID="4" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="9" PHENOTYPEID="5" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="10" PHENOTYPEID="4" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="11" PHENOTYPEID="5" SNPID="3" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+	<sentence ID="1171_2" START="1553" END="1689">
+		<snp ID="4" START="1574" END="1583" TEXT="rs7903146"/>
+		<snp ID="5" START="1588" END="1598" TEXT="rs12255372"/>
+		<phenotype ID="6" START="1638" END="1689" text="TG"/>
+		<phenotype ID="7" START="1644" END="1689" text="FCHL"/>
+		<modality_marker  START="1564" END="1568" text="show"/>
+		<modality_marker  START="1633" END="1637" text="high"/>
+		<pair PAIRID="12" PHENOTYPEID="6" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="13" PHENOTYPEID="7" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="14" PHENOTYPEID="6" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="15" PHENOTYPEID="7" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

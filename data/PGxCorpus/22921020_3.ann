@@ -1,0 +1,10 @@
+T1	Chemical 5 12	steroid 
+T3	Gene_or_protein 65 70	SFRS3 
+T4	Gene_or_protein 75 80	FKBP4 
+T5	Pharmacodynamic_phenotype 5 21	steroid response
+T7	Limited_variation 50 64;75 80	alleles in the FKBP4
+T2	Limited_variation 50 70	alleles in the SFRS3
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T7 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

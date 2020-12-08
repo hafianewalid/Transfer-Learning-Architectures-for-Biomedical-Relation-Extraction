@@ -1,0 +1,9 @@
+T1	Limited_variation 50 70	CHRNA5 polymorphisms 
+T2	Gene_or_protein 50 56	CHRNA5 
+T3	Chemical 128 136	nicotine 
+T4	Chemical 151 159	nicotine 
+T5	Chemical 197 205	nicotine 
+T6	Phenotype 75 93	smoking topography
+T7	Chemical 187 194	placebo
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1216" TEXT="Cigarette smoking is one of the major risk factors for COPD and COPD severity. In turn COPD is a major independent risk factor for lung cancer. Genome-wide association (GWA) studies both in lung cancer and COPD highlighted the same variants (SNPs) on chromosome 15q25 marking the genecluster CHRNA3-CHRNB4-CHRNA5 for these smoking related diseases, showing a stimulating connection between this common genetic region and smoking behavior and smoking related illnesses. Different authors identified two candidate regions associated with age at smoking initiation in patients withCOPD. The nicotinic acetylcholine receptor polymorphism rs1051730 on chromosome 15q25 is associated with major tobacco-related diseases in the general population with additional increased risk of COPD as well as lung cancer. Moreover variants on the gene cluster CHRNA3-CHRNB4-CHRNA5 are associated with nicotine addiction antismoking therapy and antismoking therapy side-effects. These findings not only support the notion that variants can influence any therapy for smoking cessation, but offer rational bases to develop new drugs and new therapeutic strategies. Scope of Proposed Topic (50 words): Genome-wide association (GWA) studies both in lung cancer and COPD highlighted the same variants (SNPs) on the gene cluster CHRNA3-CHRNB4-CHRNA5. These data not only support the notion that variants can influence any therapy for smoking cessation, but offer rational bases to develop new drugs and new therapeutic strategies.">
+	<sentence ID="1216_0" START="584" END="802">
+		<snp ID="0" START="634" END="643" TEXT="rs1051730"/>
+		<phenotype ID="2" START="689" END="802" text="tobacco-related diseases"/>
+		<phenotype ID="0" START="774" END="802" text="COPD "/>
+		<phenotype ID="1" START="790" END="802" text="lung cancer"/>
+		<modality_marker  START="714" END="728" text="in the general"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

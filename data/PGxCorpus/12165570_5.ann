@@ -1,0 +1,8 @@
+T2	Gene_or_protein 68 72	CREB 
+T3	Chemical 114 122	morphine 
+T4	Chemical 162 169	sucrose 
+T1	Phenotype 56 72	activity of CREB
+T5	Pharmacodynamic_phenotype 114 129	morphine reward
+T6	Phenotype 147 169	preference for sucrose
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T2 Arg2:T6	

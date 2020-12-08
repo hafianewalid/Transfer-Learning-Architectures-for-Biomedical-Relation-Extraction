@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1039" TEXT=" BACKGROUND: Several studies have examined associations between genetic variants and the risk of gestational diabetes mellitus (GDM). However, inferences from these studies were often hindered by limited statistical power and conflicting results. We aimed to systematically review and quantitatively summarize the association of commonly studied single nucleotide polymorphisms (SNPs) with GDM risk and to identify important gaps that remain for consideration in future studies. METHODS: Genetic association studies of GDM published through 1 October 2012 were searched using the HuGE Navigator and PubMed databases. A SNP was included if the SNP-GDM associations were assessed in three or more independent studies. Two reviewers independently evaluated the eligibility for inclusion and extracted the data. The allele-specific odds ratios (ORs) and 95% confidence intervals (CIs) were pooled using random effects models accounting for heterogeneity. RESULTS: Overall, 29 eligible articles capturing associations of 12 SNPs from 10 geneswere included for the systematic review. The minor alleles of rs7903146  T= TF(TCF7L2), rs12255372 T=TF (TCF7L2), rs1799884 (-30G/A, GCK), rs5219 (E23K,KCNJ11), rs7754840  (CDKAL1), rs4402960 (IGF2BP2), rs10830963 (MTNR1B), rs1387153  (MTNR1B) and rs1801278 (Gly972Arg, IRS1) were significantly associated with a higher risk of GDM. Among them, genetic variants in   TCF7L2 showed the strongest association with GDM risk, with ORs (95% CIs) of 1.44 (1.29-1.60, P &lt; 0.001) per T allele of rs7903146 and 1.46 (1.15-1.84, P = 0.002) per T allele of rs12255372. CONCLUSIONS: In this systematic review, we found significant associations of GDM risk with nine SNPs in seven genes, most of which have been related to the regulation of insulin secretion..">
+	<sentence ID="1039_0" START="1078" END="1369">
+		<snp ID="0" START="1099" END="1108" TEXT="rs7903146"/>
+		<snp ID="1" START="1125" END="1135" TEXT="rs12255372"/>
+		<snp ID="2" START="1151" END="1160" TEXT="rs1799884"/>
+		<snp ID="3" START="1176" END="1182" TEXT="rs5219"/>
+		<snp ID="4" START="1198" END="1207" TEXT="rs7754840"/>
+		<snp ID="5" START="1219" END="1228" TEXT="rs4402960"/>
+		<snp ID="6" START="1240" END="1250" TEXT="rs10830963"/>
+		<snp ID="7" START="1261" END="1270" TEXT="rs1387153"/>
+		<snp ID="8" START="1285" END="1294" TEXT="rs1801278"/>
+		<phenotype ID="0" START="1365" END="1369" text="GDM"/>
+		<modality_marker  START="1350" END="1356" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="7" PHENOTYPEID="0" SNPID="7" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="8" PHENOTYPEID="0" SNPID="8" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1039_1" START="1370" END="1593">
+		<snp ID="9" START="1404" END="1410" TEXT="TCF7L2"/>
+		<snp ID="11" START="1525" END="1534" TEXT="rs7903146"/>
+		<snp ID="10" START="1583" END="1593" TEXT="rs12255372"/>
+		<phenotype ID="1" START="1449" END="1593" text="GDM"/>
+		<modality_marker  START="1411" END="1417" text="showed"/>
+		<modality_marker  START="1422" END="1431" text="strongest"/>
+		<pair PAIRID="9" PHENOTYPEID="1" SNPID="9" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="10" PHENOTYPEID="1" SNPID="10" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="11" PHENOTYPEID="1" SNPID="11" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

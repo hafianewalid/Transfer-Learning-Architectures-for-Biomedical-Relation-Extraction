@@ -1,0 +1,8 @@
+T1	Chemical 24 33	bupropion 
+T2	Limited_variation 112 136	DRD2 Taq1 A2/A2 genotype 
+T3	Gene_or_protein 112 116	DRD2 
+T5	Phenotype 55 72	smoking cessation
+R1	influences Arg1:T2 Arg2:T5	
+R2	treats Arg1:T1 Arg2:T5	
+R3	influences Arg1:T2 Arg2:T1	
+#1	AnnotatorNotes R2	hyp

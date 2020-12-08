@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1261" TEXT="Recent genome-wide association (GWA) studies have identified new genetic determinants of complex quantitative traits, including plasma triglyceride (TG). We hypothesized that common variants associated with mild TG variation identified in GWA studies would also be associated with severehypertriglyceridemia (HTG). We studied 132 patients of European ancestry with severe HTG (fasting plasma TG &gt; 10 mmol/l), who had no mutations found by resequencing of candidate genes, and 351 matched normolipidemic controls. We determined genotypes for: GALNT2 rs4846914, TBL2/MLXIPLrs17145738, TRIB1 rs17321515, ANGPTL3 rs12130333, GCKR rs780094, APOA5 rs3135506 (S19W), APOA5 rs662799 (-1131T &gt; C), APOE (isoforms) and LPL rs328 (S447X). We found that: (i) genotypes, including those of APOA5 S19W, APOA5 -1131T &gt; C, APOE, GCKR, TRIB1 and TBL2/MLXIPL, were significantly associated with severe HTG; (ii) odds ratios for these genetic variables were significant in both univariate and multivariate regressionanalyses, irrespective of the presence or absence of diabetes or obesity; (iii) a significant fraction-about one-quarter-of the explained variation in disease status was associated with these genotypes. Therefore, common SNPs (single nucleotide polymorphisms) that are associated with mild TG variation in GWA studies of normolipidemic subjects are also associated with severe HTG. Our findings are consistent with the emerging model of a complex genetic trait. At the extremes of a quantitative trait, such as severe HTG, are found the cumulative contributions of both multiple rare alleles with large genetic effects and common alleles with small effects.">
+	<sentence ID="1261_0" START="728" END="1199">
+		<snp ID="0" START="777" END="782" TEXT="APOA5"/>
+		<snp ID="1" START="819" END="824" TEXT="TRIB1"/>
+		<phenotype ID="0" START="884" END="1199" text="HTG"/>
+		<phenotype ID="1" START="1050" END="1199" text="diabetes"/>
+		<phenotype ID="2" START="1062" END="1199" text="obesity"/>
+		<modality_marker  START="731" END="736" text="found"/>
+		<modality_marker  START="1100" END="1105" text="about"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="2" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

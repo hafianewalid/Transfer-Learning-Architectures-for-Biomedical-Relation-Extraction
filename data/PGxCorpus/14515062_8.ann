@@ -1,0 +1,13 @@
+T1	Gene_or_protein 34 39	IL-1B 
+T3	Limited_variation 34 48	IL-1B allele 2
+T4	Pharmacodynamic_phenotype 105 142	adenosine -stimulated myocardial flow
+T5	Pharmacodynamic_phenotype 145 149	ASMF
+T6	Pharmacodynamic_phenotype 127 142	myocardial flow
+T7	Phenotype 127 142;96 101	myocardial flow basal
+T2	Chemical 105 114	adenosine
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T7	
+R3	influences Arg1:T3 Arg2:T4	
+R4	influences Arg1:T2 Arg2:T7	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R3	neg

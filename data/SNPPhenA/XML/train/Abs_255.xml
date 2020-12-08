@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1174" TEXT="OBJECTIVE: Common variants of the gene encoding transcription factor 7-like 2 (TCF7L2) have a powerful effect on individual risk of type 2 diabetes (per allele odds ratio approximately 1.35). Polycystic ovary syndrome (PCOS) and type 2 diabetes are familial conditions sharing common features. Based on this, the aim of the present study was to establish whether variation in TCF7L2 also influences the development of PCOS. METHODS: We conducted a genetic association study of variants of TCF7L2 (rs7903146 and rs12255372) using both case-control and quantitative trait approaches. Case-control analyses were conducted in (1) 369 PCOS cases and 2574 controls of UK British/Irish origin, and (2) 540 women with PCOS symptoms and 1083 controls from the Northern Finland Birth Cohort of 1966. Quantitative trait analyses (androgen levels) were also performed (1249 individuals). RESULTS: There was no association between rs7903146 and PCOS in the UK case-control study (Cochran-Armitage test, p = 0.51); nor with symptomatic status in the Finnish cohort (p = 0.36). In addition, there were no relationships between the TCF7L2 single nucleotide polymorphism rs7903146 and androgen levels (UK cases, p = 0.99; Finnish controls, p = 0.57; Finnish symptomatic cases, p = 0.80). Results at rs12255372 were similar, reflecting strong linkage disequilibrium with rs7903146. CONCLUSIONS: Our study was powered to detect an effect on PCOS susceptibility similar to that previously reported for these variants on type 2 diabetes. Failure to detect any evident association with PCOS provides the strongest evidence yet that the genetic architecture of these related conditions is qualitatively distinct.">
+	<sentence ID="1174_0" START="885" END="1062">
+		<snp ID="0" START="918" END="927" TEXT="rs7903146"/>
+		<phenotype ID="0" START="932" END="1062" text="PCOS"/>
+		<negation_scope  START="895" END="1062" text="no association between rs7903146 and PCOS in the UK case-control study (Cochran-Armitage test, p = 0.51); nor with symptomatic status in the Finnish cohort (p = 0.36).">
+			<negation_cue START="895" END="897" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1174_1" START="1063" END="1270">
+		<snp ID="1" START="1154" END="1163" TEXT="rs7903146"/>
+		<phenotype ID="1" START="1168" END="1270" text="androgen levels"/>
+		<negation_scope  START="1063" END="1270" text="In addition, there were no relationships between the TCF7L2 single nucleotide polymorphism rs7903146 and androgen levels (UK cases, p = 0.99; Finnish controls, p = 0.57; Finnish symptomatic cases, p = 0.80).">
+			<negation_cue START="1087" END="1089" text="no"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,3 @@
+T1	SNP 41 52	TCF7L2 HapA
+T2	Phenotype 58 76	adiposity measures
+R1	negative_association Arg1:T1 Arg2:T2

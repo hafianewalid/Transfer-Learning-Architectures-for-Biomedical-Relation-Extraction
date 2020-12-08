@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1221" TEXT="CONCLUSIONS: The study extends on the observation of a strong multiethnic association of polymorphisms in the TCRA and P2RY11 with narcolepsy, but does not confirm the association of CPT1B/CHKB (rs5770917) in the Chinese population.">
+	<sentence ID="1221_0" START="0" END="232">
+		<snp ID="0" START="110" END="114" TEXT="TCRA"/>
+		<snp ID="1" START="119" END="125" TEXT="P2RY11"/>
+		<snp ID="2" START="195" END="204" TEXT="rs5770917"/>
+		<phenotype ID="0" START="131" END="232" text="narcolepsy"/>
+		<modality_marker  START="0" END="11" text="CONCLUSIONS"/>
+		<modality_marker  START="38" END="49" text="observation"/>
+		<modality_marker  START="55" END="61" text="strong"/>
+		<modality_marker  START="156" END="163" text="confirm"/>
+		<negation_scope  START="152" END="232" text="not confirm the association of CPT1B/CHKB (rs5770917) in the Chinese population.">
+			<negation_cue START="152" END="155" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

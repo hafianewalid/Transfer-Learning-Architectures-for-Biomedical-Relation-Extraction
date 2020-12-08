@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1016" TEXT="The μ-opioid receptor is the primary site of action of most opioids. The 118A&gt;G (rs1799971) polymorphism in exon 1 of the μ-opioid receptor gene(OPRM1) leads to an Asn40Asp amino acid change that affects a putative N-glycosylation site. It has been widely investigated for association with alcohol and drug dependence and pain sensitivity, with mixed results. The aim of the current study was to examine whether this polymorphism was associated with heroin dependence in a large Bulgarian cohort of 1842 active users and 1451 population controls. SNP genotyping was done using Real-Time PCRTaqMan technology. Association analyses were conducted, separately for Roma and non-Roma participants. Our results suggest that there is no direct effect of 118A&gt;G genotype on the risk for heroin dependence among active heroin users.">
+	<sentence ID="1016_0" START="693" END="823">
+		<snp ID="0" START="747" END="753" TEXT="118A&gt;G"/>
+		<phenotype ID="0" START="779" END="823" text="heroin dependence"/>
+		<modality_marker  START="705" END="712" text="suggest"/>
+		<negation_scope  START="727" END="823" text="no direct effect of 118A&gt;G genotype on the risk for heroin dependence among active heroin users.">
+			<negation_cue START="727" END="729" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

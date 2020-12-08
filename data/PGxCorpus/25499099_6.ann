@@ -1,0 +1,7 @@
+T1	Chemical 27 37	S-warfarin 
+T2	Limited_variation 79 88	rs7089580 
+T3	Pharmacokinetic_phenotype 9 37	oral clearance of S-warfarin
+T4	Limited_variation 79 101	rs7089580 allele ( T )
+T5	Limited_variation 116 137	wild-type homozygotes
+R1	increases Arg1:T4 Arg2:T3	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1035" TEXT="BACKGROUND: Genotypes of tumor necrosis factor alpha (TNF-α) and its surface receptors, TNFRSF1A and TNFRSF1B, have been examined in terms of the progression, metastasis, clinical efficacy, and prognosis of various cancers; however, little is known about their effects on clinical outcome in patients with esophageal squamous cell carcinoma (ESCC).">
+	<sentence ID="1035_0" START="0" END="348">
+		<snp ID="0" START="88" END="96" TEXT="TNFRSF1A"/>
+		<snp ID="1" START="101" END="109" TEXT="TNFRSF1B"/>
+		<phenotype ID="0" START="306" END="348" text="esophageal squamous cell carcinoma"/>
+		<modality_marker  START="233" END="239" text="little"/>
+		<modality_marker  START="243" END="248" text="known"/>
+		<modality_marker  START="249" END="254" text="about"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

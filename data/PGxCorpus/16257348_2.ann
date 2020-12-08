@@ -1,0 +1,9 @@
+T1	Chemical 62 72	tryptophan 
+T2	Gene_or_protein 105 109	TPH1 
+T3	Limited_variation 105 115	TPH1 A218C 
+T4	Phenotype 127 150	age of alcoholism onset 
+T5	Gene_or_protein 62 84	tryptophan hydroxylase
+T6	Limited_variation 62 102	tryptophan hydroxylase gene polymorphism
+T7	Disease 134 144	alcoholism
+R2	influences Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R2	hyp

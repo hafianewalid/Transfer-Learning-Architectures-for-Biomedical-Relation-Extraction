@@ -1,0 +1,19 @@
+T1	Gene_or_protein 44 48	EGFR 
+T2	Chemical 108 116	afatinib 
+T3	Limited_variation 173 187	EGFR ( L858R ) 
+T4	Gene_or_protein 173 177	EGFR 
+T5	Phenotype 227 240	tumor relapse 
+T6	Disease 198 218	lung adenocarcinomas 
+T7	Disease 227 232	tumor 
+T8	Chemical 122 131	cetuximab
+T9	Chemical 108 131	afatinib plus cetuximab
+T10	Pharmacodynamic_phenotype 245 260	drug-resistance
+T11	Disease 44 68	EGFR -mutant lung cancer
+T12	Chemical 288 292	TKIs
+T13	Limited_variation 44 56	EGFR -mutant
+T14	Disease 173 218	EGFR ( L858R ) - induced lung adenocarcinomas
+R1	influences Arg1:T9 Arg2:T5	
+R2	influences Arg1:T9 Arg2:T10	
+R3	causes Arg1:T3 Arg2:T6	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1166" TEXT="BACKGROUND: Transcription factor 7-like 2 (TCF7L2) is a high mobility group-box containing protein that is a critical member of the Wnt/beta-catenin canonical signaling pathway. In addition to its recently recognized role in diabetes, aberrant TCF7L2 expression has been implicated in cancer through regulation of cell proliferation and apoptosis by c-MYC and cyclin D. It has been hypothesized that germline variants within the TCF7L2 gene previously associated with diabetes may affect cancer risk through the Wnt/beta-catenin signaling pathway. Specifically, the same risk allele of single nucleotide polymorphism (SNP) rs12255372 that is associated with diabetes (T allele) has recently been associated with an increased risk of breast cancer. METHODS: Here, we investigated associations between rs12255372 and prostate cancer risk among 1,457 cases and 1,351 controls from a population-based study. RESULTS: The variant TT genotype was not associated with overall prostate cancer risk. However, there was evidence that men homozygous for the variant T allele had an elevated relative risk of more aggressive prostate cancer, as defined by high Gleason score (OR = 1.7, 95% CI = 1.0-2.8) or regional/distant stage (OR = 1.7, 95% CI = 1.1-2.6) disease. CONCLUSIONS: Our findings suggest that this variant in the TCF7L2 gene may be associated with risk of developing more clinically significant disease. These results need to be confirmed, but provide initial evidence that the TCF7L2 gene may alter risk of developing more aggressive prostate cancer.">
+	<sentence ID="1166_0" START="548" END="747">
+		<snp ID="0" START="623" END="633" TEXT="rs12255372"/>
+		<phenotype ID="0" START="658" END="747" text="diabetes"/>
+		<phenotype ID="1" START="733" END="747" text="breast cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

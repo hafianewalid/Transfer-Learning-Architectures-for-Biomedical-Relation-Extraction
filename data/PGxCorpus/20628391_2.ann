@@ -1,0 +1,26 @@
+T1	Gene_or_protein 27 47	thymidylate synthase
+T2	Gene_or_protein 50 54	TYMS
+T4	Limited_variation 61 124	UDP-glucoronosyltransferase 1A ( UGT1A ) germline polymorphisms
+T5	Gene_or_protein 61 91	UDP-glucoronosyltransferase 1A
+T6	Gene_or_protein 94 99	UGT1A
+T7	Disease 163 166	CRC
+T8	Disease 143 160	colorectal cancer
+T9	Chemical 191 201	irinotecan
+T10	Chemical 207 221	5-fluorouracil
+T11	Chemical 224 234	irinotecan
+T12	Phenotype 132 168	outcome of colorectal cancer ( CRC )
+T13	Limited_variation 102 124;27 56	germline polymorphisms thymidylate synthase ( TYMS )
+T14	Chemical 237 240	5FU
+T3	Chemical 191 221	irinotecan plus 5-fluorouracil
+T15	Chemical 224 240	irinotecan / 5FU
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R3	isEquivalentTo Arg1:T7 Arg2:T8	
+R4	influences Arg1:T13 Arg2:T12	
+R5	influences Arg1:T4 Arg2:T12	
+R8	isEquivalentTo Arg1:T15 Arg2:T3	
+R7	treats Arg1:T3 Arg2:T8	
+R6	isEquivalentTo Arg1:T11 Arg2:T9	
+R9	isEquivalentTo Arg1:T14 Arg2:T10	
+#1	AnnotatorNotes R5	hyp
+#2	AnnotatorNotes R4	hyp

@@ -1,0 +1,10 @@
+T1	Gene_or_protein 22 28	CYP3A4 
+T2	Chemical 62 70	fentanyl 
+T3	Gene_or_protein 150 156	CYP3A4 
+T4	Gene_or_protein 200 206	CYP3A4 
+T5	Haplotype 22 40	CYP3A4 * 1G / * 1G
+T6	Phenotype 110 114	pain
+T7	Haplotype 150 166	CYP3A4 * 1 / * 1
+T8	Haplotype 200 217	CYP3A4 * 1 / * 1G
+R1	influences Arg1:T5 Arg2:T2	
+R2	treats Arg1:T2 Arg2:T6	

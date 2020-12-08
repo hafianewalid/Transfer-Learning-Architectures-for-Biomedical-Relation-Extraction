@@ -1,0 +1,5 @@
+T1	Chemical 14 22	oridonin 
+T2	Phenotype 37 60	activity of c-Kit ( + ) 
+T3	Gene_or_protein 49 54	c-Kit 
+T5	Limited_variation 49 60	c-Kit ( + )
+R1	decreases Arg1:T1 Arg2:T2	

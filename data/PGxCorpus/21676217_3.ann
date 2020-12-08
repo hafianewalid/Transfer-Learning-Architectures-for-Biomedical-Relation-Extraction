@@ -1,0 +1,9 @@
+T1	Gene_or_protein 0 4	HER2 
+T2	Chemical 43 52	lapatinib 
+T3	Gene_or_protein 94 98	HER2 
+T4	Disease 94 124	HER2 -- positive breast cancer
+T5	Chemical 27 38	trastuzumab
+T7	Chemical 0 26	HER2 -related target drugs
+T6	Phenotype 94 110	HER2 -- positive
+R1	treats Arg1:T2 Arg2:T4	
+R4	treats Arg1:T5 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	SNP 60 70	rs16969968
+T2	SNP 92 101	rs1051730
+T3	Phenotype 129 149	heaviness of smoking
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T2 Arg2:T3

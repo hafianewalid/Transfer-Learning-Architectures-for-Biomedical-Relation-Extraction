@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1014" TEXT="This paper addresses a tenet of the literature on   APOE, i.e., the relationship between the effects of the ε4, one of the established genetic risk factor for Alzheimer's disease (AD), and its expression levels as determined by APOE promoter polymorphisms.">
+	<sentence ID="1014_0" START="0" END="256">
+		<snp ID="0" START="52" END="56" TEXT="APOE"/>
+		<phenotype ID="0" START="159" END="256" text="Alzheimer's disease (AD)"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

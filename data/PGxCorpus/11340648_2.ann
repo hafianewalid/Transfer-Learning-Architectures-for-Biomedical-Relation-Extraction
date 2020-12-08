@@ -1,0 +1,6 @@
+T1	Gene_or_protein 0 14	Neuropeptide Y 
+T2	Gene_or_protein 17 20	NPY 
+T3	Chemical 95 103	morphine 
+T5	Phenotype 75 114	behavioral signs of morphine withdrawal
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	decreases Arg1:T1 Arg2:T5	

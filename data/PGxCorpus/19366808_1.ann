@@ -1,0 +1,8 @@
+T1	Chemical 0 9	Sorafenib 
+T2	Gene_or_protein 61 68	BCR/ABL 
+T3	Phenotype 18 27	apoptosis
+T4	Phenotype 50 68	expressing BCR/ABL
+T5	Phenotype 87 102	kinase activity
+R1	causes Arg1:T1 Arg2:T3	
+R2	decreases Arg1:T1 Arg2:T5	
+R3	influences Arg1:T4 Arg2:T1	

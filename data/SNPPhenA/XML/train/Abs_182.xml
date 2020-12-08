@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1093" TEXT="BACKGROUND: Type 2 diabetes (T2D) is influenced by diverse environmental and genetic risk factors. Metabolic syndrome (MS) increases the risk of cardiovascular disease and diabetes. We analysed 14 cases of polymorphisms located in 10 candidate loci, in a sample of patients with T2D and controls from Mexico City. METHODS: We analysed the association of 14 polymorphisms located within 10 genes (TCF7L2, ENPP1, ADRB3, KCNJ11,LEPR, PPARgamma, FTO, CDKAL1, SIRT1 and HHEX) with T2D and MS. The analysis included 519 subjects with T2D defined according to the ADAcriteria, 389 with MS defined according to the AHA/NHLBI criteria and 547 controls. Association was tested with the program ADMIXMAP including individual ancestry, age, sex, education and in some cases body mass index (BMI), in a logistic regression model.RESULTS: The two markers located within the TCF7L2 gene showed strong associations with T2D (rs7903146, T allele, odd ratio (OR) = 1.76, p = 0.001 and rs12255372, T allele, OR = 1.78, p = 0.002), but did not show significant association with MS. The non-synonymous rs4994 polymorphism of the ADRB3 gene was associated with T2D (Trpallele, OR = 0.62, p = 0.001) and MS (Trp allele, OR = 0.74, p = 0.018). Nominally significant associations were also observed between T2D and the SIRT1 rs3758391 SNP and MS and the HHEX rs5015480 polymorphism. CONCLUSIONS: Variants located within the gene TCF7L2 are strongly associated with T2D but not with MS, providing support to previous evidence indicating that polymorphisms at the TCF7L2 gene increase T2D risk. In contrast, the non-synonymous ADRB3 rs4994 polymorphism is associated with T2D and MS.">
+	<sentence ID="1093_0" START="1062" END="1219">
+		<snp ID="0" START="1081" END="1087" TEXT="rs4994"/>
+		<phenotype ID="0" START="1139" END="1219" text="T2D"/>
+		<phenotype ID="1" START="1181" END="1219" text="MS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

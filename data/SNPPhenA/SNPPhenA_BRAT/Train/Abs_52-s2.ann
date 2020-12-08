@@ -1,0 +1,5 @@
+T1	SNP 45 54	rs5743551
+T2	Phenotype 109 113	FEV1
+T3	Modality_Marker 59 63	more
+T4	Modality_Marker 64 74	frequently
+R1	strong_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	SNP 80 89	rs5770917
+T2	Phenotype 219 229	narcolepsy
+T3	Modality_Marker 38 46	revealed
+T4	Modality_Marker 205 211	higher
+R1	strong_confidence_association Arg1:T1 Arg2:T2

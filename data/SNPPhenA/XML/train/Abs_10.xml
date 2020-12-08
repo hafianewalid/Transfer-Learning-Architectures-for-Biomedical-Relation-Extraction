@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1002" TEXT="BACKGROUND: Diabetic nephropathy (DN) is the most common cause of end-stage renal disease in Taiwan. Recent studies have demonstrated that the gene for apolipoprotein E (APOE) is associated with end-stage renal disease in African Americans. In this study, we aimed to test the hypothesis that common single-nucleotide polymorphisms in the APOE gene might contribute to the development of DN in a Taiwanese population with type 2 diabetes (T2D). METHODS: We enrolled 180 patients with T2D found to have DN and 178 age- and sex-matched patients with T2D but without DN. The single-nucleotide polymorphisms rs7412 and rs429358 and common allele variants in the APOE gene were evaluated to test any association with DN. Multivariate logistic regression testing was used to determine factors associated with the risk of DN. RESULTS: The DN group had lower high-densitylipoprotein cholesterol levels and longer duration of diabetes, higher systolic and diastolic blood pressure, and higher blood urea nitrogen, creatinine, andtriglyceride concentrations than the group with T2D but without DN.  Analyses showed no significant effects of APOE rs7412 and APOE rs429358 on the frequencies of the allele and genotype between subjects with T2D with and without DN. There were also no significant effects of   APOE2 or E4 carriers on the development of DN, but multivariate logistic regression testing revealed that the duration of diabetes and triglyceride and hemoglobin A1c concentrations had independent effects on the development of DN. CONCLUSIONS: The APOE gene might not contribute to the risk of DN in Taiwanese patients with T2D.">
+	<sentence ID="1002_0" START="1254" END="1529">
+		<snp ID="0" START="1298" END="1303" TEXT="APOE2"/>
+		<phenotype ID="2" START="1341" END="1529" text="DN"/>
+		<phenotype ID="0" START="1420" END="1529" text="diabetes"/>
+		<phenotype ID="1" START="1526" END="1529" text="DN"/>
+		<modality_marker  START="1390" END="1398" text="revealed"/>
+		<negation_scope  START="1270" END="1343" text="no significant effects of   APOE2 or E4 carriers on the development of DN">
+			<negation_cue START="1270" END="1272" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

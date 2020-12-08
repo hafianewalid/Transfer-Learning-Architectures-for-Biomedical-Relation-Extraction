@@ -1,0 +1,9 @@
+T1	Chemical 14 22	lycopene 
+T2	Gene_or_protein 82 86	CD80 
+T3	Gene_or_protein 91 95	CD86 
+T4	Gene_or_protein 102 142	major histocompatibility complex type II
+T5	Phenotype 42 97	expression of costimulatory molecules ( CD80 and CD86 )
+T6	Phenotype 102 142;42 55	major histocompatibility complex type II expression of
+T7	Gene_or_protein 56 79	costimulatory molecules
+R1	decreases Arg1:T1 Arg2:T6	
+R2	decreases Arg1:T1 Arg2:T5	

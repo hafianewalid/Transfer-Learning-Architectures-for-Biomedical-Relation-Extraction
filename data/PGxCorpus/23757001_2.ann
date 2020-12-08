@@ -1,0 +1,21 @@
+T1	Gene_or_protein 109 130	serotonin transporter 
+T2	Gene_or_protein 213 218	HTR3A 
+T3	Gene_or_protein 221 226	HTR3B 
+T4	Gene_or_protein 233 239	SLC6A4 
+T5	Chemical 273 280	alcohol 
+T6	Disease 294 296	AD 
+T7	Disease 273 291	alcohol dependence
+T8	Gene_or_protein 83 90	5-HT3AB
+T9	Phenotype 62 79	drinking behavior
+T10	Limited_variation 181 218	genetic variations in the genes HTR3A
+T11	Limited_variation 181 212;233 239	genetic variations in the genes SLC6A4
+T12	Limited_variation 181 212;221 226	genetic variations in the genes HTR3B
+R1	isEquivalentTo Arg1:T6 Arg2:T7	
+R2	increases Arg1:T10 Arg2:T7	
+R4	increases Arg1:T12 Arg2:T7	
+R6	increases Arg1:T11 Arg2:T7	
+R3	influences Arg1:T8 Arg2:T9	
+R5	influences Arg1:T1 Arg2:T9	
+#3	AnnotatorNotes R6	hyp
+#2	AnnotatorNotes R4	hyp
+#1	AnnotatorNotes R2	hyp

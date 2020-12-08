@@ -1,0 +1,10 @@
+T2	Gene_or_protein 23 27	COMT 
+T3	Chemical 77 88	propranolol 
+T4	Phenotype 92 107	pain perception 
+T1	Haplotype 23 51	COMT high activity haplotype
+T5	Limited_variation 201 214	heterozygotes
+T6	Limited_variation 249 260	homozygotes
+T8	Pharmacodynamic_phenotype 67 107	effect of propranolol on pain perception
+T7	Haplotype 148 157	haplotype
+R1	treats Arg1:T3 Arg2:T4	
+R5	influences Arg1:T1 Arg2:T8	

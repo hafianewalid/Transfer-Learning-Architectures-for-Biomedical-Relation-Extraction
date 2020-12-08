@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1030" TEXT="Interest exists in identifying the factors that specifically contribute to the increased prevalence of cardiovascular disease observed in psychiatric disease. The apolipoprotein-E (APOE) gene codes for a protein that has a key role in metabolism of cholesterol and triglycerides, with increased levels of apoEfound in specific areas of post-mortem schizophrenic brains. This study investigated whether apoE variants influence the prevalence of cardiovascular risk factors (obesity, diabetes and dyslipidaemia), in patients receiving antipsychotic treatment, due to extension of the risk seen in the general population, but also due to the role of the APOE gene in mediating antipsychotic-induced side effects. Seven polymorphisms (rs741780, rs483082, rs429358, rs7412, rs10119, rs439401 and rs405509) were genotyped in 427 American Caucasian patients who were either receiving, or had been prescribed risperidone. Our results support the hypothesis that APOE gene variants influence the prevalence of diabetes and possibly overweight in psychiatric patients. Unfortunately, due to the cross sectional nature of this study, the contribution of antipsychotic treatment was not determined. These associations warrant prospective study to assess interaction between APOE gene variants and the propensity of antipsychotics to induce cardiovascular risk factors.">
+	<sentence ID="1030_0" START="914" END="1058">
+		<snp ID="0" START="954" END="972" TEXT="APOE gene variants"/>
+		<phenotype ID="2" START="1001" END="1058" text="diabetes"/>
+		<phenotype ID="0" START="1037" END="1058" text="psychiatric"/>
+		<modality_marker  START="926" END="933" text="support"/>
+		<modality_marker  START="1014" END="1022" text="possibly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+	<sentence ID="1030_1" START="1187" END="1356">
+		<snp ID="1" START="1262" END="1280" TEXT="APOE gene variants"/>
+		<phenotype ID="1" START="1328" END="1356" text="cardiovascular risk factors"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

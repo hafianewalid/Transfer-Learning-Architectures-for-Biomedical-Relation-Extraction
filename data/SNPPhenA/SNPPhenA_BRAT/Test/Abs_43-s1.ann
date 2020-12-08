@@ -1,0 +1,3 @@
+T1	SNP 12 20	CCR2-64I
+T2	Phenotype 48 51	PCa
+R1	weak_confidence_association Arg1:T1 Arg2:T2

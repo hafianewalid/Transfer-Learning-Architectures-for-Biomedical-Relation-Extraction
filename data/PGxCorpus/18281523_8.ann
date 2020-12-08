@@ -1,0 +1,11 @@
+T1	Chemical 0 9	Gefitinib 
+T2	Disease 49 54	tumor 
+T3	Limited_variation 113 124	EGFR status 
+T4	Gene_or_protein 113 117	EGFR 
+T5	Disease 132 138	tumors 
+T6	Pharmacokinetic_phenotype 27 40	PK properties
+T7	Pharmacodynamic_phenotype 74 92	PD characteristics
+R1	influences Arg1:T3 Arg2:T7	
+R2	influences Arg1:T3 Arg2:T6	
+R3	isAssociatedWith Arg1:T5 Arg2:T3	
+#1	AnnotatorNotes R2	neg

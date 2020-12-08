@@ -1,0 +1,15 @@
+T1	SNP 56 65	rs7903146
+T2	SNP 70 80	rs12255372
+T3	SNP 130 142	rs10885406 a
+T4	SNP 145 154	rs7924080
+T5	Phenotype 109 124	type 2 diabetes
+T6	Phenotype 229 236	obesity
+T7	Modality_Marker 198 206	reported
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T1 Arg2:T6
+R3	neutral_association Arg1:T2 Arg2:T5
+R4	weak_confidence_association Arg1:T2 Arg2:T6
+R5	moderate_confidence_association Arg1:T3 Arg2:T5
+R6	weak_confidence_association Arg1:T3 Arg2:T6
+R7	negative_association Arg1:T4 Arg2:T5
+R8	weak_confidence_association Arg1:T4 Arg2:T6

@@ -1,0 +1,14 @@
+T1	Limited_variation 19 27	-1438A/G 
+T3	Disease 33 51	alcohol dependence
+T2	Limited_variation 97 109	5-HTTLPR S/S
+T4	Limited_variation 130 142	5-HTTLPR L/S
+T5	Limited_variation 164 176	5-HTTLPR L/L
+T6	Genomic_factor 97 105	5-HTTLPR
+T7	Genomic_factor 130 138	5-HTTLPR
+T8	Genomic_factor 164 172	5-HTTLPR
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	increases Arg1:T2 Arg2:T3	
+R3	influences Arg1:T4 Arg2:T3	
+R4	influences Arg1:T5 Arg2:T3	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R4	neg

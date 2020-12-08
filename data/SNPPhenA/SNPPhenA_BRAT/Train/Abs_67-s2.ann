@@ -1,0 +1,7 @@
+T1	SNP 16 26	rs12255372
+T2	SNP 212 222	rs12255372
+T3	Phenotype 228 235	BC risk
+T4	Modality_Marker 27 33	showed
+T5	Modality_Marker 163 171	revealed
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

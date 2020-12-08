@@ -1,0 +1,8 @@
+T1	Chemical 26 33	lithium 
+T3	Gene_or_protein 124 134	GSK-3 beta 
+T4	Chemical 153 160	lithium 
+T2	Pharmacodynamic_phenotype 94 112	inositol depletion
+T5	Chemical 94 102	inositol
+T6	Pharmacodynamic_phenotype 153 167	lithium action
+R2	isAssociatedWith Arg1:T3 Arg2:T6	
+R1	isAssociatedWith Arg1:T2 Arg2:T6	

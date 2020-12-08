@@ -1,0 +1,5 @@
+T1	Chemical 14 22	estrogen 
+T2	Gene_or_protein 76 78	HL 
+T4	Pharmacodynamic_phenotype 14 37	estrogen responsiveness
+T3	Genomic_factor 55 87	-1557 / -1175 of the HL promoter
+R1	influences Arg1:T3 Arg2:T4	

@@ -1,0 +1,32 @@
+T1	Disease 349 359	restenosis 
+T2	Gene_or_protein 102 131	angiotensin converting enzyme 
+T3	Gene_or_protein 134 137	ACE 
+T4	Gene_or_protein 169 184	angiotensinogen 
+T5	Gene_or_protein 187 190	AGT 
+T6	Limited_variation 169 198	angiotensinogen ( AGT ) M253T 
+T7	Gene_or_protein 203 233	angiotensin II type 1 receptor 
+T8	Gene_or_protein 236 240	AT1R 
+T9	Limited_variation 203 249	angiotensin II type 1 receptor ( AT1R ) A1166C 
+T10	Chemical 270 279	quinapril 
+T11	Gene_or_protein 285 288	ACE 
+T12	Limited_variation 102 158	angiotensin converting enzyme ( ACE ) insertion/deletion
+T13	Pharmacodynamic_phenotype 260 279	effect of quinapril
+T14	Gene_or_protein 32 77	renin-angiotensin system ( RAS ) related gene
+T15	Limited_variation 32 91	renin-angiotensin system ( RAS ) related gene polymorphisms
+T16	Chemical 285 298	ACE inhibitor
+T17	Disease 366 400	percutaneous coronary intervention
+T18	Disease 403 406	PCI
+R1	isEquivalentTo Arg1:T3 Arg2:T2	
+R2	isEquivalentTo Arg1:T5 Arg2:T4	
+R3	isEquivalentTo Arg1:T8 Arg2:T7	
+R4	treats Arg1:T10 Arg2:T1	
+R5	isAssociatedWith Arg1:T15 Arg2:T13	
+R7	isAssociatedWith Arg1:T6 Arg2:T13	
+R8	isAssociatedWith Arg1:T9 Arg2:T13	
+R6	isAssociatedWith Arg1:T12 Arg2:T13	
+R9	isEquivalentTo Arg1:T18 Arg2:T17	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R5	hyp
+#4	AnnotatorNotes R7	hyp
+#5	AnnotatorNotes R8	hyp
+#3	AnnotatorNotes R6	hyp

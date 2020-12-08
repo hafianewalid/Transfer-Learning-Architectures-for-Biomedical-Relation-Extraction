@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1003" TEXT="In this meta analysis, we assessed 10 case-control studies included 7,067 cases and 9,374 controls of the association between CYP1B1 SNPs of Leu432Val (rs1056836, 432C&gt;G), Asn453Ser (rs1800440, 453A&gt;G), Ala119Ser (rs1056827, 119G&gt;T), Arg48Gly (rs10012, 48C&gt;G) and the risk of lung cancer.">
+	<sentence ID="1003_0" START="0" END="288">
+		<snp ID="0" START="152" END="161" TEXT="rs1056836"/>
+		<snp ID="1" START="183" END="192" TEXT="rs1800440"/>
+		<snp ID="2" START="214" END="223" TEXT="rs1056827"/>
+		<snp ID="3" START="244" END="251" TEXT="rs10012"/>
+		<phenotype ID="0" START="276" END="288" text="lung cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

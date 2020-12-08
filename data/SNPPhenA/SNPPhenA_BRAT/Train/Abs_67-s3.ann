@@ -1,0 +1,5 @@
+T1	SNP 51 61	rs12255372
+T2	Phenotype 77 88	familial BC
+T3	Modality_Marker 12 19	suggest
+T4	Modality_Marker 22 30	possible
+R1	weak_confidence_association Arg1:T1 Arg2:T2

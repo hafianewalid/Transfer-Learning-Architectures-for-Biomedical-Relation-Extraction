@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1173" TEXT="OBJECTIVE: The transcription factor 7-like 2 (TCF7L2) gene was initially reported to be associated with type 2 diabetes in Icelandic, Danish, and U.S. populations. We investigated whether TCF7L2 also has a role in type 2 diabetes susceptibility in Pima Indians. METHODS: The six variants reported to be associated with type 2 diabetes in the Icelandic study were genotyped in a population-based sample of 3,501 Pima Indians (1,561 subjects had type 2 diabetes, and 1,940 did not have diabetes). In addition, the coding and promoter regions of TCF7L2 were sequenced in 24 Pima subjects. The one variant identified by sequencing, 35 additional database variants positioned in introns, and the six variants reported in the Icelandic study were genotyped in Pima families to determine the haplotype structure of TCF7L2 among Pima Indians. Fourteen representative variants were selected and genotyped in 3,501 Pima Indians. RESULTS: The six variants initially reported to be associated with type 2 diabetes were less common in Pima Indians compared with samples of European origin, and none were associated with type 2 diabetes. One representative variant, rs1225404, was nominally associated with type 2 diabetes in a general model (additive P = 0.03, dominant P = 0.005) but not in a within-family analysis (additive P = 0.2, dominant P = 0.07). However, several variants were associated with BMI; in particular, rs12255372 was associated in both general and within-family analyses (both P = 0.0007). Modest associations were also found with traits predictive for type 2 diabetes. CONCLUSIONS: Variation within TCF7L2 does not confer major risk for type 2 diabetes among the Pima Indian population.">
+	<sentence ID="1173_0" START="1124" END="1342">
+		<snp ID="0" START="1152" END="1161" TEXT="rs1225404"/>
+		<phenotype ID="0" START="1193" END="1342" text="type 2 diabetes"/>
+		<modality_marker  START="1222" END="1227" text="model"/>
+		<negation_scope  START="1272" END="1342" text="not in a within-family analysis (additive P = 0.2, dominant P = 0.07).">
+			<negation_cue START="1272" END="1275" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1173_1" START="1343" END="1497">
+		<snp ID="1" START="1410" END="1420" TEXT="rs12255372"/>
+		<phenotype ID="1" START="1390" END="1497" text="BMI"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

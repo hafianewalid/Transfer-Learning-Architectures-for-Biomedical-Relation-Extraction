@@ -1,0 +1,8 @@
+T1	SNP 185 193	rs361525
+T2	SNP 208 217	rs1800629
+T3	Phenotype 236 245	psoriasis
+T4	Modality_Marker 25 34	suggested
+T5	Modality_Marker 71 74	may
+T6	Modality_Marker 255 266	unconfirmed
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

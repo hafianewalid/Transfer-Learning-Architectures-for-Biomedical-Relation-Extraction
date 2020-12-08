@@ -1,0 +1,11 @@
+T1	SNP 28 32	HapA
+T2	Phenotype 38 41	BMI
+T3	Phenotype 54 73	waist circumference
+T4	Phenotype 86 113	subcutaneous adipose tissue
+T5	Phenotype 128 151	visceral adipose tissue
+T6	Negation_Scope 10 163	no association of HapA with BMI (p = 0.98), waist circumference (p = 0.89), subcutaneous adipose tissue (p = 0.32) or visceral adipose tissue (p = 0.92).
+T7	Negation_Cue 10 12	no
+R1	negative_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3
+R3	negative_association Arg1:T1 Arg2:T4
+R4	negative_association Arg1:T1 Arg2:T5

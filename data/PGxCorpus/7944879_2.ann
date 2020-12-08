@@ -1,0 +1,8 @@
+T1	Chemical 83 92	clozapine 
+T4	Gene_or_protein 130 150	D4 dopamine receptor 
+T5	Gene_or_protein 153 157	DRD4 
+T2	Pharmacodynamic_phenotype 71 92	response to clozapine
+T3	Limited_variation 130 150;160 167	D4 dopamine receptor alleles
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T2	
+#1	AnnotatorNotes R2	hyp

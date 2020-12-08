@@ -1,0 +1,9 @@
+T1	Limited_variation 0 26	Genetic variation in NOS2A 
+T2	Gene_or_protein 21 26	NOS2A 
+T3	Chemical 101 110	ribavirin 
+T4	Disease 123 142	chronic hepatitis C
+T5	Pharmacodynamic_phenotype 48 118	sustained virological response to peginterferon plus ribavirin therapy
+T6	Chemical 82 95	peginterferon
+T7	Chemical 82 118	peginterferon plus ribavirin therapy
+R4	isAssociatedWith Arg1:T1 Arg2:T5	
+R9	treats Arg1:T7 Arg2:T4	

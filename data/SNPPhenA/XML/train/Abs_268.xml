@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1188" TEXT="OBJECTIVE: Variation in transcription factor 7-like 2 (TCF7L2) gene has been shown to be associated with type 2 diabetes and diabetes-related quantitative traits. We examined variation in a 0.1-Mb region surrounding marker DG10S478 for association with diabetes-related quantitative traits in 132 Mexican-American families of a proband with previous gestational diabetes mellitus (GDM). METHODS: Study participants were phenotyped by an oral glucose tolerance test (OGTT) and an intravenous glucose tolerance test and by a dual-energy X-ray absorptiometry scan for percentage of body fat. Of the 42 tag single nucleotide polymorphisms (SNPs) genotyped, 15 were identified. RESULTS: On univariate analysis, none of the SNPs showed association with diabetes-related quantitative traits. However, rs12255372 showed association with 30' Deltainsulin (OGTT 30' min fasting insulin) in an interaction with percentage of body fat (Bonferroni-corrected P = 0.027). The effect of adiposity to increase 30' Deltainsulin was greater in subjects with the T allele. This interaction was not associated with acute insulin response to intravenous glucose. rs12255372 also showed an association with beta-cell compensation for insulin resistance based on 30' Deltainsulin in an interaction with percentage of body fat (Bonferroni-corrected P = 0.014).  rs12255372 was also associated with GDM (odds ratio [OR] 2.49 [95% CI 1.17-5.31]; P = 0.018) in our case-control sample. CONCLUSIONS: We conclude that variation in TCF7L2 is associated with GDM and interacts with adiposity to alter insulin secretion in Mexican Americans. Our observations partly explain the increased ORs observed in previous associated studies when analyses were restricted to lean subjects and the variability in quantitative trait association results.">
+	<sentence ID="1188_0" START="785" END="956">
+		<snp ID="0" START="794" END="804" TEXT="rs12255372"/>
+		<phenotype ID="0" START="847" END="956" text="OGTT 30' min fasting insulin"/>
+		<modality_marker  START="805" END="811" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1188_1" START="1141" END="1335">
+		<snp ID="1" START="1141" END="1151" TEXT="rs12255372"/>
+		<phenotype ID="1" START="1211" END="1335" text="insulin resistance"/>
+		<modality_marker  START="1157" END="1163" text="showed"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1188_2" START="1337" END="1457">
+		<snp ID="2" START="1337" END="1347" TEXT="rs12255372"/>
+		<phenotype ID="2" START="1373" END="1457" text="GDM"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

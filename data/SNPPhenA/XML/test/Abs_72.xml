@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1070" TEXT="OBJECTIVE: The T allele of a functional polymorphism (rs4988235: LCT-13910 C&gt;T), close to the lactase gene, correlates with lactase persistence (LP) in adults. The LP genotype (TT+TC) has been associated with a higher BMI in European populations in cross-sectional studies. In the French D.E.S.I.R. cohort, a high consumption of dairy products was associated with a lower body weight gain over 9-years, and with a lower incidence of high plasmaglucose levels and/or the metabolic syndrome. Our aim was to test in this study, the association of rs4988235 with BMI and related metabolic diseases, in interaction with dairy product consumption. METHODS: Among 5212 subjects from D.E.S.I.R., 3575 Caucasians born in mainland France were genotyped and followed over 9years. RESULTS: Those with the LP genotype (frequency: 78.5%) had a higher dairy product consumption, at inclusion and at year-9 (P&lt;0.001). They also had a higher BMI at both time points (difference=0.3kg/m(2), P=0.05), but this effect was restricted to medium/high dairyproduct consumers (difference=0.5kg/m(2), P=0.006). This genotype was also associated with the metabolic syndrome (IDF definition), but this association disappeared after adjustment for BMI. In the whole population, the C allele was associated with a higher prevalence of impaired fastingglycemia and/or type 2 diabetes. CONCLUSIONS: The lactase persistence genotype was shown to be associated with a higher BMI in a longitudinal study, mainly in those consuming high amounts of dairy products. The association of the C allele, responsible for lactase non-persistence, with the risk ofhyperglycemia needs to be replicated.">
+	<sentence ID="1070_0" START="0" END="159">
+		<snp ID="0" START="54" END="63" TEXT="rs4988235"/>
+		<phenotype ID="0" START="124" END="159" text="lactase persistence"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1070_1" START="490" END="641">
+		<snp ID="1" START="544" END="553" TEXT="rs4988235"/>
+		<phenotype ID="1" START="575" END="641" text="metabolic diseases"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1076" TEXT="BACKGROUND: Variation in the CHRNA5-A3-B4 gene cluster is a promising candidate region for smoking behavior and has been linked to multiple smoking-related phenotypes (e.g., nicotine dependence) and diseases (e.g., lung cancer). Two single nucleotide polymorphisms (SNPs), rs16969968 in CHRNA5 and rs1051730 in CHRNA3, have generated particular interest. METHODS: We evaluated the published evidence for association between rs16969968 (k = 27 samples) and rs1051730 (k = 44 samples) SNPs with heaviness of smoking using meta-analytic techniques. We explored which SNP provided a stronger genetic signal and investigated study-level characteristics (i.e., ancestry, disease state) to establish whether the strength of association differed across populations. We additionally tested for small study bias and explored the impact of year of publication. CONCLUSIONS:  Meta-analysis indicated compelling evidence of an association between the rs1051730/rs16966968 variants and daily cigarette consumption (fixed effects: B = 0.91, 95% CI = 0.77, 1.06, p &lt; .001; random effects: B = 1.01, 95% CI = 0.81, 1.22, p &lt; .001), equivalent to a per-allele effect of approximately 1 cigarette/day.  SNP rs1051730 was found to provide a stronger signal than rs16966968 in stratified analyses (p(diff) = .028), although this difference was only qualitatively observed in the subset of samples that provided data on both SNPs. While the functional relevance of rs1051730 is unknown, it may be a strong tagging SNP for functional haplotypes in this region.">
+	<sentence ID="1076_0" START="364" END="545">
+		<snp ID="0" START="424" END="434" TEXT="rs16969968"/>
+		<snp ID="1" START="456" END="465" TEXT="rs1051730"/>
+		<phenotype ID="0" START="493" END="545" text="heaviness of smoking"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1076_1" START="864" END="1182">
+		<snp ID="2" START="938" END="958" TEXT="rs1051730/rs16966968"/>
+		<phenotype ID="1" START="972" END="1182" text="daily cigarette consumption"/>
+		<modality_marker  START="878" END="887" text="indicated"/>
+		<modality_marker  START="1152" END="1165" text="approximately"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1121" TEXT="To best of our knowledge, we first screened these variants known to be associated with neurodegeneration disease, E46K (rs104893875) in SNCA, A1442P in LRRK2,  IVS9 in PARK2, A350V in SLC41A1, P268S rs2066842, R702W rs2066844, G908R (rs2066845), 1007fs (rs2066847) in NOD2 and G2385R (rs34778348) in LRRK2 from southern China population.">
+	<sentence ID="1121_0" START="0" END="337">
+		<snp ID="0" START="120" END="131" TEXT="rs104893875"/>
+		<snp ID="6" START="142" END="148" TEXT="A1442P"/>
+		<snp ID="7" START="160" END="166" TEXT="IVS9 i"/>
+		<snp ID="8" START="175" END="180" TEXT="A350V"/>
+		<snp ID="1" START="193" END="208" TEXT="P268S rs2066842"/>
+		<snp ID="2" START="210" END="225" TEXT="R702W rs2066844"/>
+		<snp ID="3" START="234" END="243" TEXT="rs2066845"/>
+		<snp ID="4" START="254" END="263" TEXT="rs2066847"/>
+		<snp ID="5" START="285" END="295" TEXT="rs34778348"/>
+		<phenotype ID="0" START="87" END="337" text="neurodegeneration"/>
+		<modality_marker  START="11" END="24" text="our knowledge"/>
+		<modality_marker  START="59" END="64" text="known"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="0" SNPID="7" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="8" PHENOTYPEID="0" SNPID="8" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

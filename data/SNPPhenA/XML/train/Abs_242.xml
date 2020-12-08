@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1160" TEXT="OBJECTIVE: The gene encoding transcription factor 7-like 2 (TCF7L2) has been related to type 2 diabetes in multiple ethnic groups. Here, we investigate whether three single nucleotide polymorphisms (SNPs) in the TCF7L2 gene are associated with an impaired proinsulin:insulin ratio. METHODS: In this study we examined the associations between SNPs rs7901695, rs7903146 and rs12255372 in the TCF7L2 gene and metabolic variables affecting type 2 diabetes in a population-based study of 706 unrelated individuals (47% men and 53% women; aged 35-74 years) from the province of Segovia in central Spain (Castille), including 180 individuals with type 2 diabetes. RESULTS: The minor allele frequency of rs7901695, rs7903146 and rs12255372 was significantly higher in diabetic patients compared with that in non-diabetic individuals. The T (minor) allele of the variant rs7903146 was significantly associated with a greater OR for type 2 diabetes adjusted for age, sex and BMI in logistic regression analysis: OR 1.29 (95% CI 1.06-1.57, p = 0.01). This risk allele was also associated with an increased proinsulin:insulin ratio after OGTT. Similar results were obtained for the other TCF7L2 SNPs. CONCLUSIONS: Our results provide further evidence supporting the belief that the TCF7L2 gene is a major determinant of type 2 diabetes risk in Spain, as in other southern European populations. The association with increased proinsulin:insulin ratio after an OGTT suggests that TCF7L2 might be involved in insulin synthesis and processing.">
+	<sentence ID="1160_0" START="666" END="825">
+		<snp ID="0" START="696" END="705" TEXT="rs7901695"/>
+		<snp ID="1" START="707" END="716" TEXT="rs7903146"/>
+		<snp ID="2" START="721" END="731" TEXT="rs12255372"/>
+		<phenotype ID="0" START="760" END="825" text="diabetic"/>
+		<modality_marker  START="750" END="756" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1160_1" START="826" END="1001">
+		<snp ID="3" START="862" END="871" TEXT="rs7903146"/>
+		<phenotype ID="1" START="923" END="1001" text="type 2 diabetes"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

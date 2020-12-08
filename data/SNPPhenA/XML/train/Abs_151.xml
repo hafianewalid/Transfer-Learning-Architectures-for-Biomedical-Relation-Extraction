@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1059" TEXT="BACKGROUND: The rs1051730 genetic variant within the CHRNA5-A3-B4 gene cluster is associated with heaviness of smoking and has recently been reported to be associated with likelihood of stopping smoking. We investigated the potential association of rs1051730 gLLLenotype with reduced likelihood ofsmoking cessation in 2 cohorts of treatment-seeking smokers in primary care in the United Kingdom. METHODS: Data were drawn from 2 clinical trials on which DNA was available. One sample was a randomized placebo-controlled trial of nicotine transdermal patch and the other sample an open-label trial where all participants received nicotine transdermal patch. Smoking status was biochemically verified. Logistic regression was used to assess evidence for association in each sample, and data were combined within a meta-analysis. RESULTS: There was evidence of association of rs1051730 genotype with short-term (4-week) cessation in our open-label trial sample but not our placebo-controlled trial sample. When combined in a meta-analysis, this effect remained. There was no evidence of association at later follow-up intervals. Adjustment for cigarette consumption and tobacco dependence did not alter these results substantially. CONCLUSIONS: Our data, taken together with previous recent studies, provide some support for a weak association between this variant and short-term smoking cessation in treatment-seeking smokers, which does not seem to operate only among those receiving nicotinereplacement therapy. Moreover, the rs1051730 variant may not merely operate as a marker for dependence or heaviness of smoking.">
+	<sentence ID="1059_0" START="12" END="203">
+		<snp ID="0" START="16" END="25" TEXT="rs1051730"/>
+		<phenotype ID="0" START="98" END="203" text="heaviness of smoking"/>
+		<phenotype ID="1" START="186" END="203" text="stopping smoking"/>
+		<modality_marker  START="141" END="149" text="reported"/>
+		<modality_marker  START="172" END="182" text="likelihood"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1059_1" START="204" END="395">
+		<snp ID="1" START="249" END="258" TEXT="rs1051730"/>
+		<phenotype ID="2" START="297" END="395" text="smoking cessation"/>
+		<modality_marker  START="224" END="233" text="potential"/>
+		<modality_marker  START="284" END="294" text="likelihood"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1059_2" START="835" END="1001">
+		<snp ID="2" START="872" END="881" TEXT="rs1051730"/>
+		<phenotype ID="3" START="896" END="1001" text="short-term (4-week) cessation"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1059_3" START="1511" END="1617">
+		<snp ID="3" START="1525" END="1534" TEXT="rs1051730"/>
+		<phenotype ID="4" START="1582" END="1617" text="dependence or heaviness of smoking"/>
+		<modality_marker  START="1543" END="1546" text="may"/>
+		<negation_scope  START="1547" END="1617" text="not merely operate as a marker for dependence or heaviness of smoking.">
+			<negation_cue START="1547" END="1550" text="not"/>
+		</negation_scope>
+		<pair PAIRID="4" PHENOTYPEID="4" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

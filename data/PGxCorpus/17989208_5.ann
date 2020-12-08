@@ -1,0 +1,4 @@
+T2	Gene_or_protein 135 139	HCN1 
+T3	Chemical 170 180	sulfhydryl 
+T1	Genomic_variation 55 208	substitutions into the descending portion of the P loop ( residues 339-345 ) of HCN1 -R ( where R is resistance to sulfhydryl -reactive agents ) channels
+T5	Pharmacodynamic_phenotype 156 197	resistance to sulfhydryl -reactive agents

@@ -1,0 +1,14 @@
+T2	Gene_or_protein 116 124	TNFalpha 
+T4	Chemical 202 209	ethanol 
+T6	Gene_or_protein 134 137	Ras
+T1	Phenotype 116 148	TNFalpha -induced Ras activation
+T7	Phenotype 55 86	hepatocellular oxidative stress
+T8	Phenotype 96 106	cell death
+T9	Phenotype 134 148	Ras activation
+T5	Phenotype 165 186	hepatic proliferation
+T3	Pharmacodynamic_phenotype 202 231	ethanol -induced liver injury
+T10	Pharmacodynamic_phenotype 219 231	liver injury
+R3	causes Arg1:T2 Arg2:T9	
+R1	influences Arg1:T1 Arg2:T5	
+R4	causes Arg1:T4 Arg2:T10	
+R5	causes Arg1:T3 Arg2:T5	

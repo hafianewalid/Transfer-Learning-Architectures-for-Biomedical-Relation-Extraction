@@ -1,0 +1,8 @@
+T3	Gene_or_protein 42 46	MDR1 
+T4	Chemical 21 31	adriamycin
+T2	Disease 82 99	ovarian carcinoma
+T5	Phenotype 42 70	MDR1 gene encoded resistance
+T1	Chemical 0 31	HPMA copolymer bound adriamycin
+R2	treats Arg1:T1 Arg2:T2	
+R1	influences Arg1:T1 Arg2:T5	
+R3	isAssociatedWith Arg1:T5 Arg2:T2	

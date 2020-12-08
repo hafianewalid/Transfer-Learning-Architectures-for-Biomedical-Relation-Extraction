@@ -1,0 +1,11 @@
+T1	Limited_variation 143 166	BRAF ( V600E ) - mutant 
+T2	Gene_or_protein 143 147	BRAF 
+T3	Gene_or_protein 170 174	BRAF 
+T4	Limited_variation 170 193	BRAF ( V600K ) - mutant 
+T5	Disease 170 213	BRAF ( V600K ) - mutant metastatic melanoma 
+T6	Chemical 248 258	dabrafenib 
+T7	Chemical 283 293	trametinib 
+T8	Disease 143 166;194 213	BRAF ( V600E ) - mutant metastatic melanoma
+T9	Chemical 248 258;278 293	dabrafenib plus trametinib
+R1	treats Arg1:T9 Arg2:T5	
+R2	treats Arg1:T9 Arg2:T8	

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1219" TEXT="BACKGROUND: Toll-like receptors (TLRs) form an essential part of the innate immune system, which plays a fundamental role in rapidly and effectively controlling infections and initiating adaptive immunity. There are no published data concerning the importance of polymorphisms of TLRs in conditioningsusceptibility to influenza or the severity of the disease. The aim of this study was to evaluate whether selected polymorphisms of TLR2, TLR3 and TLR4 influence the incidence and clinical picture of pandemic A/H1N1/2009 influenza. RESULTS: The study involved 272 healthy children attending ourEmergency Room for influenza-like illness (ILI), including 51 (18.8%) with pandemic A/H1N1/2009 influenza as revealed by real-time polymerase chain reaction, and 164 healthy controls examined after minor surgery. Genomic DNA was extracted from whole blood samples and five single-nucleotide polymorphisms (SNPs) were studied: TLR2 rs5743708, TLR3 rs5743313, TLR3 rs5743315, TLR4 rs4986790 and TLR4 rs4986791. The TLR3 rs5743313/CT polymorphism was found in all of the children with pneumonia and influenza infection, but in a significantly smaller number of those with A/H1N1/2009influenza without pneumonia (&lt;0.0001). TLR2, TLR3 rs5743315/AC and TLR4 polymorphisms were equally distributed in all of the groups regardless of the presence of the pandemic A/H1N1/2009 virus and clinical diagnosis. Viral load was comparable in all of the study groups. CONCLUSIONS: There is a close relationship between the presence of TLR3 rs5743313/CT and an increased risk of pneumonia in children infected by the pandemic A/H1N1/2009influenza virus.">
+	<sentence ID="1219_0" START="1445" END="1629">
+		<snp ID="0" START="1517" END="1526" TEXT="rs5743313"/>
+		<phenotype ID="0" START="1604" END="1629" text="H1N1"/>
+		<phenotype ID="1" START="1613" END="1629" text="influenza"/>
+		<modality_marker  START="1445" END="1456" text="CONCLUSIONS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

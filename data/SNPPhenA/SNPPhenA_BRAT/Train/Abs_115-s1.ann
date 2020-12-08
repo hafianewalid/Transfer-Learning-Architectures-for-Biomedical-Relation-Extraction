@@ -1,0 +1,7 @@
+T1	SNP 34 40	VKORC1
+T2	SNP 42 48	CYP2C9
+T3	Phenotype 154 162	warfarin
+T4	Modality_Marker 0 11	CONCLUSIONS
+T5	Modality_Marker 23 28	shows
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

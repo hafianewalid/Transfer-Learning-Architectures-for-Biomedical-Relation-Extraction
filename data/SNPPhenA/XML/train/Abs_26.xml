@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1179" TEXT="OBJECTIVE: The genetic basis of Alzheimer's disease (AD) is being analyzed in multiple whole genome association studies (WGAS). The GAB2 gene has been proposed as a modifying factor of APOE epsilon 4 allele in a recent case-control WGAS conducted in the US. Given the potential application of these novel results in AD diagnostics, we decided to make an independent replication to examine the GAB2 gene effect in our series. METHODS: We are conducting a multicenter population-based study of AD in Spain. METHODS: We analyzed a total of 1116 Spanish individuals. Specifically, 521 ADpatients, 475 controls from the general population and 120 neurologically-normal elderly controls (NNE controls). METHODS: We have genotyped GAB2 (rs2373115 G/T) and APOE rs429358 (SNP112)/rs7412 (SNP158) polymorphisms using real time-PCR technologies. RESULTS: As previously reported in Spain, APOE epsilon 4 allele was strongly associated with AD in our series (OR=2.88 [95% C.I. 2.16- 3.84], p=7.38E-11). Moreover, a large effect for epsilone 4/epsilone 4 genotype was also observed (OR=14.45 [95% C.I., 3.34-125.2], p=1.8E-6). No difference between the general population and the NNE controls series were observed for APOE genotypes (P &gt; 0.61). Next, we explored GAB2 rs2373115 SNP singlelocus association using differentgenetic models and comparing AD versus controls or NNE controls. No evidence of association with AD was observed for this GAB2 marker (p &gt; 0.17). To evaluate GAB2-APOE genegene interactions, we stratified our series according to APOE genotype and case-control status, in accordance with the original studies. Again, no evidence of genetic association with AD was observed in any strata of GAB2-APOE loci pair (p &gt; 0.34). CONCLUSIONS: GAB2 rs2373115 marker does not modify the risk of Alzheimer's disease in Spanish APOE epsilon 4 carriers.">
+	<sentence ID="1179_0" START="836" END="990">
+		<snp ID="0" START="878" END="892" TEXT="APOE epsilon 4"/>
+		<phenotype ID="0" START="929" END="990" text="AD"/>
+		<modality_marker  START="859" END="867" text="reported"/>
+		<modality_marker  START="904" END="912" text="strongly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

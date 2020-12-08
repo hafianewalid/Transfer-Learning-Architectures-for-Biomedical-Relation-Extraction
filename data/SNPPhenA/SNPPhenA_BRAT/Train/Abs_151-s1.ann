@@ -1,0 +1,7 @@
+T1	SNP 4 13	rs1051730
+T2	Phenotype 86 106	heaviness of smoking
+T3	Phenotype 174 190	stopping smoking
+T4	Modality_Marker 129 137	reported
+T5	Modality_Marker 160 170	likelihood
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

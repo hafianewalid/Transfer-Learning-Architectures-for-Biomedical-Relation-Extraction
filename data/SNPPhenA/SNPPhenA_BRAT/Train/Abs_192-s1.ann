@@ -1,0 +1,5 @@
+T1	SNP 57 66	rs1799732
+T2	Phenotype 129 135	Wilson
+T3	Modality_Marker 0 11	Conclusions
+T4	Modality_Marker 81 84	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2

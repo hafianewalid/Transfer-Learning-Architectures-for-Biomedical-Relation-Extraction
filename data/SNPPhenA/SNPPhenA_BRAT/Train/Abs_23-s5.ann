@@ -1,0 +1,4 @@
+T1	SNP 20 28	rs181696
+T2	Phenotype 83 86	SQC
+T3	Modality_Marker 37 45	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T2

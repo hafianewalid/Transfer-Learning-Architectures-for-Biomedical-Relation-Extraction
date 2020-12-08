@@ -1,0 +1,17 @@
+T3	Limited_variation 73 85	UGT1A6 T181A 
+T4	Gene_or_protein 73 79	UGT1A6 
+T5	Limited_variation 73 79;90 95	UGT1A6 R184S 
+T6	Disease 133 140	Adenoma 
+T7	Chemical 157 166	Celecoxib 
+T8	Chemical 234 241	aspirin 
+T9	Disease 259 267	adenomas 
+T10	Chemical 339 348	celecoxib 
+T1	Chemical 26 57	combining aspirin and celecoxib
+T2	Chemical 36 43	aspirin
+T11	Chemical 48 57	celecoxib
+T12	Pharmacodynamic_phenotype 16 57	effect of combining aspirin and celecoxib
+T13	Chemical 286 293	placebo
+R1	isAssociatedWith Arg1:T3 Arg2:T12	
+R2	isAssociatedWith Arg1:T5 Arg2:T12	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

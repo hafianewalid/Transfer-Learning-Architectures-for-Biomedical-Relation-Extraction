@@ -1,0 +1,3 @@
+T1	Chemical 0 11	Hydralazine 
+T2	Gene_or_protein 53 74	N-acetyltransferase 2 
+R1	influences Arg1:T2 Arg2:T1	

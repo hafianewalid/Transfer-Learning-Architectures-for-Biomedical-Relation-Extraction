@@ -1,0 +1,20 @@
+T1	Limited_variation 14 33	ABCB1 polymorphisms 
+T2	Gene_or_protein 14 19	ABCB1 
+T3	Limited_variation 14 19;44 53	ABCB1 c.1236C>T 
+T4	Limited_variation 14 19;56 67	ABCB1 c.2677G>T/A 
+T5	Limited_variation 14 19;74 83	ABCB1 c.3435C>T 
+T6	Chemical 116 126	quetiapine 
+T7	Gene_or_protein 185 190	ABCB1 
+T8	Pharmacodynamic_phenotype 99 126	plasma levels of quetiapine
+T9	Limited_variation 185 199	ABCB1 genotype
+T10	Pharmacokinetic_phenotype 137 163	pharmacokinetic parameters
+R1	influences Arg1:T1 Arg2:T8	
+R2	influences Arg1:T3 Arg2:T8	
+R3	influences Arg1:T4 Arg2:T8	
+R4	influences Arg1:T5 Arg2:T8	
+R5	influences Arg1:T9 Arg2:T10	
+#1	AnnotatorNotes R1	not
+#2	AnnotatorNotes R2	not
+#3	AnnotatorNotes R3	not
+#4	AnnotatorNotes R4	not
+#5	AnnotatorNotes R5	neg

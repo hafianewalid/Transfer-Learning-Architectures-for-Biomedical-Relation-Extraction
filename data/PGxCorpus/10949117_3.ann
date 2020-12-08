@@ -1,0 +1,7 @@
+T2	Gene_or_protein 57 61	hMOR 
+T3	Chemical 103 110	alcohol 
+T1	Limited_variation 57 77	hMOR exon 1 variants
+T4	Disease 103 121	alcohol dependence
+T5	Genomic_factor 57 68	hMOR exon 1
+R1	causes Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

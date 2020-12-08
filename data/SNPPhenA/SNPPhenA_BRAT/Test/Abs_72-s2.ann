@@ -1,0 +1,3 @@
+T1	SNP 54 63	rs4988235
+T2	Phenotype 85 103	metabolic diseases
+R1	neutral_association Arg1:T1 Arg2:T2

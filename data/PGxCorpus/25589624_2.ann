@@ -1,0 +1,9 @@
+T1	Chemical 10 19	Veliparib 
+T2	Gene_or_protein 24 28	PARP 
+T3	Chemical 97 113	cyclophosphamide 
+T5	Gene_or_protein 131 135	BRCA 
+T6	Chemical 10 19;72 113	Veliparib in combination with oral cyclophosphamide
+T7	Disease 131 156	BRCA -mutant solid tumors
+T8	Chemical 24 38	PARP inhibitor
+T9	Limited_variation 131 143	BRCA -mutant
+R1	treats Arg1:T6 Arg2:T7	

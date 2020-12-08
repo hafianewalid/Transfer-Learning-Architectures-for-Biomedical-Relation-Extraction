@@ -1,0 +1,13 @@
+T1	SNP 66 70	CGTC
+T2	SNP 81 85	APOE
+T3	Phenotype 131 134	BMD
+T4	Phenotype 147 157	osteopenia
+T5	Phenotype 162 174	osteoporosis
+T6	Modality_Marker 0 11	CONCLUSIONS
+T7	Modality_Marker 102 107	found
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T1 Arg2:T5
+R4	weak_confidence_association Arg1:T2 Arg2:T3
+R5	weak_confidence_association Arg1:T2 Arg2:T4
+R6	weak_confidence_association Arg1:T2 Arg2:T5

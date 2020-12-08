@@ -1,0 +1,8 @@
+T1	Chemical 24 32	atenolol 
+T2	Limited_variation 93 126	beta1-AR ( Ser49Gly , Arg389Gly ) 
+T3	Gene_or_protein 93 101	beta1-AR 
+T5	Gene_or_protein 131 141	alpha2C-AR 
+T6	Limited_variation 131 156	alpha2C-AR ( del322-325 ) 
+T7	Pharmacodynamic_phenotype 17 47	plasma atenolol concentrations
+R1	isAssociatedWith Arg1:T7 Arg2:T2	
+R3	isAssociatedWith Arg1:T7 Arg2:T6	

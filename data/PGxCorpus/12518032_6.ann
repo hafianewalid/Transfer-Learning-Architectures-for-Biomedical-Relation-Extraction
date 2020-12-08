@@ -1,0 +1,9 @@
+T1	Chemical 31 39	T0901317 
+T2	Gene_or_protein 54 57	LXR 
+T4	Gene_or_protein 117 124	Angptl3 
+T3	Phenotype 89 112	levels of plasma lipids
+T5	Phenotype 117 129;89 98	Angptl3 mRNA levels of
+T6	Chemical 54 76	LXR -selective agonist
+T7	Genomic_factor 117 129	Angptl3 mRNA
+R1	increases Arg1:T1 Arg2:T3	
+R2	increases Arg1:T1 Arg2:T5	

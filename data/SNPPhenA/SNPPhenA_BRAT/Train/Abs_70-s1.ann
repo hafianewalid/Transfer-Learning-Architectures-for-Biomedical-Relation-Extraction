@@ -1,0 +1,4 @@
+T1	SNP 91 99	rs662799
+T2	Phenotype 111 118	obesity
+T3	Modality_Marker 0 10	Conclusion
+R1	weak_confidence_association Arg1:T1 Arg2:T2

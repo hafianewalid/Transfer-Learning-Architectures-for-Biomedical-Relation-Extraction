@@ -1,0 +1,8 @@
+T1	Phenotype 0 43	PACAP -induced expression of the c-fos gene 
+T2	Gene_or_protein 0 5	PACAP 
+T3	Gene_or_protein 33 43	c-fos gene 
+T6	Chemical 121 143	PACAP - ( 6-38 ) - NH2 
+T9	Chemical 93 118	PACAP receptor antagonist
+T4	Gene_or_protein 93 98	PACAP
+T5	Gene_or_protein 121 126	PACAP
+R1	decreases Arg1:T6 Arg2:T1	

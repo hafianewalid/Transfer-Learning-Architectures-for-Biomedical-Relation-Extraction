@@ -1,0 +1,7 @@
+T1	Chemical 14 23	Proguanil 
+T2	Limited_variation 68 96	CYP2C19 genetic polymorphism 
+T3	Gene_or_protein 68 75	CYP2C19 
+T4	Pharmacokinetic_phenotype 176 180;195 207	poor metabolisers
+T5	Pharmacokinetic_phenotype 185 207	extensive metabolisers
+T6	Phenotype 133 156	urinary metabolic ratio
+R1	isAssociatedWith Arg1:T1 Arg2:T2	

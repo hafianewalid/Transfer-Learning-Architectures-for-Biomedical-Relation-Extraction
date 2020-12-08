@@ -1,0 +1,8 @@
+T1	SNP 12 21	rs2568494
+T2	SNP 32 41	rs8034191
+T3	SNP 60 69	rs1051730
+T4	Phenotype 102 133	pre-bronchodilator FEV1 percent
+T5	Modality_Marker 137 146	predicted
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

@@ -1,0 +1,56 @@
+,Precision,Recall,F-score,Precision std,Recall std,F-score std,corpus,method
+0,70.454,70.454,70.454,1.187,1.187,1.187,ChemProt,scibert RNN-CNN-parallel frozen  
+0,71.519,71.519,71.519,1.394,1.394,1.394,ChemProt,scibert semeval--->Chemprot
+0,75.342,75.342,75.342,2.893,2.893,2.893,ChemProt,scibert pgx--->Chemprot
+0,60.123,60.123,60.123,20.8,20.8,20.8,ChemProt,biobert  pgx ---> Chemprot
+0,74.238,74.238,74.238,4.595,4.595,4.595,ChemProt,scibert  snpphena--->Chemprot
+0,74.859,74.859,74.859,0.964,0.964,0.964,ChemProt,biobert RNN-CNN-parallel frozen  
+0,68.262,68.262,68.262,1.544,1.544,1.544,ChemProt,bert CNN frozen
+0,72.864,72.864,72.864,1.363,1.363,1.363,ChemProt,biobert RNN frozen 
+0,82.447,82.447,82.447,1.476,1.476,1.476,ChemProt,scibert MLP fine tune
+0,83.908,83.908,83.908,1.112,1.112,1.112,ChemProt,biobert CNN finetune
+0,80.089,80.089,80.089,0.808,0.808,0.808,ChemProt,biobert  RNN-CNN frozen
+0,64.416,64.416,64.416,2.426,2.426,2.426,ChemProt,bert RNN frozen 
+0,79.245,79.245,79.245,0.765,0.765,0.765,ChemProt,scibert RNN-CNN frozen
+0,81.432,81.432,81.432,0.913,0.913,0.913,ChemProt,bert CNN-segmentation fine tune
+0,75.297,75.297,75.297,0.697,0.697,0.697,ChemProt,scibert RNN frozen 
+0,82.289,82.289,82.289,3.278,3.278,3.278,ChemProt,biobert  MLP fine tune
+0,84.775,84.775,84.775,0.671,0.671,0.671,ChemProt,scibert CNN-segmentation fine tune
+0,75.355,75.355,75.355,1.025,1.025,1.025,ChemProt, bert RNN-CNN frozen
+0,72.18,72.18,72.18,1.737,1.737,1.737,ChemProt,bert CNN fine tune
+0,85.372,85.372,85.372,0.672,0.672,0.672,ChemProt,biobert CNN-segmentation fine tune
+0,79.288,79.288,79.288,1.21,1.21,1.21,ChemProt,bert  MLP fine tune
+0,77.854,77.854,77.854,0.68,0.68,0.68,ChemProt,scibert CNN frozen
+0,77.573,77.573,77.573,0.707,0.707,0.707,ChemProt,biobert CNN frozen
+0,82.985,82.985,82.985,0.966,0.966,0.966,ChemProt,scibert CNN fine tune
+0,62.076,62.076,62.076,1.333,1.333,1.333,ChemProt,bert RNN-CNN-parallel frozen  
+0,77.386,77.244,77.004,1.895,2.996,2.567,PGxCorpus,biobert CNN-Segmentaion fine tune
+0,78.157,79.172,78.44,1.029,1.311,1.078,PGxCorpus,scibert CNN-Segmentaion fine tune
+0,61.541,61.118,61.002,1.569,1.379,1.458,PGxCorpus,scibert RNN-CNN-parallel frozen  
+0,69.824,67.516,68.281,4.158,5.028,4.562,PGxCorpus,"scibert snpphena->pgx(5fold ,5ep)"
+0,51.61,44.036,44.377,2.826,7.462,6.21,PGxCorpus,biobert semeval->pgx(5fold)
+0,54.871,45.699,47.546,4.699,8.548,7.697,PGxCorpus,biobert chemprot->pgx(5fold)
+0,52.802,52.802,52.802,1.346,1.346,1.346,PGxCorpus,scibert semeval->pgx(5fold)
+0,69.824,67.516,68.281,4.158,5.028,4.562,PGxCorpus,scibert snpphena->pgx(10fold)
+0,56.202,56.202,56.202,2.08,2.08,2.08,PGxCorpus,"scibert chemprot->pgx(5fold,10ep)"
+0,52.398,49.408,49.195,8.091,11.097,10.665,PGxCorpus,bert chemprot-> pgx(5fold)
+0,51.816,50.18,49.355,1.569,2.437,2.507,PGxCorpus,bert semeval->pgx(5fold)
+0,59.245,56.279,56.481,3.75,4.997,4.317,PGxCorpus,"scibert chemprot->pgx(5fold,5ep)"
+0,55.508,55.508,55.508,4.151,4.151,4.151,PGxCorpus,"scibert snpphena->pgx(5fold,10ep)"
+0,67.461,64.647,65.394,1.17,1.455,0.579,PGxCorpus,biobert RNN-CNN-parallel frozen  
+0,57.641,53.842,53.733,3.029,0.493,1.33,PGxCorpus,bert CNN frozen
+0,57.163,57.324,56.936,1.029,0.935,0.895,PGxCorpus,biobert RNN frozen 
+0,73.058,71.81,72.091,1.17,1.974,1.714,PGxCorpus,biobert  RNN-CNN frozen
+0,54.294,54.827,54.299,0.895,1.119,0.842,PGxCorpus,bert RNN frozen 
+0,74.317,74.539,74.179,1.201,1.179,1.088,PGxCorpus,bert Segmentaion-CNN fine tune
+0,72.656,72.583,72.383,1.614,0.595,1.045,PGxCorpus,scibert RNN-CNN frozen
+0,62.609,62.267,62.18,0.986,1.365,1.183,PGxCorpus,scibert RNN frozen 
+0,73.498,68.842,70.475,3.402,7.208,5.874,PGxCorpus,biobert  MLP fine tune
+0,75.611,75.445,75.32,1.817,2.868,2.114,PGxCorpus,scibert  MLP fine tune
+0,71.851,70.478,70.632,1.643,1.332,1.382,PGxCorpus, bert RNN-CNN frozen
+0,74.401,71.162,72.238,2.548,5.681,4.303,PGxCorpus,biobert CNN fine tune
+0,71.73,73.392,72.223,1.182,0.975,0.984,PGxCorpus,bert CNN fine tune
+0,70.803,69.704,69.888,2.17,5.358,4.03,PGxCorpus,bert MLP fine tune
+0,69.591,66.576,67.35,1.989,1.716,1.741,PGxCorpus,scibert CNN frozen
+0,69.521,66.256,67.023,2.332,2.534,2.436,PGxCorpus,biobert CNN frozen
+0,54.486,54.374,53.999,0.915,0.291,0.288,PGxCorpus,bert RNN-CNN-parallel frozen  

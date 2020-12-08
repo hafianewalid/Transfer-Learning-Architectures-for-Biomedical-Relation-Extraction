@@ -1,0 +1,19 @@
+T1	SNP 83 92	rs7903146
+T2	SNP 97 107	rs12255372
+T3	Phenotype 144 148	FCHL
+T4	Phenotype 203 207	FCHL
+T5	Phenotype 209 211	TC
+T6	Phenotype 213 228	ApoB or glucose
+T7	Modality_Marker 41 49	observed
+T8	Modality_Marker 54 58	high
+T9	Modality_Marker 190 198	observed
+T10	Negation_Scope 158 241	No evidence for association was observed for FCHL, TC, ApoB or glucose in Mexicans.
+T11	Negation_Cue 158 160	No
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T1 Arg2:T4
+R3	negative_association Arg1:T1 Arg2:T5
+R4	negative_association Arg1:T1 Arg2:T6
+R5	moderate_confidence_association Arg1:T2 Arg2:T3
+R6	negative_association Arg1:T2 Arg2:T4
+R7	negative_association Arg1:T2 Arg2:T5
+R8	negative_association Arg1:T2 Arg2:T6

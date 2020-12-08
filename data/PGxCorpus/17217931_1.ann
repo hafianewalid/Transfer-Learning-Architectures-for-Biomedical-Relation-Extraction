@@ -1,0 +1,7 @@
+T4	Chemical 91 102	sumatriptan 
+T1	Gene_or_protein 24 45	serotonin 1B receptor
+T2	Genomic_factor 24 54	serotonin 1B receptor promoter
+T5	Disease 116 134	alcohol -dependent
+T6	Genomic_variation 0 54	Diplotypes of the human serotonin 1B receptor promoter
+T7	Pharmacodynamic_phenotype 63 102	growth hormone responses to sumatriptan
+R1	influences Arg1:T6 Arg2:T7	

@@ -1,0 +1,5 @@
+T1	SNP 13 27	COMT Val158Met
+T2	Phenotype 66 84	endometrial cancer
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 40 44	show
+R1	weak_confidence_association Arg1:T1 Arg2:T2

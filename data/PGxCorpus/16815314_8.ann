@@ -1,0 +1,10 @@
+T1	Chemical 55 65	metoprolol 
+T2	Limited_variation 200 209	Arg389Arg 
+T3	Limited_variation 212 221	Gly389Arg 
+T4	Limited_variation 228 237	Gly389Gly
+T5	Pharmacodynamic_phenotype 14 80	descent of systolic blood pressure after metoprolol administration
+T6	Pharmacodynamic_phenotype 25 48	systolic blood pressure
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T3 Arg2:T5	
+R3	influences Arg1:T4 Arg2:T5	
+R4	decreases Arg1:T1 Arg2:T6	

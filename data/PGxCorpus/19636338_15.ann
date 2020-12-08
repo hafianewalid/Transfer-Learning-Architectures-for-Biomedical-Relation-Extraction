@@ -1,0 +1,6 @@
+T1	Gene_or_protein 7 13	CYP1A2 
+T2	Chemical 97 107	olanzapine 
+T3	Haplotype 7 18	CYP1A2 * 1F
+T4	Pharmacodynamic_phenotype 97 128	olanzapine serum concentrations
+T5	Pharmacodynamic_phenotype 145 163	treatment response
+R1	isAssociatedWith Arg1:T4 Arg2:T5	

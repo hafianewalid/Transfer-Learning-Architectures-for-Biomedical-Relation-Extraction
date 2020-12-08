@@ -1,0 +1,4 @@
+T1	SNP 91 101	rs11886877
+T2	Phenotype 138 153	prostate cancer
+T3	Modality_Marker 70 76	models
+R1	weak_confidence_association Arg1:T1 Arg2:T2

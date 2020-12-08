@@ -1,0 +1,4 @@
+T3	Chemical 88 97	ritodrine 
+T1	Gene_or_protein 9 16	SULT1A3
+T4	Pharmacokinetic_phenotype 62 97	sulfating activity toward ritodrine
+R1	influences Arg1:T1 Arg2:T4	

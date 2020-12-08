@@ -1,0 +1,8 @@
+T1	Chemical 13 24	propranolol 
+T2	Phenotype 63 93	suppression of NK cytotoxicity 
+T3	Disease 81 93	cytotoxicity 
+T4	Phenotype 130 144	Fos expression 
+T5	Gene_or_protein 130 133	Fos 
+R2	influences Arg1:T1 Arg2:T4	
+R1	influences Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R2	neg

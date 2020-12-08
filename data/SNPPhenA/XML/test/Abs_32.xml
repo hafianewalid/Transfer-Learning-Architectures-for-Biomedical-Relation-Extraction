@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1026" TEXT="In order to study specific features of remitting multiple sclerosis patients with different genotypes of polymorphic loci rs1800629 gene TNFα, rs6074022 gene CD40, rs10492972 gene KIF1B, rs187238 IL-18 gene, conducted clinical and electrophysiological examination of 149 patients with relapsing-remitting multiple sclerosis. Found that the most common symptoms of rapidly progressive relapsing-remitting multiple sclerosis were cerebellar andsensory disorders. Severity of pyramidal and cerebellar, stem, pelvic disorders, and thus the value of EDSS score was significantly higher in the group ofpatients with recurrent exacerbations during the year. Intensity changes of latencies of peaks I, III of short-stem evoked potentials and central motor conduction time determined by the ball on a scale EDSS. Genotype C/C polymorphism rs187238 locus IL-18 gene associated with frequent exacerbations of relapsing-remitting multiple sclerosis, high speed of progression of the disease and is characterized by marked changes in latency of peak V ABR and VEP P100. With polymorphic locus allele rs187238 IL-18 is associated with more frequent exacerbations PPC (OR=1.714 (1.051-2.797); p=0.02), and increases the risk of rapidly progressive nature of the disease in a 2-fold (OR=2.040 (1.140-3.650) p=0.015).">
+	<sentence ID="1026_0" START="0" END="324">
+		<snp ID="0" START="143" END="152" TEXT="rs6074022"/>
+		<snp ID="1" START="164" END="174" TEXT="rs10492972"/>
+		<snp ID="2" START="187" END="195" TEXT="rs187238"/>
+		<phenotype ID="0" START="285" END="324" text="relapsing-remitting multiple sclerosis"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

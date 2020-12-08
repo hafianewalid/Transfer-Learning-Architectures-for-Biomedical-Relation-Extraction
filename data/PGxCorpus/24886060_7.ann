@@ -1,0 +1,11 @@
+T1	Phenotype 10 28	Expression of NQO1 
+T2	Gene_or_protein 24 28	NQO1 
+T3	Pharmacodynamic_phenotype 48 69	sensitivity to 17-AAG 
+T4	Chemical 63 69	17-AAG 
+T5	Disease 77 81	OSCC 
+T6	Gene_or_protein 138 143	HSP90 
+T7	Chemical 190 196	17-AAG 
+T8	Phenotype 128 143	expressed HSP90
+T9	Pharmacodynamic_phenotype 177 196	resistant to 17-AAG
+R1	increases Arg1:T1 Arg2:T3	
+R2	isAssociatedWith Arg1:T8 Arg2:T9	

@@ -1,0 +1,4 @@
+T1	SNP 157 163	rs6152
+T2	Phenotype 193 201	baldness
+T3	Modality_Marker 168 176	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T2

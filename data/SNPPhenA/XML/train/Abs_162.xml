@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1071" TEXT="Our objective was to evaluate the association of rs12255372 in the TCF7L2 gene with type 2 diabetes mellitus (T2DM) in the world population. We carried out a survey of the literature about the effect of rs12255372 on genetic susceptibility to T2DM by consulting PubMed, the Cochrane Library, and Embase from 2006 to 2012, and then performed a meta-analysis of all the studies in order to evaluate the association between rs12255372 and T2DM. A total of 33 articles including 42 studies (with 34,076 cases and 36,192 controls) were confirmed to be eligible and were included in the final meta-analysis: 6 studies conducted on Europeans, 14 on Caucasians, 17 on Asians, 2 on Africans, and 3 on Americans. Overall, the effect size was as follows: for the variant alleleT (OR = 1.387, 95%CI = 1.351-1.424), for the TT genotype (OR = 1.933, 95%CI = 1.815-2.057), for the GT genotype (OR = 1.363, 95%CI = 1.315-1.413), for the dominant model (OR = 1.425, 95%CI = 1.344-1.510), and for the recessive model (OR = 1.659, 95%CI = 1.563-1.761). In summary, by pooling all available qualified data from genetic studies on rs12255372 and T2DM, we have confirmed that rs12255372 is significantly associated with susceptibility to T2DM in the global population.">
+	<sentence ID="1071_0" START="1034" END="1246">
+		<snp ID="0" START="1110" END="1120" TEXT="rs12255372"/>
+		<snp ID="1" START="1154" END="1164" TEXT="rs12255372"/>
+		<phenotype ID="0" START="1125" END="1246" text="T2DM"/>
+		<phenotype ID="1" START="1216" END="1246" text="T2DM"/>
+		<modality_marker  START="1139" END="1148" text="confirmed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

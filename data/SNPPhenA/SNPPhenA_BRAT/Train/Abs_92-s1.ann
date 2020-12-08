@@ -1,0 +1,6 @@
+T1	SNP 45 53	rs769446
+T2	Phenotype 67 92	plasma lipoprotein levels
+T3	Modality_Marker 31 36	found
+T4	Negation_Scope 9 185	no relationships were found between rs769446 genotype and plasma lipoprotein levels in 2 cohorts (n=1648 and n=1039) of healthy middle-aged carriers of the APOE ε3/ε3 genotype.
+T5	Negation_Cue 9 11	no
+R1	negative_association Arg1:T1 Arg2:T2

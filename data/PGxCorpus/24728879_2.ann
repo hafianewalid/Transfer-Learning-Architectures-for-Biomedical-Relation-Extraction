@@ -1,0 +1,9 @@
+T1	Gene_or_protein 57 64	(HLA)-B 
+T2	Pharmacodynamic_phenotype 84 151	allopurinol -associated severe cutaneous adverse reactions ( SCAR ) 
+T3	Chemical 84 95	allopurinol 
+T4	Pharmacokinetic_phenotype 145 149	SCAR 
+T5	Haplotype 57 72	(HLA)-B * 58:01
+T6	Pharmacodynamic_phenotype 108 142	severe cutaneous adverse reactions
+R1	isEquivalentTo Arg1:T4 Arg2:T6	
+R2	isAssociatedWith Arg1:T3 Arg2:T6	
+R3	isAssociatedWith Arg1:T5 Arg2:T2	

@@ -1,0 +1,5 @@
+T1	SNP 4 13	rs2254298
+T2	Phenotype 65 73	autistic
+T3	Modality_Marker 87 92	found
+T4	Modality_Marker 151 159	reported
+R1	weak_confidence_association Arg1:T1 Arg2:T2

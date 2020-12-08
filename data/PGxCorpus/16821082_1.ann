@@ -1,0 +1,18 @@
+T2	Gene_or_protein 24 28	CCT5 
+T3	Gene_or_protein 31 35	RGS3 
+T5	Gene_or_protein 42 46	YKT6 
+T7	Gene_or_protein 69 72	p53 
+T10	Chemical 106 115	docetaxel 
+T11	Disease 125 139	breast cancers 
+T1	Disease 69 88	p53 -mutated tumors
+T4	Pharmacodynamic_phenotype 92 115	resistance to docetaxel
+T6	Limited_variation 69 81	p53 -mutated
+R1	influences Arg1:T1 Arg2:T2	
+R2	influences Arg1:T1 Arg2:T3	
+R3	influences Arg1:T1 Arg2:T5	
+R4	influences Arg1:T2 Arg2:T4	
+R5	influences Arg1:T3 Arg2:T4	
+R6	influences Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R5	hyp
+#3	AnnotatorNotes R6	hyp

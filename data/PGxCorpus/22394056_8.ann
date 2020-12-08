@@ -1,0 +1,6 @@
+T1	Gene_or_protein 100 104	BDNF 
+T3	Chemical 158 165	cocaine 
+T4	Phenotype 19 45	deficit in fear extinction
+T2	Limited_variation 100 117	BDNF ( Val /Met )
+T5	Pharmacodynamic_phenotype 144 176	extinction of cocaine responding
+R1	increases Arg1:T2 Arg2:T5	

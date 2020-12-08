@@ -1,0 +1,12 @@
+T1	Chemical 30 39	sirolimus 
+T2	Limited_variation 80 93	ABCB1 1236C>T 
+T3	Gene_or_protein 80 85	ABCB1 
+T4	Limited_variation 80 85;96 106	ABCB1 2677G>T /A 
+T5	Limited_variation 111 118;80 85	3435C>T ABCB1 
+T6	Pharmacokinetic_phenotype 30 51	sirolimus C0/D ratios
+R1	influences Arg1:T2 Arg2:T6	
+R2	influences Arg1:T4 Arg2:T6	
+R3	influences Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	neg

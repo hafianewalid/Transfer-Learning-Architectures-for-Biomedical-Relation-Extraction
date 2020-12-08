@@ -1,0 +1,5 @@
+T1	SNP 99 142	chemokine (C-C motif) receptor 5 gene rs333
+T2	SNP 169 178	rs1801133
+T3	Phenotype 69 71	AR
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

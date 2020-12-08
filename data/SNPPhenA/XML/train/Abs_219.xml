@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1134" TEXT="BACKGROUND: The investigation of rare familial forms of kidney cancer has provided important insights into the biology of sporadic renal cellcarcinoma (RCC). In particular, the identification of the von Hippel Lindau (VHL) familial cancer syndrome gene (VHL) provided the basis for the discovery that VHL is somatically inactivated in most sporadic clear cell RCC. Many cases of familial RCC do not have mutations in known RCC susceptibility genesand there is evidence that genetic modifiers may influence the risk of RCC in VHL disease patients. Hence we hypothesised that low-penetrance functional genetic variants in pathways related to the VHL protein (pVHL) function might (a) modify the phenotypic expression of VHL disease and/or (b) predispose to sporadic RCC. RESULTS: We tested this hypothesis for functional polymorphisms in CDH1 (rs16260), IGFBP3 (rs2854744), MMP1 (rs1799750), MMP3(rs679620), STK15 (rs2273535) and VEGF (rs1570360). We observed that variants of MMP1 and MMP3 were significant modifiers of RCC risk (and risks ofretinal angioma and cerebellar haemangioblastoma) in VHL disease patients. In addition, higher frequencies of the MMP1 rs1799750 2G allele (p = 0.017, OR 1.49, 95%CI 1.06-2.08) and the MMP1/MMP3 rs1799750/rs679620 2G/G haplotype (OR 1.45, 95%CI 1.01-2.10) were detected in sporadic RCC patients than in controls (n = 295). CONCLUSIONS: These findings (a) represent the first example of genetic modifiers of RCC risk in VHL disease, (b) replicate a previous report of an association between MMP1/MMP3 variants and sporadic RCC and (c) further implicate MMP1/MMP3-related pathways in the pathogenesis of familial and sporadic RCC.">
+	<sentence ID="1134_0" START="1116" END="1363">
+		<snp ID="0" START="1160" END="1169" TEXT="rs1799750"/>
+		<snp ID="1" START="1236" END="1245" TEXT="rs1799750"/>
+		<snp ID="2" START="1246" END="1254" TEXT="rs679620"/>
+		<phenotype ID="0" START="1314" END="1363" text="sporadic RCC"/>
+		<modality_marker  START="1129" END="1135" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

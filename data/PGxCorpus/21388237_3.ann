@@ -1,0 +1,15 @@
+T1	Disease 98 108	Depression 
+T5	Chemical 247 259	escitalopram 
+T6	Chemical 273 286	nortriptyline 
+T2	Gene_or_protein 131 152	serotonin transporter
+T4	Limited_variation 131 188	serotonin transporter gene promoter polymorphism 5-HTTLPR
+T7	Chemical 262 266	SSRI
+T8	Chemical 289 313	tricyclic antidepressant
+T9	Phenotype 192 207	sexual function
+T10	Genomic_factor 131 166	serotonin transporter gene promoter
+R2	influences Arg1:T4 Arg2:T9	
+R3	influences Arg1:T4 Arg2:T5	
+R4	influences Arg1:T4 Arg2:T6	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp

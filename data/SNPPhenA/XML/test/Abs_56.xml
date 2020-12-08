@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1052" TEXT="OBJECTIVE: The catechol-O-methyltransferase (COMT) gene is a potential candidate in altering risk for preeclampsia due to the important enzymatic effects in the metabolism of steroid hormones. It contains a non-synonymous G-A base change at codon 158 in the membrane bound isoform, which leads to a valine-to-methionine amino acid substitution. In the soluble isoform the polymorphism rs4680 is located in codon 108. The variant allele is the Met (A)allele and the Val (G) allele is the wild type allele. Despite its previously reported association with preeclampsia in genotypes in three selected ethnic groups, further studies in other populations are required. METHODS: We genotyped the Val158Met polymorphism in the COMT gene by polymerase chain reaction-restriction fragment length polymorphisms (PCR-RFLP) analysis in a Chinese population. RESULTS: In the case-control study that included 187patients with preeclampsia (cases) and 189 normal subjects (controls), the AA genotype and variant Met allele frequencies of Val158Met in the COMTgene were significantly higher in patients with preeclampsia than those in the control group (both p &lt;0.05). The odds ratio for the risk of preeclampsiawas 2.395 [95% confidence interval (CI): 1.061-5.408] in women homozygous for the variant COMT allele (χ(2) = 4.649, p = 0.031). Furthermore, it showed that obese women homozygous for the variant COMT allele (Met/Met) had higher diastolic blood pressure levels during pregnancy than wild-typehomozygotes (Val/Val) (p = 0.034). CONCLUSIONS: Our study provided evidence in favor of COMT being a candidate gene for conferring genetic susceptibility to preeclampsia in a South West Chinese population.">
+	<sentence ID="1052_0" START="855" END="1152">
+		<snp ID="0" START="1023" END="1032" TEXT="Val158Met"/>
+		<phenotype ID="1" START="912" END="1152" text="preeclampsia"/>
+		<phenotype ID="0" START="1092" END="1152" text="preeclampsia"/>
+		<modality_marker  START="1068" END="1074" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,8 @@
+T2	Gene_or_protein 95 101	CYP3A5 
+T3	Gene_or_protein 121 127	CYP3A5 
+T5	Haplotype 121 131	CYP3A5 * 1
+T6	Pharmacodynamic_phenotype 18 41	daily dosage of Tac -QD
+T8	Haplotype 95 111	CYP3A5 * 3 / * 3
+T1	Chemical 34 41	Tac -QD
+R2	influences Arg1:T5 Arg2:T6	
+R1	increases Arg1:T8 Arg2:T6	

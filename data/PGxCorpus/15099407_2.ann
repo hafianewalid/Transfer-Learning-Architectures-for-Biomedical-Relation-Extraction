@@ -1,0 +1,13 @@
+T1	Gene_or_protein 0 21	Alcohol dehydrogenase 
+T2	Gene_or_protein 24 27	ADH 
+T3	Gene_or_protein 73 78	ALDH2 
+T4	Chemical 126 133	ethanol 
+T5	Chemical 210 217	ethanol 
+T6	Gene_or_protein 34 70	mitochondrial aldehyde dehydrogenase
+T7	Pharmacokinetic_phenotype 210 229	ethanol elimination
+R1	isEquivalentTo Arg1:T3 Arg2:T6	
+R2	isEquivalentTo Arg1:T2 Arg2:T1	
+R3	influences Arg1:T1 Arg2:T4	
+R4	influences Arg1:T6 Arg2:T4	
+R5	influences Arg1:T1 Arg2:T7	
+R6	influences Arg1:T6 Arg2:T7	

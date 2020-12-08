@@ -1,0 +1,7 @@
+T1	Chemical 0 10	Bisacurone 
+T2	Phenotype 38 78	TNF-alpha -mediated expression of VCAM-1 
+T3	Phenotype 58 78	expression of VCAM-1 
+T4	Gene_or_protein 38 47	TNF-alpha 
+T5	Gene_or_protein 72 78	VCAM-1 
+R2	decreases Arg1:T1 Arg2:T2	
+R3	causes Arg1:T4 Arg2:T3	

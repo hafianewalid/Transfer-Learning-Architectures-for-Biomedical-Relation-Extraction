@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1024" TEXT="UNLABELLED: Purpose: Although case-control studies have evaluated the role of variant inflammatory-related loci in prostate cancer, their impact is virtually unknown among men of African descent. To address this, we evaluated the impact of inflammatory cytokine single nucleotide polymorphisms(SNPs) on prostate cancer risk for men of African descent. METHODS: Forty-four SNPs in inflammatory cytokine-associated genes were evaluatedamong 814 African-American and Jamaican men (279 prostate cancer cases and 535 controls) using Illumina's Golden gate genotyping system. Individual SNP effects were evaluated using logistic regression analysis. RESULTS: Four SNPs were modestly associated with prostate cancer after adjusting for age. In the total population, inheritance of the IL1R2 rs11886877 AA, IL8RB rs11574752 AA, TNF rs1800629 GA + AA, and TNF rs673 GA genotypesmodestly increased prostate cancer risk by 1.45 to 11.7-fold relative to the referent genotype. Among U.S. men, age-adjusted dominant, recessive and additive genetic models for the IL1R2 rs11886877 locus were linked to an increase in prostate cancer susceptibility. However, these main effects did not persist after adjusting for multiple hypothesis testing. CONCLUSIONS: Our preliminary data does not strongly support the hypothesis that inflammatory-related sequence variants influence prostate cancer risk among men of African descent. However, further evaluation is needed to assess whether other variant inflammatory-related genes may contribute to prostate cancer risk and disease progression in larger and ethnically diverse multi-center studies.">
+	<sentence ID="1024_0" START="734" END="964">
+		<snp ID="0" START="784" END="794" TEXT="rs11886877"/>
+		<snp ID="1" START="799" END="815" TEXT="IL8RB rs11574752"/>
+		<snp ID="3" START="824" END="834" TEXT="rs1800629 "/>
+		<phenotype ID="0" START="888" END="964" text="prostate cancer"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1024_1" START="965" END="1134">
+		<snp ID="2" START="1056" END="1066" TEXT="rs11886877"/>
+		<phenotype ID="1" START="1103" END="1134" text="prostate cancer"/>
+		<modality_marker  START="1035" END="1041" text="models"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

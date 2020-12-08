@@ -1,0 +1,5 @@
+T1	SNP 86 95	rs7756992
+T2	Phenotype 130 169	lower insulin levels in type 2 diabetic
+T3	Modality_Marker 14 19	other
+T4	Modality_Marker 200 205	other
+R1	strong_confidence_association Arg1:T1 Arg2:T2

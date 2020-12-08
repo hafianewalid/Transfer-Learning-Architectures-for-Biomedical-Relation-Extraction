@@ -1,0 +1,6 @@
+T1	SNP 56 64	rs429358
+T2	SNP 76 82	rs7412
+T3	Phenotype 145 153	lzheimer
+T4	Modality_Marker 97 105	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

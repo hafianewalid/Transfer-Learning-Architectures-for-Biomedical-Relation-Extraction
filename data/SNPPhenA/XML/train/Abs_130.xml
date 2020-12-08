@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1036" TEXT="BACKGROUND: The apolipoprotein E (APOE) and tau proteins play important roles in the pathological development of Alzheimer's disease (AD). Many studies have shown an association between the APOE gene and AD. Association between AD and the newly discovered saitohin (STH) gene, nested within the intron of the tau gene, has been reported. The present study aimed to elucidate the association between APOE and AD, and between STH and AD in our sample. METHODS: The functional polymorphisms, rs429358 and rs7412, in the APOE gene (which together define the epsilon2, epsilon3, and epsilon4 alleles), and the Q7R SNP in the STH gene, were genotyped in 369 patients with AD and 289 healthy European-Americans. The associations between these two genes and AD were analyzed in a case-control design. RESULTS: Consistent with previously reported results, the frequencies of theAPOE epsilon4 allele, epsilon4/epsilon4 genotype and epsilon3/epsilon4 genotype were significantly higher in AD cases than controls; the epsilon4/epsilon4 genotype frequency was significantly higher in early-onset AD (EOAD) than late-onset AD (LOAD); the frequencies of the epsilon2 allele, epsilon3 allele, epsilon3/epsilon3 genotype and epsilon2/epsilon3 genotype were significantly lower in AD cases than controls. Positive likelihood ratios (LRs+) of APOE alleles and genotypes increased in a linear trend with the number of epsilon4 alleles and decreased in a linear trend with the number of epsilon2 or epsilon3 alleles. There was no significant difference in the STH allele and genotype frequency distributions between AD cases and controls. CONCLUSIONS: This study confirmed that the epsilon4 allele is a dose-response risk factor for AD and the epsilon4/epsilon4 genotype was associated with a significantly earlier age of onset. Moreover, we found that the epsilon2 allele was a dose-response protective factor for AD and the epsilon3 alleleexerted a weaker dose-response protective effect for risk of AD compared with epsilon2. In a clinical setting,   APOE genotyping could offer additional biological evidence of whether a subject may develop AD, but it is not robust enough to serve as an independent screening or predictive test in thediagnosis of AD. STH variation was not significantly associated with AD in our sample.">
+	<sentence ID="1036_0" START="2008" END="2234">
+		<snp ID="0" START="2033" END="2048" TEXT="APOE genotyping"/>
+		<phenotype ID="1" START="2125" END="2234" text="AD"/>
+		<phenotype ID="0" START="2232" END="2234" text="AD"/>
+		<modality_marker  START="2049" END="2054" text="could"/>
+		<modality_marker  START="2113" END="2116" text="may"/>
+		<modality_marker  START="2197" END="2207" text="predictive"/>
+		<negation_scope  START="2139" END="2234" text="not robust enough to serve as an independent screening or predictive test in thediagnosis of AD">
+			<negation_cue START="2139" END="2142" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

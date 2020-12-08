@@ -1,0 +1,32 @@
+T1	Gene_or_protein 104 108	OCT2 
+T2	Gene_or_protein 147 152	MATE1 
+T3	Gene_or_protein 201 206	ABCB1 
+T4	Gene_or_protein 259 264	ABCC2 
+T5	Chemical 356 370	platinum drugs 
+T7	Gene_or_protein 73 101	organic cation transporter 2 
+T8	Gene_or_protein 113 144	multidrug and toxin extrusion 1 
+T9	Gene_or_protein 157 198	ATP-binding cassette subfamily B member 1 
+T10	Gene_or_protein 215 256	ATP-binding cassette subfamily C member 2 
+T6	Pharmacodynamic_phenotype 324 332;353 370	efficacy of platinum drugs
+T11	Pharmacodynamic_phenotype 337 370	adverse effects of platinum drugs
+T12	Limited_variation 273 294	genetic polymorphisms
+R1	isEquivalentTo Arg1:T1 Arg2:T7	
+R2	isEquivalentTo Arg1:T2 Arg2:T8	
+R3	isEquivalentTo Arg1:T3 Arg2:T9	
+R4	isEquivalentTo Arg1:T4 Arg2:T10	
+R5	influences Arg1:T7 Arg2:T6	
+R6	influences Arg1:T8 Arg2:T6	
+R7	influences Arg1:T9 Arg2:T6	
+R8	influences Arg1:T10 Arg2:T6	
+R9	influences Arg1:T7 Arg2:T11	
+R10	influences Arg1:T8 Arg2:T11	
+R11	influences Arg1:T9 Arg2:T11	
+R12	influences Arg1:T10 Arg2:T11	
+#1	AnnotatorNotes R5	hyp
+#2	AnnotatorNotes R6	hyp
+#3	AnnotatorNotes R7	hyp
+#4	AnnotatorNotes R8	hyp
+#5	AnnotatorNotes R9	hyp
+#6	AnnotatorNotes R10	hyp
+#7	AnnotatorNotes R11	hyp
+#8	AnnotatorNotes R12	hyp

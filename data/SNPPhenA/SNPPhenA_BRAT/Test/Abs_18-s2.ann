@@ -1,0 +1,7 @@
+T1	SNP 99 109	rs4680 Val
+T2	Phenotype 138 158	AD-related psychosis
+T3	Modality_Marker 42 47	found
+T4	Modality_Marker 80 88	reported
+T5	Negation_Scope 0 66	No statistically significant results were found in meta-analysis  
+T6	Negation_Cue 0 2	No
+R1	weak_confidence_association Arg1:T1 Arg2:T2

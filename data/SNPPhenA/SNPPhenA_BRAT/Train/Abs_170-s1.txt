@@ -1,0 +1,1 @@
+The minor T allele of TCF7L2 rs12255372 was found to significantly increase the risk of T2DM, with an allelic odds ratio (OR) of 1.458 (95% CI 1.108-1.918, p = 0.007).

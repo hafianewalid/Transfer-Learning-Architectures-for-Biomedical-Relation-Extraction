@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1089" TEXT="The μ-opioid receptor (MOR) binds exogenous and endogenous opioids and is known to mediate the rewarding effects of drugs of abuse. Numerous genetic studies have sought to identify common genetic variation in the gene encoding MOR (OPRM1) that affects risk for drug addiction. The purpose of this study was to examine the contribution of rare coding variants in OPRM1 to the risk for addiction. Rare and low frequency variants were selected using the National Heart Lung and Blood Institute - Exome Sequencing Project (NHLBI-ESP) database, which has screened the exomes of over 6500 individuals. Two SNPs (rs62638690 and rs17174794) were selected for genotyping in 1377 European American individuals addicted to heroin and/or cocaine. Two different SNPs (rs1799971 and rs17174801) were genotyped in 1238 African American individuals addicted to heroin and/or cocaine. Using the minor allelefrequencies from the NHLBI-ESP dataset as a comparison group, case-control association analyses were performed. Results revealed an association between rs62638690 and cocaine and heroin addiction in European Americans (p=0.02; 95% C.I. 0.47 [0.24-0.92]). This study suggests a potential role for rare OPRM1 variants in addiction disorders and highlights an area worthy of future study.">
+	<sentence ID="1089_0" START="1002" END="1143">
+		<snp ID="0" START="1042" END="1052" TEXT="rs62638690"/>
+		<phenotype ID="0" START="1076" END="1143" text="addiction"/>
+		<modality_marker  START="1010" END="1018" text="revealed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

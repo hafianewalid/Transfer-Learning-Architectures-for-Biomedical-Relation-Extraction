@@ -1,0 +1,13 @@
+T1	Disease 43 45	TD 
+T2	Chemical 61 74	phenylalanine 
+T3	Gene_or_protein 134 159	phenylalanine hydroxylase 
+T4	Gene_or_protein 162 165	PAH 
+T5	Chemical 216 229	phenylalanine 
+T6	Disease 257 259	TD 
+T7	Pharmacokinetic_phenotype 61 85	phenylalanine metabolism
+T8	Limited_variation 109 167	variants in the gene for phenylalanine hydroxylase ( PAH )
+T9	Pharmacokinetic_phenotype 202 229	catabolism of phenylalanine
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	isAssociatedWith Arg1:T8 Arg2:T6	
+R3	isAssociatedWith Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R2	hyp

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1084" TEXT="RESULTS: The family-based association test (FBAT) revealed a significant genetic association between autism and two of the SNPs tested (rs2254298 A: Z = 2.287, p = .0222; rs53576 A: Z = 2.573, p = .0101).">
+	<sentence ID="1084_0" START="0" END="204">
+		<snp ID="0" START="136" END="145" TEXT="rs2254298"/>
+		<snp ID="1" START="171" END="178" TEXT="rs53576"/>
+		<phenotype ID="0" START="101" END="204" text="autism"/>
+		<modality_marker  START="50" END="58" text="revealed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

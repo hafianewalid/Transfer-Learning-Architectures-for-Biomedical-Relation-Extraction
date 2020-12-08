@@ -1,0 +1,13 @@
+T1	Gene_or_protein 75 103	catechol-O-methyltransferase 
+T2	Chemical 49 57	dopamine 
+T3	Gene_or_protein 106 110	COMT 
+T4	Limited_variation 106 120	COMT Val158Met 
+T5	Disease 161 168	anxiety 
+T6	Disease 178 185	anxiety 
+T7	Limited_variation 75 103;9 16	catechol-O-methyltransferase variant
+T8	Phenotype 178 206	anxiety -related temperament
+T9	Phenotype 211 256	altered neural responses to affective stimuli
+R1	isEquivalentTo Arg1:T3 Arg2:T1	
+R2	isAssociatedWith Arg1:T4 Arg2:T5	
+R3	isAssociatedWith Arg1:T4 Arg2:T8	
+R4	isAssociatedWith Arg1:T4 Arg2:T9	

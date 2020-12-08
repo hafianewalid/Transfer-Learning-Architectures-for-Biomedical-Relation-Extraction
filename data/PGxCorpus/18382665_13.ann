@@ -1,0 +1,9 @@
+T1	Limited_variation 121 157	ADH1B regulatory region polymorphism 
+T2	Gene_or_protein 121 126	ADH1B 
+T4	Gene_or_protein 202 207	ADH1B 
+T5	Haplotype 202 215	ADH1B * 47His
+T3	Pharmacokinetic_phenotype 31 53	selection distribution
+T6	Genomic_factor 121 144	ADH1B regulatory region
+R1	isAssociatedWith Arg1:T3 Arg2:T1	
+R2	isAssociatedWith Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R2	neg

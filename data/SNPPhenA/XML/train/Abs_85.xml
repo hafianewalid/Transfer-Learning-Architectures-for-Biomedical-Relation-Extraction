@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1254" TEXT="Single nucleotide polymorphisms (SNPs) in the apolipoprotein A5 (APOA5) gene have been associated with hypertriglyceridaemia. We investigated whichSNPs in the APOA5 gene were associated with triglyceride levels in two independent Chinese populations. In all, 1375 subjects in the Hong KongCardiovascular Risk Factor Prevalence Study were genotyped for five tagging SNPs chosen from HapMap. Replication was sought in 1996 subjects from the Guangzhou Biobank Cohort Study. Among the five SNPs, rs662799 (-1131T&gt;C) was strongly related to log-transformed triglyceride levels among Hong Kong subjects (β=0.192, P=2.6 × 10(-13)). Plasma triglyceride level was 36.1% higher in CC compared to TT genotype. This association was confirmed in Guangzhou subjects (β=0.159, P=1.3 × 10(-12)), and was significantly irrespective of sex, age group, obesity, metabolic syndrome, hypertension, diabetes, smoking and alcohol drinking. The odds ratios and 95% confidence interval for plasma triglycerides ≥1.7 mmol/l associated with TC and CCgenotypes were, respectively, 1.81 (1.37-2.39) and 2.22 (1.44-3.43) in Hong Kong and 1.27 (1.05-1.54) and 1.97 (1.42-2.73) in Guangzhou. Haplotypeanalysis suggested the association was due to rs662799 only. The corroborative findings in two independent populations indicate that the APOA5-1131T&gt;C polymorphism is an important and clinically relevant determinant of plasma triglyceride levels in the Chinese population.">
+	<sentence ID="1254_0" START="0" END="125">
+		<snp ID="0" START="65" END="70" TEXT="APOA5"/>
+		<phenotype ID="0" START="103" END="125" text="hypertriglyceridaemia"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

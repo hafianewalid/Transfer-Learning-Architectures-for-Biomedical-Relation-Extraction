@@ -1,0 +1,7 @@
+T1	Chemical 33 41	pindolol 
+T2	Chemical 93 100	lithium 
+T3	Limited_variation 147 165	5-HTTLPR genotypes 
+T6	Limited_variation 44 54	s/s-allele
+T7	Pharmacodynamic_phenotype 80 113	benefit from lithium augmentation
+R1	increases Arg1:T6 Arg2:T7	
+R2	influences Arg1:T3 Arg2:T7	

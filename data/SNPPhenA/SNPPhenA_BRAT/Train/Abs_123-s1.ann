@@ -1,0 +1,5 @@
+T1	SNP 53 65	rs16969968 a
+T2	SNP 68 79	rs1051730  
+T3	Phenotype 84 110	smoking-related phenotypes
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T2 Arg2:T3

@@ -1,0 +1,10 @@
+T1	SNP 43 53	rs11591147
+T2	SNP 68 78	rs11887534
+T3	SNP 97 105	rs429358
+T4	SNP 118 124	rs7412
+T5	Phenotype 183 220	reduced plasma LDL cholesterol levels
+T6	Modality_Marker 141 144	all
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T3 Arg2:T5
+R4	weak_confidence_association Arg1:T4 Arg2:T5

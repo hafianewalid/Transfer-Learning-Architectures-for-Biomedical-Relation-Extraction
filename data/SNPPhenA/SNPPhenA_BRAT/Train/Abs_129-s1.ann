@@ -1,0 +1,5 @@
+T1	SNP 69 77	rs405509
+T2	Phenotype 148 151	OSA
+T3	Modality_Marker 51 59	revealed
+T4	Modality_Marker 94 97	all
+R1	strong_confidence_association Arg1:T1 Arg2:T2

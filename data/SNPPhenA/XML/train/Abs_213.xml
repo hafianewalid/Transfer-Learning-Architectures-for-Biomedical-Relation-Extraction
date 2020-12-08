@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1128" TEXT="OBJECTIVE: : Our objective is to assess the effect of genetic and environmental factors on Crohn's disease location. METHODS: : We identified 628 patients with Crohn's disease within the Washington University database (April 2005 through February 2010) that had complete information on 31 Crohn's disease-associated genotypes and clinical information on disease location (L1 to L4), smoking, sex, race, and age at diagnosis. For statistical reasons, the 3 major NOD2 alleles (rs2066844, rs2066845, and rs2066847) were grouped together. Logistic regression incorporating all of the genotypes and clinical covariates, including smoking, was performed with stepwise variable selection and by best subset selection. RESULTS: : Stepwise variable selection selected 3 major covariates, composite NOD2 genotype, smoking, and TNFSF15 genotype, which are also the 3 covariates selected by the best subset method. Whereas the NOD2 genotype and smoking are positively associated with ileal (L1 + L3) disease, the TNFSF15 genotype is positively associated with isolated colonic (L2) disease. CONCLUSIONS: : The ability to detect disease site associations in this single-center study may be limited by the population size, low allelic frequency, and/or low odds ratio of certain Crohn's disease risk alleles. CONCLUSIONS: : These results indicate that NOD2 genotype, smoking status, and TNFSF15 genotype should be included as covariates in assessing the effect of genetic and environmental factors on Crohn's disease site location.">
+	<sentence ID="1128_0" START="904" END="1079">
+		<snp ID="0" START="1002" END="1009" TEXT="TNFSF15"/>
+		<phenotype ID="1" START="934" END="1079" text="smoking"/>
+		<phenotype ID="2" START="973" END="1079" text="ileal (L1 + L3) disease"/>
+		<phenotype ID="0" START="1049" END="1079" text="isolated colonic"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

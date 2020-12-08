@@ -1,0 +1,7 @@
+T1	Chemical 49 58	erlotinib 
+T2	Gene_or_protein 116 120	EGFR 
+T3	Pharmacodynamic_phenotype 20 37	cell cycle arrest
+T4	Limited_variation 106 120	wild-type EGFR
+T5	Pharmacodynamic_phenotype 130 156	pharmacodynamic separation
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+R2	causes Arg1:T1 Arg2:T3	

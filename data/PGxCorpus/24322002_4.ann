@@ -1,0 +1,12 @@
+T1	Limited_variation 71 90	FCGR3A polymorphism 
+T2	Gene_or_protein 71 77	FCGR3A 
+T3	Chemical 204 209	r-ATG 
+T5	Phenotype 108 128	lymphocyte depletion
+T6	Chemical 172 201	rabbit antithymocyte globulin
+T4	Disease 132 149	kidney transplant
+R1	isEquivalentTo Arg1:T3 Arg2:T6	
+R3	treats Arg1:T6 Arg2:T4	
+R4	influences Arg1:T1 Arg2:T6	
+R5	isAssociatedWith Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R4	hyp
+#2	AnnotatorNotes R5	hyp

@@ -1,0 +1,5 @@
+T2	Chemical 123 129	heroin 
+T3	Limited_variation 52 79	AA homozygotes of rs6943555
+T4	Disease 123 139	heroin dependent
+T1	Limited_variation 70 79	rs6943555
+R1	influences Arg1:T3 Arg2:T4	

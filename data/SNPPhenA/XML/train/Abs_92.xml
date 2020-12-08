@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1262" TEXT="OBJECTIVE: There is compelling evidence that the plasma apolipoprotein E (APOE) concentration, in addition to the APOE ε2/ε3/ε4 genotype, influences plasma lipoprotein levels, but the functional genetic variants influencing the plasma APOE concentration have not been identified. APPROACH AND RESULTS: Genome-wide association studies in 2 cohorts of healthy, middle-aged subjects identified the APOE locus as the only genetic locus showing robust associations with the plasma APOE concentration. Fine-mapping of the APOE locus confirmed that the rs7412 ε2-allele is the primary genetic variant responsible for the relationship with plasma APOE concentration. Further mapping of the APOE locus uncovered that rs769446 (-427T/C) in theAPOE promoter is independently associated with the plasma APOE concentration. Expression studies in 199 human liver samples demonstrated that the rs769446 C-allele is associated with increased APOE mRNA levels (P=0.015). Transient transfection studies and electrophoretic mobility shift assays in human hepatoma HepG2 cells corroborated the role of rs769446 in transcriptional regulation of APOE. However, no relationships were found between rs769446 genotype and plasma lipoprotein levels in 2 cohorts (n=1648 and n=1039) of healthy middle-aged carriers of the APOE ε3/ε3 genotype. CONCLUSIONS: rs769446 is a functional polymorphism involved in the regulation of the plasma APOE concentration.">
+	<sentence ID="1262_0" START="1130" END="1315">
+		<snp ID="0" START="1175" END="1183" TEXT="rs769446"/>
+		<phenotype ID="0" START="1197" END="1315" text="plasma lipoprotein levels"/>
+		<modality_marker  START="1161" END="1166" text="found"/>
+		<negation_scope  START="1139" END="1315" text="no relationships were found between rs769446 genotype and plasma lipoprotein levels in 2 cohorts (n=1648 and n=1039) of healthy middle-aged carriers of the APOE ε3/ε3 genotype.">
+			<negation_cue START="1139" END="1141" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1262_1" START="1316" END="1427">
+		<snp ID="1" START="1329" END="1337" TEXT="rs769446"/>
+		<phenotype ID="1" START="1401" END="1427" text="plasma APOE concentration"/>
+		<modality_marker  START="1316" END="1327" text="CONCLUSIONS"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

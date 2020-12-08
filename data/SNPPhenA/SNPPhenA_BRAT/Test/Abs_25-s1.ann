@@ -1,0 +1,3 @@
+T1	SNP 103 112	rs1799971
+T2	Phenotype 118 131	schizophrenia
+R1	neutral_association Arg1:T1 Arg2:T2

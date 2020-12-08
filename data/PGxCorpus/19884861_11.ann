@@ -1,0 +1,9 @@
+T1	Limited_variation 25 39	EGFR mutations 
+T2	Gene_or_protein 25 29	EGFR 
+T3	Disease 150 155	NSCLC 
+T4	Chemical 194 203	erlotinib 
+T5	Chemical 166 175	docetaxel 
+T6	Phenotype 105 123	favorable outcomes
+T7	Chemical 166 203	docetaxel plus intercalated erlotinib
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+R2	treats Arg1:T7 Arg2:T3	

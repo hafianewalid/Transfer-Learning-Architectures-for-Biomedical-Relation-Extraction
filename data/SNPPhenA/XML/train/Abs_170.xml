@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1080" TEXT="In various populations worldwide, common variants of the TCF7L2 (Transcription factor 7-like 2) gene are associated with the risk of type 2 diabetes mellitus (T2DM). The aim was to investigate the association between rs12255372 (G/T) polymorphism in the TCF7L2 gene and T2DM in an Iranian population. 236 unrelated patients with T2DM, and 255 normoglycemic controls without diabetes were studied. The PCR-RFLP method was used forgenotyping rs12255372 (G/T) polymorphism, and the SPSS version 18.0 for Windows for statistical analysis. The minor T allele of TCF7L2 rs12255372 was found to significantly increase the risk of T2DM, with an allelic odds ratio (OR) of 1.458 (95% CI 1.108-1.918, p = 0.007). A significant difference in TTgenotype was observed between T2DM patients and normoglycemic controls (OR 2.038, 95% CI 1.147-3.623; p = 0.014). On assuming dominant and recessive models, ORs of 1.52 [95% CI (1.05-2.21) p = 0.026)] and 1.74 [95% CI (1.01-3.00) p = 0.043] were obtained, respectively, thereby implying that the co-dominant model would best fit the susceptible gene effect. This study further confirms the TCF7L2 gene as enhancing susceptibility to the development of T2DM.">
+	<sentence ID="1080_0" START="535" END="702">
+		<snp ID="0" START="564" END="574" TEXT="rs12255372"/>
+		<phenotype ID="0" START="623" END="702" text="T2DM"/>
+		<modality_marker  START="579" END="584" text="found"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

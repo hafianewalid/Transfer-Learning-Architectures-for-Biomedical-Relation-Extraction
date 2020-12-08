@@ -1,0 +1,6 @@
+T1	SNP 26 34	rs290487
+T2	Phenotype 88 92	NODM
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 112 121	potential
+T5	Modality_Marker 145 155	prediction
+R1	strong_confidence_association Arg1:T1 Arg2:T2

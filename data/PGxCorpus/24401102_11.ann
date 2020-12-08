@@ -1,0 +1,8 @@
+T1	Limited_variation 28 34	rs4952 
+T3	Chemical 70 78	nicotine 
+T4	Limited_variation 133 143	rs13273442 
+T2	Disease 70 89	nicotine dependence
+T5	Limited_variation 8 25	SNP in the region
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+R2	isAssociatedWith Arg1:T5 Arg2:T2	
+R3	influences Arg1:T4 Arg2:T2	

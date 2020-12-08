@@ -1,0 +1,12 @@
+T3	Gene_or_protein 86 106	dopamine transporter 
+T4	Gene_or_protein 114 117	DAT 
+T5	Gene_or_protein 51 68	dopamine receptor
+T6	Limited_variation 30 74	polymorphisms in the dopamine receptor genes
+T2	Pharmacodynamic_phenotype 138 165	adverse effects of L - dopa
+T7	Limited_variation 30 43;79 111	polymorphisms in the dopamine transporter gene
+T8	Chemical 157 165	L - dopa
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R3	influences Arg1:T2 Arg2:T7	
+R5	influences Arg1:T6 Arg2:T2	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R5	hyp

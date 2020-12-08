@@ -1,0 +1,13 @@
+T3	Disease 39 53	thyroid cancer
+T5	Gene_or_protein 73 76	MEK
+T6	Chemical 153 165	temsirolimus
+T7	Gene_or_protein 138 142	mTOR
+T1	Gene_or_protein 0 4	BRAF
+T2	Limited_variation 0 13	BRAF mutation
+T4	Phenotype 0 59	BRAF mutation -selective inhibition of thyroid cancer cells
+T8	Chemical 73 86	MEK inhibitor
+T9	Chemical 87 94	RDEA119
+T10	Phenotype 99 128	genetic-potentiated synergism
+T11	Chemical 138 152	mTOR inhibitor
+R2	causes Arg1:T9 Arg2:T3	
+R4	causes Arg1:T6 Arg2:T10	

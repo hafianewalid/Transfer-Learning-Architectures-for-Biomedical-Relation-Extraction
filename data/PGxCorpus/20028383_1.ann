@@ -1,0 +1,8 @@
+T1	Chemical 17 27	irinotecan 
+T2	Chemical 32 45	doxifluridine 
+T3	Disease 50 78	metastatic colorectal cancer 
+T4	Gene_or_protein 95 101	UGT1A1 
+T5	Chemical 17 45	irinotecan and doxifluridine
+T7	Haplotype 95 106	UGT1A1 * 28
+R2	treats Arg1:T5 Arg2:T3	
+R1	isAssociatedWith Arg1:T7 Arg2:T5	

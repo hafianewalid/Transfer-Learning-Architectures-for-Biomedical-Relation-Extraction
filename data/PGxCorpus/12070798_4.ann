@@ -1,0 +1,10 @@
+T1	Gene_or_protein 48 56	c-erbB-2 
+T2	Chemical 159 170	carboplatin 
+T3	Chemical 174 183	cisplatin 
+T4	Chemical 188 204	cyclophosphamide 
+T5	Phenotype 66 74	survival
+T6	Chemical 141 170	chemotherapy with carboplatin
+T7	Chemical 141 158;174 204	chemotherapy with cisplatin and cyclophosphamide
+T8	Phenotype 34 61	expression of c-erbB-2 mRNA
+T9	Genomic_factor 48 61	c-erbB-2 mRNA
+R1	isAssociatedWith Arg1:T8 Arg2:T5	

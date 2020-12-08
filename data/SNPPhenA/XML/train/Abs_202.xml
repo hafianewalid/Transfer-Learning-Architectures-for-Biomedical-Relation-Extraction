@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1116" TEXT="Brain tumors are the common site for solid tumors in childhood. Very few studies have investigated genes with low penetrance in relation to pediatricbrain tumor (pBT) development. Brain tumors do occur more frequently in males compared to females regardless of age, tumor histology, or region of the world. Taken into account these facts, we have designed a study aimed to analyse the contribution of some genetic factors to pBP in males and females. Patients with glial and embryonic brain tumors (160 males, 124 females) and healthy controls (277 males, 187 females) were included in the study. All subjects were genotyped for eight polymorphic variants in the genes of xenobiotics detoxification CYP1A1 (rs2606345, rs4646903, rs1048943),GSTM1 (Ins/del), GSTT1 (Ins/del), repair ERCC2 (rs1799793, rs13181), and folate pathway MTHFR (rs1801133). Genotype-specific risks of pBT were sex-dependent. GSTM1 deletion and dual deletions in GSTM1-GSTT1 loci were associated with brain tumor in males (P = 1.2 × 10(-5); odds ratio (OR) = 2.56; 95 % confidence interval (CI), 1.45-3.85 and P = 4.9 × 10(-4); OR = 3.09; 95 % CI, 1.63-5.89, relatively). The increased risk of brain tumors was evident for CYP1A1 rs2606345 (P = 0.0028; OR = 2.06; 95 % CI, 1.27-3.34) and minor haplotypes rs2606345-rs1048943-rs4646903 in females (global haplotypeassociation P value, 0.0011). This study provides first evidence for the different pronounced pBT associations in males and females. This phenomenon possibly reflects the sexual dimorphism as an important determinant of brain tumor biology.">
+	<sentence ID="1116_0" START="1144" END="1364">
+		<snp ID="0" START="1202" END="1211" TEXT="rs2606345"/>
+		<snp ID="1" START="1277" END="1286" TEXT="rs2606345"/>
+		<snp ID="2" START="1287" END="1296" TEXT="rs1048943"/>
+		<snp ID="3" START="1297" END="1306" TEXT="rs4646903"/>
+		<phenotype ID="0" START="1172" END="1364" text="tumors"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

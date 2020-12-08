@@ -1,0 +1,9 @@
+T1	Chemical 16 27	cobimetinib 
+T2	Chemical 33 44	vemurafenib 
+T4	Gene_or_protein 77 81	BRAF 
+T5	Limited_variation 77 108	BRAF ( V600 ) mutation-positive
+T6	Disease 136 144;77 121	melanoma BRAF ( V600 ) mutation-positive unresectable
+T7	Chemical 16 44	cobimetinib plus vemurafenib
+T8	Disease 125 144;77 108	metastatic melanoma BRAF ( V600 ) mutation-positive
+R1	treats Arg1:T7 Arg2:T8	
+R2	treats Arg1:T7 Arg2:T6	

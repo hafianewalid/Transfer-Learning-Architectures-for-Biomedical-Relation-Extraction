@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1067" TEXT="The OPRM1 gene encodes the µ-opioid receptor, which is the primary site of action of most opioids. Several studies and three meta-analyses have examined a possible link between the exonic OPRM1 A118G (rs1799971) polymorphism and opioid dependence; however, results have been inconclusive. Therefore, a systematic review and meta-analysis have been carried out to examine whether this polymorphism is associated with opioid dependence. Thirteen studies (n = 9385), comprising 4601 opioid dependents and 4784 controls, which evaluated association of the OPRM1 rs1799971 polymorphism with susceptibility to opioids, were included in this study. Our meta-analysis showed significant association between this polymorphism and susceptibility to opioid dependence in overall studies under a codominant model, as well as susceptibility to opioid dependence or heroin dependence in Asians under an autosomal dominant model. The nonsynonymous OPRM1 rs1799971 might be a risk factor for addiction to opioids or heroin in an Asian population.">
+	<sentence ID="1067_0" START="915" END="1030">
+		<snp ID="0" START="939" END="948" TEXT="rs1799971"/>
+		<phenotype ID="0" START="976" END="1030" text="addiction"/>
+		<modality_marker  START="948" END="954" text=" might"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

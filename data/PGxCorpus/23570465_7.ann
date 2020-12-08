@@ -1,0 +1,9 @@
+T1	Chemical 47 56	tamoxifen 
+T2	Phenotype 124 147	reduced CYP2D6 activity 
+T3	Gene_or_protein 132 138	CYP2D6 
+T4	Disease 204 217	breast cancer 
+T5	Phenotype 204 237	breast cancer -specific mortality
+T6	Phenotype 175 185	recurrence
+R1	isAssociatedWith Arg1:T2 Arg2:T5	
+R2	treats Arg1:T1 Arg2:T4	
+R3	influences Arg1:T3 Arg2:T1	

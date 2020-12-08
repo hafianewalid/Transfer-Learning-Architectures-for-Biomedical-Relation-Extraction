@@ -1,0 +1,10 @@
+T1	Chemical 46 55	sorafenib 
+T2	Gene_or_protein 183 190	BCR/ABL 
+T3	Gene_or_protein 211 224	interleukin-3 
+T4	Phenotype 65 78	proliferation
+T5	Phenotype 91 100	apoptosis
+T6	Chemical 24 45	multikinase inhibitor
+R1	influences Arg1:T2 Arg2:T1	
+R2	influences Arg1:T3 Arg2:T1	
+R3	decreases Arg1:T1 Arg2:T4	
+R4	causes Arg1:T1 Arg2:T5	

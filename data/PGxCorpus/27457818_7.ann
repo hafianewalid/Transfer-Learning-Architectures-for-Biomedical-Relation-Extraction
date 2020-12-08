@@ -1,0 +1,6 @@
+T1	Chemical 34 43	clonidine 
+T2	Limited_variation 76 101	COMT low-activity alleles 
+T3	Gene_or_protein 76 80	COMT 
+T4	Chemical 48 55	placebo
+R1	influences Arg1:T2 Arg2:T1	
+#1	AnnotatorNotes R1	neg

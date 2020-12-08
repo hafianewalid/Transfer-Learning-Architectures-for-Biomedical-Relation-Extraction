@@ -1,0 +1,5 @@
+T1	Phenotype 15 30	CYP2A6 activity 
+T2	Gene_or_protein 15 21	CYP2A6 
+T3	Chemical 56 64	coumarin 
+T4	Pharmacokinetic_phenotype 44 64	shunting of coumarin
+R1	influences Arg1:T1 Arg2:T4	

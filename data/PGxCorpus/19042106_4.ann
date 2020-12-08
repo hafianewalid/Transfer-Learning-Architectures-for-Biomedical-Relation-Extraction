@@ -1,0 +1,6 @@
+T1	Gene_or_protein 0 28	Catechol-O-methyltransferase 
+T2	Gene_or_protein 31 35	COMT 
+T3	Chemical 71 78	Ecstasy 
+T4	Pharmacokinetic_phenotype 57 78	catabolism of Ecstasy
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	influences Arg1:T1 Arg2:T4	

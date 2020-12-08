@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1044" TEXT="We explored the influence of interactions between polymorphisms acting upon postsynaptic receptors (DRD2 TaqA1 rs1800497 and DRD4 7R) and dopamine regulators (COMT rs4680 and DAT1) on the expression of eating symptoms and personality traits in women with bulimia-spectrum eatingdisorders. We had 269 bulimic women provide blood for genetic assays, and measured eating-disorder symptoms and psychopathological traits using structured interviews and self-report questionnaires. We observed two epistatic interactions on symptom indices: interactions (in predicted directions) of DRD2 by   DAT were seen on Body Mass Index (p=.023), and of DRD4 by COMT on self-harming behaviors (p=.014),with genetic effects that would correspond to reduced dopamine transmission coinciding with more-pathological scores. Our findings suggest that genes acting in the dopamine system interact to influence both eating-related and personality psychopathology, with the result that lower levels of dopamine neuro-transmission correspond to increased psychopathology and body mass in women with bulimia-spectrum disorders. We discuss the implications of our observations.">
+	<sentence ID="1044_0" START="0" END="288">
+		<snp ID="0" START="111" END="120" TEXT="rs1800497"/>
+		<snp ID="1" START="164" END="170" TEXT="rs4680"/>
+		<phenotype ID="0" START="202" END="288" text="eating symptoms"/>
+		<phenotype ID="1" START="255" END="288" text="bulimia-spectrum eatingdisorders"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1044_1" START="476" END="685">
+		<snp ID="2" START="577" END="590" TEXT="DRD2 by   DAT"/>
+		<snp ID="3" START="637" END="649" TEXT="DRD4 by COMT"/>
+		<phenotype ID="2" START="604" END="685" text="Body Mass Index"/>
+		<phenotype ID="3" START="653" END="685" text="self-harming behaviors"/>
+		<modality_marker  START="479" END="487" text="observed"/>
+		<modality_marker  START="552" END="561" text="predicted"/>
+		<modality_marker  START="596" END="600" text="seen"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="2" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="7" PHENOTYPEID="3" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

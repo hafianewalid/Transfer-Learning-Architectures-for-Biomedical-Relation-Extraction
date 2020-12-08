@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1021" TEXT="OBJECTIVE: Previous studies have investigated the role of cytotoxic T-lymphocyte antigen-4 (CTLA-4) and tumor necrosis factor-alpha (TNF-α) in carcinogenesis of osteosarcoma, but their results were inconsistent. We aimed to clarify the associations between CTLA-4, TNF-α polymorphism andosteosarcoma risk by using meta-analysis. METHODS: We searched relevant studies without language restriction in PubMed, EMbase, Cochrane Library, Google Scholar databases, Chinese National Knowledge Infrastructure (CNKI) and conference literature in humans published prior to March 2013. The strengths of the associations between genetic variants and osteosarcoma risk were estimated by odds ratio (OR) with 95% confidence interval (95% CI). RESULTS: A total of seven studies with 1,198 osteosarcoma patients and 1,493 controls were selected. Four studies were eligible for CTLA-4 (1,003osteosarcoma and 1,162 controls), and three studies for TNF-α (195 osteosarcoma and 331 controls). Pooled results showed that rs231775 polymorphism of CTLA-4 was associated with osteosarcoma risk (GG vs. AA: OR=1.63, 95% CI=1.24-2.13; GG + GA vs. AA: OR=1.56, 95% CI=1.21-2.01; AA + GA vs. GG: OR=0.83, 95% CI=0.71-0.97; G vs. A: OR=1.21, 95% CI=1.08-1.36). No significant heterogeneity was observed across the studies. No signiﬁcant associations were found between rs5742909 polymorphism of CTLA-4 or rs1800629 polymorphism of TNF-α and osteosarcoma risk. CONCLUSIONS: These results suggest that the rs231775 polymorphism of CTLA-4 may play an important role in carcinogenesis of osteosarcoma.">
+	<sentence ID="1021_0" START="0" END="211">
+		<snp ID="0" START="58" END="90" TEXT="cytotoxic T-lymphocyte antigen-4"/>
+		<phenotype ID="0" START="104" END="211" text="tumor necrosis"/>
+		<modality_marker  START="198" END="210" text="inconsistent"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1021_1" START="973" END="1071">
+		<snp ID="1" START="1000" END="1008" TEXT="rs231775"/>
+		<phenotype ID="1" START="1052" END="1071" text="osteosarcoma risk"/>
+		<modality_marker  START="988" END="994" text="showed"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1021_2" START="1294" END="1430">
+		<snp ID="2" START="1340" END="1349" TEXT="rs5742909"/>
+		<snp ID="3" START="1376" END="1385" TEXT="rs1800629"/>
+		<phenotype ID="2" START="1412" END="1430" text="osteosarcoma"/>
+		<modality_marker  START="1326" END="1331" text="found"/>
+		<negation_scope  START="1294" END="1430" text="No signiﬁcant associations were found between rs5742909 polymorphism of CTLA-4 or rs1800629 polymorphism of TNF-α and osteosarcoma risk.">
+			<negation_cue START="1294" END="1296" text="No"/>
+		</negation_scope>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="2" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

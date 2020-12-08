@@ -1,0 +1,1 @@
+Meta-analysis indicated compelling evidence of an association between the rs1051730/rs16966968 variants and daily cigarette consumption (fixed effects: B = 0.91, 95% CI = 0.77, 1.06, p < .001; random effects: B = 1.01, 95% CI = 0.81, 1.22, p < .001), equivalent to a per-allele effect of approximately 1 cigarette/day.

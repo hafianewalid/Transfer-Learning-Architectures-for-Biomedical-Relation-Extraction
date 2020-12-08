@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1135" TEXT="We conducted dense linkage disequilibrium (LD) mapping of a series of 25 genes putatively involved in lipid metabolism in 1567 dementia cases [including 1270 with Alzheimer disease (AD)] and 2203 Swedish controls. Across a total of 448 tested genetic markers, the strongest evidence of association was as anticipated for APOE (rs429358 at P approximately 10(-72)) followed by a previously reported association of ABCA1 (rs2230805 at P approximately 10(-8)). In the present study, we report two additional markers near the SREBF1 locus on chromosome 17p that were also significant after multiple testing correction (best P = 3.1 x 10(-6) for marker rs3183702). There was no convincing evidence of association for remaining genes, including candidates highlighted from recent genome-wide association studies of plasma lipids (CELSR2/PSRC1/SORT1, MLXIPL, PCSK9, GALNT2 and GCKR). The associated markers near SREBF1 reside in a large LD block, extending more than 400 kb across seven candidate genes. Secondary analyses of gene expression levels of candidates spanning the LD region together with an investigation of gene network context highlighted two possible susceptibility genesincluding ATPAF2 and TOM1L2. Several markers in strong LD (r(2) &gt; 0.7) with rs3183702 were found to be significantly associated with AD risk in recent genome-wide association studies with similar effect sizes, providing independent support of the current findings.">
+	<sentence ID="1135_0" START="1208" END="1443">
+		<snp ID="0" START="1255" END="1264" TEXT="rs3183702"/>
+		<phenotype ID="0" START="1312" END="1443" text="AD"/>
+		<modality_marker  START="1227" END="1233" text="strong"/>
+		<modality_marker  START="1270" END="1275" text="found"/>
+		<modality_marker  START="1411" END="1418" text="support"/>
+		<modality_marker  START="1434" END="1442" text="findings"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

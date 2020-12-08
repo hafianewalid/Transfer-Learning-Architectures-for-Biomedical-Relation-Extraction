@@ -1,0 +1,6 @@
+T1	SNP 136 145	rs2254298
+T2	SNP 171 178	rs53576
+T3	Phenotype 101 107	autism
+T4	Modality_Marker 50 58	revealed
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

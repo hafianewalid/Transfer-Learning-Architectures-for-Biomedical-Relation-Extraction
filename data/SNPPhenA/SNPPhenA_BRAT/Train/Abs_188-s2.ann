@@ -1,0 +1,7 @@
+T1	SNP 168 177	rs1800414
+T2	Phenotype 85 94	blue eyes
+T3	Phenotype 195 212	skin pigmentation
+T4	Modality_Marker 9 16	suggest
+T5	Modality_Marker 64 73	strongest
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T1 Arg2:T2

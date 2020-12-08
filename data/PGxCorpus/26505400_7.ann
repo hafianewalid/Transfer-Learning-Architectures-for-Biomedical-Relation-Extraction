@@ -1,0 +1,13 @@
+T1	Limited_variation 0 9	rs2115819 
+T2	Limited_variation 12 21	rs9934438 
+T3	Limited_variation 28 36	rs689466 
+T4	Gene_or_protein 54 59	ALOX5 
+T5	Gene_or_protein 62 89	arachidonate 5-lipoxygenase 
+T6	Gene_or_protein 94 100	VKORC1 
+T7	Chemical 103 120	vitamin K epoxide 
+T10	Gene_or_protein 157 162	PTGS2 
+T11	Gene_or_protein 165 202	prostaglandin-endoperoxide synthase 2 
+T12	Gene_or_protein 103 150	vitamin K epoxide reductase complex , subunit 1
+R1	isEquivalentTo Arg1:T12 Arg2:T6	
+R2	isEquivalentTo Arg1:T5 Arg2:T4	
+R3	isEquivalentTo Arg1:T11 Arg2:T10	

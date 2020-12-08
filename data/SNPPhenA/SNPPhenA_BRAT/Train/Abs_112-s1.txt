@@ -1,0 +1,1 @@
+We investigated thecausal relationship between smoking and symptoms of anxiety and depression in the Norwegian HUNT study using the rs1051730 single nucleotidepolymorphism (SNP) variant located in the nicotine acetylcholine receptor gene cluster on chromosome 15 as an instrumental variable for smokingphenotypes

@@ -1,0 +1,11 @@
+T1	Chemical 17 27	irinotecan 
+T2	Disease 51 62	lung cancer 
+T3	Gene_or_protein 81 87	UGT1A1 
+T4	Haplotype 81 92	UGT1A1 * 28
+T5	Haplotype 81 87;96 99	UGT1A1 * 6
+R1	influences Arg1:T4 Arg2:T1	
+R2	influences Arg1:T5 Arg2:T1	
+R3	isAssociatedWith Arg1:T2 Arg2:T5	
+R4	isAssociatedWith Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

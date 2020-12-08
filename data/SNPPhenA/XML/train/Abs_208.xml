@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1122" TEXT="OBJECTIVE: Recent studies reported a role for more than 70 genes or loci in the susceptibility to Crohn's disease (CD). However, the impact of these associations in clinical practice remains to be defined. The aim of the study was to analyse the relationship between genotypes and phenotypes for the main 53 CD-associated polymorphisms. METHODS: A cohort of 798 CD patients with a median follow up of 7 years was recruited by tertiary adult and paediatric gastroenterological centres. A detailed phenotypic description of the disease was recorded, including clinical presentation, response to treatments and complications. The participants were genotyped for 53 CD-associated variants previously reported in the literature and correlations with clinical sub-phenotypes were searched for. A replication cohort consisting of 722 CD patients was used to further explore the putative associations. RESULTS: The NOD2 rare variants were associated with an earlier age at diagnosis (p = 0.0001) and an ileal involvement (OR = 2.25[1.49-3.41] and 2.77 [1.71-4.50] for rs2066844 and rs2066847, respectively). Colonic lesions were positively associated with the risk alleles of IL23R rs11209026 (OR = 2.25 [1.13-4.51]) and 6q21 rs7746082 (OR = 1.60 [1.10-2.34] and negatively associated with the risk alleles of IRGM rs13361189 (OR = 0.29 [0.11-0.74]) and DEFB1 rs11362 (OR = 0.50 [0.30-0.80]). The ATG16L1 and IRGM variants were associated with a non-inflammatory behaviour (OR = 1.75 [1.22-2.53] and OR = 1.50 [1.04-2.16] respectively). However, these associations lost significance after multiple testing corrections. The protective effect of the IRGM risk allele on colonic lesions was the only association replicated in the second cohort (p = 0.03). CONCLUSIONS: It is not recommended to genotype the studied polymorphisms in routine practice.">
+	<sentence ID="1122_0" START="1100" END="1384">
+		<snp ID="0" START="1174" END="1184" TEXT="rs11209026"/>
+		<snp ID="1" START="1218" END="1227" TEXT="rs7746082"/>
+		<snp ID="2" START="1307" END="1317" TEXT="rs13361189"/>
+		<snp ID="3" START="1352" END="1359" TEXT="rs11362"/>
+		<phenotype ID="0" START="1100" END="1384" text="Colonic lesions"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

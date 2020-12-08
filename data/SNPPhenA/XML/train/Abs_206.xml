@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1120" TEXT="Hypoxia-inducible factor 1 (HIF-1) is a transcription factor that regulates gene expression in response to hypoxia and has been associated with athletic performance. The aims of this study were (1) to determine the frequency distribution of HIF1A Pro582Ser (rs11549465) polymorphism among 155 Israeli athletes (sprinters and endurance athletes) and 240 healthy controls and (2) to analyze the influence of the interaction between HIF1A Pro582Ser and ACTN3 R577X (rs1815739) genotypes on sprint performance. There were no differences across the HIF1A genotype and allele frequencies among endurance athletes, sprinters, and controls. Similarly, no differences were found between the subgroups of top-level and national-level endurance athletes, or between top-level and national-level sprinters. Conversely, interaction effects were found between HIF1A Pro582Ser and ACTN3 R577X polymorphisms and sprinters. The proportion of HIF1A Pro/Pro + ACTN3 R/R genotypes was significantly higher in sprinters than in endurance athletes and healthy controls (P = .002). In addition, the odds ratio for HIF1A Pro/Pro + ACTN3 R/R genotype carriers being a sprinter was 2.25 (95% confidence interval, 1.24-4.1); and that for HIF1A Pro/Pro + ACTN3 R/R genotype carriers being an endurance athlete was 0.5 (95% confidence interval, 0.2-1.24). We conclude that HIF1A Pro582Ser polymorphism by itself is not critical in determining sprint performance. However, sprinter performance is determined by the interaction between the wild-type HIF1A Pro/Pro genotype and ACTN3 RR genotype.">
+	<sentence ID="1120_0" START="1327" END="1433">
+		<snp ID="0" START="1350" END="1359" TEXT="Pro582Ser"/>
+		<phenotype ID="0" START="1414" END="1433" text="sprint performance"/>
+		<negation_scope  START="1386" END="1433" text="not critical in determining sprint performance.">
+			<negation_cue START="1386" END="1389" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

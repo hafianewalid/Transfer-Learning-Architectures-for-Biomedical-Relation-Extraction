@@ -1,0 +1,16 @@
+T1	Gene_or_protein 4 8	CREB 
+T2	Chemical 126 141	methamphetamine 
+T3	Gene_or_protein 188 192	CREB 
+T4	Chemical 243 258	methamphetamine 
+T5	Phenotype 77 106	chronic use of multiple drugs
+T7	Pharmacodynamic_phenotype 274 306	outcomes of outpatient treatment
+T8	Phenotype 217 258	pretreatment frequency of methamphetamine
+T9	Phenotype 42 65	gene expression changes
+T6	Phenotype 110 115	abuse
+R1	influences Arg1:T1 Arg2:T5	
+R3	influences Arg1:T3 Arg2:T8	
+R2	influences Arg1:T3 Arg2:T7	
+R5	influences Arg1:T1 Arg2:T9	
+R4	influences Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R2	hyp

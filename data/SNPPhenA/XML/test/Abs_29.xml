@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1022" TEXT="Dopamine (DA) is considered to be an important neurotransmitter in the control of impulsive behavior, however, its underlying mechanisms have not been fully elucidated. Catechol-O-methyltransferase (COMT) is a key enzyme in the catabolism of DA within the prefrontal cortex (PFC) and has been suggested to play a role in the mediation of impulsive behavior. The COMT single nucleotide polymorphism (SNP) rs4680 (Val158Met) Met allele has been shown to decrease COMT enzyme activity and is associated with improved PFC cognitive function (intelligence and executive functions). Studies have associated the rs4680 genotype with impulsivity as a symptom in attention deficit hyperactivity disorder and substance abuse. However, only a few studies have assessed the effects of rs4680 on impulsiveness in healthy subjects, the results of which remain controversial. The Barratt Impulsiveness Scale (BIS-11) was applied to 82 healthy volunteers (including 42 females) who were genotyped for COMT rs4680. Subjects carrying the Met/Met genotype scored higher for the BIS-11 second-order factor Non-planning than carriers of the Val/Val genotype. No interaction between gender genotype was detected. Age, gender and education had no effect on the results. The COMT rs4680 Met/Met genotype was associated with higher impulsivity on the BIS-11 second-order factor Non-planning. These results suggest that COMT enzyme activity may be important in the regulation of impulsiveness among young adults. Further studies involving larger samples should be conducted to confirm the results of the present study.">
+	<sentence ID="1022_0" START="1247" END="1366">
+		<snp ID="0" START="1256" END="1270" TEXT="rs4680 Met/Met"/>
+		<phenotype ID="0" START="1307" END="1366" text="impulsivity"/>
+		<modality_marker  START="1300" END="1306" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

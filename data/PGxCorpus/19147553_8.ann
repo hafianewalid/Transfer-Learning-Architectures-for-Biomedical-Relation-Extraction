@@ -1,0 +1,9 @@
+T1	Chemical 11 19	nutlin-3 
+T2	Chemical 38 51	rhodamine 123 
+T3	Gene_or_protein 101 105	P-gp 
+T4	Pharmacokinetic_phenotype 28 51	efflux of rhodamine 123
+T5	Chemical 62 79	fluorescence dyes
+R1	decreases Arg1:T1 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T5	
+R3	decreases Arg1:T1 Arg2:T5	
+R4	influences Arg1:T3 Arg2:T2	

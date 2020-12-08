@@ -1,0 +1,1 @@
+However, in a multivariate analysis, patients with EAC carrying the heterozygous MDM2 (rs2279744) T/G genotype had significantly improved DFS compared with patients carrying the wild-type genotype (adjusted hazard ratio (AHR), 0.63; 95% confidence interval (CI) [0.45-0.88]).

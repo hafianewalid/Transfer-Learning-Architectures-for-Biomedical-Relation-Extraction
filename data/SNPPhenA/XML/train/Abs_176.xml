@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1086" TEXT="Type 2 diabetes (T2D) is a chronic degenerative disease that involves the participation of several genetic and environmental factors. The objective of the study was to determine the association of the IRS1 (rs1801278), CAPN10 (rs3792267), TCF7L2 (rs7903146 and rs12255372), and PPARG (rs1801282)gene polymorphisms with T2D, in two different Mexican populations. We conducted a case-control replication study in the state of Guerrero and in MexicoCity, with 400 subjects from Guerrero and 1065 from Mexico City. Data were analyzed by logistic regression, adjusting by ancestry, age, gender, and BMI, to determine the association with T2D. Heterozygosity for the Gly972Arg variant of the IRS1 gene showed the strongest association for T2D in both analyzed samples (OR = 2.43, 95% CI 1.12-5.26 and 2.64, 95% CI 1.37-5.10, respectively). In addition, an association of two SNPs of the TCF7L2 gene with T2D was &lt;/ModMar&gt;observed&lt;/ModMar&gt; in both cities: rs7903146, (for Guerrero OR = 1.98 CI95% 1.02-3.89 and for Mexico OR = 1.94 CI95% 1.31-2.88) and rs12255372(OR = 1.79 CI95% 1.08-2.97, OR = 1.78 CI95% 1.17-2.71 respectively). We suggest that our results provide strong evidence that variation in the IRS1 and TCF7L2 genes confers susceptibility to T2D in our studied populations.">
+	<sentence ID="1086_0" START="834" END="1124">
+		<snp ID="0" START="949" END="958" TEXT="rs7903146"/>
+		<snp ID="1" START="1046" END="1056" TEXT="rs12255372"/>
+		<phenotype ID="0" START="898" END="1124" text="T2D"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,9 @@
+T1	SNP 96 113	CAG repeat length
+T2	Phenotype 145 148	CVD
+T3	Phenotype 150 172	myocardial infarctions
+T4	Phenotype 176 191	ischemic stroke
+T5	Negation_Scope 0 192	In conditional logistic regression, there was no association between the number of alleles with CAG repeat length >or=21 (or >or=22) and risk of CVD, myocardial infarctions or ischemic stroke.
+T6	Negation_Cue 46 48	no
+R1	negative_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3
+R3	negative_association Arg1:T1 Arg2:T4

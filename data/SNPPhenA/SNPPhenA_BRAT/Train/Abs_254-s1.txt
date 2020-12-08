@@ -1,0 +1,1 @@
+One representative variant, rs1225404, was nominally associated with type 2 diabetes in a general model (additive P = 0.03, dominant P = 0.005) but not in a within-family analysis (additive P = 0.2, dominant P = 0.07).

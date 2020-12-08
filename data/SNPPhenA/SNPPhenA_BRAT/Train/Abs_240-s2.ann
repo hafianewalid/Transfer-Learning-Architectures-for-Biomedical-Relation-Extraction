@@ -1,0 +1,20 @@
+T1	SNP 29 38	rs7756992
+T2	SNP 43 52	rs7754840
+T3	SNP 64 74	rs10811661
+T4	SNP 108 117	rs1111875
+T5	SNP 119 128	rs5015480
+T6	SNP 133 142	rs7923837
+T7	Phenotype 172 208	significant decreases in the insulin
+T8	Phenotype 271 274	GDM
+R1	weak_confidence_association Arg1:T1 Arg2:T7
+R2	weak_confidence_association Arg1:T2 Arg2:T7
+R3	weak_confidence_association Arg1:T3 Arg2:T7
+R4	weak_confidence_association Arg1:T4 Arg2:T7
+R5	weak_confidence_association Arg1:T5 Arg2:T7
+R6	weak_confidence_association Arg1:T6 Arg2:T7
+R7	weak_confidence_association Arg1:T1 Arg2:T8
+R8	weak_confidence_association Arg1:T2 Arg2:T8
+R9	weak_confidence_association Arg1:T3 Arg2:T8
+R10	weak_confidence_association Arg1:T4 Arg2:T8
+R11	weak_confidence_association Arg1:T5 Arg2:T8
+R12	weak_confidence_association Arg1:T6 Arg2:T8

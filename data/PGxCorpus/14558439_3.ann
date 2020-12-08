@@ -1,0 +1,13 @@
+T1	Chemical 19 70	4-(4'-hydroxyphenyl)-amino-6,7-dimethoxyquinazoline 
+T2	Gene_or_protein 4 8	JAK3 
+T3	Chemical 73 88	CAS 202475-60-3 
+T5	Gene_or_protein 178 182	JAK3 
+T6	Chemical 91 98	JANEX-1
+T7	Chemical 101 109	WHI-P131
+T8	Phenotype 126 155	rejection of islet allografts
+T9	Chemical 4 18	JAK3 inhibitor
+T4	Phenotype 178 200	JAK3 expression status
+R1	isEquivalentTo Arg1:T3 Arg2:T1	
+R2	isEquivalentTo Arg1:T6 Arg2:T1	
+R3	isEquivalentTo Arg1:T7 Arg2:T1	
+R4	treats Arg1:T1 Arg2:T8	

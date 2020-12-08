@@ -1,0 +1,12 @@
+T1	Gene_or_protein 68 105	delta-aminolevulinic acid dehydratase 
+T2	Gene_or_protein 108 112	ALAD 
+T3	Limited_variation 119 179	matrix gamma-carboxyglutamic acid ( MGP ) gene polymorphisms 
+T4	Gene_or_protein 119 152	matrix gamma-carboxyglutamic acid 
+T5	Gene_or_protein 155 158	MGP 
+T7	Pharmacodynamic_phenotype 199 212	lead toxicity 
+T8	Limited_variation 161 179;68 114	gene polymorphisms delta-aminolevulinic acid dehydratase ( ALAD )
+T9	Chemical 199 203	lead
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isEquivalentTo Arg1:T5 Arg2:T4	
+R3	influences Arg1:T2 Arg2:T7	
+R4	influences Arg1:T3 Arg2:T7	

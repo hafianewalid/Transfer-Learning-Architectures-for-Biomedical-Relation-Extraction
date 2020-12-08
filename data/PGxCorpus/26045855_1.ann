@@ -1,0 +1,7 @@
+T1	Gene_or_protein 0 4	BRAF
+T2	Limited_variation 0 19	BRAF (V600 ) mutant
+T4	Disease 0 46	BRAF (V600 ) mutant non-small-cell lung cancer
+T5	Chemical 60 71	Vemurafenib
+T3	Pharmacodynamic_phenotype 47 71	resistant to Vemurafenib
+R1	influences Arg1:T2 Arg2:T3	
+R2	treats Arg1:T5 Arg2:T4	

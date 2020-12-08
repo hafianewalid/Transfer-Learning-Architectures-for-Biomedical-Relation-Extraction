@@ -1,0 +1,23 @@
+T1	Disease 32 38	tumors 
+T2	Gene_or_protein 92 98	PIK3CA 
+T4	Gene_or_protein 137 143	PIK3CA 
+T5	Limited_variation 137 157	PIK3CA - p.Glu542Lys 
+T6	Chemical 187 197	crizotinib 
+T7	Gene_or_protein 216 222	PIK3CA 
+T8	Phenotype 48 76	high level MET amplification
+T9	Limited_variation 216 234	PIK3CA co-mutation
+T10	Pharmacodynamic_phenotype 250 267	clinical response
+T12	Gene_or_protein 59 62	MET
+T13	Limited_variation 82 98	wild-type PIK3CA
+T14	Limited_variation 102 131	MET exon 14 skipping mutation
+T3	Gene_or_protein 102 105	MET
+T11	Pharmacodynamic_phenotype 174 197	responses to crizotinib
+T15	Genomic_variation 59 76	MET amplification
+T16	Genomic_factor 102 113	MET exon 14
+R1	influences Arg1:T9 Arg2:T10	
+R2	treats Arg1:T6 Arg2:T1	
+R3	isAssociatedWith Arg1:T13 Arg2:T11	
+R4	isAssociatedWith Arg1:T14 Arg2:T11	
+R5	isAssociatedWith Arg1:T5 Arg2:T11	
+R6	isAssociatedWith Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R1	neg

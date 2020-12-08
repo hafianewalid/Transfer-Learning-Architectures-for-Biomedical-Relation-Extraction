@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1222" TEXT="Maternal smoking during pregnancy is associated with low birth weight. Common variation at rs1051730 is robustly associated with smoking quantity and was recently shown to influence smoking cessation during pregnancy, but its influence on birth weight is not clear. We aimed to investigate the association between this variant and birth weight of term, singleton offspring in a well-powered meta-analysis. We stratified 26 241 European origin study participants by smoking status (women who smoked during pregnancy versus women who did not smoke during pregnancy) and, in each stratum, analysed the association between maternal rs1051730 genotype and offspring birth weight. There was evidence of interaction between genotype and smoking (P = 0.007). In women who smoked during pregnancy, each additional smoking-related T-allele was associated with a 20 g [95% confidence interval (95% CI): 4-36 g] lower birth weight (P = 0.014). However, in women who did not smoke during pregnancy, the effect size estimate was 5 g per T-allele (95% CI: -4 to 14 g; P = 0.268). To conclude, smoking status during pregnancy modifies the association between maternal rs1051730 genotype and offspring birth weight. This strengthens the evidence that smoking during pregnancy is causally related to lower offspring birth weight and suggests that population interventions that effectively reduce smoking in pregnant women would result in a reduced prevalence of low birth weight.">
+	<sentence ID="1222_0" START="71" END="265">
+		<snp ID="0" START="91" END="100" TEXT="rs1051730"/>
+		<phenotype ID="0" START="182" END="265" text="smoking cessation"/>
+		<modality_marker  START="163" END="168" text="shown"/>
+		<modality_marker  START="259" END="264" text="clear"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

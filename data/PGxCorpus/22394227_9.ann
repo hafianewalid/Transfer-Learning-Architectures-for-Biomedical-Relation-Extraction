@@ -1,0 +1,8 @@
+T1	Gene_or_protein 115 118	AhR 
+T3	Chemical 234 244	polyphenol 
+T4	Chemical 115 130	AhR antagonists
+T5	Pharmacodynamic_phenotype 207 229	antioxidative activity
+R1	influences Arg1:T3 Arg2:T4	
+R2	influences Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

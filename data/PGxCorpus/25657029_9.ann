@@ -1,0 +1,9 @@
+T1	Gene_or_protein 45 49	MIA2
+T2	Limited_variation 45 67	MIA2 ( I141M ) variant
+T3	Phenotype 78 97	high levels of ERN1
+T4	Gene_or_protein 93 97	ERN1
+T5	Pharmacodynamic_phenotype 112 136	sensitive to gemcitabine
+T6	Chemical 125 136	gemcitabine
+T7	Disease 14 18	PDAC
+R1	causes Arg1:T2 Arg2:T3	
+R2	causes Arg1:T2 Arg2:T5	

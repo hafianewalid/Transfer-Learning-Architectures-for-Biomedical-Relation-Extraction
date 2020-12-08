@@ -1,0 +1,9 @@
+T2	Gene_or_protein 29 32	ATM 
+T3	Gene_or_protein 37 42	ERCC5 
+T4	Chemical 72 83	oxaliplatin 
+T5	Disease 96 99	ACC 
+T1	Pharmacodynamic_phenotype 72 92	oxaliplatin efficacy
+R1	influences Arg1:T2 Arg2:T1	
+R2	influences Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

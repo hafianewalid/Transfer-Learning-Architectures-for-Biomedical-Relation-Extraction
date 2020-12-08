@@ -1,0 +1,14 @@
+T1	Gene_or_protein 43 48	OPRM1 
+T2	Chemical 82 89	alcohol 
+T3	Chemical 92 99	cocaine 
+T4	Chemical 104 112	nicotine 
+T5	Gene_or_protein 4 22	mu-opioid receptor
+T6	Chemical 73 79	opiate
+T7	Disease 113 122;82 89	addiction alcohol
+T8	Disease 113 122;73 79	addiction opiate
+T9	Disease 113 122;92 99	addiction cocaine
+T10	Disease 104 122	nicotine addiction
+R2	influences Arg1:T5 Arg2:T8	
+R3	influences Arg1:T5 Arg2:T10	
+R4	influences Arg1:T5 Arg2:T9	
+R5	influences Arg1:T5 Arg2:T7	

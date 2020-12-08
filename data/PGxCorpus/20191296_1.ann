@@ -1,0 +1,7 @@
+T1	Gene_or_protein 23 27	POMC 
+T2	Chemical 72 79	alcohol 
+T3	Phenotype 0 41	DNA methylation of the POMC gene promoter
+T4	Phenotype 61 90	craving in alcohol dependence
+T5	Genomic_factor 23 41	POMC gene promoter
+T6	Disease 72 90	alcohol dependence
+R1	isAssociatedWith Arg1:T3 Arg2:T4	

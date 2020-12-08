@@ -1,0 +1,9 @@
+T1	Chemical 13 25	azathioprine 
+T2	Gene_or_protein 90 94	TPMT 
+T3	Haplotype 77 105	heterozygous TPMT * 1 / * 3C
+T6	Pharmacodynamic_phenotype 35 51	myelosuppression
+T7	Pharmacodynamic_phenotype 13 51	azathioprine -induced myelosuppression
+T8	Limited_variation 171 189	wild-type genotype
+R3	causes Arg1:T1 Arg2:T6	
+R1	increases Arg1:T3 Arg2:T7	
+R2	influences Arg1:T8 Arg2:T7	

@@ -1,0 +1,10 @@
+T3	Gene_or_protein 10 15	c-fos 
+T4	Gene_or_protein 20 25	c-jun 
+T5	Gene_or_protein 58 67	TNF alpha 
+T7	Chemical 99 102	DEX 
+T1	Phenotype 0 15;26 34	Levels of c-fos proteins
+T8	Phenotype 0 9;20 34	Levels of c-jun proteins
+R1	increases Arg1:T5 Arg2:T8	
+R2	increases Arg1:T5 Arg2:T1	
+R3	influences Arg1:T7 Arg2:T8	
+R4	influences Arg1:T7 Arg2:T1	

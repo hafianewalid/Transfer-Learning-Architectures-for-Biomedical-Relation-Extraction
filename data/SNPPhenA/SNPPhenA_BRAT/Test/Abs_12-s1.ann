@@ -1,0 +1,3 @@
+T1	SNP 69 78	rs1799971
+T2	Phenotype 99 120	respiratory syncytial
+R1	weak_confidence_association Arg1:T1 Arg2:T2

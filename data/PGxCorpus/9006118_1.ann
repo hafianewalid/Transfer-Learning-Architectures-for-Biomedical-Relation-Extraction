@@ -1,0 +1,6 @@
+T1	Chemical 32 49	manganese sulfate 
+T2	Chemical 54 67	5-azacytidine 
+T3	Gene_or_protein 102 107	c-myc 
+T4	Phenotype 83 107	overexpressing the c-myc
+T5	Pharmacodynamic_phenotype 14 49	transformation by manganese sulfate
+T6	Pharmacodynamic_phenotype 14 31;54 67	transformation by 5-azacytidine

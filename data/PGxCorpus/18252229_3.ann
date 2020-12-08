@@ -1,0 +1,25 @@
+T1	Gene_or_protein 0 6	CYP2C9 
+T2	Haplotype 17 24	p.R144C 
+T3	Gene_or_protein 29 35	CYP2C9 
+T4	Haplotype 46 53	p.I359L 
+T5	Genomic_factor 66 81	VKORC1 promoter 
+T6	Gene_or_protein 66 72	VKORC1 
+T8	Chemical 150 158	warfarin 
+T9	Limited_variation 221 246	VKORC1 missense mutations 
+T10	Gene_or_protein 221 227	VKORC1 
+T11	Chemical 251 259	warfarin 
+T12	Pharmacodynamic_phenotype 150 172	warfarin " sensitive "
+T13	Pharmacodynamic_phenotype 251 273	warfarin " resistant "
+T14	Haplotype 0 14	CYP2C9 ( * ) 2
+T15	Haplotype 29 43	CYP2C9 ( * ) 3
+T16	Limited_variation 66 112	VKORC1 promoter ( g.-1639G-->A ) polymorphisms
+T17	Pharmacodynamic_phenotype 286 298	higher doses
+T7	Pharmacodynamic_phenotype 185 196	lower doses
+R1	isAssociatedWith Arg1:T9 Arg2:T13	
+R4	isAssociatedWith Arg1:T9 Arg2:T17	
+R2	isAssociatedWith Arg1:T14 Arg2:T12	
+R3	isAssociatedWith Arg1:T14 Arg2:T7	
+R5	isAssociatedWith Arg1:T15 Arg2:T12	
+R6	isAssociatedWith Arg1:T15 Arg2:T7	
+R7	isAssociatedWith Arg1:T16 Arg2:T12	
+R8	isAssociatedWith Arg1:T16 Arg2:T7	

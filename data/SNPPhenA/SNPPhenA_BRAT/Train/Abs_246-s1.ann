@@ -1,0 +1,8 @@
+T1	SNP 58 68	RS12255372
+T2	Phenotype 158 174	Type II Diabetes
+T3	Phenotype 181 204	colorectal cancer (CRC)
+T4	Phenotype 209 216	adenoma
+T5	Modality_Marker 125 133	strongly
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3
+R3	strong_confidence_association Arg1:T1 Arg2:T4

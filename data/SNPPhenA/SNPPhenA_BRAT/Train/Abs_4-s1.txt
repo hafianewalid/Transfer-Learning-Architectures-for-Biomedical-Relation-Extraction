@@ -1,0 +1,1 @@
+RESULTS: In the discovery population, we observed an association between SIRT2 rs10410544 T allele and AD (adjusted odds ratio [OR] = 1.23, 95% confidence interval [CI]: 1.02-1.50, P = .02, after correction for sex, age, and APOE ɛ4 genotype).

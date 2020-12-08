@@ -1,0 +1,6 @@
+T1	Gene_or_protein 4 31	human serotonin receptor 1B 
+T2	Chemical 80 89	serotonin 
+T3	Gene_or_protein 34 39	HRT1B
+T4	Phenotype 80 97	serotonin release
+R1	isEquivalentTo Arg1:T3 Arg2:T1	
+R2	influences Arg1:T1 Arg2:T4	

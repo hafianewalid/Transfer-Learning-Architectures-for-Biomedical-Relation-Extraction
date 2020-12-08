@@ -1,0 +1,3 @@
+T1	SNP 82 91	rs2273535
+T2	Phenotype 97 103	cancer
+R1	neutral_association Arg1:T1 Arg2:T2

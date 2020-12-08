@@ -1,0 +1,4 @@
+T1	Chemical 94 99	SrCl2 
+T2	Gene_or_protein 311 320	gammaH2AX 
+T3	Phenotype 174 215	methylation status of histone H3 lysine 9
+T4	Genomic_variation 218 239	low chromosome damage

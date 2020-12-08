@@ -1,0 +1,1 @@
+The T (minor) allele of the variant rs7903146 was significantly associated with a greater OR for type 2 diabetes adjusted for age, sex and BMI in logistic regression analysis:

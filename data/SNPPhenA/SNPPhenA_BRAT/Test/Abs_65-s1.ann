@@ -1,0 +1,9 @@
+T1	SNP 11 23	DRD2 Taq1A ,
+T2	SNP 24 28	COMT
+T3	SNP 33 37	DAT1
+T4	Phenotype 86 90	ICDs
+T5	Negation_Scope 0 91	Variants ofDRD2 Taq1A , COMT and DAT1 were not associated with the risk of developing ICDs.
+T6	Negation_Cue 43 46	not
+R1	negative_association Arg1:T1 Arg2:T4
+R2	negative_association Arg1:T2 Arg2:T4
+R3	negative_association Arg1:T3 Arg2:T4

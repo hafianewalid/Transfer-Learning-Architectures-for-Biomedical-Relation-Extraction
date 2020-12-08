@@ -1,0 +1,19 @@
+T2	Disease 88 105	colorectal cancer 
+T3	Limited_variation 179 216	MTHFR polymorphisms in the MTHFR gene 
+T4	Gene_or_protein 179 184	MTHFR 
+T5	Limited_variation 219 227	677C-->T 
+T6	Gene_or_protein 206 211	MTHFR 
+T7	Limited_variation 230 239	Ala-->Val 
+T9	Gene_or_protein 255 260	XRCC1 
+T10	Limited_variation 255 303	XRCC1 gene ( Arg-->Gln substitution in exon 10 ) 
+T11	Phenotype 59 82	unresectable metastases
+T12	Chemical 146 152	FOLFOX
+T1	Chemical 124 160	chemotherapy with the FOLFOX regimen
+T8	Genomic_factor 294 301	exon 10
+R2	isAssociatedWith Arg1:T5 Arg2:T2	
+R3	isAssociatedWith Arg1:T7 Arg2:T2	
+R4	isAssociatedWith Arg1:T10 Arg2:T2	
+R5	treats Arg1:T1 Arg2:T2	
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp

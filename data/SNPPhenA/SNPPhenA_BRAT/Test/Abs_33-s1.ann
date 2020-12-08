@@ -1,0 +1,9 @@
+T1	SNP 206 213	rs10012
+T2	SNP 222 231	rs1056827
+T3	SNP 241 250	rs1056836
+T4	SNP 264 273	rs1800440
+T5	Phenotype 86 91	tumor
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T3 Arg2:T5
+R4	weak_confidence_association Arg1:T4 Arg2:T5

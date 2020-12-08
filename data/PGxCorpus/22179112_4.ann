@@ -1,0 +1,14 @@
+T1	Gene_or_protein 11 15	Rhes 
+T2	Gene_or_protein 55 59	mTOR 
+T4	Chemical 134 140	L-DOPA 
+T5	Gene_or_protein 190 194	Rhes 
+T6	Limited_variation 11 25	Rhes ( - / - )
+T3	Pharmacodynamic_phenotype 113 130	motor improvement
+T9	Chemical 190 209	Rhes -binding drugs
+T7	Phenotype 46 69	striatal mTOR signaling
+T8	Disease 85 95	dyskinesia
+T10	Pharmacodynamic_phenotype 113 140	motor improvement on L-DOPA
+R1	decreases Arg1:T6 Arg2:T7	
+R2	decreases Arg1:T6 Arg2:T8	
+R4	treats Arg1:T4 Arg2:T3	
+R5	isAssociatedWith Arg1:T6 Arg2:T10	

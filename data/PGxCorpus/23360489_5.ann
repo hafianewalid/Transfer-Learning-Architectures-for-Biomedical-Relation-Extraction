@@ -1,0 +1,16 @@
+T1	Disease 12 23	lung cancer 
+T2	Gene_or_protein 66 71	c-Met 
+T3	Chemical 113 120	SU11274 
+T4	Gene_or_protein 92 97	c-Met 
+T5	Gene_or_protein 132 136	EGFR 
+T6	Genomic_variation 44 71	gene amplification of c-Met
+T7	Chemical 132 152	EGFR -targeted drugs
+T8	Pharmacodynamic_phenotype 113 120;75 87	SU11274 sensitive to
+T9	Pharmacodynamic_phenotype 125 152;75 84	not to EGFR -targeted drugs sensitive
+T10	Chemical 92 112	c-Met -targeted drug
+R1	influences Arg1:T6 Arg2:T8	
+R2	influences Arg1:T6 Arg2:T9	
+R3	treats Arg1:T3 Arg2:T1	
+R4	treats Arg1:T7 Arg2:T1	
+R5	treats Arg1:T10 Arg2:T1	
+R6	isAssociatedWith Arg1:T1 Arg2:T6	

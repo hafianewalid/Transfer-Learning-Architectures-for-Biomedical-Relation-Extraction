@@ -1,0 +1,1 @@
+Age , CYP2C9 genotype , VKORC1 genotype and age : VKORC1 interaction accounted for 53 % of warfarin dose variability .

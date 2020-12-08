@@ -1,0 +1,12 @@
+T1	SNP 45 57	rs7903146C/T
+T2	SNP 160 173	rs12255372G/T
+T3	SNP 178 189	rs290487T/C
+T4	Phenotype 118 122	T2DM
+T5	Modality_Marker 3 13	conclusion
+T6	Modality_Marker 26 35	indicated
+T7	Modality_Marker 204 211	showing
+T8	Negation_Scope 155 234	with rs12255372G/T and rs290487T/C polymorphisms showing no significant effect.
+T9	Negation_Cue 212 214	no
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	negative_association Arg1:T2 Arg2:T4
+R3	negative_association Arg1:T3 Arg2:T4

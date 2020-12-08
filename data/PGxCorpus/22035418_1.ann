@@ -1,0 +1,9 @@
+T1	Gene_or_protein 28 32	NME1 
+T3	Limited_variation 4 81	T_T genotype within the NME1 promoter single nucleotide polymorphism -835 C/T 
+T4	Chemical 122 132	cytarabine 
+T6	Disease 172 194	acute myeloid leukemia 
+T2	Pharmacodynamic_phenotype 122 154	cytarabine induced neurotoxicity
+T5	Genomic_factor 28 41	NME1 promoter
+T7	Pharmacodynamic_phenotype 141 154	neurotoxicity
+R1	increases Arg1:T3 Arg2:T2	
+R2	causes Arg1:T4 Arg2:T7	

@@ -1,0 +1,6 @@
+T1	Gene_or_protein 0 6	CYP3A7 
+T2	Chemical 60 72	cyclosporine 
+T3	Haplotype 0 11	CYP3A7 * 1C
+T4	Pharmacodynamic_phenotype 60 83	cyclosporine daily dose
+T5	Disease 112 127	transplantation
+R1	influences Arg1:T3 Arg2:T4	

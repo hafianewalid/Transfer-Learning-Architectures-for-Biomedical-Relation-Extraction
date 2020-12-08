@@ -1,0 +1,23 @@
+T1	Chemical 25 33	CUDC-101 
+T3	Gene_or_protein 78 81	p21 
+T4	Gene_or_protein 86 96	E-cadherin 
+T5	Gene_or_protein 136 140	XIAP 
+T6	Gene_or_protein 143 152	b-catenin 
+T7	Gene_or_protein 155 165	N-cadherin 
+T8	Gene_or_protein 172 180	Vimentin 
+T9	Pharmacodynamic_phenotype 4 33	anticancer effect of CUDC-101
+T12	Gene_or_protein 125 133	survivin
+T2	Phenotype 54 81	increased expression of p21
+T10	Phenotype 54 77;86 96	increased expression of E-cadherin
+T11	Phenotype 103 133	reduced expression of survivin
+T13	Phenotype 103 124;136 140	reduced expression of XIAP
+T14	Phenotype 103 124;143 152	reduced expression of b-catenin
+T15	Phenotype 103 124;155 165	reduced expression of N-cadherin
+T16	Phenotype 103 124;172 180	reduced expression of Vimentin
+R1	isAssociatedWith Arg1:T9 Arg2:T10	
+R2	isAssociatedWith Arg1:T9 Arg2:T2	
+R3	isAssociatedWith Arg1:T9 Arg2:T11	
+R4	isAssociatedWith Arg1:T9 Arg2:T13	
+R5	isAssociatedWith Arg1:T9 Arg2:T14	
+R6	isAssociatedWith Arg1:T9 Arg2:T15	
+R7	isAssociatedWith Arg1:T9 Arg2:T16	

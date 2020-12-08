@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1031" TEXT="We evaluated genetic variants of apolipoprotein E (APOE HhaI) and their association with serum lipids in colorectal cancer (CRC), together with eatinghabits and personal history. Eight-seven adults with CRC and 73 controls were studied. APOE*2 (rs7412) and APOE*4 (rs429358) were identified by polymerase chain reaction-restriction fragment length polymorphism. APOE gene polymorphisms were similar in both groups, but the epsilon4/epsilon4genotype (6%) was present only in controls. The patients had reduced levels (mean +/- SD) of total cholesterol and low-density lipoprotein cholesterolfraction (180.4 +/- 49.5 and 116.1 +/- 43.1 mg/dL, respectively) compared to controls (204.2 +/- 55.6, P = 0.135 and 134.7 +/- 50.8 mg/dL; P = 0.330, respectively) indicating that they were not statistically significant after the Bonferroni correction. The APOE*4 allele was associated with lower levels of total cholesterol, low- and high-density lipoprotein cholesterol fraction and increased levels of very low-density lipoprotein cholesterol fraction andtriglycerides only among patients (P = 0.014). There was a positive correlation between the altered lipid profile and increased body mass indexes in both groups (P &lt; 0.010). Moreover, a higher rate of hypertension and overweight was observed in controls (P &lt; 0.002). In conclusion, the presence of the epsilon4/epsilon4 genotype only in controls may be due to a protective effect against CRC. Lower lipid profile values among patients, even those on lipid-rich diets associated with the   APOE*4 allele, suggest alterations in the lipid synthesis and metabolism pathways in CRC.">
+	<sentence ID="1031_0" START="1441" END="1626">
+		<snp ID="0" START="1537" END="1543" TEXT="APOE*4"/>
+		<phenotype ID="0" START="1622" END="1626" text="CRC"/>
+		<modality_marker  START="1441" END="1446" text="Lower"/>
+		<modality_marker  START="1552" END="1559" text="suggest"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

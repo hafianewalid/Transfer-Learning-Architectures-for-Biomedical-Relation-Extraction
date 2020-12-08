@@ -1,0 +1,6 @@
+T1	Gene_or_protein 10 13	Abl 
+T3	Disease 95 104	leukemias
+T2	Chemical 0 31	Selective Abl kinase inhibitors
+T4	Phenotype 88 104	Ph (+) leukemias
+T5	Limited_variation 88 94	Ph (+)
+R1	treats Arg1:T2 Arg2:T4	

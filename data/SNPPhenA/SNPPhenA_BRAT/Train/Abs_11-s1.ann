@@ -1,0 +1,8 @@
+T1	SNP 71 79	rs449647
+T2	SNP 147 155	rs769446
+T3	SNP 193 203	APOE ε3/ε4
+T4	Phenotype 39 42	FTD
+T5	Modality_Marker 48 56	observed
+R1	strong_confidence_association Arg1:T3 Arg2:T4
+R2	strong_confidence_association Arg1:T1 Arg2:T4
+R3	strong_confidence_association Arg1:T2 Arg2:T4

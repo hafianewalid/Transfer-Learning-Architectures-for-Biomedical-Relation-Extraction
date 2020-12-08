@@ -1,0 +1,11 @@
+T1	Chemical 50 61	TLR7 ligand 
+T2	Gene_or_protein 50 54	TLR7 
+T3	Chemical 112 120	SM360320 
+T4	Chemical 64 109	9-benzyl-8-hydroxy-2-(2-methoxyethoxy)adenine 
+T5	Phenotype 168 183	TLR7 activation 
+T6	Gene_or_protein 168 172	TLR7 
+T7	Chemical 123 128	1V136
+R1	isEquivalentTo Arg1:T3 Arg2:T4	
+R2	isEquivalentTo Arg1:T7 Arg2:T4	
+R3	causes Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes R3	hyp

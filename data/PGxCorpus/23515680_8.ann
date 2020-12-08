@@ -1,0 +1,9 @@
+T1	Limited_variation 9 15	C1236T 
+T2	Limited_variation 20 26	C3435T 
+T3	Chemical 30 41	venlafaxine 
+T4	Pharmacodynamic_phenotype 99 111	intoxication
+T5	Pharmacodynamic_phenotype 122 139	non-intoxications
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T5	
+R3	influences Arg1:T2 Arg2:T4	
+R4	influences Arg1:T2 Arg2:T5	

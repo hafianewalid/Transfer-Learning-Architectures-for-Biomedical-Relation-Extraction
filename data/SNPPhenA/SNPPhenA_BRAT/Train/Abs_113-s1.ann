@@ -1,0 +1,4 @@
+T1	SNP 67 71	ApoE
+T2	Phenotype 81 83	AD
+T3	Modality_Marker 229 236	largely
+R1	weak_confidence_association Arg1:T1 Arg2:T2

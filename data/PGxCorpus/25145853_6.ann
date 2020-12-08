@@ -1,0 +1,16 @@
+T1	Chemical 15 30	TLR9 ligand CpG 
+T2	Gene_or_protein 15 19	TLR9 
+T3	Gene_or_protein 124 127	Th2 
+T4	Phenotype 135 147	Th1 response 
+T5	Gene_or_protein 135 138	Th1 
+T6	Phenotype 168 200	change in the IgG2a : IgG1 ratio 
+T7	Gene_or_protein 182 187	IgG2a 
+T8	Gene_or_protein 190 194	IgG1 
+T9	Pharmacodynamic_phenotype 79 96	antibody response
+T10	Chemical 0 51	Conjugation of TLR9 ligand CpG to LDH nanoparticles
+T11	Chemical 34 37	LDH
+T12	Phenotype 124 127;139 147	Th2 response
+R1	increases Arg1:T10 Arg2:T9	
+R2	increases Arg1:T10 Arg2:T4	
+R3	isAssociatedWith Arg1:T4 Arg2:T6	
+R4	decreases Arg1:T10 Arg2:T12	

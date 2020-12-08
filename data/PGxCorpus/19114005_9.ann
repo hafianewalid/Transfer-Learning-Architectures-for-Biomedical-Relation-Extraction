@@ -1,0 +1,11 @@
+T1	Disease 26 32	glioma 
+T2	Chemical 39 50	cilengitide 
+T3	Phenotype 61 83	phosphorylation of FAK 
+T4	Gene_or_protein 80 83	FAK 
+T5	Gene_or_protein 86 89	Src 
+T6	Gene_or_protein 94 97	Akt 
+T7	Phenotype 61 79;94 97	phosphorylation of Akt
+T8	Phenotype 61 79;86 89	phosphorylation of Src
+R2	decreases Arg1:T2 Arg2:T8	
+R3	decreases Arg1:T2 Arg2:T7	
+R4	decreases Arg1:T2 Arg2:T3	

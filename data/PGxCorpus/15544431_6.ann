@@ -1,0 +1,9 @@
+T1	Gene_or_protein 144 150	CYP2A6 
+T2	Chemical 243 289	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone 
+T3	Chemical 292 295	NNK 
+T4	Chemical 319 330	nitrosamine 
+T5	Gene_or_protein 403 409	CYP2A6 
+T6	Gene_or_protein 100 106	CYP2A8
+T7	Chemical 369 372	NNK
+R2	isEquivalentTo Arg1:T3 Arg2:T2	
+R3	influences Arg1:T5 Arg2:T7	

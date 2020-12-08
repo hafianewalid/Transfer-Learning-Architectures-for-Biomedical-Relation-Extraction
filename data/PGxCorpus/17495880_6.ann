@@ -1,0 +1,22 @@
+T1	Chemical 54 64	tacrolimus
+T2	Gene_or_protein 92 98	CYP3A4
+T3	Gene_or_protein 105 111	CYP3A5
+T4	Gene_or_protein 120 126	CYP3A4
+T6	Gene_or_protein 134 140	CYP3A5
+T7	Chemical 174 184	tacrolimus
+T8	Haplotype 92 102	CYP3A4 * 1
+T9	Haplotype 105 115	CYP3A5 * 1
+T10	Haplotype 120 131	CYP3A4 * 1B
+T11	Haplotype 134 144	CYP3A5 * 1
+T5	Pharmacodynamic_phenotype 174 208	tacrolimus -related nephrotoxicity
+T12	Pharmacodynamic_phenotype 242 277	concentrations of toxic metabolites
+T13	Haplotype 145 154;92 115	genotypes CYP3A4 * 1 / CYP3A5 * 1
+T14	Haplotype 120 154	CYP3A4 * 1B / CYP3A5 * 1 genotypes
+T15	Pharmacodynamic_phenotype 194 208	nephrotoxicity
+R1	isAssociatedWith Arg1:T13 Arg2:T5	
+R2	isAssociatedWith Arg1:T14 Arg2:T5	
+R3	increases Arg1:T14 Arg2:T12	
+R4	increases Arg1:T13 Arg2:T12	
+R5	causes Arg1:T7 Arg2:T15	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R4	hyp

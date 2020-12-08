@@ -1,0 +1,3 @@
+T1	SNP 9 18	Val158Met
+T2	Phenotype 83 99	pain sensitivity
+R1	weak_confidence_association Arg1:T1 Arg2:T2

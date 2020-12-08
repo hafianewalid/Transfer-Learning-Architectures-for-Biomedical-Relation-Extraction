@@ -1,0 +1,5 @@
+T1	SNP 16 27	(rs3025343)
+T2	Phenotype 33 36	DBH
+T3	Phenotype 80 97	smoking cessation
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

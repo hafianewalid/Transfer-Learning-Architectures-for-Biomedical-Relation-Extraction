@@ -1,0 +1,1 @@
+This 263 indel (rs67384697) is </ModMar>reported</ModMar> to be in strong linkage disequilibrium (LD) with a single nucleotide polymorphism (SNP) 35 kilobases upstream of HLA-C (-35T/C; rs9264942) in Caucasian individuals, making this SNP a potential marker for both HLA-C expression and HIV-1 disease progression

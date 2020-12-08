@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1044" TEXT="An insertion-deletion (indel) polymorphism within the 3' untranslated region (UTR) of HLA-C has been shown to be involved in the regulation of HLA-Cexpression. Individuals who carry a deletion at this position exhibit increased HLA-C expression, which associates with lower viral set point in HIV-1infected individuals. This 263 indel (rs67384697) is &lt;/ModMar&gt;reported&lt;/ModMar&gt; to be in strong linkage disequilibrium (LD) with a single nucleotide polymorphism (SNP) 35 kilobases upstream of HLA-C (-35T/C; rs9264942) in Caucasian individuals, making this SNP a potential marker for both HLA-C expression and HIV-1 disease progression">
+	<sentence ID="1044_0" START="320" END="633">
+		<snp ID="0" START="336" END="346" TEXT="rs67384697"/>
+		<phenotype ID="0" START="608" END="633" text="HIV-1"/>
+		<modality_marker  START="387" END="393" text="strong"/>
+		<modality_marker  START="561" END="570" text="potential"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

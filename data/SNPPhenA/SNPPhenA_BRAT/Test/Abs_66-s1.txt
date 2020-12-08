@@ -1,0 +1,1 @@
+A common C-G-C-C-G-A haplotype for rs2567206-rs2551188-rs2617266-rs10012-rs1056836-rs1800440 showed an inverse association with PCa risk in Hispanic Caucasians (OR = 0.19, P = 0.04, 95% CI = 0.04-0.95) and with aggressive disease status (i.e. Gleason score >or=7) in non-Hispanic Caucasian cases (OR = 0.64, P = 0.008, 95% CI = 0.47-0.89).

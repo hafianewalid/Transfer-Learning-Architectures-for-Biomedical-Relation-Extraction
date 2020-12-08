@@ -1,0 +1,26 @@
+T1	Gene_or_protein 79 85	CYP2C9 
+T2	Gene_or_protein 92 98	CYP2C9 
+T3	Limited_variation 106 115	rs9332127 
+T4	Limited_variation 127 136	rs2108622 
+T5	Gene_or_protein 120 126	CYP4F2 
+T6	Limited_variation 144 154	rs12714145 
+T7	Gene_or_protein 139 143	GGCX 
+T8	Limited_variation 163 172	rs4653436 
+T9	Gene_or_protein 157 162	EPHX1 
+T10	Limited_variation 182 191	rs1799809 
+T11	Gene_or_protein 177 181	PROC 
+T12	Pharmacodynamic_phenotype 197 217	warfarin sensitivity 
+T13	Chemical 197 205	warfarin 
+T14	Haplotype 79 89	CYP2C9 * 3
+T15	Limited_variation 92 103	CYP2C9 C-65
+R1	isAssociatedWith Arg1:T14 Arg2:T12	
+R2	isAssociatedWith Arg1:T15 Arg2:T12	
+R3	isEquivalentTo Arg1:T3 Arg2:T15	
+R4	isAssociatedWith Arg1:T4 Arg2:T12	
+R5	isAssociatedWith Arg1:T6 Arg2:T12	
+R6	isAssociatedWith Arg1:T8 Arg2:T12	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R4	neg
+#4	AnnotatorNotes R5	neg
+#5	AnnotatorNotes R6	hyp

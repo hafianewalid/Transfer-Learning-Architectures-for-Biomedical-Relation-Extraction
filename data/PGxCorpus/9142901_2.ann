@@ -1,0 +1,4 @@
+T1	Chemical 28 40	somatostatin 
+T2	Phenotype 54 67;93 98	expression of c-fos 
+T3	Gene_or_protein 93 98	c-fos 
+R1	decreases Arg1:T1 Arg2:T2	

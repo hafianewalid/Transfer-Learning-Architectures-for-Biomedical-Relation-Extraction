@@ -1,0 +1,10 @@
+T1	Gene_or_protein 52 58	CYP2C9 
+T2	Limited_variation 63 84	SLCO1B1 polymorphisms 
+T3	Gene_or_protein 63 70	SLCO1B1 
+T4	Chemical 107 118	nateglinide 
+T5	Limited_variation 52 58;71 84	CYP2C9 polymorphisms
+T6	Pharmacokinetic_phenotype 93 118	metabolism of nateglinide
+R1	isAssociatedWith Arg1:T5 Arg2:T6	
+R2	isAssociatedWith Arg1:T2 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

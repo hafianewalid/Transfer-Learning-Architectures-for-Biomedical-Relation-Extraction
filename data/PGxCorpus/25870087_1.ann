@@ -1,0 +1,14 @@
+T1	Chemical 36 42	AUY922 
+T2	Gene_or_protein 20 25	HSP90 
+T3	Chemical 47 56	Erlotinib 
+T4	Gene_or_protein 61 65	EGFR 
+T5	Gene_or_protein 114 146	Epidermal Growth Factor Receptor 
+T7	Limited_variation 61 73	EGFR -Mutant
+T8	Disease 61 85	EGFR -Mutant Lung Cancer
+T9	Chemical 114 173	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors
+T10	Chemical 20 35	HSP90 Inhibitor
+T11	Pharmacodynamic_phenotype 91 173	Acquired Resistance to Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitors
+R1	treats Arg1:T1 Arg2:T8	
+R2	treats Arg1:T3 Arg2:T8	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

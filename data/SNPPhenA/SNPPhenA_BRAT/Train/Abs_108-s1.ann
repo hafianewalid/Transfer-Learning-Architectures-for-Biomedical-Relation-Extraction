@@ -1,0 +1,16 @@
+T1	SNP 50 54	apoE
+T2	SNP 142 146	APOE
+T3	Phenotype 58 61	FTD
+T4	Phenotype 66 69	PPA
+T5	Phenotype 177 180	FTD
+T6	Phenotype 185 188	PPA
+T7	Modality_Marker 0 11	CONCLUSIONS
+T8	Modality_Marker 112 119	suggest
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4
+R5	weak_confidence_association Arg1:T1 Arg2:T5
+R6	weak_confidence_association Arg1:T1 Arg2:T6
+R7	weak_confidence_association Arg1:T2 Arg2:T5
+R8	weak_confidence_association Arg1:T2 Arg2:T6

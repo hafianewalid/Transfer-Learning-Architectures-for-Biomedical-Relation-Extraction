@@ -1,0 +1,5 @@
+T1	Gene_or_protein 39 44	HLA-B 
+T2	Chemical 120 128	abacavir 
+T4	Haplotype 39 51	HLA-B * 5701
+T5	Pharmacodynamic_phenotype 120 155	abacavir hypersensitivity reactions
+R1	influences Arg1:T4 Arg2:T5	

@@ -1,0 +1,13 @@
+T1	SNP 110 114	TCRA
+T2	SNP 119 125	P2RY11
+T3	SNP 195 204	rs5770917
+T4	Phenotype 131 141	narcolepsy
+T5	Modality_Marker 0 11	CONCLUSIONS
+T6	Modality_Marker 38 49	observation
+T7	Modality_Marker 55 61	strong
+T8	Modality_Marker 156 163	confirm
+T9	Negation_Scope 152 232	not confirm the association of CPT1B/CHKB (rs5770917) in the Chinese population.
+T10	Negation_Cue 152 155	not
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T2 Arg2:T4
+R3	negative_association Arg1:T3 Arg2:T4

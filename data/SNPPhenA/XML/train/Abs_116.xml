@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1020" TEXT="BACKGROUND: Apolipoprotein E (APOE) genotype (ε2/ε3/ε4: rs429358 ε4 allele; rs7412 ε2 allele) is strongly associated with both lipid levels and Alzheimer's disease. Although there is also evidence of milder cognitive impairment in later life in carriers of the APOE ε4 allele, there have been few studies investigating the impact of APOE genotype on cognitive function in children. METHODS: We determined APOE genotype in 5995 children from the Avon Longitudinal Study of Parents and Children and investigated associations between APOE genotype and plasma lipids (at age 9), IQ (at age 8), memory (at ages 8 and 10), and performance in school attainment tests (at ages 7, 11, and 14). RESULTS: Observed genotype group counts were consistent with Hardy-Weinberg equilibrium (χ(2)p value = .84). There were strong relationships between APOE genotype and low-density lipoproteincholesterol, high-density lipoprotein cholesterol, and triglycerides, which follow the same patterns as in adults. There was no strong evidence to suggest that APOE genotype was associated with IQ (all p values ≥ .46), memory function (p ≥ .35), or school attainment test results (p ≥ .28). CONCLUSIONS: Although   APOE genotype does have strong associations with lipid levels in childhood, there does &lt;xope&gt;not seem to be meaningful effects on cognitive performance&lt;/NegScope&gt;, suggesting that any detrimental effects of the ε4 allele on cognitive function are not important until later life.">
+	<sentence ID="1020_0" START="1166" END="1468">
+		<snp ID="0" START="1190" END="1194" TEXT="APOE"/>
+		<phenotype ID="0" START="1320" END="1468" text="cognitive performance"/>
+		<modality_marker  START="1166" END="1177" text="CONCLUSIONS"/>
+		<modality_marker  START="1214" END="1220" text="strong"/>
+		<modality_marker  START="1354" END="1364" text="suggesting"/>
+		<negation_scope  START="1437" END="1468" text="not important until later life.">
+			<negation_cue START="1437" END="1440" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

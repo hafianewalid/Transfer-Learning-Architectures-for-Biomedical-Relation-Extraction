@@ -1,0 +1,7 @@
+T1	SNP 60 66	PTPN22
+T2	SNP 71 82	TNFA G-308A
+T3	Phenotype 52 55	JIA
+T4	Modality_Marker 0 11	CONCLUSIONS
+T5	Modality_Marker 21 30	confirmed
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

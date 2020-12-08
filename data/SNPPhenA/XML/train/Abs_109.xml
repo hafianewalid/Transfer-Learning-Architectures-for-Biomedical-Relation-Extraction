@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1012" TEXT="Individuals were genotyped for PCSK9 R46L (rs11591147), ABCG8 D19H (rs11887534), and APOE R112C (rs429358) and R158C (rs7412) polymorphisms, all of which are associated with lifelong reduced plasma LDL cholesterol levels.">
+	<sentence ID="1012_0" START="0" END="221">
+		<snp ID="0" START="43" END="53" TEXT="rs11591147"/>
+		<snp ID="1" START="68" END="78" TEXT="rs11887534"/>
+		<snp ID="2" START="97" END="105" TEXT="rs429358"/>
+		<snp ID="3" START="118" END="124" TEXT="rs7412"/>
+		<phenotype ID="0" START="183" END="221" text="reduced plasma LDL cholesterol levels"/>
+		<modality_marker  START="141" END="144" text="all"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,11 @@
+T1	Gene_or_protein 110 114	ITPA 
+T4	Chemical 177 186	ribavirin 
+T5	Disease 225 266	chronic hepatitis C virus (HCV) infection 
+T6	Gene_or_protein 71 107	inosine triphosphate pyrophosphatase
+T2	Chemical 157 171	peg-interferon
+T3	Chemical 157 198	peg-interferon plus ribavirin combination
+T7	Limited_variation 25 116	single nucleotide polymorphism ( SNP ) in the inosine triphosphate pyrophosphatase ( ITPA )
+T8	Phenotype 126 149	reduction of hemoglobin
+R1	isEquivalentTo Arg1:T1 Arg2:T6	
+R3	treats Arg1:T3 Arg2:T5	
+R2	influences Arg1:T7 Arg2:T8	

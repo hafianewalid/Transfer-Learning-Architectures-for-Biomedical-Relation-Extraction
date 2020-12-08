@@ -1,0 +1,7 @@
+T1	Chemical 8 18	folic acid 
+T3	Gene_or_protein 86 91	MTHFR 
+T4	Limited_variation 86 97	MTHFR C677T 
+T2	Disease 148 151	ARM
+T5	Disease 168 171	ARM
+R1	increases Arg1:T4 Arg2:T2	
+#1	AnnotatorNotes R1	hyp neg

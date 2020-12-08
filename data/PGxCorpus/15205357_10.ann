@@ -1,0 +1,4 @@
+T1	Chemical 0 4	DFMO 
+T5	Gene_or_protein 68 76	ER-alpha 
+T2	Phenotype 40 76	methylated CpG sites in the ER-alpha
+R1	decreases Arg1:T1 Arg2:T2	

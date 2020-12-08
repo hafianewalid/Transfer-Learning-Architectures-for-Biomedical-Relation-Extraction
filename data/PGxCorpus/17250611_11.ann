@@ -1,0 +1,7 @@
+T1	Limited_variation 16 33	allele of TAS2R16 
+T2	Gene_or_protein 26 33	TAS2R16 
+T3	Chemical 75 82	alcohol 
+T4	Disease 75 93	alcohol dependence
+T5	Phenotype 124 145	mean Maxdrinks scores
+R1	decreases Arg1:T1 Arg2:T4	
+R2	decreases Arg1:T1 Arg2:T5	

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1046" TEXT="In recent years levels of a number of inflammatory markers namely C-reactive protein (CRP), interleukin-6 (IL-6), tumor necrosis factor (TNF) etc. are measured for the purpose of postinfarction risk evaluation. Dynamics of inflammatory markers concentrations can reflect processes occurring in atherosclerotic plaque and coronary arteries. Concentrations of inflammatory markers depend particularly on genetic factors affecting transcription levels of individual genes. This data suggest that genotypes which determine increased inflammatory markers levels in blood can increase risk of unfavorable events after myocardial infarction.  STUDY PURPOSES:, Analysis of influence of allelic polymorphisms C1444T of CRP gene rs1130864, G(-174)A of IL6 gene rs1800795, A(-308)G of TNF gene rs1800629, G252A of LTA gene rs909253, (-509) of TGFB1 gene rsl800469 and delta32 (w/d) of CCR5 gene rs333 on development of cardiac unfavorable events in Russian patients with MI during two years follow-up. 211 Russian patients were included (52.3+/-10.3 years), 160 men (50.1+/-10.6 years) and 51 women (55.2+/-10.1 years). After two years of follow-up patients were examined in hospital, or telephon call occurred for determination of patient's condition or end point assessment. The end points were cardiac death, recurrent MI, recurrent hospitalization with unstable angina or stroke, CABG or PTCA performing. The genotyping was performed by methods based on polymerase chain reaction (PCR): PCR-SSP and PCR-RFLP. Analysis revealed association of allele T (p=0.036, OR=1.6, 95%CI: 1.052.6) and of allele T carriage (genotypes CT+TT) (p=0.046, OR=1.9, 95%CI: 1.053.6) of polymorphism C1444T of CRP gene with unfavorable events development. Analysis of survival rate by Kaplan-Meier estimation showed that cumulative part of patients without unfavorable events was significantly lower among allele T carriers than among carriers of genotype C/C of polymorphism C1444T CRP . Allele A of polymorphism A252G of LTA gene was also associated with unfavorable events risk (p=0.034, OR=1.96, 95%CI: 1.073.06). There was no association of polymorphisms delta 32 (w/d) of CCR5 gene, A(-308)G of TNF gene, G(-174)C of IL-6 gene, C(-509)T of TGFB1 gene with unfavorable events development.">
+	<sentence ID="1046_0" START="636" END="989">
+		<snp ID="0" START="719" END="728" TEXT="rs1130864"/>
+		<snp ID="1" START="751" END="760" TEXT="rs1800795"/>
+		<snp ID="2" START="783" END="792" TEXT="rs1800629"/>
+		<snp ID="3" START="812" END="820" TEXT="rs909253"/>
+		<snp ID="4" START="843" END="852" TEXT="rsl800469"/>
+		<snp ID="5" START="884" END="889" TEXT="rs333"/>
+		<phenotype ID="0" START="908" END="989" text="cardiac unfavorable events"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

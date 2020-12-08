@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1210" TEXT="Recently, several genome-wide association studies (GWAS) have identified many susceptible single nucleotide polymorphisms (SNPs) for chronic obstructive pulmonary disease (COPD) and lung cancer which are two closely related diseases. Among those SNPs, some of them are shared by both the diseases, reflecting there is possible genetic similarity between the diseases. Here we tested the hypothesis that whether those shared SNPs are common predictor for risks or prognosis of COPD and lung cancer.  Two SNPs (rs6495309 and rs1051730) located in nicotinic acetylcholine receptoralpha 3 (CHRNA3) gene were genotyped in 1511 patients with COPD, 1559 lung cancer cases and 1677 controls in southern and eastern Chinesepopulations.  We found that the rs6495309CC and rs6495309CT/CC variant genotypes were associated with increased risks of COPD (OR = 1.32, 95% C.I. = 1.14-1.54) and lung cancer (OR = 1.57; 95% CI = 1.31-1.87), respectively. The rs6495309CC genotype contributed to more rapid decline of annual Forced expiratory volume in one second (FEV1) in both COPD cases and controls (P&lt;0.05), and it was associated with advanced stages of COPD (P = 0.033); the rs6495309CT/CC genotypes conferred a poor survival for lung cancer (HR = 1.41, 95%CI = 1.13-1.75). The luciferase assays further showed that nicotineand other tobacco chemicals had diverse effects on the luciferase activity of the rs6495309C or T alleles. However, none of these effects were found for another SNP, rs1051730G&gt;A. The data show a statistical association and suggest biological plausibility that the rs6495309T&gt;C polymorphism contributed to increased risks and poor prognosis of both COPD and lung cancer.">
+	<sentence ID="1210_0" START="1491" END="1681">
+		<snp ID="0" START="1576" END="1585" TEXT="rs6495309"/>
+		<phenotype ID="0" START="1660" END="1681" text="COPD"/>
+		<phenotype ID="1" START="1669" END="1681" text="lung cancer"/>
+		<modality_marker  START="1500" END="1504" text="show"/>
+		<modality_marker  START="1535" END="1542" text="suggest"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

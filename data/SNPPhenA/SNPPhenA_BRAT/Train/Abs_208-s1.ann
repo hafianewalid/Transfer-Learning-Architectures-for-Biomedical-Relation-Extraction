@@ -1,0 +1,9 @@
+T1	SNP 74 84	rs11209026
+T2	SNP 118 127	rs7746082
+T3	SNP 207 217	rs13361189
+T4	SNP 252 259	rs11362
+T5	Phenotype 0 15	Colonic lesions
+R1	strong_confidence_association Arg1:T1 Arg2:T5
+R2	strong_confidence_association Arg1:T2 Arg2:T5
+R3	strong_confidence_association Arg1:T3 Arg2:T5
+R4	strong_confidence_association Arg1:T4 Arg2:T5

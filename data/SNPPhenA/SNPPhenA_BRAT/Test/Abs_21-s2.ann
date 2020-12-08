@@ -1,0 +1,5 @@
+T1	SNP 109 118	Val158Met
+T2	Phenotype 171 182	FM patients
+T3	Modality_Marker 38 46	findings
+T4	Modality_Marker 47 55	revealed
+R1	strong_confidence_association Arg1:T1 Arg2:T2

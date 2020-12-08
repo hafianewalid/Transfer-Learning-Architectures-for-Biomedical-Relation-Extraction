@@ -1,0 +1,8 @@
+T1	Gene_or_protein 32 38	A1298C 
+T2	Limited_variation 54 72	C677T polymorphism 
+T4	Chemical 92 95	MTX 
+T5	Pharmacodynamic_phenotype 92 113	MTX -related toxicity
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R2	hyp neg
+#2	AnnotatorNotes R1	hyp

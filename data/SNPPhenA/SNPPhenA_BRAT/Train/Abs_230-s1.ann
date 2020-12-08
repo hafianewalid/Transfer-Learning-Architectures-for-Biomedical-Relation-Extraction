@@ -1,0 +1,5 @@
+T1	SNP 51 59	rs429358
+T2	SNP 69 75	rs7412
+T3	Phenotype 217 235	multiple sclerosis
+R1	neutral_association Arg1:T1 Arg2:T3
+R2	neutral_association Arg1:T2 Arg2:T3

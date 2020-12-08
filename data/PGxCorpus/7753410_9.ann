@@ -1,0 +1,10 @@
+T1	Chemical 4 43	angiotensin II -AT1 receptor antagonist 
+T2	Chemical 46 54	losartan 
+T3	Chemical 111 125	angiotensin II 
+T4	Pharmacodynamic_phenotype 142 205	angiotensin II -induced immediate early gene protein expression 
+T5	Chemical 142 156	angiotensin II 
+T6	Gene_or_protein 4 32	angiotensin II -AT1 receptor
+T7	Pharmacodynamic_phenotype 166 205	immediate early gene protein expression
+R1	causes Arg1:T5 Arg2:T7	
+R2	decreases Arg1:T2 Arg2:T4	
+R3	decreases Arg1:T1 Arg2:T4	

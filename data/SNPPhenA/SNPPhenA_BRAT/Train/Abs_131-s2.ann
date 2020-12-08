@@ -1,0 +1,5 @@
+T1	SNP 0 4	MC1R
+T2	SNP 9 16	SLC45A2
+T3	Phenotype 50 58	melanoma
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3

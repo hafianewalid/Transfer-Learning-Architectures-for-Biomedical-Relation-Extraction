@@ -1,0 +1,10 @@
+T1	Limited_variation 44 71	HFE coding region mutations 
+T2	Gene_or_protein 44 47	HFE 
+T3	Chemical 119 123	iron 
+T4	Disease 150 153	SCD 
+T5	Phenotype 119 132	iron overload
+T6	Chemical 164 191	chronic transfusion therapy
+T7	Genomic_factor 44 61	HFE coding region
+R1	influences Arg1:T1 Arg2:T5	
+R2	treats Arg1:T6 Arg2:T4	
+#1	AnnotatorNotes R1	hyp neg

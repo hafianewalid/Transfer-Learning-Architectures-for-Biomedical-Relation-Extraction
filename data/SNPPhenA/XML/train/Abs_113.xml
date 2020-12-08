@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1017" TEXT="This paper addresses a tenet of the literature on APOE, i.e., the relationship between the effects of the ε4, one of the established genetic risk factor forAlzheimer's disease (AD), and its expression levels as determined by APOE promoter polymorphisms. Five polymorphisms (-491 rs449647, -427 rs769446, -219 rs405509, and ε rs429358-rs7412) were studied in 1308 AD patients and 1082 control individuals from the Central-Northern Italy. Major findings of the present study are the following: 1) the variants -219T and ε4 increase the risk for late onset AD (LOAD) when they are both present in cis on the same chromosome (in phase); 2) the correlation between the haplotype (-219T/ε4) and AD risk persists when the data are stratified by age; 3) thishaplotype likely anticipates the age of onset of the disease.These data, while confirming the association between -219T and AD, highlight the importance of the phase of the alleles for the observed effects on AD risk, suggesting that this information has to be taken into account when assessing the AD genetic risk. Moreover, the data help to clarify the apparent discrepancy that emerges from the genetic analysis where an SNP characterizing thehaplotype responsible for an increased risk for LOAD is coherently associated with a reduced expression of ApoE levels. Our data are compatible with the hypothesis of a complex role of   ApoE in the   AD pathogenesis, with positive and negative effects occurring concomitantly according to its expression levels and its protein-protein interactions largely unclarified.">
+	<sentence ID="1017_0" START="1316" END="1565">
+		<snp ID="0" START="1383" END="1387" TEXT="ApoE"/>
+		<phenotype ID="0" START="1397" END="1565" text="AD"/>
+		<modality_marker  START="1545" END="1552" text="largely"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

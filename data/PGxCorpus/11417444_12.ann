@@ -1,0 +1,5 @@
+T1	Chemical 25 37	azathioprine 
+T2	Phenotype 44 57	TPMT activity 
+T3	Gene_or_protein 44 48	TPMT 
+T4	Chemical 124 136	azathioprine 
+R1	increases Arg1:T1 Arg2:T2	

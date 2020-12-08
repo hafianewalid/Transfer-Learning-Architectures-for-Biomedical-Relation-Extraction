@@ -1,0 +1,11 @@
+T1	Phenotype 56 59	FPG
+T2	Chemical 84 132	sulphonylurea treatment in addition to metformin
+T3	Disease 150 165	type 2 diabetes
+T4	Gene_or_protein 197 202	KCNQ1
+T5	Limited_variation 184 202	variation in KCNQ1
+T6	Chemical 84 97	sulphonylurea
+T7	Chemical 123 132	metformin
+R1	decreases Arg1:T2 Arg2:T1	
+R2	treats Arg1:T2 Arg2:T3	
+R3	influences Arg1:T5 Arg2:T1	
+R4	influences Arg1:T5 Arg2:T2	

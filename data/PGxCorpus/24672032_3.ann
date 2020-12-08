@@ -1,0 +1,18 @@
+T1	Limited_variation 0 48	IFNL3 ( lambda-3 interferon gene ) polymorphisms 
+T2	Gene_or_protein 8 27	lambda-3 interferon 
+T3	Gene_or_protein 0 5	IFNL3 
+T4	Phenotype 57 78	expression of miR-122 
+T5	Gene_or_protein 71 78	miR-122 
+T6	Chemical 188 197	ribavirin 
+T7	Disease 237 240	CHC 
+T8	Phenotype 105 135	sustained virological response
+T9	Phenotype 138 141	SVR
+T10	Chemical 162 197	pegylated interferon plus ribavirin
+T11	Disease 223 234	hepatitis C
+T12	Chemical 162 182	pegylated interferon
+R1	isEquivalentTo Arg1:T2 Arg2:T3	
+R2	isEquivalentTo Arg1:T9 Arg2:T8	
+R3	isAssociatedWith Arg1:T4 Arg2:T8	
+R4	isAssociatedWith Arg1:T1 Arg2:T8	
+R5	isEquivalentTo Arg1:T7 Arg2:T11	
+R6	treats Arg1:T10 Arg2:T11	

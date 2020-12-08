@@ -1,0 +1,1 @@
+In a simple linear regression model , age , hemoglobin ( Hb ) , CYP3A5 gene polymorphisms , and IL-18 A-607C gene polymorphisms were associated with log-transformed tacrolimus C/D ratios ( P < 0.05 ) .

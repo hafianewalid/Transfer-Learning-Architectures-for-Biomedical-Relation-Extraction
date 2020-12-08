@@ -1,0 +1,6 @@
+T1	SNP 20 29	rs1051730
+T2	Phenotype 257 265	low mood
+T3	Modality_Marker 233 237	more
+T4	Modality_Marker 238 244	likely
+T5	Modality_Marker 248 254	report
+R1	neutral_association Arg1:T1 Arg2:T2

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1067" TEXT="BACKGROUND: Common polymorphisms of the transcription factor 7-like 2 gene (TCF7L2) have recently been associated with type 2 diabetes. We examined whether the two most strongly associated variants (rs12255372 and rs7903146) predict the progression to diabetes in persons with impaired glucose tolerance who were enrolled in the Diabetes Prevention Program, in which lifestyle intervention or treatment with metformin was compared with placebo. METHODS: We genotyped these variants in 3548 participants and performed Cox regression analysis using genotype, intervention, and their interactions as predictors. We assessed the effect of genotype on measures of insulin secretion and insulin sensitivity at baseline and at one year. RESULTS:  Over an average period of three years, participants with the risk-conferring TT genotype at rs7903146 were more likely to have progression from impaired glucose tolerance to diabetes than were CC homozygotes (hazard ratio, 1.55; 95 percent confidence interval, 1.20 to 2.01; P&lt;0.001). The effect of genotype was stronger in the placebo group (hazard ratio, 1.81; 95 percent confidence interval, 1.21 to 2.70; P=0.004) than in the metformin and lifestyle-intervention groups (hazard ratios, 1.62 and 1.15, respectively; P for the interaction between genotype and intervention not significant). The TT genotype was associated with decreased insulin secretion but not increased insulin resistance at baseline. Similar results were obtained for rs12255372. CONCLUSIONS: Common variants in TCF7L2 seem to be associated with an increased risk of diabetes among persons with impaired glucose tolerance. The risk-conferring genotypes in TCF7L2 are associated with impaired beta-cell function but not with insulin resistance. (ClinicalTrials.gov number, NCT00004992. [ClinicalTrials.gov]).">
+	<sentence ID="1067_0" START="740" END="1024">
+		<snp ID="0" START="832" END="841" TEXT="rs7903146"/>
+		<phenotype ID="2" START="884" END="1024" text="impaired glucose tolerance"/>
+		<phenotype ID="0" START="914" END="1024" text="diabetes"/>
+		<modality_marker  START="847" END="851" text="more"/>
+		<modality_marker  START="852" END="858" text="likely"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="0" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1067_1" START="1506" END="1635">
+		<snp ID="1" START="1525" END="1531" TEXT="TCF7L2"/>
+		<phenotype ID="3" START="1580" END="1635" text="diabetes"/>
+		<phenotype ID="1" START="1608" END="1635" text="impaired glucose tolerance"/>
+		<modality_marker  START="1532" END="1536" text="seem"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="0" PHENOTYPEID="3" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

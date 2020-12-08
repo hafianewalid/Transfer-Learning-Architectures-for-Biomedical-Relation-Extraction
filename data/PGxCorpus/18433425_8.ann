@@ -1,0 +1,7 @@
+T1	Gene_or_protein 3 18	cytochrome P450 
+T3	Chemical 38 47	yohimbine 
+T4	Limited_variation 50 64	P450 genotypes 
+T5	Gene_or_protein 50 54	P450 
+T6	Gene_or_protein 67 73	CYP2D6 
+T7	Gene_or_protein 78 84	CYP3A4 
+R1	influences Arg1:T1 Arg2:T3	

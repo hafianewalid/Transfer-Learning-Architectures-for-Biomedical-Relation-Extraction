@@ -1,0 +1,1 @@
+Multivariable logistic regression analysis of combined genotypes with adjustment for age, gender and diabetes mellitus revealed that rs662799 and rs6929846 significantly and synergistically affected dyslipidemia.

@@ -1,0 +1,6 @@
+T1	Chemical 41 45	PAHs 
+T2	Phenotype 58 75	expression of Bax 
+T3	Gene_or_protein 72 75	Bax 
+T4	Phenotype 101 110	apoptosis
+R1	causes Arg1:T1 Arg2:T2	
+R2	causes Arg1:T1 Arg2:T4	

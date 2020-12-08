@@ -1,0 +1,7 @@
+T1	Chemical 26 32	IM3829 
+T2	Disease 73 84	lung cancer 
+T3	Phenotype 120 143	high expression of Nrf2 
+T4	Gene_or_protein 139 143	Nrf2 
+R1	treats Arg1:T1 Arg2:T2	
+R2	isAssociatedWith Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes R1	hyp

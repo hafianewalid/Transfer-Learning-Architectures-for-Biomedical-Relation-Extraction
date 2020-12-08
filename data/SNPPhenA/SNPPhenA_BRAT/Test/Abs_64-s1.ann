@@ -1,0 +1,9 @@
+T1	SNP 157 163	rs4633
+T2	SNP 164 170	rs4680
+T3	SNP 171 177	rs4818
+T4	SNP 183 189	rs6269
+T5	Phenotype 83 101	pregnancy outcomes
+R1	neutral_association Arg1:T1 Arg2:T5
+R2	neutral_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T4 Arg2:T5

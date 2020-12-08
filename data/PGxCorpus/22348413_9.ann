@@ -1,0 +1,36 @@
+T1	Chemical 0 12	Itraconazole 
+T2	Gene_or_protein 44 50	CYP3A4 
+T4	Chemical 101 110	midazolam 
+T5	Chemical 113 122	triazolam 
+T6	Chemical 125 134	buspirone 
+T7	Chemical 137 147	lovastatin 
+T8	Chemical 150 161	simvastatin 
+T9	Chemical 166 175	oxycodone 
+T10	Chemical 186 196	rifampicin 
+T3	Pharmacodynamic_phenotype 101 110;78 89	midazolam exposure to
+T11	Pharmacodynamic_phenotype 113 122;78 89	triazolam exposure to
+T12	Pharmacodynamic_phenotype 125 134;78 89	buspirone exposure to
+T13	Pharmacodynamic_phenotype 137 147;78 89	lovastatin exposure to
+T14	Pharmacodynamic_phenotype 150 161;78 89	simvastatin exposure to
+T15	Pharmacodynamic_phenotype 166 175;78 89	oxycodone exposure to
+T16	Chemical 30 50	inhibitors of CYP3A4
+T17	Pharmacodynamic_phenotype 219 240	plasma concentrations
+R1	increases Arg1:T1 Arg2:T3	
+R2	increases Arg1:T1 Arg2:T11	
+R3	increases Arg1:T1 Arg2:T12	
+R4	increases Arg1:T1 Arg2:T13	
+R5	increases Arg1:T1 Arg2:T14	
+R6	increases Arg1:T1 Arg2:T15	
+R7	increases Arg1:T16 Arg2:T3	
+R8	increases Arg1:T16 Arg2:T11	
+R9	increases Arg1:T16 Arg2:T12	
+R10	increases Arg1:T16 Arg2:T13	
+R11	increases Arg1:T16 Arg2:T14	
+R12	increases Arg1:T16 Arg2:T15	
+R13	decreases Arg1:T10 Arg2:T3	
+R14	decreases Arg1:T10 Arg2:T11	
+R15	decreases Arg1:T10 Arg2:T12	
+R17	decreases Arg1:T10 Arg2:T15	
+R16	decreases Arg1:T10 Arg2:T13	
+R18	decreases Arg1:T10 Arg2:T14	
+R19	decreases Arg1:T10 Arg2:T17	

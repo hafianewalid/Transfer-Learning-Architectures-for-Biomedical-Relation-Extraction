@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1163" TEXT="OBJECTIVE: Recently, variants in the transcription factor 7-like 2 (TCF7L2) gene have been found to be consistently associated with type 2 diabetes in different populations. In this study, we hypothesized that TCF7L2 also contributed to genetic susceptibility for type 2 diabetes in a Chinese population. METHODS: We looked for new variants by direct sequencing of all exons and intron-exon junctions of TCF7L2 in 100 Chinese type 2 diabetic patients, and then we genotyped five single nucleotide polymorphisms (SNPs) by Snapshot technology in 1,000 Chinese individuals. RESULTS: By sequencing, we identified six SNPs (c.1,637C&gt;A; c.1,674C&gt;G; c.1,709G&gt;A; c.1,846C&gt;G; c.1,888C&gt;T; and c.1,876T&gt;G), and three of them led to non-synonymous polymorphisms (c.1,637C&gt;A, His--&gt;Gln or Pro--&gt;Thr; c.1,674C&gt;G, Pro--&gt;Arg; and c.1,709G&gt;A, Ala--&gt;Thr). All of them are rare except c.1,637C&gt;A, which had a frequency of 0.23 for the minor A allele in 98 sequenced individuals. In a case-control study, one of the newly discovered SNPs (c.1,637C&gt;A), together with four reported ones (rs7903146, rs12255372, rs290487 and rs3814573) were genotyped. Comparison between allele and genotype frequencies of these SNPs in patients and controls showed marginal association for rs7903146 and rs290487 with type 2 diabetes (p = 0.063, OR 1.982, 95% CI 1.128-3.485; p = 0.071, OR 1.237, 95% CI 0.983-1.557, respectively). No association was found for rs12255372, rs3814573, c.1,637C&gt;A and type 2 diabetes (p = 0.278-1.000). CONCLUSIONS: With the current sample size, we did not find any mutation in the coding sequence of TCF7L2 that confers a genetic risk for type 2 diabetes in a Chinese population, and did not replicate some of the major positive results obtained in other populations.">
+	<sentence ID="1163_0" START="1129" END="1392">
+		<snp ID="0" START="1251" END="1260" TEXT="rs7903146"/>
+		<snp ID="1" START="1265" END="1273" TEXT="rs290487"/>
+		<phenotype ID="0" START="1279" END="1392" text="type 2 diabetes"/>
+		<modality_marker  START="1219" END="1225" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1163_1" START="1393" END="1494">
+		<snp ID="2" START="1422" END="1432" TEXT="rs12255372"/>
+		<snp ID="3" START="1434" END="1443" TEXT="rs3814573"/>
+		<phenotype ID="1" START="1460" END="1494" text="type 2 diabetes"/>
+		<modality_marker  START="1412" END="1417" text="found"/>
+		<negation_scope  START="1393" END="1494" text="No association was found for rs12255372, rs3814573, c.1,637C&gt;A and type 2 diabetes (p = 0.278-1.000).">
+			<negation_cue START="1393" END="1395" text="No"/>
+		</negation_scope>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

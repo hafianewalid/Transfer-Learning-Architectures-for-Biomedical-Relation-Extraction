@@ -1,0 +1,12 @@
+T2	Limited_variation 22 31;94 107	c.1236C>T SNPs of ABCB1 
+T3	Limited_variation 46 55;94 107	c.2677G>T SNPs of ABCB1 
+T4	Limited_variation 72 81;94 107	c.3435C>T SNPs of ABCB1 
+T5	Gene_or_protein 102 107	ABCB1 
+T6	Chemical 166 175	clozapine 
+T7	Chemical 180 192	norclozapine 
+T8	Chemical 369 378	clozapine 
+T1	Pharmacodynamic_phenotype 149 175	plasma levels of clozapine
+T9	Pharmacodynamic_phenotype 149 165;180 192	plasma levels of norclozapine
+T10	Genomic_factor 34 41	exon 12
+T11	Genomic_factor 58 65	exon 21
+T12	Genomic_factor 84 91	exon 26

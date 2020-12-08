@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1194" TEXT="The catechol-O-methyltranferase (COMT) is one of the main enzymes that metabolise dopamine in the brain. The Val158Met polymorphism in the COMT gene (rs4680) causes a trimodal distribution of high (Val/Val), intermediate (Val/Met) and low (Met/Met) enzyme activity. We tested whether the Val158Met polymorphism is a modifier of the age at onset (AAO) in Parkinson's disease (PD). The rs4680 was genotyped in a total of 16 609 subjects from five independent cohorts of European and North American origin (5886 patients with PD and 10 723 healthy controls). The multivariate analysis for comparing PD and control groups was based on a stepwise logistic regression, with gender, age and cohort origin included in the initial model. The multivariate analysis of the AAO was a mixed linear model, with COMT genotype and gender considered as fixed effects and cohort and cohort-gender interaction as random effects. COMT genotype was coded as a quantitative variable, assuming a codominant genetic effect. The distribution of the COMT polymorphism was not significantly different in patients and controls (p=0.22). The Val allele had a significant effect on the AAO with a younger AAO in patients with the Val/Val (57.1±13.9, p=0.03) than the Val/Met (57.4±13.9) and the Met/Met genotypes (58.3±13.5). The difference was greater in men (1.9 years between Val/Val and Met/Met, p=0.007) than in women (0.2 years, p=0.81). Thus, the Val158Met COMT polymorphism is not associated with PD in the Caucasian population but acts as a modifier of the AAO in PD with a sexual dimorphism: the Val allele is associated with a younger AAO in men with idiopathic PD.">
+	<sentence ID="1194_0" START="1414" END="1646">
+		<snp ID="0" START="1424" END="1438" TEXT="Val158Met COMT"/>
+		<phenotype ID="0" START="1475" END="1646" text="PD"/>
+		<phenotype ID="1" START="1543" END="1646" text="PD"/>
+		<negation_scope  START="1455" END="1646" text="not associated with PD in the Caucasian population but acts as a modifier of the AAO in PD with a sexual dimorphism: the Val allele is associated with a younger AAO in men with idiopathic PD.">
+			<negation_cue START="1455" END="1458" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

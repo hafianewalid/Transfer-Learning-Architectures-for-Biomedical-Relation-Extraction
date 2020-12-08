@@ -1,0 +1,6 @@
+T1	SNP 0 14	APOE genotypes
+T2	Phenotype 32 39	obesity
+T3	Phenotype 73 91	blood lipid levels
+T4	Modality_Marker 45 50	found
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

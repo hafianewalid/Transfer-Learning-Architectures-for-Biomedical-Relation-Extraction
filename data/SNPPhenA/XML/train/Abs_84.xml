@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1253" TEXT="OBJECTIVE: Apolipoprotein A5 (APOA5) gene variants have been shown to be associated with elevated TG levels; the T-1131C (rs662799) variant has been reported to confer risk for the metabolic syndrome in adult populations. Little is known about the APOA5 variants in pediatric population, no such information is available for pediatric obesity at all. Here we examined four haplotype-tagging polymorphisms (T-1131C, IVS3 + G476A [rs2072560], T1259C [rs2266788] and C56G [rs3135506]) and studied also the frequency of major naturally occurring haplotypes of APOA5 in obese children. METHODS: The polymorphisms were analyzed in 232 obese children, and in 137 healthy, normal weight controls, using PCR-RFLP methods. RESULTS: In the pediatricpatients we could confirm the already known adult subjects based association of -1131C, IVS3 + 476A and 1259C variants with elevated triglycerideconcentrations, both in obese patients and in the controls. The prevalence of the APOA5*2 haplotype (containing the minor allele of T-1131C, IVS3 + G476A and T1259C SNPs together) was 15.5% in obese children, and 5.80% in the controls (p&lt;0.001); multiple logistic regression analysis revealed that this haplotype confers susceptibility for development of obesity (OR=2.87; 95% CI: 1.29-6.37; p≤0.01). By contrast, the APOA5*4 haplotype (with -1131C alone) did not show similar associations. Our findings also suggest that the APOA5*5 haplotype (1259C alone) can be protective against obesity(OR=0.25; 95% CI: 0.07-0.80; p&lt;0.05). CONCLUSIONS: While previous studies in adults demonstrated, that the APOA5 -1131C minor allele confers risk for adult metabolic syndrome, here we show, that the susceptibility nature of this SNP restricted to the APOA5*2 haplotype in pediatric obese subjects.">
+	<sentence ID="1253_0" START="0" END="221">
+		<snp ID="0" START="30" END="35" TEXT="APOA5"/>
+		<snp ID="1" START="122" END="130" TEXT="rs662799"/>
+		<phenotype ID="0" START="181" END="221" text="metabolic syndrome"/>
+		<modality_marker  START="61" END="66" text="shown"/>
+		<modality_marker  START="149" END="157" text="reported"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

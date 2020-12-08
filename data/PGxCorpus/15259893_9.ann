@@ -1,0 +1,9 @@
+T1	Chemical 30 40	amprenavir 
+T2	Limited_variation 67 71	I50V 
+T4	Chemical 110 119	lopinavir 
+T5	Pharmacodynamic_phenotype 0 40	Resistance during exposure to amprenavir
+T3	Pharmacodynamic_phenotype 96 119	resistance to lopinavir
+R1	influences Arg1:T2 Arg2:T5	
+R2	causes Arg1:T2 Arg2:T3	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

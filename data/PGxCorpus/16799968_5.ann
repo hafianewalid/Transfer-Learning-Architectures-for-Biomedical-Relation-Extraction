@@ -1,0 +1,15 @@
+T1	Disease 61 73	liver injury 
+T2	Gene_or_protein 130 133	CAR 
+T3	Chemical 113 120	TCPOBOP 
+T4	Gene_or_protein 151 154	CAR 
+T5	Phenotype 38 58	hepatocyte apoptosis
+T6	Limited_variation 130 139	CAR + / +
+T7	Limited_variation 151 160	CAR - / -
+T8	Phenotype 87 97	fatalities
+T9	Chemical 32 35	Jo2
+R1	decreases Arg1:T9 Arg2:T5	
+R2	decreases Arg1:T9 Arg2:T1	
+R3	decreases Arg1:T9 Arg2:T8	
+R4	influences Arg1:T7 Arg2:T9	
+R5	influences Arg1:T6 Arg2:T9	
+#1	AnnotatorNotes R4	neg

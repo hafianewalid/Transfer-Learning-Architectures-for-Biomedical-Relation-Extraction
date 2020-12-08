@@ -1,0 +1,10 @@
+T2	Gene_or_protein 45 51	pfmdr1 
+T3	Chemical 55 66	amodiaquine 
+T4	Pharmacodynamic_phenotype 71 92	mefloquine resistance 
+T5	Chemical 71 81	mefloquine 
+T6	Gene_or_protein 122 128	pfmdr1 
+T7	Pharmacodynamic_phenotype 55 66;82 92	amodiaquine resistance
+R6	influences Arg1:T2 Arg2:T4	
+R1	influences Arg1:T2 Arg2:T7	
+#1	AnnotatorNotes R6	hyp
+#2	AnnotatorNotes R1	hyp

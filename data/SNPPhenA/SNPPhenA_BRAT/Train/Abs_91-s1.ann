@@ -1,0 +1,13 @@
+T1	SNP 49 54	APOA5
+T2	SNP 91 96	TRIB1
+T3	Phenotype 156 159	HTG
+T4	Phenotype 322 330	diabetes
+T5	Phenotype 334 341	obesity
+T6	Modality_Marker 3 8	found
+T7	Modality_Marker 372 377	about
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T1 Arg2:T4
+R3	strong_confidence_association Arg1:T1 Arg2:T5
+R4	strong_confidence_association Arg1:T2 Arg2:T3
+R5	strong_confidence_association Arg1:T2 Arg2:T4
+R6	strong_confidence_association Arg1:T2 Arg2:T5

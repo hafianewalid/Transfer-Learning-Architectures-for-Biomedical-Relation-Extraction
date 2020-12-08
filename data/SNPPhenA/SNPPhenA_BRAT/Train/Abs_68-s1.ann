@@ -1,0 +1,14 @@
+T1	SNP 300 305	rs699
+T2	SNP 333 342	rs4783961
+T3	SNP 392 400	rs183130
+T4	Phenotype 66 70	PUFA
+T5	Phenotype 147 189	lower low-density lipoprotein cholesterol 
+T6	Modality_Marker 153 156	low
+T7	Modality_Marker 200 206	higher
+T8	Modality_Marker 207 211	high
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T3 Arg2:T5
+R4	weak_confidence_association Arg1:T1 Arg2:T4
+R5	weak_confidence_association Arg1:T2 Arg2:T4
+R6	weak_confidence_association Arg1:T3 Arg2:T4

@@ -1,0 +1,4 @@
+T1	SNP 27 35	rs231775
+T2	Phenotype 79 96	osteosarcoma risk
+T3	Modality_Marker 15 21	showed
+R1	weak_confidence_association Arg1:T1 Arg2:T2

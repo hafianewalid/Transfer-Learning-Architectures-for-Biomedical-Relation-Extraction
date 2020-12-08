@@ -1,0 +1,11 @@
+T2	Gene_or_protein 13 18	ABCB1 
+T3	Limited_variation 23 42	ABCG2 polymorphisms 
+T4	Gene_or_protein 23 28	ABCG2 
+T5	Chemical 46 57	doxorubicin 
+T6	Disease 79 92	breast cancer 
+T7	Limited_variation 13 18;29 42	ABCB1 polymorphisms
+T8	Pharmacokinetic_phenotype 46 69	doxorubicin disposition
+R1	influences Arg1:T3 Arg2:T8	
+R2	influences Arg1:T7 Arg2:T8	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

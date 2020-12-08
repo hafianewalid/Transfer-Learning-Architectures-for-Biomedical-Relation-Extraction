@@ -1,0 +1,11 @@
+T1	Gene_or_protein 4 19	tyrosine kinase 
+T2	Gene_or_protein 22 24	TK 
+T3	Chemical 39 47	imatinib 
+T4	Disease 80 92	malignancies 
+T5	Gene_or_protein 142 147	c-abl 
+T6	Gene_or_protein 150 155	c-kit 
+T7	Gene_or_protein 160 166	PDGF-R 
+T8	Chemical 4 36	tyrosine kinase ( TK ) inhibitor
+T9	Gene_or_protein 132 139	kinases
+R1	treats Arg1:T3 Arg2:T4	
+R2	isEquivalentTo Arg1:T2 Arg2:T1	

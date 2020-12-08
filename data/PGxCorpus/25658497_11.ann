@@ -1,0 +1,14 @@
+T3	Gene_or_protein 151 155	BDNF 
+T4	Limited_variation 151 164	BDNF Val66Met 
+T8	Chemical 67 82	antidepressants
+T2	Chemical 180 184	SSRI
+T9	Limited_variation 209 218	Val / Val
+T5	Chemical 232 241	SNRI/ TCA
+T6	Limited_variation 246 249	Met
+T1	Disease 110 135	major depressive disorder
+R1	treats Arg1:T8 Arg2:T1	
+R2	influences Arg1:T4 Arg2:T8	
+R3	influences Arg1:T9 Arg2:T2	
+R4	influences Arg1:T6 Arg2:T5	
+R5	treats Arg1:T2 Arg2:T1	
+R6	treats Arg1:T5 Arg2:T1	

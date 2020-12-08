@@ -1,0 +1,28 @@
+T1	Phenotype 182 218	BCR - ABL 1 tyrosine kinase activity
+T2	Gene_or_protein 182 185	BCR
+T4	Chemical 232 236	TKIs
+T5	Chemical 182 229	BCR - ABL 1 tyrosine kinase activity inhibitors
+T6	Gene_or_protein 188 191	ABL
+T7	Pharmacodynamic_phenotype 162 229	pharmacodynamics of BCR - ABL 1 tyrosine kinase activity inhibitors
+T8	Pharmacokinetic_phenotype 141 157;179 229	pharmacokinetics of BCR - ABL 1 tyrosine kinase activity inhibitors
+T3	Gene_or_protein 59 64	genes
+T9	Limited_variation 73 81	variants
+T10	Limited_variation 91 104	polymorphisms
+T11	Gene_or_protein 125 133	proteins
+R1	isEquivalentTo Arg1:T4 Arg2:T5	
+R2	influences Arg1:T3 Arg2:T8	
+R3	influences Arg1:T9 Arg2:T8	
+R4	influences Arg1:T10 Arg2:T8	
+R5	influences Arg1:T11 Arg2:T8	
+R6	influences Arg1:T3 Arg2:T7	
+R7	influences Arg1:T9 Arg2:T7	
+R8	influences Arg1:T10 Arg2:T7	
+R9	influences Arg1:T11 Arg2:T7	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp
+#4	AnnotatorNotes R5	hyp
+#6	AnnotatorNotes R7	hyp
+#7	AnnotatorNotes R8	hyp
+#8	AnnotatorNotes R9	hyp
+#9	AnnotatorNotes R6	hyp

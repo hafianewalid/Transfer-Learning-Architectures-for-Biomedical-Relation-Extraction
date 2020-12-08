@@ -1,0 +1,13 @@
+T1	Limited_variation 36 45	BDNF SNPs 
+T2	Gene_or_protein 36 40	BDNF 
+T4	Disease 107 120	schizophrenia 
+T6	Disease 221 234	schizophrenia 
+T3	Disease 76 120	comorbid alcohol dependence in schizophrenia
+T7	Chemical 85 92	alcohol
+T8	Chemical 177 184	alcohol
+T9	Disease 177 195	alcohol -dependent
+T5	Disease 85 103	alcohol dependence
+T10	Disease 177 234	alcohol -dependent patients who do not have schizophrenia
+R1	influences Arg1:T1 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T10	
+#1	AnnotatorNotes R2	neg

@@ -1,0 +1,9 @@
+T1	Chemical 36 46	crizotinib 
+T2	Disease 86 112	non-small cell lung cancer 
+T3	Gene_or_protein 71 74	ALK 
+T4	Disease 115 120	NSCLC 
+T5	Genomic_variation 71 85	ALK rearranged
+T6	Disease 71 122	ALK rearranged non-small cell lung cancer ( NSCLC )
+R1	isEquivalentTo Arg1:T4 Arg2:T2	
+R3	treats Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R3	hyp

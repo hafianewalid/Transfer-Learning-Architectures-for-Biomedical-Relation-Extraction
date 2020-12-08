@@ -1,0 +1,9 @@
+T1	Limited_variation 0 15	CYP2A6 genotype 
+T2	Gene_or_protein 0 6	CYP2A6 
+T3	Chemical 63 71	nicotine 
+T4	Pharmacokinetic_phenotype 39 71	disposition kinetics of nicotine
+T5	Pharmacokinetic_phenotype 24 34;51 71	metabolism kinetics of nicotine
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

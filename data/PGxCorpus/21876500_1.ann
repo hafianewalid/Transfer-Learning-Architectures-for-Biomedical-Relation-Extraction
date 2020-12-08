@@ -1,0 +1,6 @@
+T2	Limited_variation 32 88	Val158Met catechol-O-methyltransferase gene polymorphism 
+T3	Gene_or_protein 42 70	catechol-O-methyltransferase 
+T4	Disease 93 119	methamphetamine dependence
+T1	Chemical 93 108	methamphetamine
+R1	isAssociatedWith Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R1	neg

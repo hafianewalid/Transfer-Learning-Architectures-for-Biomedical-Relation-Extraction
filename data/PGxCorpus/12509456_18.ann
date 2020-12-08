@@ -1,0 +1,14 @@
+T1	Phenotype 16 37	BRCA1 mRNA expression 
+T2	Gene_or_protein 16 21	BRCA1 
+T3	Disease 50 63	breast cancer 
+T4	Gene_or_protein 110 115	BRCA1 
+T5	Genomic_variation 86 115	C -terminally truncated BRCA1 
+T6	Chemical 152 155	CL4 
+T7	Chemical 145 148	LAM
+T8	Genomic_factor 16 26	BRCA1 mRNA
+R1	influences Arg1:T7 Arg2:T1	
+R2	influences Arg1:T6 Arg2:T1	
+R3	isAssociatedWith Arg1:T1 Arg2:T3	
+R4	isAssociatedWith Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R1	neg

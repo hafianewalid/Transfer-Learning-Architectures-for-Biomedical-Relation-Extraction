@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1006" TEXT="Various studies have linked different genetic single nucleotide polymorphisms (SNPs) to different blood lipids (BL), but whether these &quot;connections&quot; were identified using cross-sectional or longitudinal (i.e., changes over time) designs has received little attention. Cross-sectional and longitudinal assessments of BL [total, high-, low-density lipoprotein cholesterol (TC, HDL, LDL), triglycerides (TG)] and non-genetic factors (body mass index, smoking, alcohol intake) were measured for 2,002 Geneva, Switzerland, adults during 1999-2008 (two measurements, median 6 years apart), and 20 SNPs in 13 BL metabolism-related genes. Fixed and mixed effects repeated measures linear regression models, respectively, were employed to identify cross-sectional and longitudinal SNP:BL associations among the 1,516 (76%) study participants who reported not being treated for hypercholesterolemia at eithermeasurement time. One-third more (12 vs. 9) longitudinal than cross-sectional associations were found [Bonferroni-adjusted two-tailed p &lt; 0.00125 (=0.05/2)/20) for each of the four ensembles of 20 SNP:individual BL associations tested under the two study designs]. There was moderate consistency between the cross-sectional and longitudinal findings, with eight SNP:BL associations consistently identified across both study designs: [APOE.2 and APOE.4 (rs7412 and rs429358)]:TC; HL/LIPC (rs2070895):HDL; [APOB (rs1367117), APOE.2 and APOE.4 (rs7412 and rs429358)]:LDL; [APOA5(rs2072560&lt;snp&gt;) and APOC III (&lt;snp&gt;rs5128)]:TG. The results suggest that cross-sectional studies, which include most genome-wide association studies (GWAS), can assess the large majority of SNP:BL associations. In the present analysis, which was much less powered than a GWAS, the cross-sectional studywas around 2/3 (67%) as efficient as the longitudinal study.">
+	<sentence ID="1006_0" START="1163" END="1521">
+		<snp ID="0" START="1351" END="1357" TEXT="rs7412"/>
+		<snp ID="1" START="1362" END="1370" TEXT="rs429358"/>
+		<snp ID="2" START="1386" END="1395" TEXT="rs2070895"/>
+		<snp ID="3" START="1409" END="1418" TEXT="rs1367117"/>
+		<snp ID="4" START="1440" END="1446" TEXT="rs7412"/>
+		<snp ID="5" START="1451" END="1459" TEXT="rs429358"/>
+		<snp ID="6" START="1474" END="1515" TEXT="rs2072560&lt;snp&gt;) and APOC III (&lt;snp&gt;rs5128"/>
+		<phenotype ID="0" START="1264" END="1521" text="BL"/>
+		<modality_marker  START="1239" END="1247" text="findings"/>
+		<modality_marker  START="1280" END="1292" text="consistently"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

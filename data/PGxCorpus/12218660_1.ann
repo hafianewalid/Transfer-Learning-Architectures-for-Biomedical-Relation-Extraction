@@ -1,0 +1,5 @@
+T1	Limited_variation 23 70	polymorphisms in the serotonin transporter gene 
+T3	Gene_or_protein 44 65	serotonin transporter 
+T4	Chemical 93 100	cocaine
+T5	Disease 93 111	cocaine dependence
+R1	isAssociatedWith Arg1:T1 Arg2:T5	

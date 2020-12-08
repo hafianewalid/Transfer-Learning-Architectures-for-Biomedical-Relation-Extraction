@@ -1,0 +1,8 @@
+T1	Gene_or_protein 22 29	CYP2C19 
+T2	Chemical 138 150	pantoprazole 
+T3	Gene_or_protein 180 187	CYP2C19 
+T4	Haplotype 22 39	CYP2C19 * 2 / * 2
+T5	Pharmacodynamic_phenotype 113 150	plasma concentrations of pantoprazole
+T6	Haplotype 180 197	CYP2C19 * 1 / * 1
+T11	Limited_variation 168 197	wild-type ( CYP2C19 * 1 / * 1
+R1	increases Arg1:T4 Arg2:T5	

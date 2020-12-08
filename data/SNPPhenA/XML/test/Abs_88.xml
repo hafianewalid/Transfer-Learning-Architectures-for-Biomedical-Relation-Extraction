@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1087" TEXT="Metabolic syndrome (MetS) is a common multifactorial disorder that involves abdominal obesity, dyslipidemia, hypertension, and hyperglycemia. Genome-wide association studies have identified a major risk locus for coronary artery disease and myocardial infarction on chromosome 9p21. Here, we examined the frequency of single nucleotide polymorphisms (SNPs) on chromosome 9p21 in a sample of Turkish patients with MetS and further investigated the correlation between regional SNPs, haplotypes, and MetS. The real-time polymerase chain reaction (RT-PCR) was used to analyze 4 SNPs (rs10757274 A/G, rs2383207 A/G, rs10757278 A/G, rs1333049 C/G) in 291 MetS patients and 247 controls. Analysis of 4 SNPs revealed a significant difference in the genotype distribution for rs2383207, rs10757278, and rs1333049 between MetS patients and controls (p = 0.041, p = 0.005, p = 0.023, respectively) but not for rs10757274 (p = 0.211). MetS and control allelic frequencies for rs2383207, rs10757278, and rs1333049 were statistically different (p &lt; 0.05). The rs2383207 AG variant, was identified as a MetS risk factor (p = 0.012, OR = 33.271; 95 % CI: 2.193-504.805) and the AA haplotype in block 1 and the GC, AG haplotypes in block 2 were associated with MetS (χ (2) = 3.875, p = 0.049; χ (2) = 9.334, p = 0.0022; χ (2) = 9.134, p = 0.0025, respectively). In this study, we found that chromosome 9p21 SNP rs10757278 and related haplotypes correlate with MetS risk. This is the first report showing an association between a 9p21 variant and MetS and suggests that rs10757278 polymorphism may confer increased risk for disease.">
+	<sentence ID="1087_0" START="504" END="681">
+		<snp ID="0" START="581" END="591" TEXT="rs10757274"/>
+		<snp ID="1" START="597" END="606" TEXT="rs2383207"/>
+		<snp ID="2" START="612" END="622" TEXT="rs10757278"/>
+		<snp ID="3" START="628" END="637" TEXT="rs1333049"/>
+		<phenotype ID="0" START="650" END="681" text="MetS"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1087_1" START="682" END="923">
+		<snp ID="4" START="768" END="777" TEXT="rs2383207"/>
+		<snp ID="5" START="779" END="789" TEXT="rs10757278"/>
+		<snp ID="6" START="795" END="804" TEXT="rs1333049"/>
+		<snp ID="7" START="900" END="910" TEXT="rs10757274"/>
+		<phenotype ID="1" START="813" END="923" text="MetS"/>
+		<modality_marker  START="701" END="709" text="revealed"/>
+		<negation_scope  START="892" END="923" text="not for rs10757274 (p = 0.211).">
+			<negation_cue START="892" END="895" text="not"/>
+		</negation_scope>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="5" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="6" PHENOTYPEID="1" SNPID="6" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="7" PHENOTYPEID="1" SNPID="7" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

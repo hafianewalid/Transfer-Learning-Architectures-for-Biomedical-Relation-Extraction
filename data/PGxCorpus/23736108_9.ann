@@ -1,0 +1,9 @@
+T1	Gene_or_protein 83 88	TAPBP 
+T2	Limited_variation 89 98	rs2071888 
+T6	Limited_variation 192 201	rs1059288 
+T7	Disease 252 256	AERD 
+T8	Chemical 275 282	aspirin 
+T9	Disease 293 299	asthma 
+T3	Disease 275 299	aspirin -tolerant asthma
+R2	isAssociatedWith Arg1:T2 Arg2:T7	
+R3	isAssociatedWith Arg1:T6 Arg2:T7	

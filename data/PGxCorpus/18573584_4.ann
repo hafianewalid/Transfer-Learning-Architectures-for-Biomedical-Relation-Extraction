@@ -1,0 +1,18 @@
+T1	Chemical 52 63	haloperidol 
+T2	Chemical 67 78	risperidone 
+T3	Disease 111 124	schizophrenia 
+T4	Phenotype 186 222	relapse of these psychotic disorders 
+T5	Disease 203 222	psychotic disorders 
+T7	Disease 127 143	schizophreniform 
+T8	Limited_variation 291 315	5-HTTLPR L and S alleles
+T9	Limited_variation 377 381	La/g
+T10	Disease 147 172	schizoaffective disorders
+T11	Limited_variation 332 374	A/G functional variant within the L alelle
+R1	treats Arg1:T1 Arg2:T3	
+R2	treats Arg1:T2 Arg2:T3	
+R3	treats Arg1:T1 Arg2:T7	
+R4	treats Arg1:T2 Arg2:T7	
+R6	treats Arg1:T1 Arg2:T10	
+R7	treats Arg1:T2 Arg2:T10	
+R5	treats Arg1:T1 Arg2:T4	
+R8	treats Arg1:T2 Arg2:T4	

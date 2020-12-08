@@ -1,0 +1,8 @@
+T1	Chemical 77 87	zidovudine 
+T6	Limited_variation 159 168	wild-type
+T2	Limited_variation 77 108	zidovudine -associated mutation
+T4	Limited_variation 113 118	M184V
+T3	Phenotype 25 45	replication capacity
+R1	influences Arg1:T6 Arg2:T3	
+R2	decreases Arg1:T2 Arg2:T3	
+R3	decreases Arg1:T4 Arg2:T3	

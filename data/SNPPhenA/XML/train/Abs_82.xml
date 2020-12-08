@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1251" TEXT="OBJECTIVE: Single nucleotide polymorphisms (SNPs) in the apolipoprotein A5 gene (APOA5) are associated with hypertriglyceridaemia in our population. We studied the associations of SNPs in APOA5 with the metabolic syndrome (MetS) in the Hong Kong and Guangzhou Chinese. METHODS: Wegenotyped five tagging SNPs in 1330 unrelated subjects from the Hong Kong Cardiovascular Risk Factor Prevalence Study cohort with follow-up after a median interval of 6·4 years; 1952 subjects from the Guangzhou Biobank Cohort Study-Cardiovascular Disease Subcohort were used to replicate the findings. The MetS was defined according to the consensus criteria proposed jointly by several organizations in 2009. RESULTS: The SNP rs662799(-1131T&gt;C) was associated with the MetS (odds ratio = 1·47, P = 0·00082) and the number of its components present (regression coefficient = 0·204, P = 4·6 × 10(-5) ) after adjusting for age, sex, smoking, drinking and education in Hong Kong subjects at baseline. Similar association of this SNP was found in Hong Kong subjects at follow-up (P = 0·010 and 0·00021, respectively) and in Guangzhou subjects (P = 0·0041 and 0·017, respectively). The association of rs662799 with the number of the MetS components was significant regardless of age, sex, obesity and alcohol drinking, but almost disappeared after further adjusting for plasma triglycerides. CONCLUSIONS: Our results showed that the -1131T&gt;C polymorphism in APOA5was associated with the MetS because of its strong effect on plasma triglycerides. This may partly explain the higher cardiovascular risk in people with this polymorphism.">
+	<sentence ID="1251_0" START="1157" END="1366">
+		<snp ID="0" START="1176" END="1184" TEXT="rs662799"/>
+		<phenotype ID="0" START="1208" END="1366" text="MetS"/>
+		<modality_marker  START="1298" END="1304" text="almost"/>
+		<modality_marker  START="1305" END="1316" text="disappeared"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

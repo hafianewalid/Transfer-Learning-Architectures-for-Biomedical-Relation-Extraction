@@ -1,0 +1,7 @@
+T1	Chemical 0 9	Tamoxifen 
+T3	Gene_or_protein 33 40	UGT2B15 
+T4	Phenotype 109 117	survival
+T5	Phenotype 79 97	risk of recurrence
+T6	Limited_variation 33 64	UGT2B15 high activity genotypes
+R1	increases Arg1:T6 Arg2:T5	
+R2	decreases Arg1:T6 Arg2:T4	

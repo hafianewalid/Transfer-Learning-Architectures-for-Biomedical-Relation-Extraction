@@ -1,0 +1,9 @@
+T1	Chemical 0 11	Maprotiline 
+T2	Pharmacokinetic_phenotype 98 127	hydroxylation of debrisoquine 
+T3	Gene_or_protein 79 85	CYP2D6 
+T4	Chemical 115 127	debrisoquine 
+T5	Pharmacokinetic_phenotype 0 22	Maprotiline metabolism
+T6	Limited_variation 79 97	CYP2D6 polymorphic
+T7	Pharmacokinetic_phenotype 79 127	CYP2D6 polymorphic hydroxylation of debrisoquine
+R3	influences Arg1:T6 Arg2:T2	
+R1	isAssociatedWith Arg1:T5 Arg2:T7	

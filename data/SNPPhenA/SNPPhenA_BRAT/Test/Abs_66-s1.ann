@@ -1,0 +1,14 @@
+T1	SNP 35 44	rs2567206
+T2	SNP 45 54	rs2551188
+T3	SNP 55 64	rs2617266
+T4	SNP 65 72	rs10012
+T5	SNP 73 82	rs1056836
+T6	SNP 83 92	rs1800440
+T7	Phenotype 128 131	PCa
+T8	Modality_Marker 93 99	showed
+R1	weak_confidence_association Arg1:T1 Arg2:T7
+R2	weak_confidence_association Arg1:T2 Arg2:T7
+R3	weak_confidence_association Arg1:T3 Arg2:T7
+R4	weak_confidence_association Arg1:T4 Arg2:T7
+R5	weak_confidence_association Arg1:T5 Arg2:T7
+R6	weak_confidence_association Arg1:T6 Arg2:T7

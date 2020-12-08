@@ -1,0 +1,1 @@
+The minor alleles of rs7903146, rs11196205, and rs12255372 showed significant associations with type 2 diabetes (OR=1.48, P=2.7 x 10(-4); OR=1.39, P=4.6 x 10(-4); OR=1.70, P=9.8 x 10(-5), respectively) in the combined sample sets,However, neither rs11196218 nor rs290487 showed a significant association.

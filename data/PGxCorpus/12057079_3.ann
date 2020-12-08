@@ -1,0 +1,13 @@
+T1	Gene_or_protein 15 19	HER2 
+T4	Chemical 192 207	hormonal agents
+T5	Phenotype 36 60	malignant transformation
+T6	Pharmacodynamic_phenotype 139 187	resistant to non- anthracycline -based therapies
+T7	Pharmacodynamic_phenotype 139 151;192 207	resistant to hormonal agents
+T2	Disease 102 115	breast cancer
+T9	Chemical 226 252	targeted molecular therapy
+T3	Chemical 152 187	non- anthracycline -based therapies
+R2	influences Arg1:T1 Arg2:T5	
+R1	treats Arg1:T4 Arg2:T2	
+R4	treats Arg1:T9 Arg2:T2	
+R5	isAssociatedWith Arg1:T2 Arg2:T7	
+R6	isAssociatedWith Arg1:T2 Arg2:T6	

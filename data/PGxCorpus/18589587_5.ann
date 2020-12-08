@@ -1,0 +1,15 @@
+T1	Disease 56 64	toxicity 
+T3	Phenotype 82 131	inhibition of cytochrome P450 ( CYP450 ) isoforms 
+T6	Gene_or_protein 96 111	cytochrome P450 
+T7	Gene_or_protein 114 120	CYP450 
+T8	Chemical 135 144	isoniazid 
+T9	Gene_or_protein 147 154	CYP2C19 
+T10	Gene_or_protein 157 162	CYP3A 
+T11	Chemical 182 185	INH 
+T12	Pharmacokinetic_phenotype 18 34	slow acetylation
+T13	Pharmacodynamic_phenotype 182 209	INH plasmatic concentration
+R6	isEquivalentTo Arg1:T7 Arg2:T6	
+R7	increases Arg1:T12 Arg2:T1	
+R3	decreases Arg1:T8 Arg2:T3	
+R1	influences Arg1:T13 Arg2:T3	
+R4	influences Arg1:T13 Arg2:T3	

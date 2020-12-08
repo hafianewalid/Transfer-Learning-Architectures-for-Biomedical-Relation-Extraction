@@ -1,0 +1,8 @@
+T1	Phenotype 21 36	MDR2 expression 
+T2	Gene_or_protein 21 25	MDR2 
+T4	Chemical 93 112	phosphatidylcholine 
+T6	Gene_or_protein 147 151	MDR2 
+T3	Phenotype 88 120	bile phosphatidylcholine content
+T5	Chemical 8 11	TPN
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	decreases Arg1:T5 Arg2:T1	

@@ -1,0 +1,8 @@
+T1	Chemical 81 88	alcohol 
+T2	Limited_variation 167 175	rs886003 
+T3	Limited_variation 206 216	rs17862325 
+T4	Disease 81 99	alcohol dependence
+T5	Limited_variation 14 45	single-nucleotide polymorphisms
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T4	
+R3	influences Arg1:T5 Arg2:T4	

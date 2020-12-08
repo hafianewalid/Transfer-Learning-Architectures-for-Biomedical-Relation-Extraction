@@ -1,0 +1,8 @@
+T1	Chemical 35 45	telaprevir 
+T2	Chemical 60 70	telaprevir 
+T3	Chemical 73 89	PEG-IFN-alpha-2a 
+T4	Limited_variation 96 112	A156V /T variant 
+T5	Chemical 35 45;55 89	telaprevir with telaprevir / PEG-IFN-alpha-2a
+T6	Phenotype 149 161	viral levels
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+R2	isAssociatedWith Arg1:T5 Arg2:T6	

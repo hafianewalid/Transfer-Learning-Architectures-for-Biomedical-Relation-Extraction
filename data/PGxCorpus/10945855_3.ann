@@ -1,0 +1,15 @@
+T1	Chemical 20 36	p-fluorofentanyl 
+T2	Gene_or_protein 69 74	GIRK2 
+T6	Chemical 114 122	fentanyl 
+T7	Chemical 136 144	p-fluoro 
+T8	Chemical 217 225	fentanyl 
+T9	Chemical 257 274	p- fluorofentanyl 
+T4	Gene_or_protein 92 108	opioid receptors
+T3	Gene_or_protein 61 66	GIRK1
+T5	Chemical 92 98	opioid
+R3	influences Arg1:T1 Arg2:T2	
+R4	influences Arg1:T1 Arg2:T4	
+R1	influences Arg1:T1 Arg2:T3	
+R2	influences Arg1:T6 Arg2:T4	
+R5	influences Arg1:T6 Arg2:T2	
+R6	influences Arg1:T6 Arg2:T3	

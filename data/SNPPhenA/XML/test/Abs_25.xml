@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1018" TEXT="Schizophrenia is ranked among multifactor diseases in whose pathogenesis, besides environmental factors, an interplay of functional polymorphisms of a larger number of candidate genes is involved. Neurodevelopmental abnormities are among the most accepted hypotheses in the etiology of schizophrenia. Recently, the role of oligodendrocytes in the development of the cortex has been cited repeatedly. During their various phases of differentiation oligodendrocytes present on their surfaces diverse receptors, among others the mu-opioid receptor (OPRM1). The study was focused on the relationship between the functional A118G polymorphism of the OPRM1 gene (rs1799971) and schizophrenia in groups of 130 male patients and 452 male controls. An association study revealed yet unpublished statistically significant difference of allelic and genotypic frequencies between the control and patient groups&lt;cs&gt;. According to our present knowledge, we assume that the OPRM1 gene polymorphism can influence the myelination of CNS neurons through regulations of expression of OPRM1 receptors on surfaces of oligodendrocytes. The neuronal myelination seems to be one of the important factors in the pathogenesis of schizophrenia.">
+	<sentence ID="1018_0" START="554" END="739">
+		<snp ID="0" START="657" END="666" TEXT="rs1799971"/>
+		<phenotype ID="0" START="672" END="739" text="schizophrenia"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

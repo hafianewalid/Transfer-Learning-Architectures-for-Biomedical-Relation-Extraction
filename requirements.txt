@@ -1,0 +1,13 @@
+pytorch_transformers==1.2.0
+tqdm==4.41.0
+opt_einsum==3.1.0
+torch==1.4.0
+pytorch_pretrained_bert==0.6.2
+stop_words==2018.7.23
+matplotlib==1.5.1
+seaborn==0.9.1
+pandas==0.17.1
+transformers==2.5.1
+jsonlines==1.2.0
+numpy==1.11.0
+scikit_learn==0.23.2

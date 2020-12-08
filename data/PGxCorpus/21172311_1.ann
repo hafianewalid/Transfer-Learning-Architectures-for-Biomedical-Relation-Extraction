@@ -1,0 +1,6 @@
+T1	Limited_variation 24 51	5- HTR1B gene polymorphisms 
+T2	Gene_or_protein 24 32	5- HTR1B 
+T4	Disease 56 74	alcohol dependence
+T3	Chemical 56 63	alcohol
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

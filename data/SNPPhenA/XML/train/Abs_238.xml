@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1155" TEXT="BACKGROUND: There is controversy as to whether type 2 diabetes genetic susceptibility contributes to type 1 diabetes, and it is not known what proportion of islet autoantibody-negative new onset subjects have type 2 diabetes risk alleles. OBJECTIVE: We designed this study to evaluate whether two type 2 diabetes-associated single nucleotide polymorphisms (SNPs) of transcription factor 7-like 2 (TCF7L2) gene are associated with the development of islet autoantibody-negative diabetes vs. islet autoantibody-positive diabetes in young patients and whether these SNPs are associated with specific clinical phenotypes. METHODS: Autoantibody against glutamic acid decarboxylase 65, islet cell antibody 512bdc (form of IA-2), insulin, ZnT8 transporter, and cytoplasmic islet cell antibody were assayed in patients with new onset diabetes seen at the Barbara Davis Center using sera obtained within 2 wk ofdiagnosis. We genotyped two noncoding variants in the TCF7L2 gene, rs12255372 and rs7903146, in diabetic subjects and normal controls. RESULTS: A total of 140 patients (15.7%) were negative for all islet autoantibodies among 893 subjects less than age 25 at the onset of diabetes. The allele and genotype frequencies of two SNP srs12255372 and rs7903146 showed that these are associated (odds ratio up to 4) with the development of diabetes in the autoantibody-negative diabetic cohort, but not in the autoantibody-positive diabetic cohort. CONCLUSIONS: TCF7L2 type 2 diabetes susceptibility alleles are associated with islet autoantibody-negative but not autoantibody-positive new onset diabetes in young patients.">
+	<sentence ID="1155_0" START="1183" END="1442">
+		<snp ID="0" START="1230" END="1241" TEXT="srs12255372"/>
+		<snp ID="1" START="1246" END="1255" TEXT="rs7903146"/>
+		<phenotype ID="0" START="1334" END="1442" text="diabetes"/>
+		<modality_marker  START="1256" END="1262" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

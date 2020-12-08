@@ -1,0 +1,30 @@
+T1	Chemical 30 38	imatinib 
+T3	Limited_variation 97 117	KIT exon 11 deletion 
+T4	Gene_or_protein 97 100	KIT 
+T5	Limited_variation 142 163	KIT exon 11 insertion 
+T6	Gene_or_protein 142 145	KIT 
+T7	Limited_variation 184 203	KIT exon 9 mutation 
+T8	Gene_or_protein 184 187	KIT 
+T9	Limited_variation 206 221	PDGFRA mutation 
+T10	Gene_or_protein 206 212	PDGFRA 
+T12	Phenotype 74 77	RFS
+T2	Limited_variation 142 153;167 181	KIT exon 11 point mutation
+T13	Limited_variation 227 236	wild-type
+T14	Disease 227 242	wild-type tumor
+T11	Disease 237 242;97 117	tumor KIT exon 11 deletion
+T15	Disease 142 163;237 242	KIT exon 11 insertion tumor
+T16	Disease 142 153;167 181;237 242	KIT exon 11 point mutation tumor
+T17	Disease 184 203;237 242	KIT exon 9 mutation tumor
+T18	Disease 206 221;237 242	PDGFRA mutation tumor
+T19	Genomic_factor 97 108	KIT exon 11
+R2	influences Arg1:T5 Arg2:T1	
+R3	influences Arg1:T7 Arg2:T1	
+R4	influences Arg1:T9 Arg2:T1	
+R5	influences Arg1:T2 Arg2:T1	
+R6	influences Arg1:T14 Arg2:T1	
+R1	influences Arg1:T3 Arg2:T1	
+#4	AnnotatorNotes R3	neg
+#5	AnnotatorNotes R4	neg
+#2	AnnotatorNotes R5	neg
+#1	AnnotatorNotes R6	neg
+#3	AnnotatorNotes R2	neg

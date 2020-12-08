@@ -1,0 +1,16 @@
+T1	Limited_variation 47 88	Gln27Glu beta ( 2 ) - adrenergic receptor 
+T3	Chemical 163 170	glucose 
+T2	Limited_variation 92 149	Pro12Ala peroxisome proliferator-activated receptor gamma
+T4	Gene_or_protein 101 149	peroxisome proliferator-activated receptor gamma
+T5	Gene_or_protein 56 88	beta ( 2 ) - adrenergic receptor
+T6	Pharmacokinetic_phenotype 174 200	insulin kinetic parameters
+T7	Chemical 174 181	insulin
+T8	Pharmacokinetic_phenotype 163 170;182 200	glucose kinetic parameters
+R1	isAssociatedWith Arg1:T1 Arg2:T6	
+R2	isAssociatedWith Arg1:T2 Arg2:T6	
+R3	isAssociatedWith Arg1:T2 Arg2:T8	
+R4	isAssociatedWith Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R2	Neg
+#2	AnnotatorNotes R1	neg
+#3	AnnotatorNotes R3	neg
+#4	AnnotatorNotes R4	neg

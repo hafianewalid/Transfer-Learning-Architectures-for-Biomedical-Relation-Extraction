@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1068" TEXT="OBJECTIVE: Estrogen plays a key role in breast cancer development and functionally relevant genetic variants within the estrogen metabolic pathway are prime candidates for a possible association with breast cancer risk. We investigated the independent and the combined effects of commonly occurring polymorphisms in four genes encoding key proteins of estrogen metabolic pathway on their potential contribution to breast cancer risk. METHODS: We studied 530 breast cancer cases and 270 controls of the same age and ethnicity participating in a case-control study of postmenopausal women.Genotyping was conducted for CYP1B1 (rs1056836), COMT (rs4680), GSTP1 (rs1695), and MnSOD (rs4880) polymorphisms by polymerase chain reactionbased restriction fragment length polymorphism and TaqMan allelic discrimination method. Adjusted ORs and 95% CIs were calculated using logisticregression. RESULTS: None of the 4 genetic variants examined contributed to breast cancer risk individually. When the combined effects of the riskgenotypes were investigated, significant associations were observed among women with two high-risk genotypes in CYP1B1 and COMT (OR, 2.0; 95% CI, 1.1 to 3.5) and two high-risk genotypes in COMT and MnSOD (OR, 2.0; 95% CI, 1.0 to 3.8), compared to those with low-risk genotypes. CONCLUSIONS: Our results suggest that individual susceptibility to breast cancer incidence may be increased by combined effects of the high-risk genotypes in CYP1B1,COMT, and MnSOD estrogen metabolic genes.">
+	<sentence ID="1068_0" START="1309" END="1502">
+		<snp ID="0" START="1454" END="1460" TEXT="CYP1B1"/>
+		<snp ID="1" START="1461" END="1465" TEXT="COMT"/>
+		<snp ID="2" START="1471" END="1476" TEXT="MnSOD"/>
+		<phenotype ID="0" START="1363" END="1502" text="breast cancer"/>
+		<modality_marker  START="1321" END="1328" text="suggest"/>
+		<modality_marker  START="1387" END="1390" text="may"/>
+		<modality_marker  START="1431" END="1435" text="high"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

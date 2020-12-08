@@ -1,0 +1,1 @@
+Analysis of 4 SNPs revealed a significant difference in the genotype distribution for rs2383207, rs10757278, and rs1333049 between MetS patients and controls (p = 0.041, p = 0.005, p = 0.023, respectively) but not for rs10757274 (p = 0.211).

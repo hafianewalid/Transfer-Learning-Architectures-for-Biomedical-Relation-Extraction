@@ -1,0 +1,9 @@
+T1	Limited_variation 43 77	genetic variant of the CSNK1E gene 
+T3	Gene_or_protein 66 72	CSNK1E 
+T5	Chemical 111 126	methamphetamine 
+T6	Disease 141 150	psychosis 
+T2	Disease 111 137	methamphetamine dependence
+R1	influences Arg1:T1 Arg2:T2	
+R2	influences Arg1:T1 Arg2:T6	
+#1	AnnotatorNotes R2	neg
+#2	AnnotatorNotes R1	neg

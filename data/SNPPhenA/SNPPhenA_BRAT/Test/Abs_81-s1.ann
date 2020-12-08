@@ -1,0 +1,9 @@
+T1	SNP 129 135	rs5275
+T2	SNP 140 147	rs20417
+T3	SNP 178 185	rs53576
+T4	SNP 190 199	rs2254298
+T5	Phenotype 227 262	antidepressant treatment resistance
+R1	neutral_association Arg1:T2 Arg2:T5
+R2	neutral_association Arg1:T3 Arg2:T5
+R3	neutral_association Arg1:T4 Arg2:T5
+R4	neutral_association Arg1:T1 Arg2:T5

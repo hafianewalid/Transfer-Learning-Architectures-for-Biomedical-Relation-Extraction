@@ -1,0 +1,8 @@
+T1	Limited_variation 0 44	RRM1 single nucleotide polymorphism -37C-->A 
+T2	Gene_or_protein 0 4	RRM1 
+T3	Disease 90 95	NSCLC 
+T4	Chemical 111 122	gemcitabine 
+T5	Phenotype 61 86	progression-free survival
+T6	Chemical 111 142	gemcitabine -based chemotherapy
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	treats Arg1:T6 Arg2:T3	

@@ -1,0 +1,16 @@
+T1	Phenotype 38 42;4 19	mRNA levels of c-fos 
+T2	Gene_or_protein 14 19	c-fos 
+T3	Gene_or_protein 22 27	c-jun 
+T4	Chemical 169 180	doxorubicin 
+T5	Phenotype 22 27;38 42;4 13	c-jun mRNA levels of
+T7	Gene_or_protein 70 75	rsGFP
+T8	Phenotype 60 83	levels of rsGFP protein
+T9	Phenotype 32 42;4 13	rsGFP mRNA levels of
+T6	Gene_or_protein 32 37	rsGFP
+T10	Genomic_factor 32 42	rsGFP mRNA
+T11	Genomic_factor 22 27;38 42	c-jun mRNA
+T12	Genomic_factor 14 19;38 42	c-fos mRNA
+R1	increases Arg1:T4 Arg2:T8	
+R2	increases Arg1:T4 Arg2:T9	
+R3	increases Arg1:T4 Arg2:T5	
+R4	increases Arg1:T4 Arg2:T1	

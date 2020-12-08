@@ -1,0 +1,5 @@
+T1	SNP 26 35	rs1051730
+T2	Phenotype 77 81	COPD
+T3	Modality_Marker 4 12	findings
+T4	Modality_Marker 13 20	suggest
+R1	weak_confidence_association Arg1:T1 Arg2:T2

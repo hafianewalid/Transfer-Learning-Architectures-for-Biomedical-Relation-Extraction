@@ -1,0 +1,6 @@
+T1	SNP 161 170	rs7903146
+T2	Phenotype 12 35	high (n-6) PUFA intakes
+T3	Phenotype 89 113	atherogenic dyslipidemia
+T4	Modality_Marker 179 182	may
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

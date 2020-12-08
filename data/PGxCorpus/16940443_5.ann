@@ -1,0 +1,21 @@
+T1	Chemical 33 49	prostaglandin E2 
+T3	Chemical 86 108	dibutyryl ( Bt2 ) cAMP 
+T4	Chemical 114 138	phorbol 12, 13-diacetate 
+T5	Chemical 141 144	PDA 
+T6	Phenotype 169 181	BRCA1 levels 
+T7	Gene_or_protein 169 174	BRCA1 
+T8	Gene_or_protein 194 203	aromatase
+T9	Phenotype 194 215	aromatase mRNA levels
+T10	Chemical 86 146	dibutyryl ( Bt2 ) cAMP plus phorbol 12, 13-diacetate ( PDA )
+T11	Genomic_factor 194 208	aromatase mRNA
+T12	Disease 23 27	BAFs
+R1	isEquivalentTo Arg1:T5 Arg2:T4	
+R2	decreases Arg1:T10 Arg2:T6	
+R3	increases Arg1:T10 Arg2:T9	
+R4	decreases Arg1:T1 Arg2:T6	
+R5	increases Arg1:T1 Arg2:T9	
+R6	treats Arg1:T1 Arg2:T12	
+#1	AnnotatorNotes R5	in BAFs :Breast Adipose Fibroblastes
+#2	AnnotatorNotes R4	in BAFs :Breast Adipose Fibroblastes
+#3	AnnotatorNotes R3	in BAFs :Breast Adipose Fibroblastes
+#4	AnnotatorNotes R2	in BAFs :Breast Adipose Fibroblastes

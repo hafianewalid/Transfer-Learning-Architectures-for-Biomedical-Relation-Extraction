@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1074" TEXT="The -13910C&gt;T polymorphism (rs4988235) upstream from the lactase (LCT) gene, strongly associated with lactase persistence (LP) in Europeans, is emerging as a new candidate for obesity. We aimed to analyze the association of this polymorphism with obesity-related variables and its modulation bydairy product intake in an elderly population. We studied 940 high-cardiovascular risk Spanish subjects (aged 67 ± 7 years). Dairy product consumption was assessed by a validated questionnaire. Anthropometric variables were directly measured, and metabolic syndrome-related variables were obtained.Prevalence of genotypes was: 38.0% CC (lactase nonpersistent (LNP)), 45.7% CT, and 16.3% TT. The CC genotype was not associated with lower milk ordairy product consumption in the whole population. Only in women was dairy intake significantly lower in CC subjects. The most important association was obtained with anthropometric measurements. CC individuals had lower weight (P = 0.032), lower BMI (29.7 ± 4.2 vs. 30.6 ± 4.2 kg/m(2); P = 0.003) and lower waist circumference (101.1 ± 11.8 vs. 103.5 ± 11.5 cm; P = 0.005) than T-allele carriers. Obesity risk was also significantly higher in T-allele carriersthan in CC individuals (odds ratio (OR): 1.38; 95% confidence interval (CI): 1.05-1.81; P = 0.01), and remained significant even after adjustment for sex, age, diabetes, physical activity, and energy intake. However, in subgroup analysis, these associations were found to be significant only among those consuming moderate or high lactose intakes (&gt;8 g/day). No significant associations with lipids, glucose, or blood pressure were obtained after adjustment for BMI. In conclusion, despite not finding marked differences in dairy product consumption, this polymorphism was strongly associated with BMI andobesity and modulated by lactose intake in this Mediterranean population.">
+	<sentence ID="1074_0" START="0" END="184">
+		<snp ID="0" START="28" END="37" TEXT="rs4988235"/>
+		<phenotype ID="0" START="102" END="184" text="lactase persistence"/>
+		<phenotype ID="1" START="176" END="184" text="obesity"/>
+		<modality_marker  START="77" END="85" text="strongly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

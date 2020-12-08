@@ -1,0 +1,11 @@
+T1	Gene_or_protein 117 136	pregnane X receptor 
+T2	Gene_or_protein 139 142	PXR 
+T3	Chemical 155 165	rifampicin 
+T5	Disease 38 81	persistent hepatocellular secretory failure
+T6	Disease 84 88	PHSF
+T4	Chemical 117 152	pregnane X receptor ( PXR ) agonist
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isEquivalentTo Arg1:T6 Arg2:T5	
+R3	treats Arg1:T3 Arg2:T5	
+R4	influences Arg1:T3 Arg2:T1	
+#1	AnnotatorNotes R3	hyp

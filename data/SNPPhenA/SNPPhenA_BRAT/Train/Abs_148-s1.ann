@@ -1,0 +1,6 @@
+T1	SNP 53 62	rs9939609
+T2	Phenotype 124 136	hypertension
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 31 43	demonstrated
+T5	Modality_Marker 144 149	seems
+R1	strong_confidence_association Arg1:T1 Arg2:T2

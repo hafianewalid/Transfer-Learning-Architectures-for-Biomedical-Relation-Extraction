@@ -1,0 +1,7 @@
+T1	Gene_or_protein 49 59	EML4 - ALK 
+T2	Genomic_variation 49 73	EML4 - ALK translocation 
+T3	Gene_or_protein 110 113	ALK 
+T4	Chemical 126 136	crozotinib 
+T5	Chemical 110 123	ALK inhibitor
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T5	

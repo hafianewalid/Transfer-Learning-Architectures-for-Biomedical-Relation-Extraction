@@ -1,0 +1,9 @@
+T1	Gene_or_protein 23 27	PI3K 
+T2	Gene_or_protein 30 33	AKT 
+T3	Chemical 55 64	tamoxifen 
+T4	Chemical 65 75	exemestane
+T5	Chemical 55 75	tamoxifen exemestane
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

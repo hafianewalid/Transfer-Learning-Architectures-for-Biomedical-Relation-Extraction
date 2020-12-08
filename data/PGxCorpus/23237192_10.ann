@@ -1,0 +1,7 @@
+T1	Limited_variation 28 36	1494C> T 
+T2	Disease 89 93	NSHL 
+T3	Chemical 127 141	aminoglycoside 
+T4	Phenotype 169 201	hearing of the mutation carriers
+T5	Limited_variation 184 192	mutation
+R1	causes Arg1:T1 Arg2:T2	
+R2	decreases Arg1:T3 Arg2:T4	

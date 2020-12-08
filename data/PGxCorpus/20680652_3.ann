@@ -1,0 +1,6 @@
+T1	Limited_variation 34 48	rs622342 A > C 
+T3	Chemical 110 119	metformin 
+T4	Gene_or_protein 85 90	HbA1c
+T5	Phenotype 85 106	HbA1c lowering effect
+T2	Limited_variation 34 42	rs622342
+R1	influences Arg1:T1 Arg2:T4	

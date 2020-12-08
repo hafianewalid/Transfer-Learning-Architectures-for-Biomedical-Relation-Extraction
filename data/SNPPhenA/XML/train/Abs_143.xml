@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1050" TEXT="Background/Aims: Polymorphisms in the fat mass and obesity-associated gene (FTO) are associated with human obesity and obesity-prone behaviors, including increasedfood intake and a preference for energy-dense foods. FTO demethylates N6-methyladenosine, a potential regulatory RNA modification, but the mechanisms by which FTO predisposes humans to obesity remain unclear. In adiposity-matched, normal-weight humans, we &lt;ModMar&gt;showed/ModMar&gt; that subjects homozygous for the FTO &quot;obesity-risk&quot; rs9939609 A allele have dysregulated circulating levels of the orexigenic hormone acyl-ghrelin and attenuated postprandial appetitereduction. Using functional MRI (fMRI) in normal-weight AA and TT humans, we found that the FTO genotype modulates the neural responses to food images in homeostatic and brain reward regions. Furthermore, AA and TT subjects exhibited divergent neural responsiveness to circulating acyl-ghrelinwithin brain regions that regulate appetite, reward processing, and incentive motivation. In cell models, FTO overexpression reduced ghrelin mRNA N6-methyladenosine methylation, concomitantly increasing ghrelin mRNA and peptide levels. Furthermore, peripheral blood cells from AA human subjects exhibited increased FTO mRNA, reduced ghrelin mRNA N6-methyladenosine methylation, and increased ghrelin mRNA abundance compared with TT subjects. Our findings show that FTO regulates ghrelin, a key mediator of ingestive behavior, and offer insight into how FTO obesity-risk alleles predispose to increased energy intake and obesity in humans..">
+	<sentence ID="1050_0" START="372" END="635">
+		<snp ID="0" START="494" END="503" TEXT="rs9939609"/>
+		<phenotype ID="0" START="480" END="635" text="obesity-risk"/>
+		<phenotype ID="1" START="604" END="635" text="postprandial appetitereduction"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

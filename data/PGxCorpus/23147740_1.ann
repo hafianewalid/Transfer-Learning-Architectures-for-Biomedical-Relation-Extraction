@@ -1,0 +1,9 @@
+T1	Chemical 0 12	Posaconazole 
+T2	Gene_or_protein 72 77	Cyp51 
+T3	Disease 142 174	invasive pulmonary aspergillosis 
+T4	Limited_variation 72 84	Cyp51 mutant
+T5	Limited_variation 58 67;72 77	wild-type Cyp51
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R1	hyp

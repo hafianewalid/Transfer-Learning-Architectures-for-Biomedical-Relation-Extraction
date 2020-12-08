@@ -1,0 +1,9 @@
+T1	Limited_variation 26 38	p53 mutation 
+T2	Gene_or_protein 26 29	p53 
+T3	Chemical 98 108	phenacetin 
+T4	Phenotype 98 114	phenacetin abuse
+T5	Phenotype 117 124	smoking
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

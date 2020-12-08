@@ -1,0 +1,11 @@
+T1	SNP 83 91	rs440446
+T2	SNP 93 101	rs769450
+T3	SNP 103 111	rs429358
+T4	SNP 113 119	rs7412
+T5	Phenotype 175 185	osteopenia
+T6	Modality_Marker 29 37	revealed
+T7	Modality_Marker 160 166	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	weak_confidence_association Arg1:T3 Arg2:T5
+R4	weak_confidence_association Arg1:T4 Arg2:T5

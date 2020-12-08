@@ -1,0 +1,8 @@
+T1	Limited_variation 39 78	genetic variants within the PDLIM5 gene 
+T3	Gene_or_protein 67 73	PDLIM5 
+T4	Chemical 134 141	steroid 
+T5	Disease 158 164	cancer 
+T6	Limited_variation 104 129	PLDIM5 gene polymorphisms
+T7	Gene_or_protein 104 110	PLDIM5
+R3	influences Arg1:T6 Arg2:T5	
+R1	isAssociatedWith Arg1:T6 Arg2:T4	

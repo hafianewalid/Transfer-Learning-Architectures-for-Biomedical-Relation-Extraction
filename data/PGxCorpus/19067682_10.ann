@@ -1,0 +1,8 @@
+T1	Limited_variation 0 27	CYP3A5 genetic polymorphism 
+T2	Gene_or_protein 0 6	CYP3A5 
+T3	Chemical 52 62	tacrolimus 
+T4	Pharmacodynamic_phenotype 52 86	tacrolimus -related nephrotoxicity
+T5	Pharmacodynamic_phenotype 72 86	nephrotoxicity
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T5	
+#1	AnnotatorNotes R1	neg

@@ -1,0 +1,7 @@
+T1	SNP 81 90	rs1799971
+T2	Phenotype 121 131	viral load
+T3	Phenotype 233 243	viral load
+T4	Modality_Marker 92 98	showed
+T5	Modality_Marker 205 211	showed
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

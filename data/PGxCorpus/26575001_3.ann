@@ -1,0 +1,10 @@
+T1	Chemical 0 8	Afatinib 
+T2	Gene_or_protein 55 59	EGFR 
+T3	Gene_or_protein 62 68	ErbB-2 
+T4	Gene_or_protein 75 81	ErbB-4 
+T5	Chemical 92 101	erlotinib 
+T6	Gene_or_protein 145 149	EGFR 
+R1	decreases Arg1:T1 Arg2:T2	
+R2	decreases Arg1:T1 Arg2:T3	
+R3	decreases Arg1:T1 Arg2:T4	
+R4	decreases Arg1:T5 Arg2:T6	

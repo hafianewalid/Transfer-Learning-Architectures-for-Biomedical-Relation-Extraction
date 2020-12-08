@@ -1,0 +1,10 @@
+T1	Gene_or_protein 43 54	HER-2 / neu 
+T3	Phenotype 138 168	CD8 + mediated immune response
+T4	Pharmacokinetic_phenotype 105 125	CTL epitope delivery
+T5	Chemical 67 74	CpG ODN
+T2	Gene_or_protein 138 141	CD8
+R3	isAssociatedWith Arg1:T1 Arg2:T5	
+R1	increases Arg1:T1 Arg2:T4	
+R2	increases Arg1:T5 Arg2:T4	
+R4	causes Arg1:T1 Arg2:T3	
+R5	causes Arg1:T5 Arg2:T3	

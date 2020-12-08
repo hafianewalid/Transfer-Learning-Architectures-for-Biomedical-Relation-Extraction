@@ -1,0 +1,15 @@
+T1	Limited_variation 76 95	CYP2D6 polymorphism 
+T2	Gene_or_protein 76 82	CYP2D6 
+T3	Chemical 107 123	dextromethorphan 
+T4	Pharmacokinetic_phenotype 168 185	poor metabolizers
+T5	Pharmacokinetic_phenotype 194 216	extensive metabolizers
+T6	Phenotype 107 135	dextromethorphan phenotyping
+T7	Pharmacokinetic_phenotype 6 32	pharmacokinetic parameters
+R1	influences Arg1:T1 Arg2:T6	
+R2	influences Arg1:T1 Arg2:T4	
+R3	influences Arg1:T1 Arg2:T5	
+R4	influences Arg1:T1 Arg2:T7	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp

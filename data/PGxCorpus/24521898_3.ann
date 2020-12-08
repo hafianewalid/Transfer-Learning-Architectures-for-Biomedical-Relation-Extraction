@@ -1,0 +1,11 @@
+T1	Chemical 47 55	warfarin 
+T2	Gene_or_protein 113 119	CYP2C9 
+T3	Gene_or_protein 122 128	VKORC1 
+T4	Gene_or_protein 133 139	CYP4F2 
+T5	Pharmacodynamic_phenotype 47 70	warfarin hypersensitive
+R1	influences Arg1:T2 Arg2:T5	
+R2	influences Arg1:T3 Arg2:T5	
+R3	influences Arg1:T4 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp

@@ -1,0 +1,5 @@
+T1	SNP 23 32	Pro582Ser
+T2	Phenotype 87 105	sprint performance
+T3	Negation_Scope 59 106	not critical in determining sprint performance.
+T4	Negation_Cue 59 62	not
+R1	negative_association Arg1:T1 Arg2:T2

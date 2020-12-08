@@ -1,0 +1,7 @@
+T3	Gene_or_protein 24 45	serotonin transporter
+T4	Chemical 91 98	alcohol
+T5	Phenotype 80 109	relapse in alcohol dependence
+T1	Limited_variation 4 68	short allele of the serotonin transporter promote r polymorphism
+T2	Disease 91 109	alcohol dependence
+T6	Genomic_factor 24 53	serotonin transporter promote
+R1	influences Arg1:T1 Arg2:T5	

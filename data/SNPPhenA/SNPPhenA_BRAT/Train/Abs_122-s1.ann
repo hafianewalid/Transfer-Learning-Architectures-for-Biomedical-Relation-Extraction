@@ -1,0 +1,6 @@
+T1	SNP 53 59	rs7412
+T2	Phenotype 168 170	MI
+T3	Modality_Marker 14 18	most
+T4	Modality_Marker 122 127	lower
+T5	Modality_Marker 162 167	lower
+R1	strong_confidence_association Arg1:T1 Arg2:T2

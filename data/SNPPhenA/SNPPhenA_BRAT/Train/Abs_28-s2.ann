@@ -1,0 +1,7 @@
+T1	SNP 0 4	COMT
+T2	Phenotype 19 22	CPP
+T3	Modality_Marker 24 34	suggesting
+T4	Modality_Marker 39 48	potential
+T5	Negation_Scope 5 89	didn't affect CPP, suggesting its potential modality-specific effects on human pain.
+T6	Negation_Cue 5 11	didn't
+R1	negative_association Arg1:T1 Arg2:T2

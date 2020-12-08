@@ -1,0 +1,12 @@
+T1	Chemical 33 38	4-HNE
+T2	Gene_or_protein 172 176	Nrf2
+T3	Chemical 276 281	4-HNE
+T4	Genomic_factor 172 182	Nrf2 - ARE
+T5	Chemical 172 204	Nrf2 - ARE -activating compounds
+T6	Pharmacodynamic_phenotype 224 234;273 281	resistance to 4-HNE
+T7	Genomic_factor 119 137;92 103	driven respiration complex I -
+T8	Genomic_factor 107 137	complex II- driven respiration
+R1	increases Arg1:T5 Arg2:T6	
+R2	decreases Arg1:T1 Arg2:T7	
+R3	decreases Arg1:T1 Arg2:T8	
+#1	AnnotatorNotes R1	hyp

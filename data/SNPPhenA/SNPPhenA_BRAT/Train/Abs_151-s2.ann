@@ -1,0 +1,5 @@
+T1	SNP 45 54	rs1051730
+T2	Phenotype 93 110	smoking cessation
+T3	Modality_Marker 20 29	potential
+T4	Modality_Marker 80 90	likelihood
+R1	neutral_association Arg1:T1 Arg2:T2

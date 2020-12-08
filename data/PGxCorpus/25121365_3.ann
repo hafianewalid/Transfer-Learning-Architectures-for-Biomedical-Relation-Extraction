@@ -1,0 +1,11 @@
+T1	Gene_or_protein 164 168	P-gp 
+T3	Pharmacodynamic_phenotype 17 45	variability in drug response
+T4	Gene_or_protein 144 161	drug transporters
+T2	Limited_variation 67 141	genetic polymorphism in genes encoding different drug metabolizing enzymes
+T7	Gene_or_protein 116 141	drug metabolizing enzymes
+T8	Gene_or_protein 177 184	enzymes
+T5	Limited_variation 144 170;67 115	drug transporters ( P-gp ) genetic polymorphism in genes encoding different
+T6	Limited_variation 177 184;67 115	enzymes genetic polymorphism in genes encoding different
+R1	influences Arg1:T2 Arg2:T3	
+R2	influences Arg1:T6 Arg2:T3	
+R3	influences Arg1:T5 Arg2:T3	

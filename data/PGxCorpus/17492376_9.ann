@@ -1,0 +1,6 @@
+T1	Disease 14 28	Breast cancers 
+T2	Gene_or_protein 35 40	BRCA1 
+T4	Chemical 91 100	docetaxel 
+T3	Pharmacodynamic_phenotype 76 100	sensitivity to docetaxel
+R1	influences Arg1:T2 Arg2:T3	
+R2	isAssociatedWith Arg1:T1 Arg2:T2	

@@ -1,0 +1,14 @@
+T1	SNP 69 78	rs2273535
+T2	SNP 123 132	rs2298016
+T3	SNP 177 186	rs6024836
+T4	SNP 231 241	rs10485805
+T5	SNP 307 316	rs3737559
+T6	Phenotype 397 410	breast cancer
+T7	Modality_Marker 12 18	showed
+T8	Modality_Marker 62 67	model
+T9	Modality_Marker 327 332	model
+R1	weak_confidence_association Arg1:T1 Arg2:T6
+R2	weak_confidence_association Arg1:T2 Arg2:T6
+R3	moderate_confidence_association Arg1:T3 Arg2:T6
+R4	weak_confidence_association Arg1:T4 Arg2:T6
+R5	moderate_confidence_association Arg1:T5 Arg2:T6

@@ -1,0 +1,9 @@
+T4	Pharmacodynamic_phenotype 104 124	stavudine resistance 
+T2	Limited_variation 31 50	Y181I /C RT changes
+T1	Gene_or_protein 40 42	RT
+T3	Chemical 63 73	nevirapine
+T5	Chemical 104 113	stavudine
+T6	Chemical 83 88	NNRTI
+R1	causes Arg1:T3 Arg2:T2	
+R2	causes Arg1:T6 Arg2:T2	
+R3	causes Arg1:T2 Arg2:T4	

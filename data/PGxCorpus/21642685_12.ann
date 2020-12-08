@@ -1,0 +1,8 @@
+T1	Disease 43 51	melanoma 
+T2	Gene_or_protein 62 65	KIT 
+T3	Chemical 95 112	imatinib mesylate 
+T4	Genomic_variation 62 77	KIT alterations
+T5	Pharmacodynamic_phenotype 124 154	significant clinical responses
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+R2	treats Arg1:T3 Arg2:T1	
+R3	isAssociatedWith Arg1:T4 Arg2:T5	

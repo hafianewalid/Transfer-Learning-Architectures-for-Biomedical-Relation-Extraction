@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1170" TEXT="Transcription factor 7-like 2 (TCF7L2) has been shown to be associated with type 2 diabetes mellitus in multiple ethnic groups. Regarding the Asian population, Horikoshi et al. (Diabetologia 50:747-751, 2007) and Hayashi et al. (Diabetologia 50:980-984, 2007) reported that single nucleotide polymorphisms (SNPs) in TCF7L2 were associated with type 2 diabetes in the Japanese population, while contradictory results were reported for Han Chinese populations. The aim of this study was to investigate the associations of the TCF7L2 gene with type 2 diabetes using a relatively large sample size: 2,214 Japanese individuals with type 2 diabetes and 1,873 normal controls. The minor alleles of rs7903146, rs11196205, and rs12255372 showed significant associations with type 2 diabetes (OR=1.48, P=2.7 x 10(-4); OR=1.39, P=4.6 x 10(-4); OR=1.70, P=9.8 x 10(-5), respectively) in the combined sample sets,However, neither rs11196218 nor rs290487 showed a significant association. These results indicate that TCF7L2 is an important susceptibility gene for type 2 diabetes in the Japanese population.">
+	<sentence ID="1170_0" START="670" END="974">
+		<snp ID="0" START="691" END="700" TEXT="rs7903146"/>
+		<snp ID="1" START="702" END="712" TEXT="rs11196205"/>
+		<snp ID="2" START="718" END="728" TEXT="rs12255372"/>
+		<snp ID="3" START="917" END="927" TEXT="rs11196218"/>
+		<snp ID="4" START="932" END="940" TEXT="rs290487"/>
+		<phenotype ID="0" START="766" END="974" text="type 2 diabetes"/>
+		<modality_marker  START="729" END="735" text="showed"/>
+		<modality_marker  START="941" END="947" text="showed"/>
+		<negation_scope  START="909" END="974" text="neither rs11196218 nor rs290487 showed a significant association.">
+			<negation_cue START="909" END="916" text="neither"/>
+			<negation_cue START="928" END="931" text="nor"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

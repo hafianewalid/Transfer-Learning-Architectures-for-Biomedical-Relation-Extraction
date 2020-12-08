@@ -1,0 +1,5 @@
+T1	Chemical 45 51	leptin 
+T3	Gene_or_protein 68 118	signal transducer and activator of transcription-3 
+T4	Pharmacodynamic_phenotype 68 129	signal transducer and activator of transcription-3 expression
+T2	Pharmacodynamic_phenotype 45 129	leptin -induced robust signal transducer and activator of transcription-3 expression
+R1	causes Arg1:T1 Arg2:T4	

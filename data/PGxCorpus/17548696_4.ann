@@ -1,0 +1,31 @@
+T1	Phenotype 32 44	skin lesions 
+T3	Gene_or_protein 100 132	glutathione S-transferase omega1 
+T5	Gene_or_protein 137 172	methylenetetrahydrofolate reductase 
+T6	Chemical 199 222	monomethylarsonous acid 
+T7	Chemical 227 230	MMA 
+T8	Chemical 262 265	DMA 
+T9	Chemical 237 257	dimethylarsinic acid 
+T10	Chemical 297 300	MMA 
+T11	Chemical 314 321	arsenic 
+T12	Chemical 326 329	DMA 
+T13	Chemical 333 336	MMA 
+T2	Limited_variation 79 132	polymorphisms in the glutathione S-transferase omega1
+T4	Limited_variation 137 172;79 99	methylenetetrahydrofolate reductase polymorphisms in the
+T14	Phenotype 287 321	ratios of MMA to inorganic arsenic
+T15	Phenotype 287 296;326 336	ratios of DMA to MMA
+T16	Phenotype 185 222;268 276	percentage of monomethylarsonous acid in urine
+T17	Phenotype 185 198;237 257;268 276	percentage of dimethylarsinic acid in urine
+T18	Phenotype 225 230	% MMA
+T19	Phenotype 260 265	% DMA
+R3	influences Arg1:T4 Arg2:T1	
+R4	influences Arg1:T2 Arg2:T1	
+R5	influences Arg1:T16 Arg2:T1	
+R6	influences Arg1:T17 Arg2:T1	
+R7	influences Arg1:T14 Arg2:T1	
+R8	influences Arg1:T15 Arg2:T1	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R4	hyp
+#3	AnnotatorNotes R5	hyp
+#4	AnnotatorNotes R6	hyp
+#5	AnnotatorNotes R7	hyp
+#6	AnnotatorNotes R8	hyp

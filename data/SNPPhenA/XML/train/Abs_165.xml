@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1074" TEXT="Recently, many new loci associated with type 2 diabetes have been uncovered by genetic association studies and genome-wide association studies. As more reports are made, particularly with respect to varying ethnicities, there is a need to determine more precisely the effect sizes in each major racial group. In addition, some reports have claimed ethnic-specific associations with alternative single-nucleotide polymorphisms (SNPs), and to that end there has been a degree of confusion. We conducted a meta-analysis using an additive genetic model. Eight polymorphisms in 155 studies with 121174 subjects (53385 cases and 67789 controls) were addressed in this meta-analysis. Significant associations were found between type 2 diabetes and rs7903146, rs12255372, rs11196205, rs7901695, rs7895340 and rs4506565, with summary odds ratios (ORs) (95% confidence interval) of 1.39 (1.34-1.45), 1.33 (1.27-1.40), 1.20 (1.14-1.26), 1.32 (1.25-1.39), 1.21 (1.13-1.29) and 1.39 (1.29-1.49), respectively. In addition, no significant associations were found between the two polymorphisms (rs290487 and rs11196218) and type 2 diabetes. The summary ORs for the six statistically significant associations (P &lt; 0.05) were further evaluated by estimating the false-positive report probability, with results indicating that all of the six significant associations were considered noteworthy, and may plausibly be true associations. Significant associations were found between the six polymorphisms (rs7903146,rs12255372, rs11196205, rs7901695, rs7895340 and rs4506565) in the TCF7L2 gene and type 2 diabetes risk, and the other two polymorphisms (rs11196218 and rs290487) were not found to be significantly associated with type 2 diabetes. Subgroups analyses show that significant associations are not found between the six SNPs (rs7903146, rs12255372, rs11196205, rs7901695, rs7895340, and rs4506565) and the type 2 diabetes in some ethnic populations.">
+	<sentence ID="1074_0" START="1725" END="1938">
+		<snp ID="0" START="1815" END="1824" TEXT="rs7903146"/>
+		<snp ID="1" START="1826" END="1836" TEXT="rs12255372"/>
+		<snp ID="2" START="1838" END="1848" TEXT="rs11196205"/>
+		<snp ID="3" START="1850" END="1859" TEXT="rs7901695"/>
+		<snp ID="4" START="1861" END="1870" TEXT="rs7895340"/>
+		<snp ID="5" START="1876" END="1885" TEXT="rs4506565"/>
+		<phenotype ID="0" START="1895" END="1938" text="type 2 diabetes"/>
+		<modality_marker  START="1744" END="1748" text="show"/>
+		<modality_marker  START="1787" END="1792" text="found"/>
+		<modality_marker  START="1914" END="1918" text="some"/>
+		<negation_scope  START="1725" END="1938" text="Subgroups analyses show that significant associations are not found between the six SNPs (rs7903146, rs12255372, rs11196205, rs7901695, rs7895340, and rs4506565) and the type 2 diabetes in some ethnic populations.">
+			<negation_cue START="1783" END="1786" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

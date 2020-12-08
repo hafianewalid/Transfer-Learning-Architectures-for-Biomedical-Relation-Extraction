@@ -1,0 +1,13 @@
+T2	Gene_or_protein 91 105	hepatic lipase 
+T3	Gene_or_protein 113 117	LIPC 
+T4	Chemical 177 189	carbohydrate 
+T5	Genomic_factor 72 110	promoter region of hepatic lipase gene
+T6	Limited_variation 45 119	250G/A polymorphism in the promoter region of hepatic lipase gene ( LIPC )
+T7	Phenotype 123 142	serum lipid profile
+T8	Phenotype 171 198	high- carbohydrate /low-fat
+T9	Phenotype 201 206	HC/LF
+T1	Phenotype 217 237	serum lipid profiles
+R2	isEquivalentTo Arg1:T3 Arg2:T2	
+R3	influences Arg1:T6 Arg2:T7	
+R1	isEquivalentTo Arg1:T9 Arg2:T8	
+#2	AnnotatorNotes R3	hyp

@@ -1,0 +1,23 @@
+T1	Limited_variation 75 131	substitution ( S ) in one HLA-G allele in the HLA-G 0101 
+T2	Gene_or_protein 101 106	HLA-G 
+T3	Gene_or_protein 121 126	HLA-G 
+T6	Haplotype 242 253	HLA-G010403 
+T7	Haplotype 257 268	HLA- G0105N 
+T8	Haplotype 121 131	HLA-G 0101
+T9	Haplotype 227 239	HLA- G010401
+T10	Limited_variation 190 224	substitution ( N/S ) on HLA- G0103
+T4	Disease 314 323	rejection
+T5	Limited_variation 190 213;227 239	substitution ( N/S ) on HLA- G010401
+T11	Limited_variation 190 213;242 253	substitution ( N/S ) on HLA-G010403
+T12	Limited_variation 190 213;257 268	substitution ( N/S ) on HLA- G0105N
+T13	Haplotype 214 224	HLA- G0103
+R1	increases Arg1:T12 Arg2:T4	
+R2	increases Arg1:T8 Arg2:T4	
+R3	increases Arg1:T10 Arg2:T4	
+R4	increases Arg1:T5 Arg2:T4	
+R5	increases Arg1:T11 Arg2:T4	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp
+#4	AnnotatorNotes R5	hyp
+#5	AnnotatorNotes R1	hyp

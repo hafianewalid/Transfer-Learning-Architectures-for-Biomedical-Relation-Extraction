@@ -1,0 +1,1 @@
+Moreover, the T allele at rs7903146 was inversely associated with log-transformed, HOMA-%B (beta=-0.07, p=0.005) as a measure of basal insulin secretion, and log-transformed fasting insulin (beta=-0.06, p=0.02).

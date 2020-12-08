@@ -1,0 +1,7 @@
+T1	Phenotype 4 35	expression of cleaved Caspase-3 
+T2	Gene_or_protein 26 35	Caspase-3 
+T3	Chemical 39 42	WCA 
+T4	Chemical 53 57	5-FU 
+T5	Genomic_factor 18 35	cleaved Caspase-3
+R1	increases Arg1:T4 Arg2:T1	
+R2	increases Arg1:T3 Arg2:T1	

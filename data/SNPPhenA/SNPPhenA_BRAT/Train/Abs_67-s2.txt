@@ -1,0 +1,1 @@
+The T allele of rs12255372 showed an association with borderline significance (OR = 1.19, 95% C.I. = 1.01-1.42, P = 0.04), and the Cochran-Armitage test for trend revealed an allele dose-dependent association of rs12255372 with BC risk (Ptrend = 0.04).

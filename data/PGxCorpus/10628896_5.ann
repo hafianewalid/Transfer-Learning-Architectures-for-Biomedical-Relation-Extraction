@@ -1,0 +1,5 @@
+T1	Gene_or_protein 14 17	CYP 
+T2	Gene_or_protein 51 57	CYP3A4 
+T3	Chemical 124 135	haloperidol 
+T4	Pharmacokinetic_phenotype 14 39	CYP -mediated disposition
+R1	influences Arg1:T2 Arg2:T3	

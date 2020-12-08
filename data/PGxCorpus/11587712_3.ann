@@ -1,0 +1,7 @@
+T1	Chemical 82 101	naloxone methiodide 
+T2	Phenotype 114 128	Fos expression 
+T3	Gene_or_protein 114 117	Fos 
+T4	Chemical 234 242	naloxone 
+T5	Chemical 62 79	opioid antagonist
+T6	Phenotype 169 188	neuronal activation
+R2	increases Arg1:T1 Arg2:T2	

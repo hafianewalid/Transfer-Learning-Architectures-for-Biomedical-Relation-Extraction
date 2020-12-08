@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1051" TEXT="METHODS: The association between the OPRM1 A118G (Asn40Asp, rs1799971) polymorphism and  alcohol use disorders and alcohol consumption was analyzed using three different population-based samples: (a) a Finnish cohort study, Health 2000, with 503 participants having a DSM-IV diagnosis for alcohol dependence and/or alcohol abuse and 506 age- and sex-matched controls; (b) a Finnish cohort study, FINRISK (n = 2360) and (c) the Helsinki Birth Cohort Study (n = 1384).">
+	<sentence ID="1051_0" START="0" END="466">
+		<snp ID="0" START="60" END="69" TEXT="rs1799971"/>
+		<phenotype ID="2" START="89" END="466" text="alcohol use disorders"/>
+		<phenotype ID="0" START="289" END="466" text="alcohol dependence"/>
+		<phenotype ID="1" START="315" END="466" text="alcohol abuse"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

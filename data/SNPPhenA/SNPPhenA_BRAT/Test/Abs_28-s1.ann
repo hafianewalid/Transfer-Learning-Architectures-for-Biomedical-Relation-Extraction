@@ -1,0 +1,4 @@
+T1	SNP 58 90	cytotoxic T-lymphocyte antigen-4
+T2	Phenotype 104 118	tumor necrosis
+T3	Modality_Marker 198 210	inconsistent
+R1	negative_association Arg1:T1 Arg2:T2

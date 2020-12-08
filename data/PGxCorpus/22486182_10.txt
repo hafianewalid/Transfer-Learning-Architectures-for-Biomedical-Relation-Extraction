@@ -1,0 +1,1 @@
+A final multivariate regression model that included the target International Normalized Ratio , VKORC1 and CYP2C9 genotypes explained 36 2 % of the overall interindividual variability in acenocoumarol dose requirement .

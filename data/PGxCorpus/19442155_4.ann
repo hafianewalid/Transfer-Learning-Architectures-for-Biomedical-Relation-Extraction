@@ -1,0 +1,13 @@
+T1	Chemical 65 72	lithium 
+T3	Gene_or_protein 208 244	inositol polyphosphate-1-phosphatase 
+T4	Gene_or_protein 247 253	IPPase 
+T5	Gene_or_protein 294 304	GSK-3 beta 
+T6	Gene_or_protein 169 194	inositol mono phosphatase
+T7	Gene_or_protein 197 203	IMPase
+T8	Gene_or_protein 260 291	glycogen sinthase kinase 3 beta
+R1	isEquivalentTo Arg1:T7 Arg2:T6	
+R2	isEquivalentTo Arg1:T4 Arg2:T3	
+R3	isEquivalentTo Arg1:T5 Arg2:T8	
+R4	influences Arg1:T1 Arg2:T6	
+R5	influences Arg1:T1 Arg2:T3	
+R6	influences Arg1:T1 Arg2:T8	

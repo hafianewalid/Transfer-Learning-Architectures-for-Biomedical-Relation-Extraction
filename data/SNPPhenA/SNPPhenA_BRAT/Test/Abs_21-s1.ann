@@ -1,0 +1,14 @@
+T1	SNP 139 148	Val158Met
+T2	SNP 302 313	Val158Met S
+T3	Phenotype 0 11	FM patients
+T4	Phenotype 97 99	FM
+T5	Phenotype 196 236	sensitivity to thermal and pressure pain
+T6	Modality_Marker 17 21	more
+T7	Modality_Marker 180 187	showing
+T8	Modality_Marker 188 194	higher
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T1 Arg2:T5
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T5
+R5	weak_confidence_association Arg1:T1 Arg2:T4
+R6	weak_confidence_association Arg1:T2 Arg2:T4

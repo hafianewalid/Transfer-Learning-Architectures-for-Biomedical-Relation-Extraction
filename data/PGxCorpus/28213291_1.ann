@@ -1,0 +1,6 @@
+T1	Disease 55 93	oxidative stress -induced liver damage
+T2	Chemical 27 46	2'-O-galloylhyperin
+T4	Gene_or_protein 115 119	Nrf2
+T5	Pharmacodynamic_phenotype 0 46	Hepatoprotective effect of 2'-O-galloylhyperin
+R1	isAssociatedWith Arg1:T5 Arg2:T1	
+#1	AnnotatorNotes R1	hyp

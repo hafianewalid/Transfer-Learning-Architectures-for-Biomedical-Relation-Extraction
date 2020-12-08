@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1227" TEXT="Narcolepsy (hypocretin deficiency), a sleep disorder characterized by sleepiness, cataplexy and rapid eye movement (REM) sleep abnormalities, is tightly associated with HLA-DRB1*1501 (M17378) and HLA-DQB1*0602 (M20432). Susceptibility genes other than those in the HLA region are also likely involved. We conducted a genome-wide association study using 500K SNP microarrays in 222 Japanese individuals with narcolepsy and 389 Japanesecontrols, with replication of top hits in 159 Japanese individuals with narcolepsy and 190 Japanese controls, followed by the testing of 424 Koreans, 785 individuals of European descent and 184 African Americans. rs5770917, a SNP located between CPT1B and CHKB, was associated with narcolepsy in Japanese (rs5770917[C], odds ratio (OR) = 1.79, combined P = 4.4 x 10(-7)) and other ancestry groups (OR = 1.40, P = 0.02). Real-time quantitative PCR assays in white blood cells indicated decreased CPT1B and CHKB expression in subjects with the C allele, suggesting that a genetic variant regulating CPT1B or CHKB expression is associated with narcolepsy. Either of these genes is a plausible candidate, as CPT1B regulates beta-oxidation, a pathway involved in regulating theta frequency during REM sleep, and CHKB is an enzyme involved in the metabolism of choline, a precursor of the REM- and wake-regulating neurotransmitter acetylcholine.">
+	<sentence ID="1227_0" START="647" END="853">
+		<snp ID="1" START="647" END="656" TEXT="rs5770917"/>
+		<snp ID="0" START="740" END="749" TEXT="rs5770917"/>
+		<phenotype ID="0" START="716" END="853" text="narcolepsy"/>
+		<modality_marker  START="809" END="814" text="other"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

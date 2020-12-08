@@ -1,0 +1,5 @@
+T1	SNP 70 76	rs4818
+T2	Phenotype 120 123	PTB
+T3	Modality_Marker 3 13	conclusion
+T4	Modality_Marker 25 37	demonstrated
+R1	weak_confidence_association Arg1:T1 Arg2:T2

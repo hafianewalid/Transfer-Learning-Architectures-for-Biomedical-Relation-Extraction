@@ -1,0 +1,11 @@
+T1	SNP 108 118	rs12255372
+T2	Phenotype 139 168	higher fasting plasma glucose
+T3	Phenotype 182 207	higher 2-h plasma glucose
+T4	Phenotype 225 243	higher homeostasis
+T5	Phenotype 264 282	insulin resistance
+T6	Negation_Scope 9 328	no association of the TCF7L2 genotypes with age at diagnosis, BMI or WHR, but the risk genotype at rs12255372 was associated with higher fasting plasma glucose (p = 0.001), higher 2-h plasma glucose (p = 0.0002) and higher homeostasis model assessment of insulin resistance (HOMA-R; p = 0.012) in non-diabetic subjects.
+T7	Negation_Cue 9 11	no
+R1	moderate_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3
+R3	weak_confidence_association Arg1:T1 Arg2:T4
+R4	weak_confidence_association Arg1:T1 Arg2:T5

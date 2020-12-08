@@ -1,0 +1,5 @@
+T1	Limited_variation 5 16	SCARB1 SNPs 
+T2	Gene_or_protein 5 11	SCARB1 
+T4	Pharmacodynamic_phenotype 36 55	progesterone levels
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

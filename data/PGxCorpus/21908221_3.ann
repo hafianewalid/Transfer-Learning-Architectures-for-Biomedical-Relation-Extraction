@@ -1,0 +1,17 @@
+T1	Chemical 49 64	hormone therapy
+T2	Chemical 67 69	HT
+T3	Chemical 109 115	8-OHdG
+T4	Chemical 148 154	8-OHdG
+T6	Gene_or_protein 181 185	OGG1
+T7	Limited_variation 181 191	OGG1 S326C
+T8	Chemical 239 241	HT
+T5	Pharmacodynamic_phenotype 101 122	urinary 8-OHdG levels
+T9	Pharmacodynamic_phenotype 109 122;93 98	8-OHdG levels blood
+T10	Pharmacodynamic_phenotype 139 154	level of 8-OHdG
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	influences Arg1:T1 Arg2:T9	
+R3	influences Arg1:T1 Arg2:T5	
+R4	influences Arg1:T7 Arg2:T10	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R4	hyp

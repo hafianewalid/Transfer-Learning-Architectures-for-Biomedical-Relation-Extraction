@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1013" TEXT="BACKGROUND: Several lines of evidence from previous research indicate that opioid receptors play an important role in ethanol reinforcement and alcohol dependence (AD) risk. Conflicting results were reported on the role of the mu-opioid receptor (OPRM1) polymorphism A118G (Asn40Asp, rs1799971) in the development of alcoholism. METHODS: We investigated a total number of 1,845 alcohol-dependent subjects recruited from inpatient facilities in Germanyand 1,863 controls for the mu-opioid receptor (OPRM1) polymorphism using chi-square statistics. RESULTS: An association between the OPRM variant and AD was detected (p = 0.022), in recessive (AA vs. GA/GG) and co-dominant (AA vs. GA) models of inheritance. An association between the OPRM variant and the DSM-IV criterion &quot;efforts to cut down or could not&quot; (p = 0.047) was found, but this did not remain significant after the correction for multiple testing. CONCLUSIONS: The results indicate that this functional OPRM variant is associated with risk of AD and these findings apply to more severe AD, although the association is only nominally significant.">
+	<sentence ID="1013_0" START="174" END="328">
+		<snp ID="0" START="284" END="293" TEXT="rs1799971"/>
+		<phenotype ID="0" START="317" END="328" text="alcoholism"/>
+		<modality_marker  START="199" END="207" text="reported"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

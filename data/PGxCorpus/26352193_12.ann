@@ -1,0 +1,10 @@
+T1	Gene_or_protein 11 19	5-HTTLPR 
+T2	Disease 40 54	social anxiety 
+T3	Disease 57 64	anxiety 
+T4	Disease 71 81	depressive 
+T5	Chemical 92 99	alcohol 
+T6	Genomic_variation 0 19	Triallelic 5-HTTLPR
+T7	Disease 92 110	alcohol -dependent
+R1	isAssociatedWith Arg1:T6 Arg2:T2	
+R2	isAssociatedWith Arg1:T6 Arg2:T3	
+R3	isAssociatedWith Arg1:T6 Arg2:T4	

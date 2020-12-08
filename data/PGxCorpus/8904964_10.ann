@@ -1,0 +1,8 @@
+T1	Gene_or_protein 59 63	ADH2 
+T2	Chemical 109 116	alcohol 
+T3	Haplotype 145 153	ADH2 * 1 
+T4	Gene_or_protein 145 149	ADH2 
+T5	Haplotype 59 67	ADH2 * 3
+T6	Pharmacokinetic_phenotype 109 128	alcohol elimination
+R1	increases Arg1:T5 Arg2:T6	
+#1	AnnotatorNotes R1	neg

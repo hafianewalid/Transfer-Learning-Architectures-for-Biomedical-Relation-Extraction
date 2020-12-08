@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1056" TEXT="OBJECTIVE: We aimed to study the influence of the fat mass and obesity-associated (FTO) gene on eating behavior in 412 obese Sardinian children andadolescents. Genome-wide association studies (GWAS) have identified several susceptibility loci for obesity. Among these, the polymorphisms in theintron 1 of the FTO gene has been found associated to weight gain and obesity in various populations. METHODS: All obese patients were genotypedfor the FTO single nucleotide polimorphysm (SNP) rs9939609. In all subjects we evaluated eating behavior using the Child Eating Behaviour Questionnaire(CEBQ). RESULTS: We found no differences in eating behavior according to the genotype, either in the entire cohort, or when subjects were subdivided into four different age groups. CONCLUSIONS: FTO genotype is associated with body mass index but does not influence eating behavior in a selected cohort of obese children from the isolated genetic population of Sardinia.">
+	<sentence ID="1056_0" START="395" END="496">
+		<snp ID="0" START="486" END="495" TEXT="rs9939609"/>
+		<phenotype ID="0" START="408" END="496" text="obese"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,6 @@
+T1	Phenotype 12 39	MDR1 polymorphic expression 
+T2	Gene_or_protein 12 16	MDR1 
+T3	Chemical 63 77	cyclosporine A 
+T4	Pharmacokinetic_phenotype 48 77	disposition of cyclosporine A
+R1	influences Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

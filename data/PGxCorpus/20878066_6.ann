@@ -1,0 +1,10 @@
+T1	Phenotype 40 65	knock-down p53 expression
+T2	Gene_or_protein 51 54	p53
+T3	Chemical 96 106	amifostine
+T4	Chemical 122 132	paclitaxel
+T5	Gene_or_protein 157 160	p53
+T6	Pharmacodynamic_phenotype 122 153	paclitaxel 's anticancer effect
+T7	Genomic_variation 157 167	p53 status
+T8	Genomic_variation 40 54	knock-down p53
+R2	increases Arg1:T3 Arg2:T6	
+R1	influences Arg1:T7 Arg2:T6	

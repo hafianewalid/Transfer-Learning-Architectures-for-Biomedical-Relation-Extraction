@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1236" TEXT="The apolipoprotein A5 (APOA5) gene -1131T&gt;C (rs662799) has been suggested to be involved in the pathway of lipid homeostasis and the development of metabolic syndrome (MetS). However, the findings are not consistent. To systematically evaluate the associations between -1131T&gt;C polymorphism andfasting lipid parameters and the risk of MetS, we conducted a case-control study in a Chinese population and a meta-analysis. The findings from 1840 Chinese participants indicated that the C allele carriers had significantly higher fasting total cholesterol (TC), triglycerides (TG) and lower HDL-cholesterol (HDL-C) than the TT homozygotes carriers. The -1131C allele was also found to be significantly associated with increased risk of MetS (OR  =  1.40, 95%confidence interval (CI)  =  1.15, 1.69) compared to the TT homozygotes. In the meta-analysis of 51,868 participants from 46 East Asian studies, 26 European studies and 19 studies of other ethnic groups, the -1131C allele was associated with higher fasting TC (weighted mean difference (WMD)  =  0.08 mmol/L, 95% CI  =  0.05, 0.10, P = 1.74×10(-9)), TG (WMD  =  0.30 mmol/L, 95% CI  =  0.26, 0.33, P =  1.87×10(-55)), LDL-cholesterol (LDL-C) (WMD  =  0.04 mmol/L, 95% CI  =  0.02, 0.07, P = 0.002), and lower HDL-C (WMD  =  -0.05 mmol/L, 95% CI  =  -0.06,-0.04, P = 1.88×10(-21)), respectively. Based on 12 studies with 5,573 MetS cases and 8,290 controls from 5 East Asian studies, 5 European studies and 2 studies of other ethnic groups, the -1131C allele was associated with increased risk of MetS with an OR (95% CI)  =  1.33 (1.16, 1.53) in the overall population, 1.43 (1.29, 1.58) in East Asian and 1.30 (0.94, 1.78) in European populations. In conclusion, the -1131C allele may be associated with elevated levels of fasting TG, TC, LDL-C and decreased HDL-C, and increased risk of MetS, especially in East Asians.">
+	<sentence ID="1236_0" START="1349" END="1702">
+		<snp ID="0" START="1498" END="1511" TEXT="-1131C allele"/>
+		<phenotype ID="0" START="1550" END="1702" text="MetS"/>
+		<modality_marker  START="1473" END="1478" text="other"/>
+		<modality_marker  START="1604" END="1611" text="overall"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1236_1" START="1703" END="1875">
+		<snp ID="1" START="1722" END="1735" TEXT="-1131C allele"/>
+		<phenotype ID="1" START="1843" END="1875" text="MetS"/>
+		<modality_marker  START="1706" END="1716" text="conclusion"/>
+		<modality_marker  START="1736" END="1739" text="may"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

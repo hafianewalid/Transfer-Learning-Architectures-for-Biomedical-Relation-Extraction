@@ -1,0 +1,6 @@
+T1	SNP 68 74	rs4680
+T2	Phenotype 61 63	AN
+T3	Modality_Marker 32 37	found
+T4	Negation_Scope 0 172	The present association studies found no association between AN and rs4680 when testing the allelic contrast [Utrecht odds ratio (OR)=1.14, P=0.14; Leiden OR=1.02, P=0.85].
+T5	Negation_Cue 38 40	no
+R1	negative_association Arg1:T1 Arg2:T2

@@ -1,0 +1,16 @@
+T2	Limited_variation 98 131	one within subunit A ( Val34Leu )
+T4	Pharmacodynamic_phenotype 191 224	prothrombotic effects of estrogen
+T6	Chemical 335 362	hormone replacement therapy
+T5	Disease 275 301	arterial thrombotic events
+T1	Limited_variation 136 169	one within subunit B ( His95Arg )
+T3	Chemical 216 224	estrogen
+T7	Gene_or_protein 58 81	coagulation factor XIII
+T8	Limited_variation 58 95	coagulation factor XIII polymorphisms
+R1	influences Arg1:T2 Arg2:T4	
+R2	influences Arg1:T2 Arg2:T5	
+R3	influences Arg1:T1 Arg2:T4	
+R4	influences Arg1:T1 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1079" TEXT="This paper addresses a tenet of the literature on APOE, i.e., the relationship between the effects of the ε4, one of the established genetic risk factor for Alzheimer's disease (AD), and its expression levels as determined by APOE promoter polymorphisms. Five polymorphisms (-491 rs449647, -427 rs769446, -219 rs405509, and ε rs429358-rs7412) were studied in 1308 AD patients and 1082 control individuals from the Central-Northern Italy. Major findings of the present study are the following: 1) the variants -219T and ε4 increase the risk for late onset AD (LOAD) when they are both present in cis on the same chromosome (in phase); 2) the correlation between the haplotype (-219T/ε4) and AD risk persists when the data are stratified by age; 3) this haplotype likely anticipates the age of onset of the disease. These data, while confirming the association between -219T and AD, highlight the importance of the phase of the alleles for the observed effects on AD risk, suggesting that this information has to be taken into account when assessing the AD genetic risk. Moreover, the data help to clarify the apparent discrepancy that emerges from the genetic analysis where an SNP characterizing the haplotype responsible for an increased risk for LOAD is coherently associated with a reduced expression of ApoE levels. Our data are compatible with the hypothesis of a complex role of ApoE in the AD pathogenesis, with positive and negative effects occurring concomitantly according to its expression levels and its protein-protein interactions largely unclarified.">
+	<sentence ID="1079_0" START="255" END="437">
+		<snp ID="0" START="280" END="288" TEXT="rs449647"/>
+		<snp ID="1" START="295" END="303" TEXT="rs769446"/>
+		<snp ID="2" START="310" END="318" TEXT="rs405509"/>
+		<snp ID="3" START="326" END="334" TEXT="rs429358"/>
+		<snp ID="4" START="335" END="341" TEXT="rs7412"/>
+		<phenotype ID="0" START="364" END="437" text="AD"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,8 @@
+T1	Chemical 13 24	Vemurafenib
+T2	Chemical 29 39	dabrafenib
+T3	Disease 163 171	melanoma
+T4	Limited_variation 176 198	BRAF (V600E ) mutation
+T5	Gene_or_protein 176 180	BRAF
+R1	treats Arg1:T2 Arg2:T3	
+R2	treats Arg1:T1 Arg2:T3	
+R3	isAssociatedWith Arg1:T3 Arg2:T4	

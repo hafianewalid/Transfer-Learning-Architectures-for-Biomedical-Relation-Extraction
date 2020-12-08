@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1014" TEXT="BACKGROUND: Recent evidence suggests that genetic factors might contribute to individual differences in pain sensitivity, risk for developing clinical pain conditions and efficacy of pain treatments. The purpose of the present study was to investigate the relationship of three common haplotypes of COMT geneaffecting the metabolism of catecholamines on pain sensitivity in patients with fibromyalgia (FM). METHODS: One hundred and thirteen FM patients and 65 age-matched healthy volunteers participated in the study. We genotyped four single-nucleotide polymorphisms (SNPs) (rs6269, rs4633, rs4818 andrs4680 or Val158Met) and identified haplotypes previously designated as low (LPS), average (APS) and high pain sensitivity (HPS). Thermal, pressure and touch thresholds were also examined using a quantitative sensory testing protocol. RESULTS: The frequency of genetic variations associated with lowCOMT enzyme activity was significantly higher in FM patients than in healthy volunteers. FM patients were more sensitive to experimental pain than healthy volunteers and, in particular, FM individuals with the met/met genotype (Val158Met SNP) or the HPS-APS haplotypes showing higher  sensitivity to thermal and pressure pain stimuli than patients carrying the LPS haplotype or val alleles (Val158Met SNP). No differences due to genotype or haplotypeswere found on non-painful touch thresholds. CONCLUSIONS:  According with previous research, our findings revealed that haplotypes of the COMT geneand genotypes of the Val158Met polymorphism play a key role on pain sensitivity in FM patients.">
+	<sentence ID="1014_0" START="990" END="1307">
+		<snp ID="0" START="1129" END="1138" TEXT="Val158Met"/>
+		<snp ID="1" START="1292" END="1303" TEXT="Val158Met S"/>
+		<phenotype ID="0" START="990" END="1307" text="FM patients"/>
+		<phenotype ID="3" START="1087" END="1307" text="FM"/>
+		<phenotype ID="1" START="1186" END="1307" text="sensitivity to thermal and pressure pain"/>
+		<modality_marker  START="1007" END="1011" text="more"/>
+		<modality_marker  START="1170" END="1177" text="showing"/>
+		<modality_marker  START="1178" END="1184" text="higher"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="5" PHENOTYPEID="3" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="3" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1014_1" START="1410" END="1593">
+		<snp ID="2" START="1519" END="1528" TEXT="Val158Met"/>
+		<phenotype ID="2" START="1581" END="1593" text="FM patients"/>
+		<modality_marker  START="1448" END="1456" text="findings"/>
+		<modality_marker  START="1457" END="1465" text="revealed"/>
+		<pair PAIRID="4" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

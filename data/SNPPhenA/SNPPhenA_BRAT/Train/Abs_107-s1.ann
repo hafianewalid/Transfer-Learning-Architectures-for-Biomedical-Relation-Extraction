@@ -1,0 +1,8 @@
+T1	SNP 60 68	rs429358
+T2	SNP 73 79	rs7412
+T3	Phenotype 179 188	longevity
+T4	Modality_Marker 119 124	found
+T5	Modality_Marker 142 146	most
+T6	Modality_Marker 147 157	consistent
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	moderate_confidence_association Arg1:T2 Arg2:T3

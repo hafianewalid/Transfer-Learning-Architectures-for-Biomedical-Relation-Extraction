@@ -1,0 +1,10 @@
+T1	Gene_or_protein 46 52	CYP3A4
+T2	Chemical 87 97	tacrolimus
+T3	Chemical 120 130	tacrolimus
+T4	Chemical 168 178	tacrolimus
+T5	Haplotype 46 57	CYP3A4 * 1B
+T6	Pharmacodynamic_phenotype 87 115	tacrolimus dose requirements
+T7	Pharmacodynamic_phenotype 120 195	tacrolimus trough concentration/weight-adjusted tacrolimus daily dose ratio
+T8	Disease 224 239	transplantation
+R1	influences Arg1:T5 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T7	

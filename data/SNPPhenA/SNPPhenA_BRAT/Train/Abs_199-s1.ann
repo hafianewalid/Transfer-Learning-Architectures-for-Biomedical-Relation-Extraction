@@ -1,0 +1,5 @@
+T1	SNP 46 55	rs1800875
+T2	Phenotype 107 111	IgAN
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 25 32	suggest
+R1	weak_confidence_association Arg1:T1 Arg2:T2

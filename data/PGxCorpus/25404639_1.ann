@@ -1,0 +1,3 @@
+T1	Gene_or_protein 33 36	p50 
+T2	Chemical 63 76	eriocalyxin B 
+R1	influences Arg1:T2 Arg2:T1	

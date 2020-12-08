@@ -1,0 +1,9 @@
+T1	SNP 41 48	COMT GG
+T2	SNP 73 79	POE ε4
+T3	Phenotype 111 113	AD
+T4	Phenotype 118 121	MCI
+T5	Modality_Marker 12 17	found
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T4
+R3	weak_confidence_association Arg1:T2 Arg2:T3
+R4	weak_confidence_association Arg1:T2 Arg2:T4

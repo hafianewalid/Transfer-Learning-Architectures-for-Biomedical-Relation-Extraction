@@ -1,0 +1,6 @@
+T1	Gene_or_protein 25 68	glial cell line-derived neurotrophic factor 
+T2	Gene_or_protein 71 75	GDNF 
+T3	Chemical 126 143	6-hydroxydopamine 
+T4	Disease 153 172	Parkinson's disease 
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isAssociatedWith Arg1:T1 Arg2:T4	

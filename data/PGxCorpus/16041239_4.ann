@@ -1,0 +1,14 @@
+T2	Gene_or_protein 85 90	ABCB1 
+T3	Gene_or_protein 98 103	ABCC1 
+T4	Gene_or_protein 112 117	ABCC2 
+T5	Gene_or_protein 130 135	ABCG2 
+T6	Chemical 251 261	nelfinavir 
+T1	Limited_variation 77 90	SNPs in ABCB1
+T7	Limited_variation 77 81;95 103	SNPs in ABCC1
+T8	Limited_variation 109 117;77 81	in ABCC2 SNPs
+T10	Limited_variation 127 135;77 81	in ABCG2 SNPs
+T9	Haplotype 153 163	haplotypes
+T11	Limited_variation 40 71	single nucleotide polymorphisms
+T12	Genomic_variation 208 224	genetic variants
+R1	isAssociatedWith Arg1:T12 Arg2:T6	
+#1	AnnotatorNotes R1	hyp

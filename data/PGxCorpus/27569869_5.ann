@@ -1,0 +1,18 @@
+T1	Chemical 0 12	Capecitabine 
+T2	Chemical 29 33	5-FU 
+T3	Gene_or_protein 43 46	CDA 
+T4	Gene_or_protein 51 55	TYMP 
+T5	Limited_variation 67 78	SNPs in CDA 
+T6	Gene_or_protein 75 78	CDA 
+T7	Gene_or_protein 83 87	CES2 
+T9	Gene_or_protein 37 40	CES
+T10	Limited_variation 67 74;83 87	SNPs in CES2
+T8	Pharmacodynamic_phenotype 121 129	efficacy
+T11	Pharmacodynamic_phenotype 134 142	toxicity
+R1	influences Arg1:T9 Arg2:T1	
+R2	influences Arg1:T3 Arg2:T1	
+R3	influences Arg1:T4 Arg2:T1	
+R4	isAssociatedWith Arg1:T5 Arg2:T8	
+R5	isAssociatedWith Arg1:T5 Arg2:T11	
+R6	isAssociatedWith Arg1:T10 Arg2:T8	
+R7	isAssociatedWith Arg1:T10 Arg2:T11	

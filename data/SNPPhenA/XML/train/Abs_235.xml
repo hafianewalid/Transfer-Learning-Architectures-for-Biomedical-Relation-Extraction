@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1152" TEXT="OBJECTIVE: Common variants in the TCF7L2 gene are associated with type 2 diabetes via impaired insulin secretion. One hypothesis is that variation in TCF7L2 impairs insulin processing in the beta cell. In contrast, the association of related TCF7L2 polymorphisms with obesity is controversial in that it has only been shown in cohorts susceptible to ascertainment bias. We reproduced the association of diabetes-associated variants with proinsulin/insulin ratios, and also examined the association of a TCF7L2 haplotype with obesity in the Framingham Heart Study (FHS). METHODS: We genotyped the TCF7L2 single nucleotide polymorphisms rs7903146 and rs12255372 (previously associated with type 2 diabetes) and rs10885406 and rs7924080 (which tag haplotype A [HapA], a haplotype reported to be associated with obesity) in 2,512 FHS participants. We used age- and sex-adjusted linear mixed-effects models to test for association with glycaemic traits, proinsulin/insulin ratios and obesity measures. RESULTS: As expected, the T risk allele of rs7903146 was associated with higher fasting plasma glucose (p = 0.01). T/T homozygotes had a 23.5% increase in the proinsulin/insulin ratio (p = 1 x 10(-7)) compared with C/C homozygotes. There was no association of HapA with BMI (p = 0.98), waist circumference (p = 0.89), subcutaneous adipose tissue (p = 0.32) or visceral adipose tissue (p = 0.92). CONCLUSIONS: We confirmed that the risk allele of rs7903146 is associated with hyperglycaemia and a higher proinsulin/insulin ratio. We did not detect any association of the TCF7L2 HapA with adiposity measures, suggesting that this may have been a spurious association from ascertainment bias, possibly induced by the evaluation of obesity in separate groups of glycaemic cases and controls.">
+	<sentence ID="1152_0" START="579" END="843">
+		<snp ID="0" START="635" END="644" TEXT="rs7903146"/>
+		<snp ID="1" START="649" END="659" TEXT="rs12255372"/>
+		<snp ID="2" START="709" END="721" TEXT="rs10885406 a"/>
+		<snp ID="3" START="724" END="733" TEXT="rs7924080"/>
+		<phenotype ID="0" START="688" END="843" text="type 2 diabetes"/>
+		<phenotype ID="1" START="808" END="843" text="obesity"/>
+		<modality_marker  START="777" END="785" text="reported"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="5" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="3" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="7" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1152_1" START="1006" END="1111">
+		<snp ID="4" START="1040" END="1049" TEXT="rs7903146"/>
+		<phenotype ID="2" START="1077" END="1111" text="fasting plasma glucose"/>
+		<modality_marker  START="1009" END="1017" text="expected"/>
+		<modality_marker  START="1070" END="1076" text="higher"/>
+		<pair PAIRID="8" PHENOTYPEID="2" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1152_2" START="1229" END="1392">
+		<snp ID="5" START="1257" END="1261" TEXT="HapA"/>
+		<phenotype ID="3" START="1267" END="1392" text="BMI"/>
+		<phenotype ID="4" START="1283" END="1392" text="waist circumference"/>
+		<phenotype ID="5" START="1315" END="1392" text="subcutaneous adipose tissue"/>
+		<phenotype ID="6" START="1357" END="1392" text="visceral adipose tissue"/>
+		<negation_scope  START="1239" END="1392" text="no association of HapA with BMI (p = 0.98), waist circumference (p = 0.89), subcutaneous adipose tissue (p = 0.32) or visceral adipose tissue (p = 0.92).">
+			<negation_cue START="1239" END="1241" text="no"/>
+		</negation_scope>
+		<pair PAIRID="9" PHENOTYPEID="3" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="10" PHENOTYPEID="4" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="11" PHENOTYPEID="5" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="12" PHENOTYPEID="6" SNPID="5" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1152_3" START="1406" END="1525">
+		<snp ID="6" START="1443" END="1452" TEXT="rs7903146"/>
+		<phenotype ID="7" START="1472" END="1525" text="hyperglycaemia"/>
+		<phenotype ID="8" START="1493" END="1525" text="higher proinsulin/insulin ratio"/>
+		<modality_marker  START="1409" END="1418" text="confirmed"/>
+		<pair PAIRID="13" PHENOTYPEID="7" SNPID="6" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="14" PHENOTYPEID="8" SNPID="6" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1152_4" START="1526" END="1603">
+		<snp ID="7" START="1567" END="1578" TEXT="TCF7L2 HapA"/>
+		<phenotype ID="9" START="1584" END="1603" text="adiposity measures"/>
+		<pair PAIRID="15" PHENOTYPEID="9" SNPID="7" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

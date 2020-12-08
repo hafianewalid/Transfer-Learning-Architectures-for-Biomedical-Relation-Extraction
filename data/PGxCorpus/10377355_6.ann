@@ -1,0 +1,6 @@
+T1	Chemical 0 14	Norepinephrine 
+T2	Phenotype 70 92	CRH neurons in the PVN
+T3	Chemical 17 19	NE
+T4	Gene_or_protein 70 73	CRH
+R1	influences Arg1:T1 Arg2:T2	
+R2	isEquivalentTo Arg1:T3 Arg2:T1	

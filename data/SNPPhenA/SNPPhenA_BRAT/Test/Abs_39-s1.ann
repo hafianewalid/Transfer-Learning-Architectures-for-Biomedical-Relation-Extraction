@@ -1,0 +1,5 @@
+T1	SNP 28 34	rs4680
+T2	Phenotype 40 42	SZ
+T3	Negation_Scope 10 101	no association of rs4680 with SZ in the combined sample (n=4071, p=0.110, odds ratio=1.08).
+T4	Negation_Cue 10 12	no
+R1	negative_association Arg1:T1 Arg2:T2

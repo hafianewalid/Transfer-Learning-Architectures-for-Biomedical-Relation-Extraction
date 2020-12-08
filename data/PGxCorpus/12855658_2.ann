@@ -1,0 +1,13 @@
+T1	Chemical 41 51	paclitaxel
+T2	Chemical 74 84	paclitaxel
+T3	Disease 118 132	ovarian cancer
+T4	Disease 169 182	cancer testis
+T5	Gene_or_protein 193 228	Taxol resistance -associated gene 3
+T6	Gene_or_protein 231 237	TRAG-3
+T7	Pharmacodynamic_phenotype 41 62	paclitaxel resistance
+T8	Gene_or_protein 41 68	paclitaxel resistance genes
+T9	Gene_or_protein 169 190	cancer testis antigen
+T10	Chemical 193 198	Taxol
+T11	Pharmacodynamic_phenotype 193 209	Taxol resistance
+T12	Pharmacodynamic_phenotype 74 95	paclitaxel -resistant
+R1	isEquivalentTo Arg1:T6 Arg2:T5	

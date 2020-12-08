@@ -1,0 +1,6 @@
+T1	Chemical 0 11	Thiopurines 
+T2	Gene_or_protein 20 24	Rac1 
+T3	Gene_or_protein 29 35	GTPase
+T4	Phenotype 51 71	antiapoptotic effect
+R1	decreases Arg1:T1 Arg2:T2	
+R2	causes Arg1:T3 Arg2:T4	

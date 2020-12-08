@@ -1,0 +1,19 @@
+T1	Chemical 22 25	HCH 
+T2	Chemical 132 143	glutathione 
+T3	Chemical 146 149	GSH 
+T5	Gene_or_protein 197 205	catalase 
+T6	Gene_or_protein 210 243	glucose-6-phosphate dehydrogenase 
+T7	Gene_or_protein 189 192	SOD
+T8	Phenotype 64 90	hepatic lipid peroxidation
+T9	Pharmacodynamic_phenotype 122 151	levels of glutathione ( GSH )
+T10	Phenotype 154 186	activity of superoxide dismutase
+T11	Phenotype 154 165;197 205	activity of catalase
+T12	Gene_or_protein 166 186	superoxide dismutase
+T4	Phenotype 154 165;210 243	activity of glucose-6-phosphate dehydrogenase
+R1	isEquivalentTo Arg1:T3 Arg2:T2	
+R2	isEquivalentTo Arg1:T7 Arg2:T12	
+R3	increases Arg1:T1 Arg2:T8	
+R4	decreases Arg1:T1 Arg2:T9	
+R5	decreases Arg1:T1 Arg2:T10	
+R6	decreases Arg1:T1 Arg2:T11	
+R7	decreases Arg1:T1 Arg2:T4	

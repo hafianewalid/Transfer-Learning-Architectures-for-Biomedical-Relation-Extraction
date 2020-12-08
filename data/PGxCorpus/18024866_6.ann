@@ -1,0 +1,27 @@
+T1	Chemical 10 19	Tamoxifen
+T3	Gene_or_protein 51 57	CYP2D6
+T4	Phenotype 184 212	recurrences of breast cancer
+T5	Disease 199 212	breast cancer
+T6	Haplotype 51 69	CYP2D6 alleles * 4
+T7	Haplotype 51 65;72 75	CYP2D6 alleles * 5
+T8	Haplotype 51 65;78 82	CYP2D6 alleles * 10
+T9	Haplotype 51 65;85 89	CYP2D6 alleles * 41
+T10	Phenotype 223 243	relapse-free periods
+T2	Phenotype 322 347	event-free survival rates
+T11	Pharmacodynamic_phenotype 111 159	impaired formation of antiestrogenic metabolites
+R1	increases Arg1:T9 Arg2:T4	
+R2	increases Arg1:T8 Arg2:T4	
+R3	increases Arg1:T7 Arg2:T4	
+R4	increases Arg1:T6 Arg2:T4	
+R5	decreases Arg1:T6 Arg2:T10	
+R6	decreases Arg1:T9 Arg2:T10	
+R7	decreases Arg1:T8 Arg2:T10	
+R8	decreases Arg1:T7 Arg2:T10	
+R9	decreases Arg1:T6 Arg2:T2	
+R10	decreases Arg1:T8 Arg2:T2	
+R11	decreases Arg1:T9 Arg2:T2	
+R12	decreases Arg1:T7 Arg2:T2	
+R13	isAssociatedWith Arg1:T6 Arg2:T11	
+R14	isAssociatedWith Arg1:T9 Arg2:T11	
+R15	isAssociatedWith Arg1:T8 Arg2:T11	
+R16	isAssociatedWith Arg1:T7 Arg2:T11	

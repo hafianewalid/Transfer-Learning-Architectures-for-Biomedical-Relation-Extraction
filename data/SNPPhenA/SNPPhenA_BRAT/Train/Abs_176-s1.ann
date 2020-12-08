@@ -1,0 +1,6 @@
+T1	SNP 97 106	rs7903146
+T2	SNP 194 204	rs12255372
+T3	Phenotype 64 67	T2D
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T2 Arg2:T3
+T6	Modality_Marker 72 80	observed

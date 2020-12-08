@@ -1,0 +1,11 @@
+T1	Chemical 92 101	methadone 
+T2	Limited_variation 126 132	rs6265 
+T3	Limited_variation 224 233	rs1799978 
+T4	Phenotype 62 101	continued opioid use while on methadone
+T5	Limited_variation 6 22	genetic variants
+R1	isAssociatedWith Arg1:T2 Arg2:T4	
+R2	isAssociatedWith Arg1:T3 Arg2:T4	
+R3	isAssociatedWith Arg1:T5 Arg2:T4	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	neg

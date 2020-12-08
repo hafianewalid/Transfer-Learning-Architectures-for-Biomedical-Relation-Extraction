@@ -1,0 +1,6 @@
+T1	SNP 72 81	rs5743313
+T2	Phenotype 159 163	H1N1
+T3	Phenotype 168 177	influenza
+T4	Modality_Marker 0 11	CONCLUSIONS
+R1	moderate_confidence_association Arg1:T1 Arg2:T2
+R2	moderate_confidence_association Arg1:T1 Arg2:T3

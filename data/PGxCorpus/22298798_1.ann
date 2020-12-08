@@ -1,0 +1,10 @@
+T4	Chemical 45 56	clopidogrel 
+T1	Gene_or_protein 18 23	ABCB1
+T2	Limited_variation 18 30	ABCB1 C3435T
+T3	Pharmacodynamic_phenotype 45 65	clopidogrel response
+T5	Disease 77 93	stent thrombosis
+T6	Disease 117 134	coronary stenting
+R1	isAssociatedWith Arg1:T2 Arg2:T3	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg

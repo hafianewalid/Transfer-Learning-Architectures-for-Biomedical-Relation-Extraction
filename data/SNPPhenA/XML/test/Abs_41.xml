@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1036" TEXT="TNF-α -857C&gt;T genotype is predictive of clinical response after treatment with definitive 5-fluorouracil/cisplatin-based chemoradiotherapy in Japanese patients with esophageal squamous cell carcinoma.">
+	<sentence ID="1036_0" START="0" END="200">
+		<snp ID="0" START="0" END="13" TEXT="TNF-α -857C&gt;T"/>
+		<phenotype ID="0" START="190" END="200" text="carcinoma"/>
+		<modality_marker  START="26" END="36" text="predictive"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

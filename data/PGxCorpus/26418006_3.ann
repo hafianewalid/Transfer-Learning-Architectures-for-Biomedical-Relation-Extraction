@@ -1,0 +1,22 @@
+T1	Chemical 25 36	gemcitabine 
+T2	Phenotype 58 90	activities of cytidine deaminase 
+T3	Gene_or_protein 93 96	CDA 
+T4	Gene_or_protein 72 90	cytidine deaminase 
+T5	Gene_or_protein 148 153	hENT1 
+T6	Gene_or_protein 158 178	deoxycytidine kinase 
+T7	Gene_or_protein 181 184	DCK 
+T8	Gene_or_protein 193 220	ribonucleotide reductase M1 
+T9	Gene_or_protein 223 227	RRM1 
+T10	Gene_or_protein 107 145	equilibrative nucleoside transporter 1 
+T11	Pharmacodynamic_phenotype 25 45	gemcitabine response
+T12	Phenotype 101 145;58 71	human equilibrative nucleoside transporter 1 activities of
+T13	Phenotype 158 178;58 71	deoxycytidine kinase activities of
+T14	Phenotype 193 220;58 71	ribonucleotide reductase M1 activities of
+R5	isEquivalentTo Arg1:T3 Arg2:T4	
+R6	isEquivalentTo Arg1:T5 Arg2:T10	
+R7	isEquivalentTo Arg1:T7 Arg2:T6	
+R8	isEquivalentTo Arg1:T9 Arg2:T8	
+R1	isAssociatedWith Arg1:T2 Arg2:T11	
+R2	isAssociatedWith Arg1:T11 Arg2:T14	
+R3	isAssociatedWith Arg1:T11 Arg2:T13	
+R4	isAssociatedWith Arg1:T11 Arg2:T12	

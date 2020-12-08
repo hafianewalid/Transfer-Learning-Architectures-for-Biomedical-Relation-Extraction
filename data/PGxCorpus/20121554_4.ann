@@ -1,0 +1,17 @@
+T1	Disease 57 85	acute lymphoblastic leukemia 
+T3	Gene_or_protein 103 138	methylenetetrahydrofolate reductase 
+T4	Limited_variation 92 153	homozygous methylenetetrahydrofolate reductase C677T mutation 
+T6	Chemical 179 191	methotrexate 
+T7	Disease 214 240	cerebral venous thrombosis 
+T8	Chemical 269 281	methotrexate 
+T5	Pharmacodynamic_phenotype 179 209	methotrexate -induced toxicity
+T2	Pharmacodynamic_phenotype 201 209	toxicity
+R1	isAssociatedWith Arg1:T4 Arg2:T5	
+R2	isAssociatedWith Arg1:T4 Arg2:T7	
+R3	causes Arg1:T6 Arg2:T2	
+R4	influences Arg1:T8 Arg2:T7	
+R5	influences Arg1:T8 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R5	hyp
+#4	AnnotatorNotes R4	hyp

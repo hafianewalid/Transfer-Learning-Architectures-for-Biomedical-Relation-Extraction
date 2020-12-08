@@ -1,0 +1,8 @@
+T1	Gene_or_protein 44 51	ALDH1b1 
+T3	Pharmacodynamic_phenotype 129 145	hypersensitivity 
+T4	Pharmacodynamic_phenotype 112 145	alcohol -induced hypersensitivity 
+T5	Chemical 112 119	alcohol 
+T7	Limited_variation 31 65	SNP encoding ALDH1b1 ( rs2228093 )
+T2	Limited_variation 54 63	rs2228093
+R1	isAssociatedWith Arg1:T7 Arg2:T4	
+R2	causes Arg1:T5 Arg2:T3	

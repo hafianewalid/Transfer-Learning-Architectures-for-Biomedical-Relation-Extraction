@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1088" TEXT="A genetic variant within the CHRNA5-CHRNA3-CHRNB4 region (rs1051730), previously associated with smoking quantity, was recently shown to interact with smoking on obesity predisposition. We attempted to replicate this finding in the Gene-Lifestyle Interactions and Complex Traits Involved in Elevated Disease Risk (GLACIER) Study, a prospective cohort study of adults from northern Sweden (n = 16,426). We also investigated whether a similar interaction is apparent between rs1051730 and snus, a type of moist oral tobacco, to determine whether this interaction is driven by factors that cigarettes and snus have in common, such as nicotine. Main effects of smoking, snus, and the rs1051730 variant and pairwise interaction terms (smoking × rs1051730 and snus × rs1051730) were tested in relation to body mass index (BMI; calculated as weight (kg)/height (m)(2)) through the use of multivariate linear modelsadjusted for age and sex. Smoking status and BMI were inversely related (β = -0.46 kg/m(2), standard error (SE) = 0.08; P &lt; 0.0001). Snus use and BMI were positively related (β = 0.35 kg/m(2), SE = 0.12; P = 0.003). The rs1051730 variant was not significantly associated with smoking status or snus use (P &gt; 0.05); the T allele was associated with lower BMI in the overall cohort (β = -0.10 kg/m(2), SE = 0.05; P = 0.03) and with smoking quantity in those in whom this was measured (n = 5,304) (β = 0.08, SE = 0.01; P &lt; 0.0001). Neither smoking status (Pinteraction = 0.29) nor snus use (Pinteraction = 0.89) modified the association between the rs1051730 variant and BMI.">
+	<sentence ID="1088_0" START="0" END="185">
+		<snp ID="0" START="58" END="67" TEXT="rs1051730"/>
+		<phenotype ID="0" START="97" END="185" text="smoking"/>
+		<phenotype ID="2" START="151" END="185" text="smoking"/>
+		<phenotype ID="3" START="162" END="185" text="obesity"/>
+		<modality_marker  START="128" END="133" text="shown"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1088_1" START="1123" END="1434">
+		<snp ID="1" START="1127" END="1136" TEXT="rs1051730"/>
+		<phenotype ID="1" START="1183" END="1434" text="smoking"/>
+		<phenotype ID="4" START="1337" END="1434" text="smoking"/>
+		<modality_marker  START="1255" END="1260" text="lower"/>
+		<modality_marker  START="1272" END="1279" text="overall"/>
+		<negation_scope  START="1149" END="1434" text="not significantly associated with smoking status or snus use (P &gt; 0.05); the T allele was associated with lower BMI in the overall cohort (β = -0.10 kg/m(2), SE = 0.05; P = 0.03) and with smoking quantity in those in whom this was measured (n = 5,304) (β = 0.08, SE = 0.01; P &lt; 0.0001)">
+			<negation_cue START="1149" END="1152" text="not"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="4" PHENOTYPEID="4" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

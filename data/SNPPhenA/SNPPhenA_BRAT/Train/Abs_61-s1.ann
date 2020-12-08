@@ -1,0 +1,10 @@
+T1	SNP 107 113	rs6152
+T2	SNP 219 229	GGN repeat
+T3	Phenotype 128 134	Autism
+T4	Modality_Marker 25 33	revealed
+T5	Modality_Marker 34 40	higher
+T6	Modality_Marker 163 171	revealed
+T7	Negation_Scope 159 230	but revealed no significant differences with respect to the GGN repeat.
+T8	Negation_Cue 172 174	no
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

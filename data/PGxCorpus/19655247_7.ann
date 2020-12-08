@@ -1,0 +1,12 @@
+T1	Gene_or_protein 114 120	SLC6A4 
+T2	Chemical 159 168	alosetron 
+T3	Gene_or_protein 142 147	5-HT3
+T4	Gene_or_protein 177 182	5-HT4
+T5	Chemical 193 202	tegaserod
+T6	Chemical 142 158	5-HT3 antagonist
+T7	Chemical 177 190	5-HT4 agonist
+T8	Pharmacodynamic_phenotype 125 168	responses to the 5-HT3 antagonist alosetron
+T9	Pharmacodynamic_phenotype 125 137;173 202	responses to the 5-HT4 agonist , tegaserod
+T10	Pharmacodynamic_phenotype 75 94	response to therapy
+R3	influences Arg1:T1 Arg2:T8	
+R4	influences Arg1:T1 Arg2:T9	

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1247" TEXT="OBJECTIVE: Schizophrenic patients treated with clozapine or olanzapine often develop hypertriglyceridemia. The apolipoprotein A5 gene (APOA5), which affects VLDL production and lipolysis, has been implicated in the triglyceride (TG) metabolism. This study examined the association of common APOA5 genetic variants and TG levels in chronically institutionalized schizophrenic patients, on a stable dose of atypical antipsychotic (clozapine, olanzapine or risperidone. METHODS: The TG levels in 466 schizophrenic patients treated with clozapine (n = 182), olanzapine (n = 89) or risperidone (n = 195) were measured. Patients were genotyped for the three APOA5 single nucleotide polymorphisms (SNPs) rs662799 (-1131T &gt; C), rs651821 (3A &gt; G) and rs2266788 (1891T &gt; C). RESULTS: A gene × drug interaction with TG levels was observed. In single-marker-based analysis, the minor alleles of the two polymorphisms (-1131C and -3G) were observed to be associated with increased TGs in patients treated with risperidone, but not with clozapine or olanzapine. Haplotype analysis further revealed that carriers of the haplotype constructed with the three minor alleles had higher TG levels than those who did not carry this haplotype in patients taking risperidone (CGC((+/+)) vs. = 125.4 ± 59.1 vs. 82.2 ± 65.8, P = 0.015; CGC((-/+ )) vs. CGC((-/-)) = 113.7 ± 80.4 vs. 82.2 ± 65.8, P = 0.012). CONCLUSIONS: Our findings extend and add new information to the existing data regarding the association between APOA5 and TG regulation during long-term atypical antipsychotic treatment.">
+	<sentence ID="1247_0" START="1382" END="1568">
+		<snp ID="0" START="1494" END="1499" TEXT="APOA5"/>
+		<phenotype ID="0" START="1544" END="1568" text="antipsychotic"/>
+		<modality_marker  START="1382" END="1393" text="CONCLUSIONS"/>
+		<modality_marker  START="1399" END="1407" text="findings"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,6 @@
+T1	SNP 47 56	rs7903146
+T2	Phenotype 77 112	cardiovascular autonomic neuropathy
+T3	Modality_Marker 8 13	found
+T4	Modality_Marker 16 22	strong
+T5	Modality_Marker 130 134	high
+R1	weak_confidence_association Arg1:T1 Arg2:T2

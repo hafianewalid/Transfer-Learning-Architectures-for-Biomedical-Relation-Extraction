@@ -1,0 +1,5 @@
+T1	SNP 94 103	rs1051730
+T2	Phenotype 153 167	diminished PPI
+T3	Phenotype 172 191	nicotine dependence
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	weak_confidence_association Arg1:T1 Arg2:T2

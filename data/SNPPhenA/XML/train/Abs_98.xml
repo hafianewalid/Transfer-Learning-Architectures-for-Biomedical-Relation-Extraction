@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1268" TEXT="Late onset Alzheimer's disease (LOAD) accounts for about 95% of all Alzheimer's disease cases. While the APOE ε4 variant seems to have unparalleled influence on increased LOAD risk, it does not explain all of the heritability of LOAD. In this study, we present the application of a cost-effective, pooled DNA genome-wide association study (GWAS) to uncover genetic risk variants associated with LOAD in Polish women diagnosed with either mild cognitive impairment (MCI) or well-defined LOAD. A group of 141 patients (94 LOAD and 47 MCI), as well as 141 controls, were assayed using Affymetrix Genome-Wide Human SNP 6.0 arrays. Allele frequency distributions were compared using χ(2)-tests, and significantly associated SNPs at p &lt; 0.0001 with a proxy SNP were selected. GWAS marker selection was conducted using PLINK, and selected SNPs were validated on DNA samples from the same cohort using KASPar Assays. In addition, to determine the genotype of APOE variants (rs429358, rs7412), a multiplex tetra-primer amplification refractory mutation system was applied. The GWAS revealed nine SNPs associated with MCI and/or LOAD. Of these, the association of seven SNPs was confirmed by genotyping of individual patients. Furthermore, the APOE ε4 appeared to be a risk variant for LOAD, while the APOE ε3 showed a protective effect. Multivariate analysis showed association between rs7856774 and LOAD, independently from the effect of APOE variation. Pooled DNA GWAS enabled the identification of a novel LOAD candidate risk variant, rs7856774 (9q21.33), tagging a possible genomic enhancer affecting proximal transcribed elements including DAPK1 gene.">
+	<sentence ID="1268_0" START="1328" END="1445">
+		<snp ID="0" START="1377" END="1386" TEXT="rs7856774"/>
+		<snp ID="1" START="1430" END="1444" TEXT="APOE variation"/>
+		<phenotype ID="0" START="1391" END="1445" text="LOAD"/>
+		<modality_marker  START="1350" END="1356" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1268_1" START="1446" END="1647">
+		<snp ID="2" START="1529" END="1538" TEXT="rs7856774"/>
+		<phenotype ID="1" START="1500" END="1647" text="LOAD"/>
+		<modality_marker  START="1560" END="1568" text="possible"/>
+		<pair PAIRID="2" PHENOTYPEID="1" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

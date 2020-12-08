@@ -1,0 +1,5 @@
+T1	Genomic_factor 107 119	zif/268 mRNA 
+T2	Gene_or_protein 107 114	zif/268 
+T5	Chemical 147 159	PVP and oPRL
+T6	Phenotype 60 119	average number of cells/animal which expressed zif/268 mRNA
+R1	increases Arg1:T5 Arg2:T6	

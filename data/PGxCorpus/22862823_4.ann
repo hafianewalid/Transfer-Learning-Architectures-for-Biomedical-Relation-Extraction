@@ -1,0 +1,7 @@
+T1	Gene_or_protein 57 62	GATA4 
+T2	Chemical 67 74	alcohol 
+T3	Limited_variation 142 152	rs13273672 
+T4	Disease 67 85	alcohol dependence
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R2	neg

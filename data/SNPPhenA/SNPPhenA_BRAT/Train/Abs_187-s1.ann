@@ -1,0 +1,4 @@
+T1	SNP 139 149	rs17822931
+T2	Phenotype 88 107	axillary osmidrosis
+T3	Modality_Marker 51 54	can
+R1	neutral_association Arg1:T1 Arg2:T2

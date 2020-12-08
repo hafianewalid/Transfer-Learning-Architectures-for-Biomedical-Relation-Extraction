@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1046" TEXT="By studying the loci that contribute to human longevity, we aim to identify mechanisms that contribute to healthy aging. To identify such loci, we performed a genome-wide association study (GWAS) comparing 403 unrelated nonagenarians from long-living families included in the Leiden Longevity Study (LLS) and 1670 younger population controls. The strongest candidate SNPs from this GWAS have been analyzed in a meta-analysis of nonagenarian cases from the Rotterdam Study, Leiden 85-plus study, and Danish 1905 cohort. Only one of the 62 prioritized SNPs from the GWAS analysis (P&lt;1×10(-4) ) showed genome-wide significance with survival into old age in the meta-analysis of 4149 nonagenarian cases and 7582 younger controls [OR=0.71 (95% CI 0.65-0.77), P=3.39 × 10(-17) ]. This SNP, rs2075650, is located in TOMM40 at chromosome 19q13.32 close to the apolipoprotein E (APOE) gene. Although there was only moderate linkage disequilibrium between rs2075650 and the ApoE ε4 defining SNP rs429358 we could not find an APOE-independent effect of rs2075650 on longevity, either in cross-sectional or in longitudinal analyses. As expected, rs429358 associated with metabolic phenotypes in the offspring of the nonagenarian cases from the LLS and their partners. In addition, we observed a novel association between this locus and serum levels of IGF-1 in women (P=0.005). In conclusion, the major locus determining familial longevity up to high age as detected by GWAS was marked by rs2075650, which tags the deleterious effects of the ApoE ε4 allele. No other major longevity locus was found.">
+	<sentence ID="1046_0" START="1366" END="1545">
+		<snp ID="0" START="1477" END="1486" TEXT="rs2075650"/>
+		<phenotype ID="0" START="1418" END="1545" text="longevity"/>
+		<modality_marker  START="1369" END="1379" text="conclusion"/>
+		<modality_marker  START="1434" END="1438" text="high"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

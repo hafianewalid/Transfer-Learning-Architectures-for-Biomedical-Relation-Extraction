@@ -1,0 +1,6 @@
+T1	SNP 58 74	DRD2/ANKK1 Taq1A
+T2	Phenotype 115 124	akathisia
+T3	Modality_Marker 14 22	strongly
+T4	Modality_Marker 23 32	suggested
+T5	Modality_Marker 211 216	found
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

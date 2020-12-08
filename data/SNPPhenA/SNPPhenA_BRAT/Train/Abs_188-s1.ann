@@ -1,0 +1,4 @@
+T1	SNP 120 129	rs1800407
+T2	Phenotype 156 172	green/hazel eyes
+T3	Modality_Marker 55 60	shown
+R1	weak_confidence_association Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Gene_or_protein 14 18	DRD3
+T2	Limited_variation 14 40	DRD3 Ser9Gly polymorphisms
+T3	Pharmacodynamic_phenotype 91 114	efficacy of pramipexole
+T4	Chemical 103 114	pramipexole
+T5	Disease 140 142	PD
+R1	isAssociatedWith Arg1:T2 Arg2:T3	

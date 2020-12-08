@@ -1,0 +1,7 @@
+T1	Limited_variation 52 86	prodynorphin promoter polymorphism 
+T2	Gene_or_protein 52 64	prodynorphin 
+T3	Chemical 90 97	cocaine 
+T4	Disease 90 107	cocaine dependent
+T6	Genomic_factor 52 73	prodynorphin promoter
+R1	isAssociatedWith Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

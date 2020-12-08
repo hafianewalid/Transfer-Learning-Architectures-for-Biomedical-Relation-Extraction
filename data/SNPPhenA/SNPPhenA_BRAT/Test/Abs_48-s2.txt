@@ -1,0 +1,1 @@
+Logistic regression analysis identified two variants associated with AR, the 32-bp deletion within chemokine (C-C motif) receptor 5 gene rs333 and the p.222A/V variant (rs1801133) within the MTHFR gene.

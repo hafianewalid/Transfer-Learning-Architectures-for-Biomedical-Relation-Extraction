@@ -1,0 +1,1 @@
+The multiple linear regression model for warfarin dose indicated significant contributions from age ( r ( 2 ) = 0.084 ; P < 0.001 ) , weight ( r ( 2 ) = 0.063 ; P < 0.001 ) , VKORC1 genotype ( r ( 2 ) = 0.494 ; P < 0.001 ) , and age , weight , and CYP2C9 and VKORC1 genotype together ( r ( 2 ) = 0.628 ; P < 0.001 ) .

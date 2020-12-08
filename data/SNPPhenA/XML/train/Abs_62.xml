@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1229" TEXT="Androgenetic alopecia (AGA) is a common heritable polygenic disorder whose genetics is not fully understood, even though it seems to be X-linked. We carried out an epidemiological survey for AGA on 9,000 people from 8 isolated villages of a secluded region of Sardinia (Ogliastra), and identified a large cohort of affected individuals. We genotyped 200 cases and 200 controls (mean kinship 0.001) with the 500k chip array and conducted case-control association analysis on the X chromosome. We identified Xq11-q12 as strongly associated with AGA, In particular, we found that rs1352015 located 8 kb from the EDA2R gene showed the best result (P=7.77e(-7)). This region also contains the AR gene, hence we tested both genes in 492 cases and 492 controls. We found that the non-synonymous SNP rs1385699 on EDA2R gave the best result (P=3.9e(-19)) whereas rs6152 on the AR gene is less significant (P=4.17e(-12)). Further statistical analysis carried out by conditioning each gene to the presence of the other showed that the association withEDA2R is independent while the association with AR seems to be the result of linkage disequilibrium. These results give insight into the pathways involved in AGA etiology.">
+	<sentence ID="1229_0" START="492" END="657">
+		<snp ID="0" START="506" END="514" TEXT="Xq11-q12"/>
+		<snp ID="1" START="577" END="586" TEXT="rs1352015"/>
+		<phenotype ID="0" START="543" END="657" text="AGA"/>
+		<modality_marker  START="518" END="526" text="strongly"/>
+		<modality_marker  START="566" END="571" text="found"/>
+		<modality_marker  START="620" END="626" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

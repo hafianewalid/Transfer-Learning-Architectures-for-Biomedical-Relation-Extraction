@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1104" TEXT="Background: Dopamine receptor D2 (DRD2) polymorphisms are proposed to be important factors in the presentation of neuropsychiatric symptoms in many disorders, including decreased striatum levels of dopamine D2 receptors in Wilson disease. The present study investigated the association between DRD2 gene polymorphisms and clinical manifestation of Wilson disease. Methods: Analyzing data from 97 symptomatic Wilson disease patients, we investigated the DRD2 gene polymorphisms rs1800497, rs1799732, and rs12364283. We assessed the polymorphisms impact on the phenotypicpresentation of the disease. Results: Generally, the DRD2 gene polymorphisms had no impact on the hepatic or neuropsychiatric clinical presentation of Wilson disease. However, rs1799732 deletion allele carriers with neuropsychiatric symptoms had earlier onset of WD symptoms by almost 6 years compared with individuals without this allele (22.5 vs. 28.3 years; P &lt; 0.05). This unfavorable effect of the rs1799732 polymorphism was even more pronounced among adenosine triphosphatase 7B gene (ATP7B) p.H1069Q homozygous patients, in whom carriership of the deletion allele was related to earlier initial neuropsychiatric manifestation by 14 years (18.4 vs. 32.2 years; P &lt; 0.01). Conclusions: Genetic variation of DRD2, specifically the rs1799732 polymorphism, may produce an earlier clinical presentation of Wilson disease neuropsychiatric symptoms and signs that occur in the course of &lt;Phent id=1&gt;dopaminergic system impairment&lt;Phent&gt; due to copper accumulation in the brain. We speculate that this effect may be due to the impact of DRD2 polymorphism on dopamine D2 receptor density, but further studies are needed to understand the mechanisms of such phenotypic effects.">
+	<sentence ID="1104_0" START="1247" END="1545">
+		<snp ID="0" START="1304" END="1313" TEXT="rs1799732"/>
+		<phenotype ID="0" START="1376" END="1545" text="Wilson"/>
+		<modality_marker  START="1247" END="1258" text="Conclusions"/>
+		<modality_marker  START="1328" END="1331" text="may"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

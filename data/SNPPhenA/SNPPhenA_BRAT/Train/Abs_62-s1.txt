@@ -1,0 +1,1 @@
+We identified Xq11-q12 as strongly associated with AGA, In particular, we found that rs1352015 located 8 kb from the EDA2R gene showed the best result (P=7.77e(-7)).

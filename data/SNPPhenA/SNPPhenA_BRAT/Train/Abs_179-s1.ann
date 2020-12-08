@@ -1,0 +1,7 @@
+T1	SNP 4 13	rs7903146
+T2	SNP 101 111	rs12255372
+T3	Phenotype 67 84	nodal involvement
+T4	Negation_Scope 136 195	not associated with the clinico-pathologic characteristics.
+T5	Negation_Cue 136 139	not
+R1	moderate_confidence_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

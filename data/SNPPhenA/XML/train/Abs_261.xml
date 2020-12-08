@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1181" TEXT="OBJECTIVE: Recently, variants in the TCF7L2 gene have been reported to be associated with type 2 diabetes across multiple Europid populations, but only one small sample of African-American type 2 diabetic patients has been examined. Our objective was to investigate the importance of TCF7L2 in a larger African-American case-control population. METHODS: We investigated single nucleotide polymorphisms (SNPs) in six known type 2 diabetes genes in 577 African-American case subjects with type 2 diabetes enriched for nephropathy and 596 African-American control subjects. Additionally, we genotyped 70 ancestry-informative markers (AIMs) to apply adjustments for differences in ancestral proportions. RESULTS: The most significant associations were observed with TCF7L2 intron 3 SNPs rs7903146 (additive P = 4.10 x 10(-6), odds ratio [OR] 1.51; admixture-adjusted P(a) = 3.77 x 10(-6)) and rs7901695 (P = 0.001, OR 1.30; P(a) = 0.003), The 2-SNP haplotype containing these SNPs was also associated with type 2 diabetes (P = 3 x 10(-5)). Modest associations were also seen with TCF7L2 intron 4 SNPs rs7895340, rs11196205, and rs12255372 (0.01 &lt; P &lt; 0.05; 0.03 &lt; P(a) &lt; 0.08), as well as with ATP-sensitive inwardly rectifying potassium channel subunit Kir6.2 (KCNJ11) and hepatocyte nuclear factor 4-alpha (HNF4A) SNPs (0.01 &lt; P &lt; 0.05; 0.01 &lt; P(a) &lt; 0.41). No significant associations were detected with genotyped calpain 10 (CAPN10), peroxisome proliferator-activated receptor gamma (PPARG), and transcription factor 1 (TCF1) SNPs. CONCLUSIONS: This study indicates that variants in the TCF7L2 gene significantly contribute to diabetes susceptibility in African-American populations.">
+	<sentence ID="1181_0" START="709" END="1034">
+		<snp ID="0" START="783" END="792" TEXT="rs7903146"/>
+		<snp ID="1" START="889" END="898" TEXT="rs7901695"/>
+		<phenotype ID="0" START="1002" END="1034" text="type 2 diabetes"/>
+		<modality_marker  START="713" END="717" text="most"/>
+		<modality_marker  START="748" END="756" text="observed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,8 @@
+T1	SNP 46 55	rs5742909
+T2	SNP 82 91	rs1800629
+T3	Phenotype 118 130	osteosarcoma
+T4	Modality_Marker 32 37	found
+T5	Negation_Scope 0 136	No signiﬁcant associations were found between rs5742909 polymorphism of CTLA-4 or rs1800629 polymorphism of TNF-α and osteosarcoma risk.
+T6	Negation_Cue 0 2	No
+R1	negative_association Arg1:T1 Arg2:T3
+R2	negative_association Arg1:T2 Arg2:T3

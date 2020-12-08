@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1087" TEXT="OBJECTIVE: To test whether the TCF7L2 gene was associated with gestational diabetes, whether the association between TCF7L2 and gestationaldiabetes was independent of HLA-DQB1*0602 and islet cell autoantibodies, as well as maternal age, number of pregnancies, family history of diabetes and the HLA-DQB1 genotypes, and to test whether the distribution of HLA-DQB1 alleles was affected by country of birth. METHODS: We genotyped the rs7903146, rs12255372 and rs7901695 single nucleotide polymorphisms of the TCF7L2 gene in 826 mothers with gestational diabetes and in 1185 healthy control subjects in the Diabetes Prediction in Skåne Study.  The mothers were also typed for HLA-DQB1 genotypes and tested for islet cellautoantibodies against GAD65, insulinoma-associated antigen-2 and insulin. RESULTS: The heterozygous genotypes CT, GT and TC of the rs7903146 (T is risk for Type 2 diabetes), rs12255372 (T is risk for Type 2 diabetes) and rs7901695 (C is risk for Type 2 diabetes), respectively, as well as the homozygous genotypes TT, TT and CC of the rs7903146, rs12255372 and rs7901695, respectively, were strongly associated with gestational diabetes (P &lt; 0.0001). These associations remained statistically significant after adjusting for maternal age, number of pregnancies, family history of diabetes and HLA-DQ genotypes and were independent of the presence of islet cell autoantibodies. No interaction was observed between TCF7L2 and HLA-DQB1*0602, which was shown to be negatively associated with gestational diabetes in mothers born in Sweden (P = 0.010). CONCLUSIONS: The TCF7L2 was associated with susceptibility for gestational diabetes independently of the presence of HLA-DQB1*0602 and islet cell autoantibodies and other factors such as maternal age, number of pregnancies, family history of diabetes and other HLA-DQ genotypes. The HLA-DQB1*0602 was negatively associated with gestational diabetes in mothers born in Sweden.">
+	<sentence ID="1087_0" START="1395" END="1565">
+		<snp ID="0" START="1431" END="1437" TEXT="TCF7L2"/>
+		<phenotype ID="0" START="1506" END="1565" text="gestational diabetes"/>
+		<modality_marker  START="1414" END="1422" text="observed"/>
+		<modality_marker  START="1467" END="1472" text="shown"/>
+		<negation_scope  START="1395" END="1565" text="No interaction was observed between TCF7L2 and HLA-DQB1*0602, which was shown to be negatively associated with gestational diabetes in mothers born in Sweden (P = 0.010).">
+			<negation_cue START="1395" END="1397" text="No"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+	</sentence>
+</abstract>

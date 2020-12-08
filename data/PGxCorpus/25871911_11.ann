@@ -1,0 +1,13 @@
+T1	Gene_or_protein 77 79	ER
+T2	Gene_or_protein 124 128	HER2
+T3	Pharmacodynamic_phenotype 199 228	sensitivity to 5-fluorouracil
+T4	Chemical 214 228	5-fluorouracil
+T5	Genomic_factor 244 280	deficiencies in chromatin remodeling
+T6	Disease 139 149;77 89	metastases ER -positive
+T8	Genomic_variation 285 315	homologous recombination genes
+T9	Chemical 92 109	endocrine therapy
+T10	Disease 124 149	HER2 -negative metastases
+T7	Phenotype 77 89	ER -positive
+T11	Phenotype 124 138	HER2 -negative
+R1	increases Arg1:T5 Arg2:T3	
+R2	increases Arg1:T8 Arg2:T3	

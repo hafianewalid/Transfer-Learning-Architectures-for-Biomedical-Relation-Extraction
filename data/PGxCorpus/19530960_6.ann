@@ -1,0 +1,8 @@
+T1	Haplotype 0 15	DPYD haplotypes 
+T2	Gene_or_protein 0 4	DPYD 
+T4	Chemical 65 69	5-FU 
+T5	Pharmacodynamic_phenotype 65 78	5-FU toxicity
+R1	isAssociatedWith Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp

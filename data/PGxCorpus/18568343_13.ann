@@ -1,0 +1,11 @@
+T1	Limited_variation 28 34;46 54	UGT1A8 variants
+T2	Limited_variation 39 54	UGT1A9 variants
+T3	Pharmacokinetic_phenotype 58 72	MPA metabolism
+T4	Chemical 58 61	MPA
+T5	Chemical 111 132	calcineurin inhibitor
+T6	Gene_or_protein 111 122	calcineurin
+T7	Gene_or_protein 28 34	UGT1A8
+T8	Gene_or_protein 39 45	UGT1A9
+R1	influences Arg1:T1 Arg2:T3	
+R2	influences Arg1:T2 Arg2:T3	
+R3	influences Arg1:T5 Arg2:T3	

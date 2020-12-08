@@ -1,0 +1,8 @@
+T1	SNP 50 58	rs737865
+T2	SNP 60 66	rs4680
+T3	SNP 68 76	rs165599
+T4	Phenotype 153 166	schizophrenia
+T5	Modality_Marker 108 116	reported
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T2 Arg2:T4
+R3	strong_confidence_association Arg1:T3 Arg2:T4

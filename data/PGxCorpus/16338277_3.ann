@@ -1,0 +1,9 @@
+T1	Chemical 44 66	5-HT ( 3 ) antagonists 
+T3	Gene_or_protein 188 249	adenosine triphosphate -binding cassette subfamily B member 1 
+T4	Gene_or_protein 252 257	ABCB1 
+T5	Pharmacodynamic_phenotype 30 66	resistance to 5-HT ( 3 ) antagonists
+T2	Limited_variation 188 259;90 135	adenosine triphosphate -binding cassette subfamily B member 1 ( ABCB1 ) single-nucleotide polymorphism ( 3435C>T ) in
+T6	Gene_or_protein 164 187	drug efflux transporter
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	isAssociatedWith Arg1:T5 Arg2:T2	
+#1	AnnotatorNotes R2	hyp

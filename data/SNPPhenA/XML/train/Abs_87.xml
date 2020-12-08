@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1256" TEXT="BACKGROUND: Hypertriglyceridemia (HTG) is a well-established independent risk factor for cardiovascular disease and the influence of several genetic variants in genes related with triglyceride (TG) metabolism has been described, including LPL, APOA5 and APOE. The combined analysis of these polymorphisms could produce clinically meaningful complementary information. METHOD A subgroup of the ICARIA study comprising 1825 Spanish subjects (80% men, mean age 36 years) was genotyped for the LPL-HindIII (rs320), S447X (rs328), D9N (rs1801177) and N291S (rs268) polymorphisms, the APOA5-S19W (rs3135506) and -1131T/C (rs662799) variants, and the APOE polymorphism (rs429358; rs7412) using PCR and restriction analysis and TaqMan assay. We used regression analyses to examine their combined effects on TG levels (with the log-transformed variable) and the association of variant combinations with TG levels and hypertriglyceridemia (TG &gt; or = 1.69 mmol/L), including the covariates: gender, age, waist circumference, blood glucose, blood pressure, smoking and alcohol consumption. RESULTS: We found a significant lowering effect of the LPL-HindIII and S447X polymorphisms (p &lt; 0.0001). In addition, the D9N, N291S, S19W and -1131T/C variants and the APOE-epsilon4 allele were significantly associated with an independent additive TG-raising effect (p &lt; 0.05, p &lt; 0.01, p &lt; 0.001, p &lt; 0.0001 and p &lt; 0.001, respectively). Grouping individuals according to the presence of TG-lowering or TG-raising polymorphisms showed significant differences in TG levels (p &lt; 0.0001), with the lowest levels exhibited by carriers of two lowering variants (10.2% reduction in TG geometric mean with respect to individuals who were homozygous for the frequent alleles of all the variants), and the highest levels in carriers of raising combinations (25.1% mean TG increase). Thus, carrying two lowering variants was protective against HTG (OR = 0.62; 95% CI, 0.39-0.98; p = 0.042) and having one single raising polymorphism (OR = 1.20; 95% CI, 1.39-2.87; p &lt; 0.001) or more (2 or 3 raising variants; OR = 2.90; 95% CI, 1.56-5.41; p &lt; 0.001) were associated with HTG. CONCLUSIONS: Our results showed a significant independent additive effect on TG levels of the LPL polymorphisms HindIII, S447X, D9N and N291S; the S19W and -1131T/C variants of APOA5, and the epsilon4 allele of APOE in our study population. Moreover, some of the variant combinations studied were significantly associated with the absence or the presence of hypertriglyceridemia.">
+	<sentence ID="1256_0" START="2146" END="2386">
+		<snp ID="0" START="2258" END="2265" TEXT="HindIII"/>
+		<snp ID="1" START="2267" END="2272" TEXT="S447X"/>
+		<snp ID="2" START="2274" END="2277" TEXT="D9N"/>
+		<snp ID="3" START="2282" END="2287" TEXT="N291S"/>
+		<phenotype ID="0" START="2223" END="2386" text="TG levels"/>
+		<modality_marker  START="2146" END="2157" text="CONCLUSIONS"/>
+		<modality_marker  START="2171" END="2177" text="showed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

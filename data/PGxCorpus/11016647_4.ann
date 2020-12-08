@@ -1,0 +1,13 @@
+T1	Disease 42 48	tumors 
+T2	Phenotype 88 111	depletion of tumor MGMT 
+T3	Gene_or_protein 107 111	MGMT 
+T4	Disease 101 111	tumor MGMT 
+T5	Chemical 117 133	O6-benzylguanine 
+T6	Chemical 136 140	6-BG 
+T7	Chemical 263 267	6-BG 
+T8	Gene_or_protein 279 283	MGMT 
+T10	Limited_variation 263 291	6-BG -resistant MGMT mutants
+T9	Phenotype 147 178	protection of sensitive tissues
+R1	isEquivalentTo Arg1:T6 Arg2:T5	
+R2	causes Arg1:T5 Arg2:T2	
+R3	causes Arg1:T10 Arg2:T9	

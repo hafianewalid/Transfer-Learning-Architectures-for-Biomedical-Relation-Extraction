@@ -1,0 +1,11 @@
+T1	Chemical 29 58	IMO cooperates with cetuximab 
+T2	Gene_or_protein 0 20	Toll-like receptor 9 
+T4	Gene_or_protein 62 67	K-ras 
+T6	Limited_variation 62 74	K-ras mutant
+T7	Chemical 49 58	cetuximab
+T8	Chemical 29 32	IMO
+T9	Chemical 0 28	Toll-like receptor 9 agonist
+T10	Disease 101 108;62 85	cancers K-ras mutant colorectal
+T11	Disease 62 74;90 108	K-ras mutant pancreatic cancers
+R2	isAssociatedWith Arg1:T1 Arg2:T11	
+R1	isAssociatedWith Arg1:T1 Arg2:T10	

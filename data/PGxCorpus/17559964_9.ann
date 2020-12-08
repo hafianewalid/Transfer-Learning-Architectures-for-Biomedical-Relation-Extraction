@@ -1,0 +1,5 @@
+T1	Limited_variation 16 32	GNB3 CC genotype 
+T2	Gene_or_protein 16 20	GNB3 
+T4	Limited_variation 96 112	non- CC genotype
+T5	Phenotype 57 60	SVR
+R1	decreases Arg1:T1 Arg2:T5	

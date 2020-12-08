@@ -1,0 +1,13 @@
+T1	SNP 130 138	rs180040
+T2	SNP 140 149	rs1056836
+T3	SNP 151 158	rs10012
+T4	SNP 160 169	rs1056827
+T5	SNP 171 180	rs1056837
+T6	SNP 186 195	rs2567206
+T7	Phenotype 77 81	POAG
+R1	negative_association Arg1:T1 Arg2:T7
+R2	negative_association Arg1:T2 Arg2:T7
+R3	negative_association Arg1:T3 Arg2:T7
+R4	negative_association Arg1:T4 Arg2:T7
+R5	negative_association Arg1:T5 Arg2:T7
+R6	negative_association Arg1:T6 Arg2:T7

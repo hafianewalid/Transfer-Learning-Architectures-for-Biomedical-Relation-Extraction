@@ -1,0 +1,29 @@
+T2	Disease 162 173	infertility 
+T3	Disease 222 236	ovarian cancer 
+T4	Limited_variation 256 261;271 279	BRCA1 mutation 
+T5	Gene_or_protein 256 261	BRCA1 
+T6	Gene_or_protein 265 270	BRCA2 
+T1	Chemical 86 130	selective estrogen receptor [ ER ] modulator
+T7	Chemical 133 145	gonadotropin
+T10	Limited_variation 265 279	BRCA2 mutation
+T11	Chemical 56 76	fertility medication
+R1	isAssociatedWith Arg1:T1 Arg2:T3	
+R2	isAssociatedWith Arg1:T7 Arg2:T3	
+R5	influences Arg1:T4 Arg2:T1	
+R6	influences Arg1:T4 Arg2:T7	
+R9	influences Arg1:T10 Arg2:T1	
+R10	influences Arg1:T10 Arg2:T7	
+R3	isAssociatedWith Arg1:T11 Arg2:T3	
+R4	influences Arg1:T10 Arg2:T11	
+R7	influences Arg1:T4 Arg2:T11	
+R8	isAssociatedWith Arg1:T3 Arg2:T4	
+R11	isAssociatedWith Arg1:T3 Arg2:T4	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#5	AnnotatorNotes R5	hyp
+#6	AnnotatorNotes R6	hyp
+#9	AnnotatorNotes R9	hyp
+#10	AnnotatorNotes R10	hyp
+#3	AnnotatorNotes R3	hyp
+#4	AnnotatorNotes R4	hyp
+#7	AnnotatorNotes R7	hyp

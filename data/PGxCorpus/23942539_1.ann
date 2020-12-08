@@ -1,0 +1,7 @@
+T1	Limited_variation 13 54	dihydropyrimidine dehydrogenase genotypes 
+T2	Gene_or_protein 13 44	dihydropyrimidine dehydrogenase 
+T3	Chemical 72 86	5-fluorouracil 
+T4	Disease 101 118	colorectal cancer 
+R1	treats Arg1:T3 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R2	hyp

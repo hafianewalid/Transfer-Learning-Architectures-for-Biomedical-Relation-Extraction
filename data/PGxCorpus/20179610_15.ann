@@ -1,0 +1,8 @@
+T1	Limited_variation 0 6	A2143G 
+T2	Pharmacodynamic_phenotype 58 83	clarithromycin resistance 
+T3	Chemical 58 72	clarithromycin 
+T4	Limited_variation 24 41	23S rRNA mutation
+T5	Genomic_factor 24 32	23S rRNA
+T6	Pharmacodynamic_phenotype 101 131	H. pylori eradication efficacy
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+R3	influences Arg1:T1 Arg2:T6	

@@ -1,0 +1,14 @@
+T1	Gene_or_protein 70 102	epidermal growth factor receptor 
+T2	Gene_or_protein 105 109	EGFR 
+T4	Gene_or_protein 168 172	EGFR 
+T5	Chemical 112 138	tyrosine kinase inhibitors
+T6	Chemical 141 144	TKI
+T7	Limited_variation 168 180	EGFR -mutant
+T8	Pharmacodynamic_phenotype 37 47	resistance
+T3	Gene_or_protein 112 127	tyrosine kinase
+T9	Disease 168 193	EGFR -mutant lung cancers
+T10	Chemical 70 138	epidermal growth factor receptor ( EGFR ) tyrosine kinase inhibitors
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R3	influences Arg1:T8 Arg2:T10	
+R5	isEquivalentTo Arg1:T6 Arg2:T5	
+R2	treats Arg1:T10 Arg2:T9	

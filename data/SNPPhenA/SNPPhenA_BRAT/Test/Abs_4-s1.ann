@@ -1,0 +1,6 @@
+T1	SNP 33 42	rs7521902
+T2	SNP 47 56	rs1250248
+T3	Phenotype 118 125	ovarian
+T4	Modality_Marker 86 91	found
+R1	weak_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

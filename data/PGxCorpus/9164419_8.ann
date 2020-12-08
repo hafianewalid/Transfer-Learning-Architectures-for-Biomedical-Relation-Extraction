@@ -1,0 +1,7 @@
+T1	Chemical 62 74	lansoprazole 
+T2	Limited_variation 120 175	S-mephenytoin 4'-hydroxylation ( CYP2C19 ) polymorphism 
+T4	Gene_or_protein 153 160	CYP2C19 
+T5	Pharmacokinetic_phenotype 45 74	hydroxylation of lansoprazole
+T6	Pharmacokinetic_phenotype 120 150	S-mephenytoin 4'-hydroxylation
+T3	Chemical 120 133	S-mephenytoin
+R1	isAssociatedWith Arg1:T5 Arg2:T2	

@@ -1,0 +1,8 @@
+T1	Gene_or_protein 28 31	p53
+T2	Chemical 104 107	DDP
+T4	Gene_or_protein 36 39	MMR
+T5	Pharmacodynamic_phenotype 84 107	cytotoxic effect of DDP
+T6	Disease 152 163	colon cance
+R1	influences Arg1:T1 Arg2:T5	
+R2	influences Arg1:T4 Arg2:T5	
+R3	influences Arg1:T5 Arg2:T6	

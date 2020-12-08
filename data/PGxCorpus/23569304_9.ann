@@ -1,0 +1,17 @@
+T1	Pharmacodynamic_phenotype 9 34	resistance to vemurafenib 
+T2	Chemical 23 34	vemurafenib 
+T3	Phenotype 106 135	ERK1/2 phosphorylation levels 
+T4	Gene_or_protein 106 112	ERK1/2 
+T5	Gene_or_protein 191 195	NRAS 
+T6	Gene_or_protein 217 221	MEK1 
+T7	Limited_variation 217 230;247 256	MEK1 ( Q56P ) mutations 
+T8	Gene_or_protein 234 244	MEK1(E203K 
+T9	Gene_or_protein 67 71	MAPK
+T10	Phenotype 51 81	reactivation of MAPK signaling
+T11	Limited_variation 191 213	NRAS ( Q61 ) mutations
+T12	Limited_variation 234 256	MEK1(E203K ) mutations
+R1	isAssociatedWith Arg1:T10 Arg2:T1	
+R2	isAssociatedWith Arg1:T1 Arg2:T3	
+R3	isAssociatedWith Arg1:T11 Arg2:T1	
+R4	isAssociatedWith Arg1:T12 Arg2:T1	
+R5	isAssociatedWith Arg1:T7 Arg2:T1	

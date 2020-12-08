@@ -1,0 +1,6 @@
+T1	SNP 48 64	CYP1A1 rs1048943
+T2	SNP 97 109	GSTP1 rs1695
+T3	Phenotype 169 182	breast cancer
+T4	Modality_Marker 30 38	observed
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T2 Arg2:T3

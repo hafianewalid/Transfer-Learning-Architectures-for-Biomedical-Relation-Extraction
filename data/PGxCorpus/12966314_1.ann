@@ -1,0 +1,6 @@
+T2	Gene_or_protein 20 40	dopamine receptor D1 
+T3	Chemical 89 96	alcohol 
+T1	Limited_variation 20 63	dopamine receptor D1 gene DdeI polymorphism
+T5	Phenotype 68 85	sensation seeking
+T6	Disease 89 107	alcohol -dependent
+R1	isAssociatedWith Arg1:T1 Arg2:T5	

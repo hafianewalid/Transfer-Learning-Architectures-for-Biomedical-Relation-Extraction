@@ -1,0 +1,8 @@
+T2	Gene_or_protein 0 5	GSTP1 
+T3	Limited_variation 0 28	GSTP1 Ile105Val polymorphism 
+T4	Chemical 112 122	irinotecan 
+T6	Disease 74 78	MCRC
+T5	Phenotype 45 70	progression-free survival
+T1	Disease 146 163	Colorectal Cancer
+R1	isAssociatedWith Arg1:T3 Arg2:T5	
+R2	treats Arg1:T4 Arg2:T6	

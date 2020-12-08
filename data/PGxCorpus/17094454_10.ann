@@ -1,0 +1,17 @@
+T1	Limited_variation 27 52	PSA -158 G/A polymorphism
+T2	Gene_or_protein 27 30	PSA
+T3	Genomic_factor 74 86	PSA promoter
+T4	Phenotype 74 95	PSA promoter activity
+T5	Phenotype 133 148	serum PSA level
+T6	Limited_variation 206 225	GG genotype of ARE1
+T7	Gene_or_protein 221 225	ARE1
+T8	Pharmacodynamic_phenotype 238 276	sensitive to androgen ablation therapy
+T9	Chemical 251 276	androgen ablation therapy
+T10	Gene_or_protein 74 77	PSA
+T11	Gene_or_protein 139 142	PSA
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T1 Arg2:T5	
+R3	influences Arg1:T6 Arg2:T8	
+#1	AnnotatorNotes R1	neg
+#2	AnnotatorNotes R2	neg
+#3	AnnotatorNotes R3	hyp

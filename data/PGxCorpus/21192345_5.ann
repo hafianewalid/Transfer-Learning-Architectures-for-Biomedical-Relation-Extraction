@@ -1,0 +1,4 @@
+T2	Gene_or_protein 36 41	EPHX1 
+T3	Chemical 152 160	warfarin 
+T4	Phenotype 168 205	stable international normalized ratio
+T1	Genomic_factor 27 41	exons of EPHX1

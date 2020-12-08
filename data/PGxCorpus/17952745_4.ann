@@ -1,0 +1,12 @@
+T1	Chemical 81 93	temozolomide 
+T3	Gene_or_protein 222 226	MGMT 
+T4	Phenotype 222 254	MGMT promotor methylation status
+T2	Genomic_variation 202 208	1p/19q
+T5	Phenotype 127 135	survival
+T6	Genomic_factor 222 235	MGMT promotor
+R1	influences Arg1:T1 Arg2:T5	
+R2	influences Arg1:T4 Arg2:T5	
+R3	influences Arg1:T2 Arg2:T5	
+#1	AnnotatorNotes R2	hyp
+#2	AnnotatorNotes R3	hyp
+#3	AnnotatorNotes R1	hyp

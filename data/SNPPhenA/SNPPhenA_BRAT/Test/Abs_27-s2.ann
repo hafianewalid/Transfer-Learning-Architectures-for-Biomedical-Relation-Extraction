@@ -1,0 +1,5 @@
+T1	SNP 0 13	STH variation
+T2	Phenotype 52 54	AD
+T3	Negation_Scope 18 69	not significantly associated with AD in our sample.
+T4	Negation_Cue 18 21	not
+R1	negative_association Arg1:T1 Arg2:T2

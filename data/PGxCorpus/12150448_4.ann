@@ -1,0 +1,16 @@
+T1	Gene_or_protein 39 48	HER-2/neu 
+T2	Gene_or_protein 51 55	HER2 
+T4	Gene_or_protein 180 184	HER2 
+T5	Phenotype 258 261	DTH 
+T7	Pharmacodynamic_phenotype 160 200	immunogenicity of a HER2 peptide vaccine
+T8	Chemical 180 200	HER2 peptide vaccine
+T9	Chemical 292 300	antigens
+T10	Phenotype 225 242	immune competence
+T12	Disease 39 79;92 99	HER-2/neu ( HER2 ) overexpressing breast cancers
+T6	Disease 39 72;84 99	HER-2/neu ( HER2 ) overexpressing ovarian cancers
+T3	Phenotype 39 72	HER-2/neu ( HER2 ) overexpressing
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R3	influences Arg1:T7 Arg2:T12	
+R4	influences Arg1:T7 Arg2:T6	
+#1	AnnotatorNotes R3	hyp
+#2	AnnotatorNotes R4	hyp

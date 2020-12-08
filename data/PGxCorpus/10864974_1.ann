@@ -1,0 +1,9 @@
+T1	Phenotype 0 21	Nigrostriatal lesions 
+T2	Disease 28 43	oral dyskinesia 
+T3	Phenotype 48 64	c-Fos expression 
+T4	Gene_or_protein 48 53	c-Fos 
+T5	Chemical 98 126	1-(m-chlorophenyl)piperazine 
+T6	Chemical 80 97	serotonin agonist
+R3	influences Arg1:T1 Arg2:T2	
+R5	causes Arg1:T5 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T3	

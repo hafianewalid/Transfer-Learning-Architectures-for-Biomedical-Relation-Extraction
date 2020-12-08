@@ -1,0 +1,16 @@
+T1	Chemical 50 56	copper 
+T2	Chemical 59 61	Cu 
+T3	Chemical 79 82	DSF 
+T4	Chemical 66 76	disulfiram 
+T6	Disease 150 163	breast cancer 
+T7	Genomic_variation 194 207	PIK3CA status 
+T8	Gene_or_protein 194 200	PIK3CA 
+T5	Chemical 105 124	antialcoholism drug
+T9	Phenotype 150 175	breast cancer cell growth
+R1	isEquivalentTo Arg1:T2 Arg2:T1	
+R2	isEquivalentTo Arg1:T3 Arg2:T4	
+R3	decreases Arg1:T4 Arg2:T9	
+R4	influences Arg1:T7 Arg2:T4	
+R5	influences Arg1:T1 Arg2:T4	
+R6	isAssociatedWith Arg1:T9 Arg2:T7	
+#1	AnnotatorNotes R4	neg

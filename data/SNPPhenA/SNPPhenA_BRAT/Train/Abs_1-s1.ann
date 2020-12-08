@@ -1,0 +1,4 @@
+T1	SNP 75 84	rs1051730
+T2	Phenotype 139 162	blood mononuclear cells
+T3	Modality_Marker 25 34	indicated
+R1	weak_confidence_association Arg1:T1 Arg2:T2

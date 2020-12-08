@@ -1,0 +1,8 @@
+T1	Chemical 87 101	5-fluorouracil 
+T2	Chemical 106 115	mitomycin 
+T4	Gene_or_protein 165 168	p53 
+T5	Limited_variation 120 176	mutations affecting the L2/L3 domains of the p53 protein
+T6	Pharmacodynamic_phenotype 67 101	lack of response to 5-fluorouracil
+T7	Pharmacodynamic_phenotype 106 115;67 86	mitomycin lack of response to
+R1	isAssociatedWith Arg1:T6 Arg2:T5	
+R2	isAssociatedWith Arg1:T7 Arg2:T5	

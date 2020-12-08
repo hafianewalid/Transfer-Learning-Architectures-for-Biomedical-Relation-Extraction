@@ -1,0 +1,9 @@
+T1	Chemical 137 147	cytarabine 
+T2	Chemical 150 163	anthracycline 
+T3	Disease 193 199	Cancer 
+T4	Disease 204 212	Leukemia 
+T5	Limited_variation 259 274	RUNX1 mutations 
+T6	Gene_or_protein 259 264	RUNX1 
+T7	Disease 107 113	CN-AML
+T8	Chemical 137 163	cytarabine / anthracycline
+R1	treats Arg1:T8 Arg2:T7	

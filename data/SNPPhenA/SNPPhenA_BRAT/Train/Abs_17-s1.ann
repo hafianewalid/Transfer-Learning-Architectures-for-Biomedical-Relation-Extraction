@@ -1,0 +1,11 @@
+T1	SNP 25 33	rs449647
+T2	SNP 40 48	rs769446
+T3	SNP 55 63	rs405509
+T4	SNP 71 79	rs429358
+T5	SNP 80 86	rs7412
+T6	Phenotype 109 111	AD
+R1	neutral_association Arg1:T1 Arg2:T6
+R2	neutral_association Arg1:T2 Arg2:T6
+R3	neutral_association Arg1:T3 Arg2:T6
+R4	neutral_association Arg1:T4 Arg2:T6
+R5	neutral_association Arg1:T5 Arg2:T6

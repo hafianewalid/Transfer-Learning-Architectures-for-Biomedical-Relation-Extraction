@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1061" TEXT="OBJECTIVE: We examined the associations between the nicotinic acetylcholine receptor polymorphism (rs1051730) on chromosome 15q25 marking thegene cluster CHRNA3-CHRNB4-CHRNA5, smoking behavior, and tobacco-related cancer and lung and cardiovascular diseases in the general population. METHODS: Ten thousand three hundred thirty participants from the Copenhagen City Heart Study were genotyped and observed prospectively with up to 18 years of 100% complete follow-up. Smoking behavior was measured at baseline. End points were lung cancer, bladder cancer, chronic obstructive pulmonary disease, ischemic heart disease, and ischemic stroke. RESULTS: Multifactorially adjusted and genotype-adjusted subhazard ratios for a cumulative tobacco consumption above 40 pack-years versus 0 pack-years were 32.5 (95% CI, 12.0 to 87.7) for lung cancer, 2.2 (95% CI, 1.1 to 4.5) for bladder cancer, 9.4 (95% CI, 6.9 to 12.7) for chronic obstructive pulmonary disease, 1.5 (95% CI, 1.3 to 1.8) for ischemic heart disease, and 1.1 (95% CI, 0.8 to 1.4) for ischemic stroke. Among smoking noncarriers and homozygotes, daily tobacco consumption was 16 and 18 g/d (P &lt; .001), cumulative tobacco consumption was 28 and 31 pack-years (P = .003), and smoking inhalation was 71.9% and 78.1% (P &lt; .001), respectively. Multifactorially adjusted and smoking behavior-adjusted subhazard ratios for homozygotes versus noncarriers were 1.6 (95% CI, 1.1 to 2.2) for lungcancer, 1.7 (95% CI, 1.0 to 3.0) for bladder cancer, 1.3 (95% CI, 1.1 to 1.6) for chronic obstructive pulmonary disease, 0.9 (95% CI, 0.7 to 1.0) forischemic heart disease, and 1.1 (95% CI, 0.8 to 1.4) for ischemic stroke. CONCLUSIONS: Although smoking is associated with major tobacco-related diseases in the general population, the nicotinic acetylcholine receptor polymorphism is associated with additional increased risk of lung cancer, bladdercancer, and chronic obstructive pulmonary disease after adjustment for smoking.">
+	<sentence ID="1061_0" START="11" END="284">
+		<snp ID="0" START="98" END="109" TEXT="(rs1051730)"/>
+		<phenotype ID="0" START="176" END="284" text="smoking behavior"/>
+		<phenotype ID="1" START="198" END="284" text="tobacco-related cancer"/>
+		<phenotype ID="2" START="225" END="284" text="lung and cardiovascular diseases"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

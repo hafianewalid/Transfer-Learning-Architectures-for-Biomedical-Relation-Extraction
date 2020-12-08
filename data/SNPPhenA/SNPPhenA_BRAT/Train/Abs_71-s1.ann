@@ -1,0 +1,7 @@
+T1	SNP 7 12	APOA1
+T2	Phenotype 64 76	dyslipidemia
+T3	Phenotype 102 109	obesity
+T4	Modality_Marker 113 117	less
+T5	Modality_Marker 118 123	known
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

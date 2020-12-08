@@ -1,0 +1,12 @@
+T1	Limited_variation 86 96	IVS4+76G>A 
+T2	Limited_variation 99 119	699G>A ( Met233Ile ) 
+T4	Limited_variation 122 135	IVS12-5676A>G 
+T5	Limited_variation 142 155	*347_*348insA 
+T6	Chemical 215 224	docetaxel 
+T3	Pharmacokinetic_phenotype 200 236	variability in docetaxel disposition
+T7	Pharmacokinetic_phenotype 239 248	clearance
+T8	Pharmacokinetic_phenotype 253 299	area under the plasma concentration-time curve
+R1	influences Arg1:T1 Arg2:T3	
+R4	influences Arg1:T2 Arg2:T3	
+R5	influences Arg1:T4 Arg2:T3	
+R6	influences Arg1:T5 Arg2:T3	

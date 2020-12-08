@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1142" TEXT="INTRODUCTION. Indians are more likely to develop alcoholic cirrhosis compared to Caucasians, though the cause remains obscure. North Indians tend to consume more alcohol than other parts of the country. Genetic factors are likely to play a major role in these observations. This study investigated whether 10 different polymorphisms were associated with alcohol dependence and/or cirrhosis in North Indians. These were in ADH2*2 (rs1229984),ADH3*2 (rs698), CYP2E1*1D, CYP2E1*5 (rs3813867 and rs2031920), TNF-α(rs1800629), TNF-α (rs361525), IL-1β (rs3087258), CD-14 (rs2569190), IL-10(rs1800872) and PNPLA3 (rs738409). MATERIAL AND METHODS. Hundred healthy controls and 120 chronic alcoholics (60 alcoholic noncirrhotics and 60 alcoholic cirrhotics) attending various departments of PGIMER, Chandigarh were genotyped using PCR-RFLP methods. RESULTS. Alcoholic cirrhotics compared to healthy individuals demonstrated a statistically significant increase in PNPLA3 (10109G) allele (p = 0.037, OR = 2.12, 95% CI 1.29-3.4). Restof the associations were not significant after correction for multiple testing. CONCLUSION. PNPLA3 10109G predisposed North Indian subjects toalcoholic cirrhosis.">
+	<sentence ID="1142_0" START="840" END="1018">
+		<snp ID="0" START="955" END="970" TEXT="PNPLA3 (10109G)"/>
+		<phenotype ID="0" START="849" END="1018" text="Alcoholic cirrhotics"/>
+		<modality_marker  START="902" END="914" text="demonstrated"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

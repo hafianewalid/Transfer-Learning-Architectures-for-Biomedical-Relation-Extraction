@@ -1,0 +1,3 @@
+T1	SNP 9 15	rs4680
+T2	Phenotype 86 88	AD
+R1	weak_confidence_association Arg1:T1 Arg2:T2

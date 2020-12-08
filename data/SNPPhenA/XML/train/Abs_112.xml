@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1016" TEXT="BACKGROUND: Cigarette smoking is strongly associated with mental illness but the caus.al direction of the association is uncertain. We investigated thecausal relationship between smoking and symptoms of anxiety and depression in the Norwegian HUNT study using the rs1051730 single nucleotidepolymorphism (SNP) variant located in the nicotine acetylcholine receptor gene cluster on chromosome 15 as an instrumental variable for smokingphenotypes Among smokers, this SNP is robustly associated with smoking quantity and nicotine dependence. Method In total, 53 601 participants were genotyped for the rs1051730 SNP and provided information on smoking habits and symptoms of anxiety and depression using the Hospital Anxietyand Depression Scale (HADS). RESULTS: Self-reported smoking was positively associated with the prevalence of both anxiety and depression, and the measured polymorphism was positively associated with being a current smoker and the number of cigarettes smoked in current smokers. In the sample as a whole, risk of anxiety increased with each affected T allele [odds ratio (OR) 1.06, 95% confidence interval (CI) 1.02-1.09, p = 0.002] but there was no association with depression (p = 0.31). However, we found no clear association of the polymorphism with either anxiety (OR 1.03, 95% CI 0.97-1.09, p = 0.34) or depression (OR 1.02, 95% CI 0.95-1.09, p = 0.62) among smokers. CONCLUSIONS: As there was no association of the smoking-relatedrs1051730 SNP with anxiety and depression among smokers, the results suggest that smoking is not a cause of anxiety and depression.">
+	<sentence ID="1016_0" START="132" END="444">
+		<snp ID="0" START="264" END="273" TEXT="rs1051730"/>
+		<phenotype ID="1" START="179" END="444" text="smoking"/>
+		<phenotype ID="2" START="203" END="444" text="anxiety"/>
+		<phenotype ID="0" START="215" END="444" text="depression"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

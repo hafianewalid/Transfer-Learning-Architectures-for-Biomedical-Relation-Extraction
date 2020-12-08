@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1124" TEXT="OBJECTIVE: The genetic susceptibility factors underlying sleep disorders might help us predict prognoses and responses to treatment. Several candidate polymorphisms for sleep disorders have been proposed, but there has as yet inadequate replication or validation that the candidates may be useful in the clinical setting. METHODS: To assess the validity of several candidate associations, we obtained saliva deoxyribonucleic acid (DNA) samples and clinical information from 360 consenting research participants who were undergoing clinical polysomnograms. Ten single nucleotide polymorphisms(SNPs) were genotyped. These were thought to be related to depression, circadian sleep disorders, sleep apnea, restless legs syndrome (RLS), excessive sleepiness, or to slow waves in sleep. RESULTS: With multivariate generalized linear models, the association of TEF rs738499 with depressive symptoms was confirmed. Equivocal statistical evidence of association of rs1801260 (the C3111T SNP in the CLOCK gene) with morningness/eveningness and an association of Apolipoprotein E (APOE) rs429358 with the Epworth Sleepiness Scale (ESS) were obtained, but these associations were not strong enough to be of clinical value by themselves. Predicted association of SNPs with sleep apnea, RLS, and slow wave sleep were not confirmed. CONCLUSIONS: The SNPs tested would not, by themselves, be of use for clinical genotyping in a sleep clinic.">
+	<sentence ID="1124_0" START="781" END="906">
+		<snp ID="0" START="858" END="866" TEXT="rs738499"/>
+		<phenotype ID="0" START="872" END="906" text="depressive"/>
+		<modality_marker  START="896" END="905" text="confirmed"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

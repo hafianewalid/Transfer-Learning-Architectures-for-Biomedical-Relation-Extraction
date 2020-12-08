@@ -1,0 +1,7 @@
+T2	Gene_or_protein 40 44	EGFR 
+T3	Chemical 99 109	everolimus 
+T1	Disease 35 58	non- EGFR mutant tumors
+T4	Pharmacodynamic_phenotype 4 17	response rate
+T5	Limited_variation 35 51	non- EGFR mutant
+R1	treats Arg1:T3 Arg2:T1	
+R2	influences Arg1:T3 Arg2:T4	

@@ -1,0 +1,13 @@
+T3	Gene_or_protein 96 101	eIF3a 
+T4	Limited_variation 129 150	eIF3a mutation status 
+T5	Gene_or_protein 129 134	eIF3a 
+T6	Chemical 198 206	platinum 
+T2	Limited_variation 54 75;85 106	mutations in promoter regions of eIF3a gene
+T8	Limited_variation 54 66;80 106	mutations in exon regions of eIF3a gene
+T9	Chemical 198 230	platinum -based chemotherapeutic
+T10	Disease 231 242	lung cancer
+T1	Genomic_factor 80 106	exon regions of eIF3a gene
+T7	Genomic_factor 67 75;85 106	promoter regions of eIF3a gene
+R1	influences Arg1:T4 Arg2:T10	
+R2	treats Arg1:T9 Arg2:T10	
+#1	AnnotatorNotes R1	hyp

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1230" TEXT="OBJECTIVE: Androgen receptors (AR) are expressed in endothelial cells and vascular smooth-muscle cells. Some studies suggest an association between AR gene variation and risk of cardiovascular disease (CVD) in men; however, the relationship has not been examined in women. METHODS: Six haplotype block-tagging single nucleotide polymorphisms (rs962458, rs6152, rs1204038, rs2361634, rs1337080, rs1337082), as well as the cysteine,adenine, guanine (CAG) microsatellite in exon 1, of the AR gene were evaluated among 300 white postmenopausal women who developed CVD (158myocardial infarctions and 142 ischemic strokes) and an equal number of matched controls within the Women's Health Study. RESULTS: Genotypedistributions were similar between cases and controls, and genotypes were not significantly related to risk of CVD, myocardial infarctions or ischemic stroke in conditional logistic regression models. Seven common haplotypes were observed, but distributions did not differ between cases and controls nor were significant associations observed in logistic regression analysis. The median CAG repeat length was 21. In conditional logistic regression, there was no association between the number of alleles with CAG repeat length &gt;or=21 (or &gt;or=22) and risk of CVD, myocardial infarctions or ischemic stroke. CONCLUSIONS: No association between AR genetic variation, as measured by haplotype-tagging single nucleotide polymorphisms and CAG repeat number, and risk of CVD was observed in women.">
+	<sentence ID="1230_0" START="1120" END="1312">
+		<snp ID="0" START="1216" END="1233" TEXT="CAG repeat length"/>
+		<phenotype ID="0" START="1265" END="1312" text="CVD"/>
+		<phenotype ID="1" START="1270" END="1312" text="myocardial infarctions"/>
+		<phenotype ID="2" START="1296" END="1312" text="ischemic stroke"/>
+		<negation_scope  START="1120" END="1312" text="In conditional logistic regression, there was no association between the number of alleles with CAG repeat length &gt;or=21 (or &gt;or=22) and risk of CVD, myocardial infarctions or ischemic stroke.">
+			<negation_cue START="1166" END="1168" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

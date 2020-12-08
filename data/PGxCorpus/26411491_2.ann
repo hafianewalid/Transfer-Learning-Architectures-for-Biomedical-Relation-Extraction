@@ -1,0 +1,6 @@
+T1	Chemical 7 23	6-mercaptopurine 
+T3	Gene_or_protein 44 48	TPMT 
+T4	Genomic_factor 70 83	TPMT promoter 
+T2	Phenotype 44 64	TPMT gene expression
+T5	Gene_or_protein 70 74	TPMT
+R1	influences Arg1:T1 Arg2:T2	

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1047" TEXT="Objective: We have conducted the first study of the association of interleukin (IL)-10, tumor necrosis factor alpha (TNF-α), and IL23R-IL12RB2 regionsingle nucleotide polymorphisms (SNPs) with Behçet's disease (BD) in Western Algeria. Methods: A total of 51 BD patients and 96 unrelated controls from West region of Algeria were genotyped by direct sequencing for 11 SNPs including 2 SNPs from the IL10 promoter [c.-819T &gt; C rs1800871, c.-592A &gt; C rs1800872, 6 SNPs from the TNF-α promoter [c.-1211T &gt; C rs1799964, c.-1043C  A rs1800630, c.-1037C &gt; T rs1799724, c.-556G &gt; A rs1800750, c.-488G &gt; A rs1800629, and c.-418G &gt; A rs361525], and 3 SNPs from the IL23R-IL12RB2 region [g.67747415A &gt; C rs12119179, g.67740092G &gt; A rs11209032, and g.67760140T &gt; C rs924080]. Results: The minor alleles c.-819T and c.-592A were significantly associated with BD [odds ratio (OR) = 2.18; 95% confidence interval (CI) 1.28-3.73, p = 0.003]; whereas, there was weaker association between TNF-α promoter SNPs or IL23R-IL12RB2 region and disease risk. Conclusion: Unlike the TNF-α and the IL23R-IL12RB2 region SNPs, the two IL10 SNPs were strongly associated with BD. The -819T, and -592A alleles and the -819TT, -819CT, and -592AA and -592CA genotypes seem to be highly involved in the risk of developing of BD in the population of Western Algeria.">
+	<sentence ID="1047_0" START="235" END="763">
+		<snp ID="0" START="425" END="434" TEXT="rs1800871"/>
+		<snp ID="1" START="448" END="457" TEXT="rs1800872"/>
+		<snp ID="2" START="504" END="513" TEXT="rs1799964"/>
+		<snp ID="3" START="525" END="536" TEXT="A rs1800630"/>
+		<snp ID="4" START="551" END="560" TEXT="rs1799724"/>
+		<snp ID="5" START="574" END="583" TEXT="rs1800750"/>
+		<snp ID="6" START="597" END="606" TEXT="rs1800629"/>
+		<snp ID="7" START="624" END="632" TEXT="rs361525"/>
+		<snp ID="8" START="693" END="703" TEXT="rs12119179"/>
+		<snp ID="9" START="721" END="731" TEXT="rs11209032"/>
+		<snp ID="10" START="753" END="761" TEXT="rs924080"/>
+		<phenotype ID="0" START="258" END="763" text="BD"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="7" PHENOTYPEID="0" SNPID="7" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="8" PHENOTYPEID="0" SNPID="8" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="9" PHENOTYPEID="0" SNPID="9" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="10" PHENOTYPEID="0" SNPID="10" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

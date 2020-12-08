@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1010" TEXT="Alzheimer's disease (AD) is the leading cause of dementia worldwide and is associated with a marked individual, familial and social burden. Catechol-O-mehyltransferase (COMT) is surfacing with a prominent role in AD pathophysiology by affecting the metabolism of catecholamine neurotransmitters andestrogen. COMT gene regulates dopamine levels in the prefrontal cortex which are involved in working memory and executive functioning. Impaired executive functioning is reported in a subgroup of AD patients and is associated with a more severe disorder, a more rapid disease progression and a shorter survival. The COMT rs4680 gene polymorphism has been investigated as a susceptibility factor forAD. No statistically significant results were found in meta-analysis but one study reported that the  rs4680 Val allele was associated with  AD-related psychosis. The COMT rs4680 polymorphism was also found to modulate declarative episodic memory in normal people and schizophrenic subjects. COMT inhibitors, that are adjunctive drugs in Parkinson'sdisease treatment, lower homocysteine levels and improve executive memory processes in normal subjects. A preliminary study, which needs replication, demonstrates that COMT inhibitors block beta-amyloid fibrils in vitro. Taken together, these findings suggest that research should focus on the role ofCOMT in AD pathogenesis and on the feasibility of targeting COMT activity in AD treatment.">
+	<sentence ID="1010_0" START="609" END="698">
+		<snp ID="0" START="618" END="624" TEXT="rs4680"/>
+		<phenotype ID="0" START="695" END="698" text="AD"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1010_1" START="699" END="857">
+		<snp ID="1" START="797" END="807" TEXT="rs4680 Val"/>
+		<phenotype ID="1" START="836" END="857" text="AD-related psychosis"/>
+		<modality_marker  START="741" END="746" text="found"/>
+		<modality_marker  START="778" END="786" text="reported"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+	<sentence ID="1010_2" START="858" END="986">
+		<snp ID="2" START="867" END="873" TEXT="rs4680"/>
+		<phenotype ID="2" START="914" END="986" text="declarative episodic memory"/>
+		<phenotype ID="3" START="963" END="986" text="schizophrenic subjects"/>
+		<modality_marker  START="896" END="901" text="found"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="2" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,13 @@
+T1	Limited_variation 0 74	Polymorphisms in 3-hydroxy-3-methylglutaryl-coenzyme A reductase ( HMGCR ) 
+T2	Gene_or_protein 67 72	HMGCR 
+T3	Gene_or_protein 17 64	3-hydroxy-3-methylglutaryl-coenzyme A reductase 
+T4	Chemical 121 132	pravastatin 
+T6	Chemical 202 213	fluvastatin 
+T7	Pharmacodynamic_phenotype 109 132	efficacy of pravastatin
+T5	Pharmacodynamic_phenotype 170 213	reduction of LDL cholesterol by fluvastatin
+T8	Pharmacodynamic_phenotype 170 198	reduction of LDL cholesterol
+R1	isEquivalentTo Arg1:T2 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T7	
+R3	influences Arg1:T1 Arg2:T5	
+R4	causes Arg1:T6 Arg2:T8	
+#1	AnnotatorNotes R3	neg

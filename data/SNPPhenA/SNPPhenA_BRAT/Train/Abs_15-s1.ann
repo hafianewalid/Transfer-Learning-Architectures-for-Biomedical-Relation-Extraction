@@ -1,0 +1,7 @@
+T1	SNP 199 207	rs662799
+T2	SNP 219 227	rs429358
+T3	SNP 306 311	rs675
+T4	Phenotype 165 169	MetS
+R1	weak_confidence_association Arg1:T1 Arg2:T4
+R2	weak_confidence_association Arg1:T2 Arg2:T4
+R3	weak_confidence_association Arg1:T3 Arg2:T4

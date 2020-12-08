@@ -1,0 +1,18 @@
+T1	Disease 22 35	breast cancer 
+T2	Chemical 52 55	E+P 
+T3	Limited_variation 121 139	CYP1A1 Ile(462)Val 
+T4	Gene_or_protein 121 127	CYP1A1 
+T5	Gene_or_protein 142 148	CYP1A1 
+T6	Limited_variation 156 174	CYP1B1 Asn(453)Ser 
+T7	Gene_or_protein 156 162	CYP1B1 
+T9	Gene_or_protein 181 184	PGR 
+T10	Limited_variation 181 196	PGR Val(660)Leu 
+T11	Limited_variation 142 153	CYP1A1 MspI
+T12	Pharmacodynamic_phenotype 22 55	breast cancer associated with E+P
+T8	Limited_variation 228 260	homozygous for the common allele
+R1	isAssociatedWith Arg1:T1 Arg2:T2	
+R2	increases Arg1:T3 Arg2:T12	
+R3	increases Arg1:T11 Arg2:T12	
+R4	increases Arg1:T6 Arg2:T12	
+R5	increases Arg1:T10 Arg2:T12	
+R6	influences Arg1:T8 Arg2:T12	

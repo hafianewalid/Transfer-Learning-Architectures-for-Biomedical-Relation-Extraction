@@ -1,0 +1,7 @@
+T3	Chemical 30 43	carbamazepine 
+T4	Gene_or_protein 74 79	HLA-A 
+T1	Pharmacodynamic_phenotype 30 69	carbamazepine -induced hypersensitivity
+T2	Haplotype 74 86	HLA-A * 3101
+T5	Pharmacodynamic_phenotype 53 69	hypersensitivity
+R1	isAssociatedWith Arg1:T2 Arg2:T1	
+R2	causes Arg1:T3 Arg2:T5	

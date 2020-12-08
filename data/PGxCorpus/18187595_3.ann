@@ -1,0 +1,10 @@
+T1	Gene_or_protein 18 25	SLCO1B1
+T2	Limited_variation 18 44	SLCO1B1 c. 521 CC genotype
+T3	Pharmacokinetic_phenotype 110 173	mean area under the plasma repaglinide concentration-time curve
+T4	Chemical 137 148	repaglinide
+T7	Pharmacokinetic_phenotype 176 179	AUC
+T5	Limited_variation 220 228;263 272	c. 521TC genotypes
+T6	Limited_variation 243 251;263 272	c. 521TT genotypes
+R1	increases Arg1:T2 Arg2:T3	
+R2	influences Arg1:T5 Arg2:T3	
+R3	influences Arg1:T6 Arg2:T3	

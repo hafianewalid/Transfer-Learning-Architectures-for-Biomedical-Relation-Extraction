@@ -1,0 +1,4 @@
+T1	Gene_or_protein 0 5	HLA-B 
+T2	Chemical 32 40	abacavir 
+T3	Haplotype 0 12	HLA-B * 5701
+R1	influences Arg1:T2 Arg2:T3	

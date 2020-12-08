@@ -1,0 +1,9 @@
+T1	Chemical 75 82	ecstasy 
+T2	Disease 91 101	depressive 
+T3	Disease 104 111	anxiety 
+T4	Limited_variation 183 224	polymorphism of the serotonin transporter 
+T6	Gene_or_protein 203 224	serotonin transporter 
+T7	Disease 249 259	depression 
+T8	Disease 264 281	anxiety disorders 
+R1	isAssociatedWith Arg1:T4 Arg2:T7	
+R2	isAssociatedWith Arg1:T4 Arg2:T8	

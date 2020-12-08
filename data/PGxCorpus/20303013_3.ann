@@ -1,0 +1,21 @@
+T2	Gene_or_protein 75 80	GSTM1 
+T3	Gene_or_protein 83 88	GSTT1 
+T4	Gene_or_protein 95 100	GSTP1 
+T1	Limited_variation 61 80	polymorphisms GSTM1
+T5	Limited_variation 61 74;83 88	polymorphisms GSTT1
+T6	Limited_variation 61 74;95 100	polymorphisms GSTP1
+T7	Pharmacodynamic_phenotype 104 122	treatment response
+T8	Disease 150 187	de novo diffuse large B-cell lymphoma
+T9	Chemical 207 279	rituximab plus cyclophosphamide / doxorubicin / vincristine / prednisone
+T10	Chemical 207 216	rituximab
+T11	Chemical 222 238	cyclophosphamide
+T12	Chemical 241 252	doxorubicin
+T13	Chemical 255 266	vincristine
+T14	Chemical 269 279	prednisone
+R1	influences Arg1:T1 Arg2:T7	
+R2	influences Arg1:T5 Arg2:T7	
+R3	influences Arg1:T6 Arg2:T7	
+R4	influences Arg1:T9 Arg2:T7	
+#1	AnnotatorNotes R1	hyp
+#2	AnnotatorNotes R2	hyp
+#3	AnnotatorNotes R3	hyp

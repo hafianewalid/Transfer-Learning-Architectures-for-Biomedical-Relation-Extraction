@@ -1,0 +1,11 @@
+T1	Limited_variation 38 73	genetic variation in COMT Val158Met 
+T2	Gene_or_protein 59 63	COMT 
+T3	Gene_or_protein 78 82	DRD2 
+T4	Gene_or_protein 85 90	ANKK1 
+T5	Chemical 153 160	alcohol 
+T6	Disease 153 171	alcohol dependence
+T7	Limited_variation 78 96	DRD2 / ANKK1 Taq1A
+R1	influences Arg1:T1 Arg2:T6	
+R3	influences Arg1:T7 Arg2:T6	
+#1	AnnotatorNotes R1	hyp
+#3	AnnotatorNotes R3	hyp

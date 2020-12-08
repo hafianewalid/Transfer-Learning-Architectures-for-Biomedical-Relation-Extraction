@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1037" TEXT="In this study, we investigated whether variants in three key pigmentation genes-  MC1R,   MATP/SLC45A2, and   OCA2--were involved in melanoma predisposition. A cohort comprising 1,019 melanoma patients (MelanCohort) and 1,466 Caucasian controls without skin cancers were studied. A total of 10 polymorphisms, including five functional MC1R alleles (p.Asp84Glu, p.Arg142His, p.Arg151Cys, p.Arg160Trp, and p.Asp294His), two nonsynonymous SLC45A2 variants (p.Phe374Leu and p.Glu272Lys), and three intronic OCA2 variants previously shown to be strongly associated with eye color (rs7495174T&gt;C, rs4778241 G&gt;T, and rs4778138 T&gt;C) were genotyped. As expected, MC1R variants were closely associated with melanoma risk (P value &lt;2.20.10(-16); odds ratio [OR]=2.29 [95% confidence interval, CI=1.85-2.82 and OR=3.3 [95% CI=2.00-5.45], for the presence of one or two variants, respectively). Interestingly, the SLC45A2 variant p.Phe374Leu was significantly and strongly protective for melanoma (P-value=2.12.10(-15); OR=0.35 [95% CI=0.26-0.46] and OR=0.32 [95% CI=0.24-0.43], considering the genotypes Phe/Leu and Leu/Leu, respectively).  MC1R and SLC45A2 variants had additive effects on melanoma risk, and after adjusting for pigmentation characteristics, the risk was persistent, even though both genes had a strong impact on pigmentation. Future studies may show whether genetic information could provide a useful complement to physical examination in predictingmelanoma risk.">
+	<sentence ID="1037_0" START="0" END="156">
+		<snp ID="0" START="82" END="86" TEXT="MC1R"/>
+		<snp ID="1" START="90" END="102" TEXT="MATP/SLC45A2"/>
+		<snp ID="2" START="110" END="114" TEXT="OCA2"/>
+		<phenotype ID="0" START="133" END="156" text="melanoma"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1037_1" START="1128" END="1330">
+		<snp ID="3" START="1128" END="1132" TEXT="MC1R"/>
+		<snp ID="4" START="1137" END="1144" TEXT="SLC45A2"/>
+		<phenotype ID="1" START="1178" END="1330" text="melanoma"/>
+		<pair PAIRID="3" PHENOTYPEID="1" SNPID="3" ASSOCIATION="positive" CONFIDENCE="weak"/>
+		<pair PAIRID="4" PHENOTYPEID="1" SNPID="4" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

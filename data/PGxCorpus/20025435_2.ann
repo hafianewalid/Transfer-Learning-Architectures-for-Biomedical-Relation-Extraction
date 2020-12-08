@@ -1,0 +1,15 @@
+T1	Limited_variation 39 77	polymorphisms in alcohol dehydrogenase 
+T2	Gene_or_protein 80 84	ADH2 
+T4	Gene_or_protein 87 92	ADH1B 
+T6	Gene_or_protein 99 121	aldehyde dehydrogenase 
+T7	Gene_or_protein 124 129	ALDH2 
+T8	Chemical 142 149	alcohol 
+T9	Chemical 234 241	alcohol 
+T11	Disease 142 160	alcohol dependence
+T3	Gene_or_protein 56 77	alcohol dehydrogenase
+T12	Limited_variation 39 55;99 121	polymorphisms in aldehyde dehydrogenase
+T13	Disease 234 252	alcohol dependence
+R1	isAssociatedWith Arg1:T1 Arg2:T11	
+R4	isAssociatedWith Arg1:T12 Arg2:T11	
+#1	AnnotatorNotes R1	hyp
+#3	AnnotatorNotes R4	hyp

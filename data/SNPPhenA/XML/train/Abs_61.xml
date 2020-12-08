@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1228" TEXT="Autism is a highly heritable disorder but the specific genes involved remain largely unknown. The higher prevalence of autism in men than in women, in conjunction with a number of other observations, has led to the suggestion that prenatal brain exposure to androgens may be of importance for the development of this condition. Prompted by this hypothesis, we investigated the potential influence of variation in the androgen receptor (AR) gene on the susceptibility for autism. To this end, 267 subjects with autism spectrum disorder and 617 controls were genotyped for three polymorphisms in exon 1 of the AR gene: the CAG repeat, the GGN repeat and the rs6152 SNP. In addition, parents and affected siblings were genotyped for 118 and 32 of the cases, respectively. Case-control comparisons revealed higher prevalence of short CAG alleles as well as of the A allele of the rs6152 SNP in female Autism cases than in controls, but revealed no significant differences with respect to the GGN repeat. Analysis of the 118 families using transmission disequilibrium test, on the other hand, suggested an association with the GGN polymorphism, the rare 20-repeat allele being undertransmitted to male cases and the 23-repeatallele being overtransmitted to female cases. Sequencing of the AR gene in 46 patients revealed no mutations or rare variants. The results lend some support for an influence of the studied polymorphisms on the susceptibility for autism, but argue against the possibility that mutations in the AR gene are common in subjects with this condition.">
+	<sentence ID="1228_0" START="769" END="999">
+		<snp ID="0" START="876" END="882" TEXT="rs6152"/>
+		<snp ID="1" START="988" END="998" TEXT="GGN repeat"/>
+		<phenotype ID="0" START="897" END="999" text="Autism"/>
+		<modality_marker  START="794" END="802" text="revealed"/>
+		<modality_marker  START="803" END="809" text="higher"/>
+		<modality_marker  START="932" END="940" text="revealed"/>
+		<negation_scope  START="928" END="999" text="but revealed no significant differences with respect to the GGN repeat.">
+			<negation_cue START="941" END="943" text="no"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="moderate"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

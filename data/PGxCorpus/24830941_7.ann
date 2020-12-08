@@ -1,0 +1,12 @@
+T1	Gene_or_protein 129 150	Jun N-terminal kinase 
+T3	Chemical 169 173	tBHQ 
+T4	Gene_or_protein 197 203	CYP2C9 
+T2	Chemical 15 32	kinase inhibitors
+T6	Gene_or_protein 37 69	mitogen-activated protein kinase
+T5	Gene_or_protein 87 124	extracellular signal-regulated kinase
+T7	Pharmacodynamic_phenotype 169 203	tBHQ -induced expression of CYP2C9
+T8	Pharmacodynamic_phenotype 183 203	expression of CYP2C9
+R1	decreases Arg1:T2 Arg2:T6	
+R2	influences Arg1:T5 Arg2:T7	
+R3	influences Arg1:T1 Arg2:T7	
+R4	causes Arg1:T3 Arg2:T8	

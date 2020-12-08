@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1259" TEXT="BACKGROUND: Apolipoprotein E (APOE) functional haplotypes determined by rs429358 and rs7412 SNPs have been extensively studied and found to be one of the most consistent association in human longevity studies. However, the search for longevity-determining genes in human has largely neglected theoperation of genetic interactions. METHODS: APOE haplotypes have been determined for 1072 unrelated healthy individuals from Central Italy, 18-106 years old, divided into three gender-specific age classes defined according to demographic information and accounting for the different survival between sexes. The epistasis between APOE haplotypes and Haptoglobin (HP) 1/2 polymorphism was tested according to three-way contingency table analysis by a log-linear model. RESULTS: APOE genotype and haplotype distributions differ significantly along the age classes (Genotype: p=0.014; Haplotype: p=0.005) with APOE*ε4 genotype status and haplotype displaying negative association (Genotype: O.R.=0.377, p=0.002, Haplotype: O.R.=0.447, p=0.005). A significant interaction between APOE*ε4 genotype status, HP 1/2 genotype and age classes is reported (p=0.006). CONCLUSIONS: APOE haplotypes are significantly associated with longevity in our population. Of note, HP*1/*1 genotype seems to protects APOE*ε4 carriers from age-related negative selection. Collectively, these results also suggest and claim for further investigations on APOE/HP interaction in other age-related diseases such as Alzheimer's disease, atherosclerosis and Parkinson's disease.">
+	<sentence ID="1259_0" START="0" END="209">
+		<snp ID="0" START="72" END="80" TEXT="rs429358"/>
+		<snp ID="1" START="85" END="91" TEXT="rs7412"/>
+		<phenotype ID="0" START="191" END="209" text="longevity"/>
+		<modality_marker  START="131" END="136" text="found"/>
+		<modality_marker  START="154" END="158" text="most"/>
+		<modality_marker  START="159" END="169" text="consistent"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

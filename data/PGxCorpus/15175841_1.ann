@@ -1,0 +1,4 @@
+T2	Gene_or_protein 19 24	c-Fos 
+T3	Chemical 93 101	morphine 
+T4	Phenotype 0 35	Withdrawal-induced c-Fos expression
+R1	causes Arg1:T3 Arg2:T4	

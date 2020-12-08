@@ -1,0 +1,8 @@
+T2	Gene_or_protein 62 66	IL18 
+T4	Disease 109 137	acute cutaneous inflammation 
+T5	Chemical 151 158	aspirin 
+T6	Pharmacodynamic_phenotype 201 205	AIAU 
+T7	Haplotype 44 66	ht1 [ CG ] of the IL18
+T1	Pharmacodynamic_phenotype 109 158	acute cutaneous inflammation sensitive to aspirin
+R1	influences Arg1:T7 Arg2:T1	
+R2	causes Arg1:T5 Arg2:T4	

@@ -1,0 +1,5 @@
+T1	SNP 10 15	A118G
+T2	Phenotype 55 95	postoperative Numerical Pain scale (NPS)
+T3	Phenotype 176 191	sedation scores
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3

@@ -1,0 +1,4 @@
+T1	SNP 61 71	APOA5 S19W
+T2	Phenotype 136 142	stroke
+T3	Modality_Marker 18 30	demonstrated
+R1	negative_association Arg1:T1 Arg2:T2

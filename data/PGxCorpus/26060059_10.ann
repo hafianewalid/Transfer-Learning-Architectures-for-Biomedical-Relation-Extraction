@@ -1,0 +1,21 @@
+T1	Limited_variation 0 28	IL28B rs8099917 / rs12979860 
+T2	Gene_or_protein 0 5	IL28B 
+T4	Disease 59 75	MC -positive HCV 
+T5	Chemical 90 111	PEG-IFN and ribavirin 
+T6	Chemical 102 111	ribavirin 
+T7	Disease 217 220	HCV 
+T3	Limited_variation 118 132	TT/CC genotype
+T8	Phenotype 152 155	SVR
+T9	Limited_variation 162 167	TG/TC
+T10	Phenotype 173 180	non-SVR
+T11	Disease 72 75	HCV
+T12	Disease 211 220	MC in HCV
+T13	Limited_variation 183 188	TT/CC
+T14	Chemical 90 97	PEG-IFN
+T15	Disease 59 61	MC
+T16	Disease 211 213	MC
+R6	treats Arg1:T5 Arg2:T4	
+R1	influences Arg1:T1 Arg2:T5	
+R2	isAssociatedWith Arg1:T3 Arg2:T8	
+R3	isAssociatedWith Arg1:T9 Arg2:T10	
+R4	influences Arg1:T13 Arg2:T12	

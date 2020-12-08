@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1054" TEXT="OBJECTIVE:  This study aimed to test the association between the Val158Met polymorphism rs4680 of the catechol-O-methyl transferase gene andanorexia nervosa (AN). METHODS: First, an association study on two cohorts (306 cases and 1009 controls from Utrecht, and 174 cases and 466 controls from Leiden/NTR) was performed. Subsequently, the results were integrated into a meta-analysis, together with all the case-control and family-based studies, which were testing the same hypothesis and were available in the literature. Altogether, eight studies (11 datasets) were included in this meta-analysis, with a total of 2021 cases, 2848 controls, and 89 informative (heterozygous) trios. RESULTS: The present association studies found no association between AN and rs4680 when testing the allelic contrast [Utrecht odds ratio (OR)=1.14, P=0.14; Leiden OR=1.02, P=0.85]. There was an indication of an association under the dominant model of genetic effect in the Utrecht cohort (for the Met allele, OR=1.42, P=0.03). Nevertheless, the meta-analyses of both the allelic contrast and the dominant effect were nonsignificant (the allelic pooled OR=1.03, P=0.42 and the dominant pooled OR=1.1, P=0.18). The meta-analyses were performed under the fixed-effect model and there was no significant heterogeneity among the effect sizes. CONCLUSIONS: Meta-analytically combined evidence from the present genotypings and the literature search shows that the effect sizes are homogeneous across studies and that rs4680 is not associated with AN.">
+	<sentence ID="1054_0" START="12" END="162">
+		<snp ID="0" START="88" END="94" TEXT="rs4680"/>
+		<phenotype ID="0" START="157" END="162" text="(AN)"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+	<sentence ID="1054_1" START="693" END="865">
+		<snp ID="1" START="761" END="767" TEXT="rs4680"/>
+		<phenotype ID="1" START="754" END="865" text="AN"/>
+		<modality_marker  START="725" END="730" text="found"/>
+		<negation_scope  START="693" END="865" text="The present association studies found no association between AN and rs4680 when testing the allelic contrast [Utrecht odds ratio (OR)=1.14, P=0.14; Leiden OR=1.02, P=0.85].">
+			<negation_cue START="731" END="733" text="no"/>
+		</negation_scope>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="1" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+	<sentence ID="1054_2" START="1336" END="1528">
+		<snp ID="2" START="1495" END="1501" TEXT="rs4680"/>
+		<phenotype ID="2" START="1525" END="1528" text="AN"/>
+		<modality_marker  START="1427" END="1432" text="shows"/>
+		<negation_scope  START="1336" END="1527" text="Meta-analytically combined evidence from the present genotypings and the literature search shows that the effect sizes are homogeneous across studies and that rs4680 is not associated with AN">
+			<negation_cue START="1505" END="1508" text="not"/>
+		</negation_scope>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="2" ASSOCIATION="negative" CONFIDENCE="-"/>
+	</sentence>
+</abstract>

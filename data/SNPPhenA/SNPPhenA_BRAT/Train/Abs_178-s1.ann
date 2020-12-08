@@ -1,0 +1,8 @@
+T1	SNP 58 67	rs1051730
+T2	Phenotype 97 104	smoking
+T3	Phenotype 151 158	smoking
+T4	Phenotype 162 169	obesity
+T5	Modality_Marker 128 133	shown
+R1	weak_confidence_association Arg1:T1 Arg2:T2
+R2	weak_confidence_association Arg1:T1 Arg2:T3
+R3	weak_confidence_association Arg1:T1 Arg2:T4

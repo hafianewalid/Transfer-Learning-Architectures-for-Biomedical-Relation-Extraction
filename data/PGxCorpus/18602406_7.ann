@@ -1,0 +1,5 @@
+T1	Gene_or_protein 3 8	beta3 
+T3	Chemical 65 79	valerenic acid 
+T4	Pharmacodynamic_phenotype 42 79	anxiolytic activity of valerenic acid
+T2	Limited_variation 3 32	beta3 ( N265M ) point-mutated
+R1	decreases Arg1:T2 Arg2:T4	

@@ -1,0 +1,9 @@
+T1	Limited_variation 20 29	RFC1 G80A
+T2	Gene_or_protein 20 24	RFC1
+T3	Chemical 80 83	MTX
+T4	Pharmacodynamic_phenotype 80 101	MTX -related toxicity
+T5	Disease 115 118	ALL
+T6	Pharmacodynamic_phenotype 93 101	toxicity
+R1	influences Arg1:T1 Arg2:T4	
+R2	isAssociatedWith Arg1:T3 Arg2:T6	
+#1	AnnotatorNotes R1	hyp

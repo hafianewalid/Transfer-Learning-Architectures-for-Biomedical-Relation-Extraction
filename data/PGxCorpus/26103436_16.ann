@@ -1,0 +1,17 @@
+T1	Disease 66 69	MCL 
+T2	Chemical 84 94	bortezomib 
+T3	Chemical 116 128	lenalidamide 
+T4	Gene_or_protein 168 192	Bruton's Tyrosine Kinase 
+T5	Chemical 155 165	Ibruitinib 
+T6	Gene_or_protein 195 198	BTK 
+T7	Disease 262 265	MCL 
+T8	Chemical 97 111	NFkB inhibitor
+T10	Chemical 168 210	Bruton's Tyrosine Kinase [ BTK ] inhibitor
+T9	Chemical 131 148	anti-angiogenesis
+R1	isEquivalentTo Arg1:T6 Arg2:T4	
+R5	isAssociatedWith Arg1:T2 Arg2:T1	
+R6	isAssociatedWith Arg1:T3 Arg2:T1	
+R7	isAssociatedWith Arg1:T5 Arg2:T1	
+R3	treats Arg1:T2 Arg2:T7	
+R4	treats Arg1:T3 Arg2:T7	
+R8	treats Arg1:T5 Arg2:T7	

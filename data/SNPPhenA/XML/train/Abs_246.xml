@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1164" TEXT="We evaluated  the association of a polymorphism in TCF7L2 RS12255372 in the WNT signaling pathway, which previously has been strongly associated with risk of Type II Diabetes, with colorectal cancer (CRC) and adenoma in the prospective Nurses' Health Study (NHS) and Health ProfessionalsFollow-up Study (HPFS) cohorts. Hyperinsulinemia may be related to the risk of colon adenoma and cancer, therefore this variant associated with reduced insulin secretion would be predicted to be inversely associated with colorectal cancer. Overall, in the NHS and HPFS, there was suggestive evidence for an inverse association associated with homozygosity for the minor allele of RS12255372 (TCF7L2 TT) and CRC (conditional and covariate adjusted OR = 0.63, 95% CI: 0.37-1.08; P for heterogeneity 0.52 for the association in women and men). In summary, the marginal association of theTCF7L2 SNP with CRC might be due to chance, but warrants further laboratory and epidemiological investigation.">
+	<sentence ID="1164_0" START="0" END="318">
+		<snp ID="0" START="58" END="68" TEXT="RS12255372"/>
+		<phenotype ID="0" START="158" END="318" text="Type II Diabetes"/>
+		<phenotype ID="1" START="181" END="318" text="colorectal cancer (CRC)"/>
+		<phenotype ID="2" START="209" END="318" text="adenoma"/>
+		<modality_marker  START="125" END="133" text="strongly"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+	<sentence ID="1164_1" START="527" END="827">
+		<snp ID="1" START="667" END="689" TEXT="RS12255372 (TCF7L2 TT)"/>
+		<phenotype ID="3" START="694" END="827" text="CRC"/>
+		<modality_marker  START="527" END="534" text="Overall"/>
+		<modality_marker  START="567" END="577" text="suggestive"/>
+		<pair PAIRID="3" PHENOTYPEID="3" SNPID="1" ASSOCIATION="positive" CONFIDENCE="weak"/>
+	</sentence>
+</abstract>

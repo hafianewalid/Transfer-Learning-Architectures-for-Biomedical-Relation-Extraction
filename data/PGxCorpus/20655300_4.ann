@@ -1,0 +1,7 @@
+T2	Gene_or_protein 71 75	BDNF 
+T3	Chemical 133 139	heroin 
+T1	Limited_variation 71 84	BDNF val66met
+T4	Phenotype 115 145	ages of onset for heroin abuse
+T5	Disease 133 145	heroin abuse
+R1	influences Arg1:T1 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

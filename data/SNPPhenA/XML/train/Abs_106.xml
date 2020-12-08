@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1009" TEXT="Collectively, these results also suggest and claim for further investigations on APOE/HP interaction in other age-related diseases such as Alzheimer's disease, atherosclerosis and Parkinson's disease.">
+	<sentence ID="1009_0" START="0" END="200">
+		<snp ID="0" START="81" END="85" TEXT="APOE"/>
+		<phenotype ID="0" START="139" END="200" text="Alzheimer"/>
+		<phenotype ID="1" START="160" END="200" text="atherosclerosis"/>
+		<phenotype ID="2" START="180" END="200" text="Parkinson"/>
+		<modality_marker  START="33" END="40" text="suggest"/>
+		<modality_marker  START="104" END="109" text="other"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="1" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="2" PHENOTYPEID="2" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

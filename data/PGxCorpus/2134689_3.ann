@@ -1,0 +1,7 @@
+T1	Chemical 34 47	S-mephenytoin 
+T2	Chemical 61 75	R- mephenytoin 
+T3	Gene_or_protein 111 135	cytochrome P-450 human-2 
+T4	Pharmacokinetic_phenotype 17 47	hydroxylation of S-mephenytoin
+T5	Pharmacokinetic_phenotype 17 33;61 75	hydroxylation of R- mephenytoin
+R1	isAssociatedWith Arg1:T4 Arg2:T3	
+R2	isAssociatedWith Arg1:T5 Arg2:T3	

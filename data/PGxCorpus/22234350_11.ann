@@ -1,0 +1,5 @@
+T1	Haplotype 51 68	NFATc4 haplotypes
+T2	Gene_or_protein 51 57	NFATc4
+T4	Disease 163 168	NODAT
+T3	Chemical 87 91	CNI-
+R1	decreases Arg1:T1 Arg2:T4	

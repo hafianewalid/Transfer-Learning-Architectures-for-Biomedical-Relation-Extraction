@@ -1,0 +1,8 @@
+T4	Disease 59 87	chronic myelogenous leukemia
+T5	Chemical 135 152	imatinib mesylate
+T1	Gene_or_protein 13 27	BCR-ABL kinase
+T2	Limited_variation 13 37	BCR-ABL kinase mutations
+T3	Phenotype 111 131	ytogenetic remission
+R1	isAssociatedWith Arg1:T5 Arg2:T2	
+R2	isAssociatedWith Arg1:T2 Arg2:T4	
+#1	AnnotatorNotes R1	hyp

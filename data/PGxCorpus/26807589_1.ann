@@ -1,0 +1,6 @@
+T1	Limited_variation 2 41	Single-Nucleotide Polymorphism in ABCC4 
+T2	Gene_or_protein 36 41	ABCC4 
+T3	Chemical 61 70	Tenofovir 
+T5	Disease 61 104	Tenofovir -Related Beta2 -Microglobulinuria
+T4	Disease 127 132	HIV-1
+R1	isAssociatedWith Arg1:T1 Arg2:T5	

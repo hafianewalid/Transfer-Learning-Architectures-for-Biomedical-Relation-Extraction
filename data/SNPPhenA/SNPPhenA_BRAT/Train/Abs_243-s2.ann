@@ -1,0 +1,6 @@
+T1	SNP 7 20	TCF7L2variant
+T2	Phenotype 76 79	TCP
+T3	Phenotype 84 88	FCPD
+T4	Modality_Marker 21 27	showed
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3

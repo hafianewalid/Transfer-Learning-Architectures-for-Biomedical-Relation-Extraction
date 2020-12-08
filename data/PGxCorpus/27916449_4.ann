@@ -1,0 +1,7 @@
+T1	Limited_variation 26 49	GNAO1 missense mutation 
+T2	Gene_or_protein 26 31	GNAO1 
+T3	Chemical 74 84	topiramate 
+T4	Disease 130 136	chorea 
+T5	Phenotype 57 71	age of 18years
+R1	treats Arg1:T3 Arg2:T4	
+R2	isAssociatedWith Arg1:T1 Arg2:T4	

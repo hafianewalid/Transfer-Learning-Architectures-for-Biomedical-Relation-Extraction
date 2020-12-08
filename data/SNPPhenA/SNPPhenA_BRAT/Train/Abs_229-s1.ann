@@ -1,0 +1,8 @@
+T1	SNP 11 19	rs429358
+T2	SNP 102 111	rs2075650
+T3	SNP 163 171	rs677909
+T4	Phenotype 276 278	AD
+T5	Modality_Marker 234 239	model
+R1	strong_confidence_association Arg1:T1 Arg2:T4
+R2	strong_confidence_association Arg1:T2 Arg2:T4
+R3	strong_confidence_association Arg1:T3 Arg2:T4

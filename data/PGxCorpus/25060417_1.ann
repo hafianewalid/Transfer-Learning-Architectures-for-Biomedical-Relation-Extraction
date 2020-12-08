@@ -1,0 +1,8 @@
+T1	Chemical 12 22	diflunisal 
+T2	Phenotype 26 47	autonomic dysfunction 
+T3	Disease 62 93	familial amyloid polyneuropathy 
+T4	Gene_or_protein 96 99	TTR 
+T5	Limited_variation 96 108	TTR Val30Met 
+T6	Pharmacodynamic_phenotype 0 22	Efficacy of diflunisal
+R1	influences Arg1:T6 Arg2:T2	
+#1	AnnotatorNotes R1	hyp

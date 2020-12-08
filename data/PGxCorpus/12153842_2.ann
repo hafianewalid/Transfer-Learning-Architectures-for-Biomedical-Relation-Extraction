@@ -1,0 +1,5 @@
+T1	Gene_or_protein 82 86	ADH2 
+T4	Haplotype 82 90	ADH2 * 2
+T5	Gene_or_protein 109 130	alcohol dehydrogenase
+T6	Phenotype 158 172	heavy drinking
+R1	decreases Arg1:T4 Arg2:T6	

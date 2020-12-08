@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1190" TEXT="Transcription factor 7-like 2 (TCF7L2) is part of the Wnt signaling pathway. Genetic variants within TCF7L2 on chromosome 10q were recently reported to be associated with type 2 diabetes in Icelandic, Danish, and American (U.S.) samples. We previously observed a modest logarithm of odds score of 0.61 on chromosome 10q, approximately 1 Mb from TCF7L2, in the Finland-United States Investigation of NIDDM Genetics study. We tested the five associated TCF7L2 single nucleotide polymorphism (SNP) variants in a Finnish sample of 1,151 type 2 diabetic patients and 953 control subjects. We confirmed the association with the same risk allele (P value &lt;0.05) for all five SNPs. Our strongest results were for rs12255372 (odds ratio [OR] 1.36 [95% CI 1.15-1.61], P = 0.00026) and rs7903146 (1.33 [1.14-1.56], P = 0.00042). Based on the CEU HapMap data, we selected and tested 12 additional SNPs to tag SNPs in linkage disequilibrium with rs12255372.None of these SNPs showed stronger evidence of association than rs12255372 or rs7903146 (OR &lt; or =1.26, P &gt; or = 0.0054). Our results strengthen the evidence that one or more variants in TCF7L2 are associated with increased risk of type 2 diabetes.">
+	<sentence ID="1190_0" START="1066" END="1192">
+		<snp ID="0" START="1131" END="1137" TEXT="TCF7L2"/>
+		<phenotype ID="0" START="1176" END="1192" text="type 2 diabetes"/>
+		<modality_marker  START="1114" END="1118" text="more"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

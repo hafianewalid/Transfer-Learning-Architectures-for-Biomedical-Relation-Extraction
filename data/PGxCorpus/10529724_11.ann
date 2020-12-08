@@ -1,0 +1,11 @@
+T3	Gene_or_protein 26 30	nNOS
+T4	Pharmacodynamic_phenotype 75 113	METH -induced behavioral sensitization
+T5	Chemical 75 79	METH
+T7	Gene_or_protein 44 48	iNOS
+T6	Phenotype 44 59	iNOS deficiency
+T1	Phenotype 26 41	nNOS deficiency
+T2	Pharmacodynamic_phenotype 89 113	behavioral sensitization
+R1	influences Arg1:T1 Arg2:T4	
+R2	influences Arg1:T6 Arg2:T4	
+R3	causes Arg1:T5 Arg2:T2	
+#1	AnnotatorNotes R2	neg

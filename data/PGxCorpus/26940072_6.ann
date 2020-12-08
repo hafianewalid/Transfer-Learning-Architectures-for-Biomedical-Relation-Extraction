@@ -1,0 +1,10 @@
+T2	Chemical 65 73	warfarin 
+T3	Gene_or_protein 93 99	CYP2C9 
+T4	Gene_or_protein 122 128	VKORC1 
+T5	Limited_variation 129 138	rs9923231 
+T6	Limited_variation 141 150	rs9934438 
+T7	Limited_variation 153 159	rs7294 
+T8	Limited_variation 164 173	rs2884737 
+T1	Haplotype 93 103	CYP2C9 * 1
+T9	Haplotype 106 109;93 99	* 2 CYP2C9
+T10	Haplotype 114 117;93 99	* 3 CYP2C9

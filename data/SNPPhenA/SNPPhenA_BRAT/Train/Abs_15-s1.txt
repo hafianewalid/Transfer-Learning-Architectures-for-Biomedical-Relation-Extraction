@@ -1,0 +1,1 @@
+RESULTS: After correcting for multiple testing (p<0.05) and accounting for significant differences in the association effect sizes between subjects with and without MetS (p<0.05), variants of APOA5 (rs662799) and APOE (rs429358) were associated with HDL-C and LDL-C responses in MetS subjects, while APOA4 rs675 was associated with TG response in non-MetS subjects.

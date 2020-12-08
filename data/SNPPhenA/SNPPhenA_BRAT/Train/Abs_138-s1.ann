@@ -1,0 +1,5 @@
+T1	SNP 16 26	rs67384697
+T2	Phenotype 288 293	HIV-1
+T3	Modality_Marker 67 73	strong
+T4	Modality_Marker 241 250	potential
+R1	strong_confidence_association Arg1:T1 Arg2:T2

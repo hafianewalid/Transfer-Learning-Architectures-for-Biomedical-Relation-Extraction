@@ -1,0 +1,15 @@
+T1	SNP 124 132	rs662799
+T2	SNP 144 152	rs429358
+T3	SNP 232 237	rs675
+T4	Phenotype 175 200	HDL-C and LDL-C responses
+T5	Phenotype 204 208	MetS
+T6	Phenotype 259 270	TG response
+R1	weak_confidence_association Arg1:T1 Arg2:T5
+R2	weak_confidence_association Arg1:T2 Arg2:T5
+R3	neutral_association Arg1:T3 Arg2:T5
+R4	neutral_association Arg1:T1 Arg2:T6
+R5	neutral_association Arg1:T2 Arg2:T6
+R6	weak_confidence_association Arg1:T3 Arg2:T6
+R7	weak_confidence_association Arg1:T1 Arg2:T4
+R8	weak_confidence_association Arg1:T2 Arg2:T4
+R9	neutral_association Arg1:T3 Arg2:T4

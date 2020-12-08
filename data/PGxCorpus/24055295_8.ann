@@ -1,0 +1,21 @@
+T1	Chemical 15 21	JTC801 
+T3	Gene_or_protein 73 76	FLG 
+T4	Gene_or_protein 162 170	loricrin 
+T5	Gene_or_protein 173 183	keratin 10 
+T6	Gene_or_protein 190 208	transglutaminase 1 
+T7	Phenotype 35 39;63 76	mRNA levels of FLG
+T8	Phenotype 44 76	protein expression levels of FLG
+T10	Phenotype 162 170;89 103	loricrin mRNA levels of
+T11	Phenotype 173 183;89 103	keratin 10 mRNA levels of
+T12	Phenotype 190 208;89 103	transglutaminase 1 mRNA levels of
+T2	Phenotype 89 149	mRNA levels of other makers for keratinocyte differentiation
+R1	influences Arg1:T1 Arg2:T7	
+R2	influences Arg1:T1 Arg2:T8	
+R3	influences Arg1:T1 Arg2:T12	
+R4	influences Arg1:T1 Arg2:T11	
+R5	influences Arg1:T1 Arg2:T10	
+R6	influences Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes R4	neg
+#2	AnnotatorNotes R3	neg
+#3	AnnotatorNotes R5	neg
+#4	AnnotatorNotes R6	neg

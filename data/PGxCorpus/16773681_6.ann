@@ -1,0 +1,10 @@
+T3	Gene_or_protein 252 282	thiopurine S-methyltransferase 
+T4	Gene_or_protein 285 289	TPMT 
+T6	Chemical 341 351	thiopurine 
+T7	Disease 162 165	IBD
+T5	Limited_variation 252 310	thiopurine S-methyltransferase ( TPMT ) gene polymorphisms
+T1	Pharmacodynamic_phenotype 315 351	hematological toxicity of thiopurine
+T2	Pharmacodynamic_phenotype 315 337	hematological toxicity
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	influences Arg1:T5 Arg2:T1	
+R3	causes Arg1:T6 Arg2:T2	

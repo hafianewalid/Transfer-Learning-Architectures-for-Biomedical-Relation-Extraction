@@ -1,0 +1,5 @@
+T1	SNP 23 32	rs1333049
+T2	Phenotype 63 83	hypercholesterolemia
+T3	Negation_Scope 0 163	However, the effect of rs1333049:C>G in INK4 locus in familial hypercholesterolemia patients and on lipid profile of the patients has not been studied in Pakistan.
+T4	Negation_Cue 134 137	not
+R1	neutral_association Arg1:T1 Arg2:T2

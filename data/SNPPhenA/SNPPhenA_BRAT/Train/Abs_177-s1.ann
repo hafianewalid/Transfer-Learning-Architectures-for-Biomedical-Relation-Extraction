@@ -1,0 +1,7 @@
+T1	SNP 36 42	TCF7L2
+T2	Phenotype 111 131	gestational diabetes
+T3	Modality_Marker 19 27	observed
+T4	Modality_Marker 72 77	shown
+T5	Negation_Scope 0 170	No interaction was observed between TCF7L2 and HLA-DQB1*0602, which was shown to be negatively associated with gestational diabetes in mothers born in Sweden (P = 0.010).
+T6	Negation_Cue 0 2	No
+R1	moderate_confidence_association Arg1:T1 Arg2:T2

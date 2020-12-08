@@ -1,0 +1,14 @@
+T1	Chemical 52 61	gefitinib 
+T2	Chemical 66 75	erlotinib 
+T3	Limited_variation 134 148	EGFR mutations 
+T4	Gene_or_protein 134 138	EGFR 
+T5	Disease 109 114	NSCLC
+T6	Phenotype 184 187	PFS
+T7	Phenotype 156 181	progression-free survival
+T8	Pharmacodynamic_phenotype 83 92	responses
+R1	isEquivalentTo Arg1:T6 Arg2:T7	
+R2	treats Arg1:T2 Arg2:T5	
+R3	treats Arg1:T1 Arg2:T5	
+R4	isAssociatedWith Arg1:T3 Arg2:T8	
+R5	causes Arg1:T2 Arg2:T8	
+R6	causes Arg1:T1 Arg2:T8	

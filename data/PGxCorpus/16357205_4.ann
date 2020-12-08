@@ -1,0 +1,13 @@
+T1	Chemical 50 62	tetracycline
+T2	Phenotype 134 170	hematopoietic mesoderm specification
+T3	Phenotype 183 217	hematopoietic progenitor formation
+T4	Phenotype 257 295	multilineage hematopoietic engraftment
+T5	Gene_or_protein 74 78	Cdx4
+T6	Gene_or_protein 109 113	Cdx4
+T7	Phenotype 109 124	Cdx4 expression
+T8	Gene_or_protein 240 245	HoxB4
+T9	Genomic_factor 50 78	tetracycline -inducible Cdx4
+T10	Phenotype 109 124;226 245	Cdx4 expression together with HoxB4
+R1	increases Arg1:T7 Arg2:T2	
+R2	increases Arg1:T7 Arg2:T3	
+R3	increases Arg1:T10 Arg2:T4	

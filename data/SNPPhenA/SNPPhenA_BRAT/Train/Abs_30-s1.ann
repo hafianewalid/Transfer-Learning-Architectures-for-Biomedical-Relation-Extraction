@@ -1,0 +1,7 @@
+T1	SNP 10 24	Val158Met COMT
+T2	Phenotype 61 63	PD
+T3	Phenotype 129 131	PD
+T4	Negation_Scope 41 232	not associated with PD in the Caucasian population but acts as a modifier of the AAO in PD with a sexual dimorphism: the Val allele is associated with a younger AAO in men with idiopathic PD.
+T5	Negation_Cue 41 44	not
+R1	negative_association Arg1:T1 Arg2:T2
+R2	negative_association Arg1:T1 Arg2:T3

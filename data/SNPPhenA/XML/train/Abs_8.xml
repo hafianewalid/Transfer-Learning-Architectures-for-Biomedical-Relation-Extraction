@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1248" TEXT="BACKGROUND: Genome-wide association studies identified several single nucleotide polymorphisms (SNP) associated with prevalent coronary heartdisease (CHD), but less is known of associations with incident CHD. The association of 13 published CHD SNPs was examined in 5 ancestry groups of 4 large US prospective cohorts. RESULTS: The analyses included incident coronary events over an average 9.1 to 15.7 follow-up person-years in up to 26 617 white individuals (6626 events), 8018 black individuals (914 events), 1903 Hispanic individuals (113 events), 3669 American Indian individuals (595 events), and 885 Asian/Pacific Islander individuals (66 events). We used Cox proportional hazards models (with additive mode of inheritance) adjusted for age, sex, and ancestry (as needed). Nine loci were statistically associated with incident CHD events in white participants: 9p21 (rs10757278; P=4.7 × 10(-41)), 16q23.1 (rs2549513; P=0.0004), 6p24.1 (rs499818; P=0.0002), 2q36.3 (rs2943634; P=6.7 × 10(-6)), MTHFD1L (rs6922269, P=5.1 × 10(-10)),APOE (rs429358; P=2.7×10(-18)), ZNF627 (rs4804611; P=5.0 × 10(-8)), CXCL12 (rs501120; P=1.4 × 10(-6)) and LPL (rs268; P=2.7 × 10(-17)). The 9p21 region showed significant between-study heterogeneity, with larger effects in individuals age 55 years or younger and in women. Inclusion of coronary revascularization procedures among the incident CHD events introduced heterogeneity. The SNPs were not associated with CHD in black participants, and associations varied in other US minorities. CONCLUSIONS: Prospective analyses of white participants replicated several reported cross-sectional CHD-SNP associations.">
+	<sentence ID="1248_0" START="780" END="1171">
+		<snp ID="0" START="874" END="884" TEXT="rs10757278"/>
+		<snp ID="1" START="913" END="922" TEXT="rs2549513"/>
+		<snp ID="2" START="943" END="951" TEXT="rs499818"/>
+		<snp ID="3" START="972" END="981" TEXT="rs2943634"/>
+		<snp ID="4" START="1009" END="1018" TEXT="rs6922269"/>
+		<snp ID="5" START="1043" END="1051" TEXT="rs429358"/>
+		<snp ID="6" START="1077" END="1086" TEXT="rs4804611"/>
+		<snp ID="7" START="1113" END="1121" TEXT="rs501120"/>
+		<snp ID="8" START="1148" END="1153" TEXT="rs268"/>
+		<phenotype ID="0" START="834" END="1171" text="CHD"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="2" PHENOTYPEID="0" SNPID="2" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="3" PHENOTYPEID="0" SNPID="3" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="4" PHENOTYPEID="0" SNPID="4" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="5" PHENOTYPEID="0" SNPID="5" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="6" PHENOTYPEID="0" SNPID="6" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="7" PHENOTYPEID="0" SNPID="7" ASSOCIATION="positive" CONFIDENCE="strong"/>
+		<pair PAIRID="8" PHENOTYPEID="0" SNPID="8" ASSOCIATION="positive" CONFIDENCE="strong"/>
+	</sentence>
+</abstract>

@@ -1,0 +1,8 @@
+T1	SNP 80 84	COMT
+T2	Phenotype 135 145	depression
+T3	Modality_Marker 3 13	conclusion
+T4	Modality_Marker 19 27	findings
+T5	Modality_Marker 36 44	evidence
+T6	Modality_Marker 65 70	other
+T7	Modality_Marker 151 162	demonstrate
+R1	strong_confidence_association Arg1:T1 Arg2:T2

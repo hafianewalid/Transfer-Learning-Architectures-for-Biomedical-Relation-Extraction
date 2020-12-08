@@ -1,0 +1,7 @@
+T1	SNP 85 94	rs6495309
+T2	Phenotype 169 173	COPD
+T3	Phenotype 178 189	lung cancer
+T4	Modality_Marker 9 13	show
+T5	Modality_Marker 44 51	suggest
+R1	strong_confidence_association Arg1:T1 Arg2:T2
+R2	strong_confidence_association Arg1:T1 Arg2:T3

@@ -1,0 +1,11 @@
+T1	Chemical 16 38	icotinib hydrochloride 
+T2	Limited_variation 103 116	EGFR mutation 
+T3	Gene_or_protein 103 107	EGFR 
+T4	Pharmacodynamic_phenotype 4 38	efficacy of icotinib hydrochloride
+T5	Phenotype 59 82	ECOG performance status
+T6	Phenotype 121 125	rash
+T7	Phenotype 85 100	smoking history
+R1	isAssociatedWith Arg1:T4 Arg2:T5	
+R2	isAssociatedWith Arg1:T4 Arg2:T2	
+R3	isAssociatedWith Arg1:T4 Arg2:T6	
+R4	isAssociatedWith Arg1:T4 Arg2:T7	

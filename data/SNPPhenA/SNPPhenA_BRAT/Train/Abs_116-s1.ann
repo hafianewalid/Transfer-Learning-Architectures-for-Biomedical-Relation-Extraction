@@ -1,0 +1,10 @@
+T1	SNP 24 28	APOE
+T2	Phenotype 148 169	cognitive performance
+T3	Modality_Marker 0 11	CONCLUSIONS
+T4	Modality_Marker 48 54	strong
+T7	Negation_Cue 111 114	not
+T8	Negation_Scope 100 169	there does not seem to be meaningful effects on cognitive performance
+T9	Modality_Marker 171 181	suggesting
+R1	negative_association Arg1:T1 Arg2:T2
+T10	Negation_Cue 254 257	not
+T5	Negation_Scope 250 284	are not important until later life

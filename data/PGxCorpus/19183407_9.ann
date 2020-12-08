@@ -1,0 +1,7 @@
+T1	Chemical 27 34	AKR-501 
+T2	Chemical 55 58	TPO 
+T3	Disease 129 145	thrombocytopenia 
+T4	Gene_or_protein 55 67	TPO receptor
+R1	increases Arg1:T1 Arg2:T4	
+R2	treats Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes R2	hyp

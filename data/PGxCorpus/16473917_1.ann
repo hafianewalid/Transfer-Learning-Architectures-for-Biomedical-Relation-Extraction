@@ -1,0 +1,8 @@
+T1	Limited_variation 11 41	CYP1A2 deficiency polymorphism 
+T2	Gene_or_protein 11 17	CYP1A2 
+T3	Chemical 87 151	4-cyclohexyl-1-ethyl-7-methylpyrido[2,3-D]-pyrimidine-2-(1H)-one 
+T4	Chemical 154 162	YM-64227 
+T5	Pharmacokinetic_phenotype 67 164	pharmacokinetics of 4-cyclohexyl-1-ethyl-7-methylpyrido[2,3-D]-pyrimidine-2-(1H)-one ( YM-64227 )
+T6	Chemical 169 203	phosphodiesterase type 4 inhibitor
+R1	isEquivalentTo Arg1:T4 Arg2:T3	
+R2	influences Arg1:T1 Arg2:T5	

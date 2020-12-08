@@ -1,0 +1,4 @@
+T1	SNP 38 45	APOE ε4
+T2	Phenotype 88 106	cognitive function
+T3	Modality_Marker 12 21	indicated
+R1	weak_confidence_association Arg1:T1 Arg2:T2

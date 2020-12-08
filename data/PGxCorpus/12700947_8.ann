@@ -1,0 +1,6 @@
+T2	Gene_or_protein 95 98	CEA 
+T3	Phenotype 89 107	anti- CEA immunity
+T4	Chemical 40 52	CpG ODN 1826
+T5	Chemical 25 28	3H1
+T6	Chemical 25 52	3H1 mixed with CpG ODN 1826
+R1	causes Arg1:T6 Arg2:T3	

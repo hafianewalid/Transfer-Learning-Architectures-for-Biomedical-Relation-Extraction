@@ -1,0 +1,4 @@
+T1	Limited_variation 11 17	6G-->T 
+T2	Chemical 69 78	serotonin 
+T3	Pharmacodynamic_phenotype 60 85	platelet serotonin levels
+R1	isAssociatedWith Arg1:T1 Arg2:T3	

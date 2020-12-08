@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1147" TEXT="BACKGROUND: Single nucleotide polymorphisms (SNPs) rs429358 (ε4) and rs7412 (ε2), both invoking changes in the amino-acid sequence of the apolipoprotein E (APOE) gene, have previously been tested for association with multiple sclerosis (MS) risk.">
+	<sentence ID="1147_0" START="0" END="246">
+		<snp ID="0" START="51" END="59" TEXT="rs429358"/>
+		<snp ID="1" START="69" END="75" TEXT="rs7412"/>
+		<phenotype ID="0" START="217" END="246" text="multiple sclerosis"/>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+		<pair PAIRID="1" PHENOTYPEID="0" SNPID="1" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

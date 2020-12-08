@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE abs SYSTEM "SNPPhentA.dtd">
+<abstract ABSTRACTID="1226" TEXT="OBJECTIVE: Rheumatoid arthritis (RA), a condition with a strong genetic etiology, is associated with excess cardiovascular disease (CVD).Dyslipidemia in RA may be driven by inflammation and genetic factors. Apolipoprotein E (ApoE) is important for the regulation of lipid levels and CVD risk and immune function in the general population. We compared the frequency of 2 ApoE single-nucleotide polymorphisms (SNP) in patients with RA and controls, and studied the relationship of ApoE genotypes with lipids and inflammation in RA. METHODS: A total of 387 patients with well-characterized RA and 420 non-RA controls were studied. Two ApoE SNP, rs7412 (ApoE2) and rs429358 (ApoE4), were identified. RESULTS: Genotypic (p = 0.908) andallelic (p = 0.894) frequencies did not differ between RA and controls. Within RA, the E2 allele was associated with the lowest and E4 allele with the highest levels of total cholesterol (p = 0.007), low-density lipoproteins (p = 0.004), and apolipoprotein B (p = 0.009). The E4 allele was also associated with lower C-reactive protein (p = 0.007), erythrocyte sedimentation rate (p = 0.001), and Disease Activity Score (p = 0.015) compared to the E3 allele. E2 or E4 alleles were not associated with CVD in RA, although a trend was observed (p = 0.074). CONCLUSIONS: The frequency of   ApoE polymorphisms did not differ between patients with RA and controls. ApoE genotypes are strongly linked to inflammation and lipid levels in RA, raising interest in the prognostic implications of ApoE genotypes.">
+	<sentence ID="1226_0" START="1285" END="1389">
+		<snp ID="0" START="1317" END="1335" TEXT="ApoE polymorphisms"/>
+		<phenotype ID="0" START="1373" END="1389" text="RA"/>
+		<modality_marker  START="1285" END="1296" text="CONCLUSIONS"/>
+		<negation_scope  START="1340" END="1389" text="not differ between patients with RA and controls.">
+			<negation_cue START="1340" END="1343" text="not"/>
+		</negation_scope>
+		<pair PAIRID="0" PHENOTYPEID="0" SNPID="0" ASSOCIATION="neutral" CONFIDENCE="zero"/>
+	</sentence>
+</abstract>

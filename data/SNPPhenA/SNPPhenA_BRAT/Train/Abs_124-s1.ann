@@ -1,0 +1,8 @@
+T1	SNP 19 25	rs7412
+T2	SNP 27 35	rs429358
+T3	Phenotype 171 194	LDL-C with atorvastatin
+T4	Phenotype 322 337	pravastatin arm
+R1	strong_confidence_association Arg1:T1 Arg2:T3
+R2	strong_confidence_association Arg1:T1 Arg2:T4
+R3	strong_confidence_association Arg1:T2 Arg2:T3
+R4	strong_confidence_association Arg1:T2 Arg2:T4
