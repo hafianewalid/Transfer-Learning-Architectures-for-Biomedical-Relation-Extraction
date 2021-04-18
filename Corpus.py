@@ -58,7 +58,8 @@ Corpus_Association_type = {
     'decreases': 3,
     'influences': 4,
     'causes': 5,
-    'isAssociatedWith': 6
+    'isAssociatedWith': 6,
+    'other':7
      }
 
 
@@ -128,7 +129,7 @@ def load_ann(ann_path):
         indt = int((re.findall('T[0-9]*',i)[0])[1:])
         T_dic[indt]=i
 
-
+    all_entities=[]
     for e in R:
 
         eind = re.findall('Arg.:T[0-9]*', e)
@@ -140,6 +141,25 @@ def load_ann(ann_path):
         entitys1.append(entity1)
         entitys2.append(entity2)
         labels.append(string_normaliz(label))
+        if entity1 not in all_entities:
+            all_entities.append(entity1)
+        if entity2 not in all_entities:
+            all_entities.append(entity2)
+
+    for e1 in all_entities:
+        for e2 in all_entities:
+            if e1!=e2:
+                negative=True
+                for ann_e1, ann_e2 in zip(entity1,entity2):
+                    if e1==ann_e1 and e2==ann_e2:
+                        negative=False
+                        break
+                if negative:
+                    entitys1.append(e1)
+                    entitys2.append(e2)
+                    labels.append('other')
+
+
     return entitys1, entitys2, labels
 
 
